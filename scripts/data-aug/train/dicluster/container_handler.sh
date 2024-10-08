@@ -14,6 +14,7 @@ docker run --name "word2vec-training-pipeline-container" "word2vec-training-pipe
 # Source and destination dirs for all results
 SOURCE_DIR="/usr/src/app/test/scripts/data-aug/train/out/${LANG}"
 DEST_DIR="out/${LANG}"
+mkdir -p "${DEST_DIR}"
 
 # Extract model from the container
 docker start word2vec-training-pipeline-container > /dev/null
