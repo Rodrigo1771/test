@@ -1,0 +1,4300 @@
+249543005||abdomen blando
+249543005||abdomen blando y depresible
+249543005||abdomen blando, depresible, no doloroso
+102614006||abdomen doloroso de forma difusa
+249543005||abdomen era blando depresible
+249543005||abdomen era blando y depresible
+249543005||abdomen era blando, depresible
+60728008||abdomen era globuloso
+249543005||abdomen es blando, depresible
+249543005||abdomen es blando, depresible
+249543005||abdomen estaba blando
+163133003||abdomen sin alteraciones
+135817005||aceptable estado general
+59455009||acidosis metabólica
+59455009||acidosis metabólica
+59455009||acidosis metabólica
+59455009||acidosis metabólica
+70396004||acolia
+251471009||actividad de base rápida de bajo voltaje
+60862001||acúfenos de instauración súbita
+300441003||adecuada diferenciación cortico-medular
+271591004||adecuado nivel de consciencia
+423459005||adelgazamiento corneal sobre la zona de perforación
+87273009||afebril
+87273009||afebril
+87273009||afebril
+87273009||afebril
+87273009||afebril
+87273009||afebril
+87273009||afebril
+87273009||afebril
+87273009||afebril
+87273009||afebril
+87273009||afebril
+87273009||afebril
+87273009||afebril
+87273009||afebril
+87273009||afebril
+87273009||afebril
+87273009||afebril
+87273009||afebril
+285384003||afectación del estado general
+285384003||afectación del estado general
+285384003||afectación del estado general
+285384003||afectación del estado general
+409609008||afectación parenquimatosa basal
+68633000||afectación pupilar
+166558007||afp: normal
+24199005||agitación
+24199005||agitación
+47295007||agitación psicomotriz
+47295007||agitación psicomotriz
+24199005||agitado
+82132006||agudeza visual (av) era de la unidad en ambos ojos
+82132006||agudeza visual de la unidad
+343051000119108||agudeza visual era de cuenta dedos en el ojo derecho (od) y amaurosis en el oi
+442635007||aislamientos previos de staphylococcus epidermidis
+166558007||alfafetoproteina normal
+707724006||alt y ast mayores de 20 veces el valor normal
+170728008||alteración de la agudeza visual
+85972008||alteración de la sensibilidad
+88111009||alteración del hábito intestinal
+88111009||alteración del hábito intestinal
+88111009||alteración del hábito intestinal
+409674002||alteración en el tiempo de protromina
+22325002||alteración en la marcha
+422773005||alteración hemodinámica severa
+118940003||alteraciones a nivel neurológico
+430909002||alteraciones de conducta
+64779008||alteraciones de la coagulación
+698247007||alteraciones del ritmo cardíaco
+22325002||alteraciones en la marcha
+422773005||alteraciones hemodinámicas
+76314005||alteraciones hidroelectrolíticas
+76314005||alteraciones hidroelectrolíticas
+88111009||alteraciones recientes en el tránsito intestinal
+29555009||alteraciones retinianas
+64882008||alza térmica
+442082004||análisis de laboratorio normales
+168288005||análisis microbiológico confirmó positividad para hvs
+167221003||analítica de orina negativa
+167221003||analítica de orina no patológica
+102834005||anamnesis urológica es normal
+416318006||angio-resonancia magnética cerebral no detectó patología
+57241006||anisocitosis moderada
+13045009||anisocoria
+79890006||anorexia
+79890006||anorexia
+79890006||anorexia
+79890006||anorexia
+79890006||anorexia
+79890006||anorexia
+79890006||anorexia
+79890006||anorexia
+79890006||anorexia
+79890006||anorexia
+79890006||anorexia
+79890006||anorexia
+79890006||anorexia
+79890006||anorexia
+79890006||anorexia moderada
+165851002||anti-adn negativos
+166165005||anticardiolipina igg en valores normales
+165878000||anticardiolipina: negativo
+166165005||anticuerpos antitiroglobulina y antiperoxidasa normales
+445201008||antígeno carcinoembrionario (cea) se encontró elevado
+365706007||antígeno criptocócico fue negativo
+155876003||anulación funcional de la unidad renal
+155876003||anulación renal
+2472002||anuria
+2472002||anuria
+2472002||anuria
+2472002||anuria
+2472002||anuria
+2472002||anuria
+2472002||anúrica
+300307005||apéndice sin signos inflamatorios
+1217294009||áreas de vidrio deslustrado
+247103004||áreas hipopigmentadas coriorretinales
+112222000||ascenso gradual de la pio
+389026000||ascitis
+389026000||ascitis
+389026000||ascitis
+389026000||ascitis
+389026000||ascitis
+389026000||ascitis
+389026000||ascitis
+52985009||ascitis quilosa
+52985009||ascitis quilosa
+15253005||asimetría facial
+15253005||asimetría facial
+15253005||asimetría facial
+84387000||asintomática
+84387000||asintomática
+84387000||asintomática
+84387000||asintomática
+84387000||asintomática
+84387000||asintomática
+84387000||asintomática
+84387000||asintomática
+84387000||asintomática
+84387000||asintomática
+84387000||asintomática
+84387000||asintomática
+84387000||asintomática
+84387000||asintomático
+84387000||asintomático
+84387000||asintomático
+84387000||asintomático
+84387000||asintomático
+84387000||asintomático
+84387000||asintomático
+84387000||asintomático
+84387000||asintomático
+84387000||asintomático
+84387000||asintomático
+84387000||asintomático
+84387000||asintomático
+84387000||asintomático
+84387000||asintomático
+84387000||asintomático
+84387000||asintomático
+84387000||asintomático
+84387000||asintomático
+84387000||asintomático
+84387000||asintomático
+84387000||asintomático
+84387000||asintomático
+84387000||asintomático
+84387000||asintomático
+84387000||asintomático
+84387000||asintomático
+84387000||asintomático
+84387000||asintomático
+84387000||asintomático
+84387000||asintomático
+84387000||asintomático
+84387000||asintomático
+84387000||asintomático
+84387000||asintomático
+84387000||asintomático
+13791008||astenia
+13791008||astenia
+13791008||astenia
+13791008||astenia
+13791008||astenia
+13791008||astenia
+13791008||astenia
+13791008||astenia
+13791008||astenia
+13791008||astenia
+13791008||astenia
+13791008||astenia
+13791008||astenia
+13791008||astenia
+13791008||astenia
+13791008||astenia
+13791008||astenia
+13791008||astenia
+13791008||astenia
+13791008||astenia
+13791008||astenia
+13791008||astenia
+13791008||astenia
+13791008||astenia
+13791008||astenia
+13791008||astenia
+13791008||astenia
+13791008||astenia moderada
+61448007||atelectasia basal derecha en la rx de tórax
+271823003||aumento de la frecuencia respiratoria
+396697000||aumento de la ldh
+707724006||aumento de las transaminasas
+276331001||aumento de tamaño de hemiescroto
+267041004||aumento de volumen en región infraorbitaria
+276331001||aumento del hemiescroto
+80515008||aumento del hígado
+300401007||aumento del perímetro abdominal
+300401007||aumento del perímetro abdominal
+3855007||aumento del tamaño de la cabeza del páncreas
+276331001||aumento del tamaño del hemiescroto
+276412008||aumento indoloro del testículo
+396697000||aumento leve de ldh en sangre
+300401007||aumento paulatino del perímetro abdominal
+166717003||aumento progresivo de la creatinina
+707724006||aumento progresivo de transaminasas
+64730000||auscultación cardíaca es rítmica
+64730000||auscultación cardíaca es rítmica
+64730000||auscultación cardiaca estaba rítmica
+64730000||auscultación cardiaca rítmica
+48348007||auscultación pulmonar normal
+NO_CODE||baja carga viral
+246635007||baja visión
+443371007||bajo nivel de consciencia
+112081000119108||biomicroscopia de cámara anterior era normal
+112081000119108||biomicroscopía es normal
+76917005||bocio multinodular con presencia de un nódulo sólido
+285243004||bradipsiquia
+285243004||bradipsiquia
+285243004||bradipsiquia
+285243004||bradipsiquia
+285243004||bradipsíquico
+135815002||buen aspecto general
+135815002||buen estado general
+135815002||buen estado general
+135815002||buen estado general
+135815002||buen estado general
+135815002||buen estado general
+135815002||buen estado general
+135815002||buen estado general
+135815002||buen estado general
+135815002||buen estado general
+81141003||buena función renal
+81141003||buena función renal bilateral
+301936006||buena profundidad de cámara anterior
+135815002||buena situación clínica
+135815002||buena situación clínica
+135815002||buenas condiciones generales
+135815002||buenas condiciones generales
+135815002||buenas condiciones generales
+309306009||busqueda de bacilos acido-alcohol resistentes negativa
+102569004||cadera que además presentaba una rotación interna limitada
+166701009||calcemia en rango
+84229001||cansancio
+84229001||cansancio
+249578005||captación de contraste en el riñón
+28928000||caquexia
+28928000||caquexia
+365707003||carga viral indetectable
+25064002||cefalea
+25064002||cefalea
+25064002||cefalea
+25064002||cefalea
+25064002||cefalea
+25064002||cefalea
+25064002||cefalea
+25064002||cefalea intensa
+330007||cefalea intensa en región occipital
+330007||cefalea occipital
+25064002||cefaleas
+25064002||cefaleas
+95442007||cianosis periférica
+399406009||cifras normales de marcadores tumorales germinales
+2004005||cifras tensionales son normales
+67307004||circulación colateral
+67307004||circulación colateral abdominal anormal
+718546008||cistoscopia realizada no se observaban alteraciones endovesicales
+309309002||citología negativa
+308925008||clínica digestiva
+249274008||clínica miccional
+308921004||clínica neurológica
+161920001||clínica respiratoria
+236714000||clínica urológica
+359746009||clínicamente estable
+64779008||coagulación alterada
+71269007||coagulación fue siempre normal
+165562007||coagulación no presentaron alteraciones
+165562007||coagulación normal
+165562007||coagulación sin alteraciones
+165562007||coagulación: normal
+75753009||coagulo
+75753009||coágulo
+428090004||coágulo vesical
+75753009||coágulos
+75753009||coágulos
+110015006||colección de 3 cm entre uretra y cuerpos cavernosos
+50960005||colección de sangre
+249604002||colección líquida multitabicada, localizada caudalmente
+235993005||colección peri-injerto
+235993005||colecciones líquidas
+279093005||cólicos
+39575007||coluria
+39575007||coluria
+106150003||compromiso del nervio alveolar inferior
+422773005||compromiso hemodinámico
+422773005||compromiso hemodinámico
+1217294009||condensación alveolar parcheada de distribución predominante en segmento apicales de lóbulos inferiores y ambos lóbulos superiores
+1217294009||condensaciones parcheadas en pulmón
+40917007||confuso
+40917007||confuso
+271591004||consciente
+271591004||consciente
+271591004||consciente
+271591004||consciente
+271591004||consciente
+271591004||consciente
+271591004||consciente
+271591004||consciente
+271591004||consciente
+271591004||consciente
+19730000||consistencia firme
+72970002||constantes vitales fueron normales
+45850009||continencia diurna
+45850009||continente
+442082004||controles analíticos normales
+91175000||convulsión
+91175000||convulsiones
+91175000||convulsiones
+91175000||convulsiones
+91175000||convulsiones
+91175000||convulsiones
+91175000||convulsiones
+91175000||convulsiones
+91175000||convulsiones
+91175000||convulsiones
+249244000||cordón longitudinal indurado en la base del pene
+722998005||cortejo vegetativo
+88458008||crecimiento de staphylococcus aureus
+248690009||crepitación a la auscultación cardíaca
+48409008||crepitantes
+48409008||crepitantes
+48409008||crepitantes
+284520004||crepitantes basales bilaterales pulmonares
+284520004||crepitantes bibasales
+284520004||crepitantes bilaterales difusos
+62640008||crepitantes finos en ambos campos pulmonares
+91175000||crisis
+91175000||crisis
+840672002||cristalino transparente
+286933003||cuadro confusional
+64882008||cuadro febril
+64882008||cuadro febril
+64882008||cuadro febril
+64882008||cuadro febril
+118940003||cuadro neurológico
+271594007||cuadro sincopal
+298378000||cuello era negativo
+708118007||cultivo (aerobio y anaerobio) fue negativo para bacterias
+442635007||cultivo bacteriológico fue positivo para bacteroides caccae, proteus mirabilis y estafilococus aureus
+88458008||cultivo bacteriológico, identificando streptococo pyogenes
+442635007||cultivo da hongo levaduriforme, ureasa positivo
+442635007||cultivo de líquido sinovial positivo para staphylococcus aureus
+167568007||cultivo de orina: estéril
+442635007||cultivo de secreción fue escherichia coli
+708118007||cultivo del broncoaspirado no mostró crecimiento para bacterias, hongos ni mycobacterias
+442635007||cultivo dieron positivo para escherichia coli
+88458008||cultivo donde creció streptococcus milleri
+708118007||cultivo fue negativo
+442635007||cultivo fue también positivo para s. aureus
+708118007||cultivo líquido pericárdico fue estéril
+708118007||cultivo negativo
+708118007||cultivo negativo
+708118007||cultivo para bacterias habituales, incluidas neiserias y haemophilus, fueron negativos
+708118007||cultivo para virus herpes simple fue negativo
+442635007||cultivo positivo a listeria monocytogenes
+442635007||cultivo positivo para pseudomona aureaginosa
+88458008||cultivos aeróbicos se recuperó l. monocytogenes
+167568007||cultivos de orina (multiples muestras) en médio de lowenstein negativas
+442635007||cultivos microbiológicos del tejido de granulación subyacente fueron positivos para pseudomonas aeruginosa multirresistente
+708118007||cultivos reiterados negativos
+713514005||debilidad de miembros
+102568007||debilidad de miembros inferiores
+249939004||debilidad en musculatura proximal
+13791008||debilidad generalizada
+13791008||debilidad generalizada
+26544005||debilidad muscular
+26544005||debilidad muscular
+713514005||debilidad muscular en las cuatro extremidades
+249939004||debilidad muscular proximal en brazos y piernas
+NO_CODE||débito por ileostomía superior
+128145008||defecto de repleción con pérdida de pliegues mucosos
+232121005||defecto pupilar aferente
+232121005||defecto pupilar aferente
+249545003||defensa
+249545003||defensa
+249545003||defensa a la palpación
+249545003||defensa abdominal
+249545003||defensa abdominal
+35240004||deficiencia de hierro
+170728008||déficit de agudeza visual
+4249000||déficit de perfusión en extremidades
+102568007||déficit motor en miembro inferior
+235082006||deformaba y adelgazaba la basal mandibular
+249585009||deplazamiento de la vejiga
+35064005||deposiciones de aspecto melénico
+95545007||deposiciones diarreicas, en ocasiones acompañadas de sangre
+35064005||deposiciones melénicas
+NO_CODE||depósito focal hipermetabólico
+60046008||derrame pleural
+238159008||desaturación
+165414004||descenso de hto
+170728008||descenso de la agudeza visual
+165397008||descenso de la concentración de hemoglobina
+415116008||descenso de las plaquetas
+422773005||desestabilización hemodinámica
+34095006||deshidratación
+34095006||deshidratación
+34095006||deshidratación
+34095006||deshidratación
+34095006||deshidratación
+34095006||deshidratado
+65404009||desnutrición severa
+62476001||desorientación
+62476001||desorientación
+62476001||desorientación
+62476001||desorientación
+248218005||despierta
+128073008||desplazamiento del segmento lumbo-ilíaco del uréter
+249757009||desviación cubital de la mano
+15253005||desviación de la línea media facial
+275723000||deterioro clínico
+275723000||deterioro clínico
+275723000||deterioro clínico
+275723000||deterioro clínico
+386806002||deterioro cognitivo
+3006004||deterioro de conciencia
+314983004||deterioro de la función renal
+314983004||deterioro de la función renal
+314983004||deterioro de la función renal
+314983004||deterioro de la función renal
+285384003||deterioro de su estado general
+285384003||deterioro del estado general
+285384003||deterioro del estado general
+285384003||deterioro del estado general
+285384003||deterioro del estado general
+285384003||deterioro del estado general
+285384003||deterioro del estado general
+285384003||deterioro del estado general
+285384003||deterioro del estado general
+443371007||deterioro del nivel de conciencia
+314983004||deterioro importante de la función renal
+314983004||deterioro importante de la función renal
+314983004||deterioro importante de su función renal
+40226000||deterioro progresivo
+314983004||deterioro progresivo de la función renal
+285384003||deterioro progresivo del estado general
+285384003||deterioro progresivo del estado general
+443371007||deterioro progresivo del nivel de conciencia
+52613005||diaforesis
+52613005||diaforesis
+52613005||diaforesis
+52613005||diaforético
+62315008||diarrea
+62315008||diarrea
+62315008||diarrea
+62315008||diarrea
+62315008||diarrea
+62315008||diarrea
+62315008||diarrea
+62315008||diarrea febril
+95545007||diarrea sanguinolenta
+62315008||diarreas
+62315008||diarreas
+62315008||diarreas
+734009000||diastemas
+9589009||dificultad en la marcha
+419326002||dificultad para el resto de los movimientos oculares
+9589009||dificultad para la deambulación
+9589009||dificultad para la deambulación
+49233005||dificultad respiratoria
+49233005||dificultad respiratoria
+9589009||dificultades para la marcha
+59540003||dilatación de los ventrículos laterales
+24982008||diplopia
+24982008||diplopia
+24982008||diplopía
+24982008||diplopía
+24982008||diplopía
+24982008||diplopía
+24982008||diplopía
+24982008||diplopía binocular horizontal
+24982008||diplopía en todas las posiciones,
+24982008||diplopia horizontal
+8011004||disartria
+43364001||disconfort abdominal
+399122003||disfagia
+399122003||disfagia
+399122003||disfagia
+399122003||disfagia
+399122003||disfagia progresiva
+16617009||disfonía
+16617009||disfonía
+32566006||dismetría
+32566006||dismetria en las cuatro extremidades
+170728008||disminución de agudeza visual
+170728008||disminución de agudeza visual
+170728008||disminución de agudeza visual
+170728008||disminución de agudeza visual
+170728008||disminución de agudeza visual (av
+170728008||disminución de av
+170728008||disminución de av en su od
+718403007||disminución de diuresis
+170728008||disminución de la agudeza visual
+170728008||disminución de la agudeza visual
+170728008||disminución de la agudeza visual
+170728008||disminución de la agudeza visual
+170728008||disminución de la agudeza visual
+170728008||disminución de la agudeza visual (av) indolora
+170728008||disminución de la av
+718403007||disminución de la diuresis
+718403007||disminución de la diuresis
+102568007||disminución de la fuerza en ambos miembros inferiores
+64379006||disminución de la ingesta
+225581002||disminución de la visión
+443371007||disminución del nivel de conciencia
+443371007||disminución del nivel de conciencia
+443371007||disminución del nivel de conciencia
+443371007||disminución del nivel de conciencia
+443371007||disminución del nivel de consciencia
+58840004||disminución generalizada del murmullo vesicular
+247143009||disminuyendo el grosor macular
+49233005||disnea
+49233005||disnea
+49233005||disnea
+49233005||disnea
+49233005||disnea
+49233005||disnea
+49233005||disnea
+49233005||disnea
+49233005||disnea
+49233005||disnea de intensidad progresiva
+49233005||disnea progresiva
+87548005||dispepsia
+87548005||dispepsia
+87548005||dispepsia
+87548005||dispepsia flatulenta
+60728008||distensión abdominal
+60728008||distensión abdominal
+60728008||distensión abdominal
+60728008||distensión abdominal
+60728008||distensión abdominal
+60728008||distensión abdominal
+60728008||distensión abdominal
+300441003||distorsión de la silueta y la pelvis renales
+300441003||distorsión renal
+49650001||disuria
+49650001||disuria
+49650001||disuria
+49650001||disuria
+22253000||dolor
+22253000||dolor
+22253000||dolor
+22253000||dolor
+22253000||dolor
+22253000||dolor
+22253000||dolor
+22253000||dolor
+22253000||dolor
+22253000||dolor
+22253000||dolor
+22253000||dolor
+22253000||dolor
+22253000||dolor
+22253000||dolor
+22253000||dolor
+22253000||dolor
+22253000||dolor
+22253000||dolor
+22253000||dolor
+247348008||dolor a la palpación
+301404009||dolor a la presión profunda en hipocondrio derecho
+102570003||dolor a nivel de ingle
+274279008||dolor a nivel del injerto renal
+27355003||dolor a nivel del tercer molar inferior
+21522001||dolor abdominal
+21522001||dolor abdominal
+21522001||dolor abdominal
+21522001||dolor abdominal
+21522001||dolor abdominal
+21522001||dolor abdominal
+21522001||dolor abdominal
+21522001||dolor abdominal
+21522001||dolor abdominal
+21522001||dolor abdominal
+21522001||dolor abdominal
+21522001||dolor abdominal
+21522001||dolor abdominal
+21522001||dolor abdominal
+21522001||dolor abdominal
+21522001||dolor abdominal
+21522001||dolor abdominal
+21522001||dolor abdominal
+21522001||dolor abdominal
+21522001||dolor abdominal
+21522001||dolor abdominal
+21522001||dolor abdominal
+21522001||dolor abdominal
+21522001||dolor abdominal
+116290004||dolor abdominal agudo
+301367001||dolor abdominal de predominio en hipocondrio derecho
+102614006||dolor abdominal difuso
+102614006||dolor abdominal difuso
+102614006||dolor abdominal difuso
+162051008||dolor abdominal en fid
+301367001||dolor abdominal en hipocondrio derecho
+102614006||dolor abdominal generalizado
+301367001||dolor abdominal ubicado en hipocondrio derecho, de leve
+25064002||dolor de cabeza
+440220007||dolor difuso a la palpación abdominal
+102614006||dolor difuso del abdomen
+371030007||dolor dorsal opresivo
+49218002||dolor en cadera derecha de varias semanas de evolución, irradiado por cara ántero-lateral del muslo hasta rodilla
+102588006||dolor en el hemitórax
+79922009||dolor en epigastrio
+162052001||dolor en fii
+162052001||dolor en fosa iliaca izquierda
+162052001||dolor en fosa ilíaca izquierda
+301367001||dolor en hipocondrio derecho
+301367001||dolor en hipocondrio derecho
+301368006||dolor en hipocondrio izquierdo
+41652007||dolor en oi
+79922009||dolor epigástrico
+79922009||dolor epigástrico
+79922009||dolor epigástrico cólico
+274667000||dolor hemimandíbular
+162053006||dolor hipogástrico
+162053006||dolor hipogástrico
+274279008||dolor intenso súbito en fosa renal
+102588006||dolor intermitente localizado a nivel del hemotórax
+274667000||dolor lancinante en el cuerpo mandibular
+40709005||dolor lumbar
+40709005||dolor lumbar
+40709005||dolor lumbar
+40709005||dolor lumbar
+40709005||dolor lumbar
+40709005||dolor lumbar
+40709005||dolor lumbar
+40709005||dolor lumbar bajo
+247398009||dolor neuropático
+41652007||dolor ocular
+41652007||dolor ocular bilateral
+41652007||dolor ocular bilateral
+41652007||dolor ocular leve
+22253000||dolor persistente
+301367001||dolor sordo en hipocondrio derecho
+63901009||dolor testicular agudo
+22253000||dolores
+279093005||dolores cólicos
+22253000||dolorosa
+22253000||dolorosa
+22253000||dolorosa
+22253000||dolorosa
+22253000||dolorosa
+247348008||dolorosa a la palpación
+247348008||dolorosa a la palpación
+247348008||dolorosa a la palpación
+247328001||dolorosa al tacto
+247348008||dolorosas a la palpación
+22253000||doloroso
+22253000||doloroso
+22253000||doloroso
+838412000||doloroso a la palpación en área lumbar bilateral
+301403003||doloroso a la palpación en epigastrio
+442635007||e. cloacae, c. sedlakii, k pneumoniae blee (β-lactamasa de espectro extendido) positiva
+164854000||ecg fue normal
+163352001||eco renal y testículo-prostática sin hallazgos
+169240004||ecocardiografía transtorácica mostró imágenes normales
+169240004||ecocardiograma transtorácico en el que no se encontraron alteraciones
+NO_CODE||ecogenicidad heterogénea
+169254007||ecografía abdominal no había hallazgos significativos
+NO_CODE||ecografía abdominal, renal y de vías urinarias: normal
+169254007||ecografía de abdomen fue normal
+169254007||ecografía de abdomen que no evidenció patología
+169254007||ecografía hepática que fue normal
+169254007||ecografía renal es normal
+169254007||ecografía renal fue normal
+169254007||ecografía renal no evidenció anomalías
+163352001||ecografía renal, vesical y prostática no se encontraron alteraciones
+NO_CODE||ecografía urinaria: normal
+NO_CODE||ecografía urológica los riñones son normales
+267038008||edema
+267038008||edema
+267038008||edema
+267038008||edema
+15930381000119104||edema de ambos discos ópticos
+445088006||edema de maxilar superior
+423341008||edema de papila
+423341008||edema de papila
+423341008||edema de papila
+NO_CODE||edema de pliegues
+423341008||edema del disco óptico
+424372002||edema distal de la extremidad
+445088006||edema en hemicara
+102572006||edema en miembro inferior
+700339006||edema en párpado superior
+445088006||edema facial
+193967004||edema palpebral
+267038008||edemas
+267038008||edemas
+267038008||edemas
+267038008||edemas
+267038008||edemas
+267038008||edemas
+424372002||edemas distales
+102572006||edemas en extremidades inferiores
+102572006||edemas en extremidades inferiores
+102572006||edemas en miembros inferiores
+102572006||edemas en mmii
+102572006||edemas leves en miembros inferiores
+449707004||edemas maleolares y pretibiales
+816190002||edemas pretibiales con fóvea en los mmii
+24411000119104||edematización submandibular
+112638000||efecto masa
+112638000||efecto masa
+37657006||efecto masa en tercio superior esofágico
+164854000||electrocardiograma fue normal
+164717000||electroencefalograma estuvo dentro de los límites normales
+251471009||electroencefalograma presentando una discreta lentificación difusa
+164717000||electroencefalograma que resulta ser un trazado sin hallazgos patológicos
+167221003||elemental de orina y sedimento eran normales
+414478003||elevación de la cifra de leucocitos
+166717003||elevación de la concentración de creatinina en plasma
+166717003||elevación de la creatinina sérica
+707724006||elevación de las enzimas hepáticas
+707724006||elevación de las enzimas hepáticas
+707724006||elevación de las transaminasas
+707724006||elevación de las transaminasas
+405740000||elevación de marcadores cardíacos
+707724006||elevación de transaminasas
+66999008||elevación marcada de pth
+197942003||emisión de coágulos
+314983004||empeoramiento de la función renal
+275723000||empeoramiento de su estado general
+275723000||empeoramiento del estado general
+275723000||empeoramiento del estado general
+313170008||en la colonoscopia, no se observaron alteraciones
+77157004||engrosamiento de las vainas de ambos no
+85919009||engrosamiento de pared de asas intestinales
+300331000||engrosamiento focal de la cápsula hepática de lóbulo hepático
+444827008||enrojecimiento de la piel en tercio superior del tórax y parte proximal de ambos miembros
+444827008||enrojecimiento generalizado
+363646005||ensanchamiento mediastínico
+386789004||eosinofilia
+386789004||eosinofilia
+386789004||eosinofilia
+386789004||eosinofilia
+386789004||eosinofilia
+386789004||eosinofilia en sangre
+386789004||eosinofilia periférica
+386789004||eosinofilia periférica
+300503008||epidídimo de características normales
+79922009||epigastralgia
+79922009||epigastralgia
+79922009||epigastralgia
+79922009||epigastralgias
+91175000||episodio convulsivo
+91175000||episodio convulsivo
+271594007||episodio sincopal
+91175000||episodios convulsivos
+64882008||episodios febriles
+30704002||eritema en heliotropo en párpados
+43724002||escalofrios
+43724002||escalofríos
+43724002||escalofríos
+43724002||escalofríos
+43724002||escalofríos
+43724002||escalofríos
+43724002||escalofríos
+43724002||escalofríos
+441687008||escasa captación isotópica del riñón
+15280003||escasos ruidos intestinales
+129139009||esclerosis a nivel de l4
+246659002||escotoma periférico temporal superior
+418290006||escozor
+418290006||escozor
+249232003||escrotal anecoico con contenido ecogénico móvil
+165141001||esófago, mucosa de cavidad gástrica y bulbo duodenal normal
+398637008||espesor macular normal
+301459008||estabilidad hemodinámica
+301459008||estabilidad hemodinámica
+301459008||estabilidad hemodinámica
+301459008||estabilidad hemodinámica
+359746009||estable
+359746009||estable
+359746009||estable
+359746009||estable
+359746009||estable
+301459008||estable hemodinámicamente
+301459008||estable hemodinámicamente
+301459008||estable hemodinámicamente
+301459008||estable hemodinámicamente
+135815002||estado general conservado
+249585009||estanqueidad de la sutura vesical
+14760008||estreñimiento
+70407001||estridor
+112081000119108||estudio con lámpara de hendidura no presentaba patología
+408573005||estudio ecográfico abdominal fue normal
+NO_CODE||estudio sistémico por aparatos no era significativo
+NO_CODE||estudios microbiológicos en sangre, orina, esputo, brocoaspirado y punción ganglionar fueron negativos para bacterias, micobacterias y hongos
+408573005||estudios radiológicos normales
+276362002||eupneica
+276362002||eupneico
+72970002||examen clínico y sus signos vitales eran normales
+162010006||examen intrabucal no se observaron alteraciones
+419099009||exitus
+419099009||exitus
+419099009||exitus
+419099009||éxitus
+18265008||exoftalmos bilateral
+66857006||expectoración hemoptoica
+66857006||expectoración leve hemoptoica
+8955008||expectoración mucopurulenta
+164734008||exploración del fondo de ojo era normal
+166602006||exploración física como los exámenes de laboratorio, incluyendo un perfil hepático, fueron normales
+NO_CODE||exploración física dentro de la normalidad
+NO_CODE||exploración física era normal
+NO_CODE||exploración física era normal
+NO_CODE||exploración física era normal
+NO_CODE||exploración física es estrictamente normal
+NO_CODE||exploración física es normal
+NO_CODE||exploración física fue normal
+NO_CODE||exploración física fue normal
+NO_CODE||exploración física normal
+399406009||exploración física y los marcadores tumorales son normales
+164734008||exploración fundoscópica en el od fue normal
+162010006||exploración intraoral fue normal
+NO_CODE||exploración normal
+164177002||exploración otorrinolaringológica normal
+NO_CODE||exploración sistémica, resultando todos los estudios normales
+248690009||extratonos
+234104002||exudación linfática
+75823008||exudado
+75823008||exudado
+39832008||exudado algodonoso en reabsorción inferior a fóvea
+442635007||exudado prostático y del pus fueron positivos a e. coli
+39832008||exudados algodonosos en polo posterior
+112630007||facies triangular
+165840002||factor reumatoide negativo
+165840002||factor reumatoideo negativo
+419099009||fallece
+419099009||fallece
+419099009||fallece
+419099009||fallece
+419099009||fallece
+419099009||fallecidos
+419099009||falleciendo
+419099009||falleciendo
+419099009||falleciendo
+419099009||falleciendo
+419099009||falleciendo
+419099009||falleciendo
+419099009||falleciendo
+419099009||fallecimiento
+419099009||fallecimiento
+419099009||fallecimiento
+419099009||fallecimiento
+419099009||falleció
+419099009||falleció
+419099009||falleció
+419099009||falleció
+419099009||falleció
+419099009||falleció
+419099009||falleció
+419099009||falleció
+419099009||falleció
+419099009||falleció
+419099009||falleció
+419099009||falleció
+419099009||falleció
+419099009||falleció
+NO_CODE||falta de colaboración para realizar balance
+84229001||fatiga
+80449002||fatiga muscular
+80449002||fatiga muscular
+64882008||febrícula
+64882008||febrícula
+64882008||febrícula
+64882008||febrícula
+64882008||febrícula
+64882008||febrícula
+64882008||febrícula
+64882008||febrícula
+64882008||febrícula ocasional
+64882008||febril
+64882008||febril
+64882008||febril
+64882008||febril
+64882008||fiebre
+64882008||fiebre
+64882008||fiebre
+64882008||fiebre
+64882008||fiebre
+64882008||fiebre
+64882008||fiebre
+64882008||fiebre
+64882008||fiebre
+64882008||fiebre
+64882008||fiebre
+64882008||fiebre
+64882008||fiebre
+64882008||fiebre
+64882008||fiebre
+64882008||fiebre
+64882008||fiebre
+64882008||fiebre
+64882008||fiebre
+64882008||fiebre
+64882008||fiebre
+64882008||fiebre
+64882008||fiebre
+64882008||fiebre
+64882008||fiebre
+64882008||fiebre
+64882008||fiebre
+64882008||fiebre
+64882008||fiebre
+64882008||fiebre
+64882008||fiebre
+64882008||fiebre
+64882008||fiebre
+64882008||fiebre
+64882008||fiebre
+64882008||fiebre
+64882008||fiebre
+64882008||fiebre
+64882008||fiebre
+64882008||fiebre
+64882008||fiebre
+64882008||fiebre
+64882008||fiebre
+64882008||fiebre
+64882008||fiebre
+64882008||fiebre
+64882008||fiebre
+64882008||fiebre
+64882008||fiebre
+64882008||fiebre
+64882008||fiebre
+64882008||fiebre
+64882008||fiebre
+64882008||fiebre
+64882008||fiebre
+64882008||fiebre
+64882008||fiebre
+64882008||fiebre
+64882008||fiebre
+64882008||fiebre
+64882008||fiebre
+64882008||fiebre
+64882008||fiebre
+64882008||fiebre
+64882008||fiebre
+64882008||fiebre
+64882008||fiebre
+64882008||fiebre
+64882008||fiebre
+64882008||fiebre alta
+64882008||fiebre elevada
+248445009||fiebre vespertina
+249244000||flaccidez
+249244000||flaccidez peneana
+257552002||flogosis
+102957003||focalidad neurológica
+102957003||focalidad neurológica
+102957003||focalidad neurológica
+50960005||focos hemorrágicos
+164734008||fondo de ojo (fo) no relevante
+164734008||fondo de ojo fue normal
+164734008||fondo de ojo muestra una apariencia prácticamente normal
+164734008||fondo de ojo no mostraron alteraciones
+164734008||fondo de ojo no se apreciaron alteraciones
+164734008||fondo de ojo sin alteraciones significativas en ambos ojos
+164734008||fondo del od era normal
+300515007||formación de características similares en la raíz peneana
+27925004||formación nodular
+27925004||formación nodular
+309088003||formación ocupante de espacio, sólida, en sector interpolar y polo inferior del riñón izquierdo de 65mm de diámetro, hipovascularizada
+165507003||fórmula leucocitaria sin alteraciones
+409668002||fotofobia
+409668002||fotofobia
+409668002||fotofobia
+409668002||fotofobia
+409668002||fotofobia
+409668002||fotofobia
+409668002||fotofobia intensa
+NO_CODE||fragmento abandonado del catéter
+427924001||fuga de contraste' hacia la cavidad abdominal
+427924001||fuga del contraste fuera de la vía urinaria
+62330004||función del músculo elevador izquierdo se encontraba limitada
+166602006||función hepática estaba conservada
+166602006||función hepática normal
+81141003||función renal conservada
+81141003||función renal estable
+81141003||función renal normal
+81141003||función renal normal
+81141003||función renal normal
+81141003||función renal normal
+81141003||función renal permaneció normal
+81141003||función renal se mantuvo normal
+312397004||función tiroidea dentro de la normalidad
+408573005||gammagrafía con 67galio fue negativa
+408573005||gammagrafía tiroidea fue normal
+8943002||ganancia ponderal
+8943002||ganancia ponderal
+127086001||ganglios en ambas zonas laterocervicales
+249585009||gas bordeando la pared vesical
+165141001||gastroscopia era normal
+165141001||gastroscopia era normal
+165141001||gastroscopia que resultó normal
+NO_CODE||glándulas suprarrenales morfológicamente normales
+130951007||globo vesical
+130951007||globo vesical
+166921001||glucemia en valores normales
+45154002||glucosuria
+45647009||granulomas
+45647009||granulomas
+67967009||hábito cushingoide
+55019002||hábito intestinal normal
+286402008||hablaba normal
+300357002||halo peripancreático hipodenso
+NO_CODE||haptoglobina disminuida
+NO_CODE||haptoglobina indetectable
+NO_CODE||haptoglobina normal
+53298000||hematuria
+53298000||hematuria
+53298000||hematuria
+53298000||hematuria
+53298000||hematuria
+53298000||hematuria
+53298000||hematuria
+53298000||hematuria
+53298000||hematuria
+53298000||hematuria
+53298000||hematuria
+53298000||hematuria
+53298000||hematuria
+53298000||hematuria
+197941005||hematuria franca
+197941005||hematuria macroscópica
+197941005||hematuria macroscópica
+197941005||hematuria macroscópica
+197941005||hematuria macroscópica
+197941005||hematuria macroscópica
+197941005||hematuria macroscópica
+197941005||hematuria macroscópica
+53298000||hematuria total anemizante
+84454003||hemiabdomen derecho, masa dolorosa
+53929009||hemiescroto izquierdo mayor de lo normal, a tensión, con una masa
+8730001000004107||hemocultivos crece un e. coli
+708118007||hemocultivos fueron estériles
+708118007||hemocultivos fueron estériles
+708118007||hemocultivos negativos
+708118007||hemocultivos negativos
+8730001000004107||hemocultivos positivos a staphylococcus (st.) aureus
+8730001000004107||hemocultivos seriados en los que se aisló de forma persistente neisseria sicca
+8730001000004107||hemocultivos seriados que resultaron ser positivos para staphylococcus aureus
+301459008||hemodinámicamente estable
+301459008||hemodinámicamente estable
+301459008||hemodinámicamente estable
+301459008||hemodinámicamente estable
+68600005||hemoglobinuria
+68600005||hemoglobinuria
+68600005||hemoglobinuria macroscópica
+165406005||hemograma normal
+131148009||hemorragia
+131148009||hemorragia
+131148009||hemorragia
+131148009||hemorragia
+131148009||hemorragia
+131148009||hemorragia
+131148009||hemorragia
+131148009||hemorragia
+131148009||hemorragia
+74474003||hemorragia digestiva
+74474003||hemorragia digestiva
+74474003||hemorragia digestiva masiva
+131148009||hemorragias
+131148009||hemorragias
+131148009||hemorrágicas
+131148009||hemorrágicas
+34615008||hemospermia
+31341008||hemovítreo
+80515008||hepatomegalia dolorosa
+65124004||hinchazón generalizada
+274770006||hiper-fa
+30098003||hiperemia
+30098003||hiperemia
+76849009||hiperemia conjuntival
+76849009||hiperemia conjuntival mixta
+248487006||hiperemia de la papila de od
+30098003||hiperemia grave
+80394007||hiperglucemia
+80394007||hiperglucemia
+788954009||hiperostosis de cara orbitaria
+49765009||hiperpigmentación cutánea generalizada, acentuada en pezones, área genital
+167735002||hiperproteinorraquia
+22006008||hipertelorismo
+56731001||hipertonía generalizada
+707724006||hipertransaminemia
+4996001||hipo-fosfatemia severa
+4996001||hipo-fosfatemia severa
+119247004||hipoalbuminemia
+119247004||hipoalbuminemia
+119247004||hipoalbuminemia grave
+5291005||hipocalcemia
+5291005||hipocalcemia
+5291005||hipocalcemia
+5291005||hipocalcemia severa
+429783005||hipoestesia parcheada en las extremidades inferiores
+4996001||hipofosfatemia grave
+300441003||hipointensidad de señal en la corteza renal
+89627008||hiponatremia
+89627008||hiponatremia
+89627008||hiponatremia grave
+43339004||hipopotasemia
+43339004||hipopotasemia
+43339004||hipopotasemia
+43339004||hipopotasemia
+43339004||hipopotasemia
+43339004||hipopotasemia
+43339004||hipopotasemia
+8900005||hipoproteinemia
+8900005||hipoproteinemia
+79890006||hiporexia
+45007003||hipotensión
+45007003||hipotensión arterial
+45007003||hipotensión arterial
+45007003||hipotenso
+45007003||hipotenso
+31515003||hipoventilació
+31515003||hipoventilación
+31515003||hipoventilación
+31515003||hipoventilación
+165815009||hiv negativo
+18165001||ictérica
+18165001||ictericia
+18165001||ictericia
+18165001||ictericia
+18165001||ictericia
+18165001||ictericia
+248214007||ictérico
+312895004||íleon por engrosamiento parietal
+312895004||íleon terminal una mucosa extremadamente irregular
+125132005||imagen de aspecto nodular
+NO_CODE||"imagen en ""diana, ojo de buey o donnuts"""
+NO_CODE||"imagen en ""pseudoriñón o sandwich"""
+422840005||imagen hipodensa en la línea interhemisférica a nivel de las astas frontales
+NO_CODE||imagen lineal superior a la cicatriz umbilical
+125132005||imagen nodular sólida
+445249002||imágenes nodulares en ambos campos pulmonares
+445249002||imágenes nodulares en lóbulo superior
+253883006||imágenes quísticas parapiélicas
+9589009||imposibilita la deambulación
+165232002||incontinencia leve-moderada
+165232002||incontinencia urinaria
+165232002||incontinencia urinaria
+165232002||incontinencia urinaria
+165232002||incontinencia urinaria
+33958003||induración del tercio distal del cuerpo del pene
+33958003||induración dolorosa de la base peneana
+33958003||induración peneana a nivel de la base
+267084003||inestabilidad
+267084003||inestabilidad
+249990003||inestabilidad en bipedestación
+422773005||inestabilidad hemodinámica
+422773005||inestabilidad hemodinámica
+422773005||inestabilidad hemodinámica
+422773005||inestabilidad hemodinámica
+422773005||inestable hemodinámicamente
+409609008||infiltrado alveolar basal
+409609008||infiltrado alveolo-intersticial bilateral
+409609008||infiltrados
+409609008||infiltrados
+409609008||infiltrados en la radiografía de tórax
+445249002||infiltrados nodulares pulmonares
+128139000||inflamación
+128295000||inflamación intraocular
+128295000||inflamación ocular
+271653008||ingurgitación yugular
+166165005||inmunología negativa
+300339003||integridad de la vía biliar intra- y extrahepática
+NO_CODE||integridad dental
+274770006||intensa hiper-fa
+110279003||intervalo libre de enfermedad
+110279003||intervalo libre de enfermedad
+111975006||intervalo qtc prolongado
+235719002||intolerancia digestiva
+59931005||inversión de la onda t en derivaciones iii y avf
+59931005||inversión inferior de la onda t
+76849009||inyección conjuntival
+781682005||inyección muy severa de la vascularización conjuntival, ciliar y epiescleral
+33624008||irritable
+48661000||irritación peritoneal
+48661000||irritación peritoneal
+48661000||irritación peritoneal
+48661000||irritación peritoneal
+48661000||irritación peritoneal
+48661000||irritación peritoneal
+48661000||irritación peritoneal
+249545003||irritación peritoneal principalmente en hipogastrio y fosa iliaca izquierda
+NO_CODE||keratinas de amplio espectro, citoqueratina 7, ema, actina, enolasa, s-100, cromogranina y p53 negativas
+166558007||lactato deshidrogenasa y la alfafetoproteína normales
+NO_CODE||lactato normal
+418035005||lagrimeo
+268926000||lavado broncoalveolar (negativa
+NO_CODE||lavado broncoalveolar evidenció una moderada cantidad de linfocitos
+268926000||lavado bronquial fue negativo
+167703002||lcr negativo
+NO_CODE||ldh normal
+NO_CODE||ldh normal
+NO_CODE||ldh: normal
+87361006||leucocitos con desviación izquierda
+165507003||leucocitos normales
+78341006||leucocitos polimorfonucleares y abundante moco
+414478003||leucocitosis
+414478003||leucocitosis
+414478003||leucocitosis
+414478003||leucocitosis
+414478003||leucocitosis
+414478003||leucocitosis
+414478003||leucocitosis
+414478003||leucocitosis
+414478003||leucocitosis
+414478003||leucocitosis
+414478003||leucocitosis
+414478003||leucocitosis
+414478003||leucocitosis
+414478003||leucocitosis
+87361006||leucocitosis con desviación a la izquierda
+87361006||leucocitosis con importante desviación izquierda
+87361006||leucocitosis con marcada desviación izquierda
+87361006||leucocitosis de 26.500/mm3 con desviación a la izquierda
+84828003||leucopenia
+414478003||leve aumento del número de leucocitos
+445201008||leve elevación de cea
+49483002||leve engrosamiento del hilio pulmonar
+37125009||leve midriasis bilateral
+35013009||leve secreción purulenta y fétida
+249274008||leve síntomatologia miccional
+63901009||leves molestias testiculares
+110279003||libre de enfermedad
+110279003||libre de enfermedad
+110279003||libre de enfermedad
+110279003||libre de enfermedad
+110279003||libre de enfermedad
+110279003||libre de enfermedad
+707724006||ligera elevación de transaminasas
+419326002||limitación a la levosupraversión del oi
+218951000119100||limitación de la abducción bilateral
+419326002||limitación de la mirada
+218951000119100||limitación en la abducción de ao
+419326002||limitación en todas las posiciones de de la mirada
+82971005||limitación funcional
+82971005||limitación funcional
+301918006||línea de demarcación en el ojo
+48813009||linfopenia
+389026000||líquido ascítico
+389026000||líquido ascítico
+52985009||líquido ascítico de características quilosas
+52985009||líquido ascítico extraído presentaba características de exudado y aspecto quiloso
+389026000||líquido ascítico peritoneal,
+235993005||líquido encapsulado con nivel hidroaéreo en el flanco derecho
+93457003||líquido libre abdominal
+93457003||líquido libre en abdomen
+93457003||líquido libre en cavidad peritoneal
+93457003||líquido libre intraabdominal, fundamentalmente en región periesplénica, gotiera paracólica izquierda, perihepático y también en pelvis
+93457003||líquido libre intraperitoneal
+93457003||líquido libre retrohepático
+93457003||líquido peritoneal
+395132000||líquido quiloso
+61448007||lsi con atelectasia
+40709005||lumbalgia
+40709005||lumbalgia
+40709005||lumbalgia
+40709005||lumbalgia
+40709005||lumbalgias
+34887006||madarosis
+135818000||mal estado del paciente
+135818000||mal estado general
+135818000||mal estado general
+135818000||mal estado general
+135818000||mal estado general
+135818000||mal estado general
+170728008||mala agudeza visual
+410428008||mala higiene personal
+225581002||mala visión
+367391008||malestar general
+367391008||malestar general
+367391008||malestar general
+367391008||malestar general
+367391008||malestar general
+707598004||maloclusión
+201281002||manchas café con leche estaban presentes en tronco y miembros superiores
+15241006||manifestaciones muscarínicas
+268375009||mantoux (prueba de tuberculina) negativa
+268375009||mantoux fue negativo
+268375009||mantoux negativo
+268375009||mantoux también fue negativo
+268375009||mantoux: negativo
+399406009||marcadores testiculares negativos
+399406009||marcadores tumorales fueron negativos
+399406009||marcadores tumorales fueron negativos
+399406009||marcadores tumorales germinales, con resultado normal
+399406009||marcadores tumorales negativos
+399406009||marcadores tumorales normales
+399643001||marcadores tumorales presentaron una elevación de la α-ftp
+399406009||marcadores tumorales séricos estaban en niveles normales
+399406009||marcadores tumorales son negativos
+9589009||marcha se observaba claudicación
+404640003||mareo
+404640003||mareo
+404640003||mareo
+404640003||mareos
+300848003||masa
+300848003||masa
+300848003||masa
+300848003||masa
+300848003||masa
+300848003||masa
+300848003||masa
+300848003||masa
+300848003||masa
+300848003||masa
+300848003||masa
+300848003||masa
+300848003||masa
+300848003||masa
+300848003||masa
+300848003||masa
+300848003||masa
+300848003||masa
+300848003||masa
+300848003||masa
+300848003||masa
+300848003||masa
+300848003||masa
+300848003||masa
+300848003||masa
+300848003||masa
+300848003||masa
+300848003||masa
+300848003||masa
+404200001||masa abdominal localizada en mesogastrio
+30746006||masa adenopática
+237783006||masa adrenal
+102031000119109||masa adyacente al polo superior de teste
+445039006||masa anexial
+300863000||masa axilar
+69559004||masa bien circunscripta por detrás del riñón
+300849006||masa con hipofluorescencia en fases precoces, hiperfluorescencia tardía y patrón ligeramente moteado
+309088003||masa de 5cm de diámetro en riñón izquierdo
+87860000||masa de 8 cm en teste
+300287006||masa de color marrón-negro en tercio superior esofágico
+422840005||masa de pared gruesa y centro hipodenso de 4 cm de diámetro en encrucijada témporo-parieto-occipital derecha
+445456006||masa de partes balndas en la celda submaxilar
+444905003||masa de partes blandas
+444905003||masa de partes blandas
+444905003||masa de tejidos blandos
+237557003||masa en el lóbulo tiroideo
+309529002||masa en lóbulo superior
+69559004||masa en reteroperitoneo
+300849006||masa en temporal inferior
+309088003||masa encapsulada con respecto al parénquima renal
+300848003||masa era indolora
+300287006||masa esofágica
+53929009||masa extratesticular ecogénica, sólida con pequeñas áreas quísticas
+309088003||masa fue claramente visualizada sobre el borde externo del riñón
+309088003||masa hiperecoica en la cortical del riñón
+237783006||masa hipodensa suprarrenal
+300848003||masa hipoecogénica
+300848003||masa hipoecoica
+300848003||masa homogénea
+441766009||masa intranasal
+441766009||masa intranasal
+94147001||masa mediastínica
+309529002||masa necrótica de 8 cm en lsi
+87860000||masa no dolorosa en testículo derecho
+425810000||masa pancreática
+102031000119109||masa paratesticular
+102031000119109||masa paratesticular
+309532004||masa paravertebral bilateral, que infiltraba la vértebra a nivel c7-d1
+84454003||masa que deformaba hemiabdomen anterior derecho
+69559004||masa quística polilobulada retroperitoneal derecha
+300848003||masa radiolúcida con trabeculaciones
+300848003||masa radiolúcida homogénea unilocular
+309088003||masa renal
+309088003||masa renal
+309088003||masa renal derecha en polo inferior
+69559004||masa reniforme, posterior a vena cava inferior y anclada en retroperitoneo al ligamento vertebral anterior
+69559004||masa retroperitoneal
+69559004||masa retroperitoneal
+69559004||masa retroperitoneal
+69559004||masa retroperitoneal de 3 cm x 8 cm paraaórtica
+69559004||masa retroperitoneal de unos 8 cm, de ecogenicidad heterogénea y marcada vascularización
+69559004||masa retroperitoneal, con intenso componente hemorrágico
+69559004||masa sólida de 12 cm por detrás del riñón
+309088003||masa sólida en polo superior de riñón
+300849006||masa subconjuntival nasal superior
+237783006||masa suprarrenal
+87860000||masa testicular
+428090004||masa vesical en cara lateral
+300848003||masas
+300848003||masas
+300848003||masas
+300848003||masas
+300848003||masas
+300848003||masas
+300848003||masas
+300848003||masas
+84454003||masas abdominales
+309088003||masas renales
+69559004||masas retroperitoneales
+35013009||material purulento
+35013009||material purulento
+35013009||material purulento
+35013009||material purulento
+249554000||matidez a la percusión
+28543008||megalias
+28543008||megalias
+28543008||megalias
+1148582006||mejoría de la función renal
+1148582006||mejoría de la función renal
+1148582006||mejoría de la función renal
+2901004||melenas
+2901004||melenas
+2901004||melenas
+2901004||melenas
+2901004||melenas
+2901004||melenas
+70784009||meningismo
+70784009||meningismo
+64379006||menos apetito
+NO_CODE||metabolismo de las pterinas, cuyo estudio fue normal
+NO_CODE||metanefrinas plasmáticas, que fueron normales
+102834005||micción espontánea confortable
+300492006||microcalcificaciones en testículo
+197940006||microhematuria
+197940006||microhematuria
+197940006||microhematuria
+197940006||microhematuria
+37125009||midriasis
+37125009||midriasis
+37125009||midriasis del ojo
+37125009||midriasis reactiva
+37125009||midriática
+707724006||mínima movilización enzimática (got 74 ui/l, gpt 96 ui/l, ggt 182 ui/l, fa
+17450006||mioclonías en miembros inferiores
+17450006||mioclonías generalizadas
+17450006||mioclonías generalizadas
+49650001||molestias en el tracto urinario inferior
+49650001||molestias miccionales
+247973004||moria
+29555009||moteado difuso hiperautofluorescente
+NO_CODE||motilidad extraocular en el oi fue normal
+103251002||motilidad extrínseca e intrínseca fue normal
+103251002||motilidad ocular en el ojo izquierdo (oi) fue normal
+103251002||motilidad ocular extrínseca e intrínseca
+103251002||motilidad ocular extrínseca e intrínseca fueron normales
+NO_CODE||movilidad facial estaba conservada
+NO_CODE||movilidad restringida igm kappa
+102608004||mucho apetito
+313170008||mucosa colónica normal
+NO_CODE||mucosa normal
+413254002||mucosa sana y eritematosa
+249585009||mucosa vesical delustrada
+419099009||muerte
+418362005||muerte súbita
+309306009||muestras microbiológicas negativas
+419099009||murió
+48348007||murmullo vesicular conservado
+48348007||murmullo vesicular conservado
+29647006||murmullo vesicular estaba disminuido en la base
+232209000||narina izquierda por disminución de la permeabilidad
+422400008||nauseas
+422587007||nauseas
+422587007||nauseas
+422587007||náuseas
+422587007||náuseas
+422587007||náuseas
+422587007||náuseas
+422587007||náuseas
+422587007||náuseas
+422587007||náuseas
+422587007||náuseas
+422587007||náuseas
+422587007||náuseas
+422587007||náuseas
+440109001||negativización de los anticuerpos antitransglutaminasa
+166159005||negativo para antígeno prostático específico
+3391005||negativo para células malignas
+3391005||negativo para células malignas
+165815009||negativo para vih
+708118007||negativo, así como tres hemocultivos
+165878000||negativos los anticuerpos antifosfolipídicos
+78341006||neutrofilia
+78341006||neutrofilia
+78341006||neutrofilia
+78341006||neutrofilia
+78341006||neutrofilia
+78341006||neutrofilia
+303011007||neutropenia
+303011007||neutropenia
+303011007||neutropenia
+442756004||niveles de arp y ap estaban elevados
+139394000||nocturia
+27925004||nodulo
+27925004||nódulo
+27925004||nódulo
+27925004||nódulo
+27925004||nódulo
+300854002||nódulo de 1,5 cm de diámetro, en el fondo del vestíbulo, a la altura del 45
+87860000||nódulo de 2 cm, duro e indoloro en relación al polo superior de teste
+786838002||nódulo en el lóbulo superior pulmonar
+87860000||nódulo en testículo
+237783006||nódulo hipercaptante en la suprarrenal
+27925004||nódulo hiperecoico
+87860000||nódulo hipoecoico en testículo
+NO_CODE||nódulo mesentérico
+NO_CODE||nódulo mesentérico
+248514008||nódulo palpebral
+NO_CODE||nódulo peritoneal en el mesenterio del ileon distal
+27925004||nódulo subcapsular
+76917005||nódulo tiroideo
+76917005||nódulo tiroideo sólido, con calcio
+27925004||nódulos
+237783006||nódulos hipodensos suprarrenales bilaterales
+27925004||nódulos hipoecoicos
+27925004||nódulos irregulares
+445249002||nódulos pulmonares múltiples
+309088003||nódulos sólidos en ambos riñones
+81141003||normal función renal bilateral
+711376006||normalidad de la glándula suprarrenal
+60280003||normalización de la pio
+77775007||normocoloreada
+77775007||normocoloreado
+1144674006||normohidratada
+1144674006||normohidratada
+1137685003||normoperfundido
+2004005||normotensa
+2004005||normotensa
+2004005||normotensa
+419099009||óbito
+443371007||obnubilación
+443371007||obnubilación progresiva
+232209000||obstrucción nasal
+232209000||obstrucción nasal
+232209000||obstrucción nasal
+235993005||ocupación del hemiabdomen izquierdo
+428090004||ocupación vesical por una imagen que sugería coágulo
+30233002||odinofagia
+30233002||odinofagia
+30233002||odinofagia leve
+285652003||oi una lesión cupuliforme densa
+301924000||ojo adelfo era normal
+45089002||ojo derecho era normal
+45089002||ojo derecho fue normal
+301924000||ojo izquierdo era normal
+NO_CODE||ojo izquierdo era posible distinguir una línea de demarcación temporal a la mácula
+83128009||oligoanuria
+309551005||oligosintomática
+83128009||oliguria
+83128009||oliguria
+83128009||oliguria
+83128009||oliguria
+28543008||organomegalias
+28543008||organomegalias
+28543008||organomegalias
+28543008||organomegalias
+247663003||orientada
+247663003||orientada
+247663003||orientada
+247663003||orientado
+247663003||orientado
+247663003||orientado
+237557003||origen tiroideo de la tumoración
+39575007||orina en bolsa recolectora de color morada
+39575007||orina oscura
+164727006||ortotropia
+274643008||palidez
+274643008||palidez
+274643008||palidez cutánea
+274643008||palidez cutánea
+274643008||palidez cutánea
+302200001||palidez de ambas papilas
+302200001||palidez papilar en oi
+301404009||palpación abdominal discretamente dolorosa en hipocondrio derecho
+80313002||palpitaciones
+80313002||palpitaciones
+300357002||páncreas aumentado de tamaño
+300357002||páncreas aumentado globalmente de tamaño, hipodenso
+301961009||papila y la mácula eran normales
+301961009||papilas de características conservadas
+301961009||papilas eran normales
+423341008||papiledema
+15930381000119104||papiledema bilateral
+165406005||parámetros normales de las tres series hematológicas
+248324001||parámetros nutricionales normales
+300441003||parénquima renal izquierdo conservado
+106150003||pares craneales normales
+91019004||parestesia
+91019004||parestesias
+91019004||parestesias
+91019004||parestesias
+429783005||parestesias en las extremidades inferiores
+429783005||parestesias en miembros inferiores
+429783005||parestesias ocasionales y leves en miembros inferiores
+1217294009||patrón en vidrio deslustrado
+309306009||pcr vhs-1 positivo
+33958003||pene afectaba a la piel, dartos, fascia de buck y albugínea, invadía el interior de los cuerpos cavernosos, destruía la uretra y su esponjosa
+300527005||pene sin hallazgos de interés
+827038004||pene, testes y epidídimos de tamaño y consistencia normales
+89362005||perder peso
+79890006||pérdida apetito
+89362005||pérdida de 12 kilogramos de peso
+89362005||pérdida de 15 kg de peso
+89362005||pérdida de 16 kilogramos (kg) de peso
+89362005||pérdida de 5 kg de peso
+89362005||pérdida de 7 kg de peso
+170728008||pérdida de agudeza visual en ojo izquierdo
+419045004||pérdida de conciencia
+419045004||pérdida de conciencia
+89362005||pérdida de de peso
+225581002||pérdida de la visión por ojo
+89362005||pérdida de peso
+89362005||pérdida de peso
+89362005||pérdida de peso
+89362005||pérdida de peso
+89362005||pérdida de peso
+89362005||pérdida de peso
+89362005||pérdida de peso
+89362005||pérdida de peso
+89362005||pérdida de peso
+89362005||pérdida de peso
+89362005||pérdida de peso
+89362005||pérdida de treinta libras de peso
+89362005||pérdida de unos 15 kg de peso
+89362005||pérdida de unos 8 kg de peso
+105597003||pérdida de visión
+105597003||pérdida de visión
+267727004||pérdida de visión bilateral
+267727004||pérdida de visión bilateral, progresiva e indolora
+89362005||pérdida del 23% de su peso habitual
+89362005||pérdida ponderal
+89362005||pérdida ponderal
+170728008||pérdida progresiva de agudeza visual
+166602006||perfil hepático, fueron normales
+312397004||perfil tiroideo fue normal
+249545003||peritonismo
+NO_CODE||permeabilidad de la endoprótesis
+64882008||pico febril
+64882008||picos febriles
+302215000||plaquetopenia
+NO_CODE||pliegues edematosos y congestivos
+31462008||polaquiuria
+31462008||polaquiuria
+31462008||polaquiuria
+31462008||polaquiuria
+31462008||polaquiuria
+31462008||polaquiuria
+301936006||polo anterior era normal en ambos ojos
+301936006||polo anterior estaba dentro de la normalidad
+309088003||polo inferior de riñón izquierdo formación nodular
+87860000||polo superior de teste izquierdo, sugestivo de masa sólida
+309088003||polo superior del riñón derecho y en situación interna, se aprecia una masa sólida
+253330006||porta permeable
+253330006||porta permeable
+111953009||posición antiálgica
+406104003||positividad para vhc
+442635007||positivo en las cuatro que se realizan para leuconostoc spp.
+84946008||postración
+102968003||potenciales evocados visuales resultan patológicos con un aumento del período de latencia
+60280003||presión intraocular (pio) eran normales
+60280003||presión intraocular adecuada
+422840005||proceso expansivo frontoparietal, extendido al lóbulo frontal derecho y al cuerpo calloso
+165468009||prolongación de la vsg
+111975006||prolongación de qt
+18265008||proptosis de un año de evolución en ambos ojos
+18265008||proptosis ocular
+18265008||proptosis ocular
+249604002||próstata estaba bien delimitada
+NO_CODE||proteína s y proteína c fueron normales
+414764000||proteinograma-inmunofijación con banda monoclonal inmunoglobulina (ig)a-kappa
+29738008||proteinuria
+29738008||proteinuria
+29738008||proteinuria
+29738008||proteinuria
+29738008||proteinuria
+29738008||proteinuria
+29738008||proteinuria
+29738008||proteinuria
+29738008||proteinuria
+29738008||proteinuria
+29738008||proteinuria
+29738008||proteinuria
+29738008||proteinuria
+29738008||proteinuria
+29738008||proteinuria
+29738008||proteinuria
+29738008||proteinuria
+29738008||proteinuria
+29738008||proteinuria
+29738008||proteinuria
+29738008||proteinuria
+29738008||proteinuria
+29738008||proteinuria
+29738008||proteinuria
+29738008||proteinuria
+315332001||proteinuria de bence-jones negativa
+264867001||proteinuria nefrótica
+NO_CODE||prótesis aórtica normofuncionante
+NO_CODE||prótesis mitral normofuncionante
+366216006||prueba de allen negativa
+268375009||prueba de mantoux fue negativa
+442082004||pruebas complementarias básicas normales
+309306009||pruebas complementarias incluyendo microbiológicas fueron negativas
+408573005||pruebas de imagen resultaron negativas
+418290006||prurito
+418290006||prurito
+418290006||prurito
+166159005||psa dentro del rango de la normalidad
+166159005||psa normales
+NO_CODE||pt2c
+NO_CODE||pt3b
+11934000||ptosis
+11934000||ptosis palpebral
+11934000||ptosis total
+40969002||pulsos arteriales simétricos
+37125009||pupilas ligeramente midriáticas
+307541003||quejas urinarias bajas
+83035003||quilotórax
+168733007||radiografía de tórax (que es informada como normal)
+168733007||radiografía de tórax es normal
+168733007||radiografía de tórax estuvo dentro de los límites normales
+168733007||radiografía de tórax fue normal
+168733007||radiografía de tórax fueron normales
+168733007||radiografía de tórax no mostró alteraciones
+168733007||radiografía de tórax no mostró alteraciones
+168733007||radiografía de tórax resultó normal
+168733007||radiografía de tórax rigurosamente normal
+168733007||radiografía de tórax siendo igualmente negativa
+168733007||radiografía de tórax sin alteraciones patológicas
+168733007||radiografia de tórax sin alteraciones significativas
+249321001||raiz nasal ancha
+128139000||reacción inflamatoria
+246992005||reacción inflamatoria en cámara anterior
+NO_CODE||realzaba de forma intensa tras la inyección de contraste intravenoso en fase arterial
+405729008||rectorragia
+405729008||rectorragias
+405729008||rectorragias
+405729008||rectorragias
+405729008||rectorragias
+165507003||recuento de leucocitos era normal
+170728008||reducción de av
+64379006||reducción en la ingesta
+421561005||reducciones campimétricas concéntricas severas en ambos ojos
+86854008||reflejos vivos
+164717000||registro electroencefalográfico de 24 horas de duración en el que no se evidencian alteraciones
+164717000||registros electroencefalográficos (eeg) fueron normales
+64882008||registros febriles
+131148009||resangrado
+131148009||resangrado
+166478001||reserva adrenal normal
+276888009||respiración espontánea
+398637008||retina aplicada
+398637008||retina in situ en la ecografia modo b
+69559004||retroperitoneo medio (entre la aorta y la vena cava inferior) se aprecia un masa
+15280003||rha disminuido
+63463003||riñón derecho de cortical fina y desestructurada
+444955006||riñón derecho normal
+81141003||riñón derecho se mostraba funcionalmente normal
+155876003||riñón derecho sin función
+300441003||riñones de tamaño y ecoestructura normales
+14310000||rinorrea purulenta
+14310000||rinorrea verdosa
+251150006||ritmo sinusal
+251150006||ritmo sinusal
+251150006||ritmo sinusal
+251150006||ritmo sinusal
+251150006||ritmo sinusal
+251150006||ritmo sinusal
+64730000||ritmo sinusal normal
+24612001||roncus
+24612001||roncus
+24612001||roncus
+NO_CODE||rpr: 1/64 positivo
+168733007||rx de tórax era normal
+131148009||sangrado
+131148009||sangrado
+131148009||sangrado
+131148009||sangrado
+131148009||sangrado
+131148009||sangrado
+131148009||sangrado
+131148009||sangrado
+131148009||sangrado
+131148009||sangrado
+8573003||sangrado activo
+8573003||sangrado activo
+8573003||sangrado activo
+8573003||sangrado activo
+8573003||sangrado activo
+8573003||sangrado activo
+74474003||sangrado digestivo
+131148009||sangrante
+131148009||sangre
+31341008||sangre a la cavidad vítrea
+75823008||secreción
+75823008||secreción
+14310000||secreción nasal purulenta que alguna vez ha sido sanguinolenta
+35013009||secreción purulenta
+167221003||sedimento de orina era normal
+167221003||sedimento de orina normal
+167221003||sedimento normal
+167221003||sedimento normal
+271350002||sedimento urinario con 15-20 leucocitos/campo y moco abundante
+167221003||sedimento urinario no mostraba alteraciones
+49233005||sensación disneica
+43724002||sensación distérmica
+422587007||sensación nauseosa
+406108000||serología de vih y hepatovirus negativa
+309306009||serología hepática vírica negativa
+309306009||serología para echinococcos granulosis y multilocularis negativas
+166165005||serologías normales
+308921004||severidad de la clínica neurológica,
+275295002||sialorrea
+56018004||sibilantes
+56018004||sibilantes
+56018004||sibilantes
+441837004||signo de nikolsky positivo
+NO_CODE||signo de vincent (-)
+34095006||signos de depleción hidrosalina
+788917000||signos de destrucción ósea
+257552002||signos inflamatorios
+257552002||signos inflamatorios
+257552002||signos inflamatorios
+257552002||signos inflamatorios
+257552002||signos inflamatorios
+257552002||signos inflamatorios
+445368001||silueta cardiaca normal
+167221003||sin alteraciones en el sedimento
+271594007||síncope
+271594007||síncope
+271594007||síncopes
+286933003||síndrome confusional
+286933003||síndrome confusional
+64882008||síndrome febril
+64882008||síndrome febril
+64882008||síndrome febril
+64882008||síndrome febril
+7358000||síndrome miccional
+7358000||síndrome miccional
+7358000||síndrome miccional
+7358000||síndrome miccional irritativo
+11441004||síndrome prostático
+309551005||síntomas b
+309551005||síntomas b
+249274008||síntomas miccionales
+308921004||síntomas neurológicos
+308921004||síntomas neurológicos
+308923001||síntomas oculares
+49650001||síntomas urinarios irritativos
+309551005||sintomatología b
+7358000||sintomatología miccional
+308921004||sintomatología neurológica
+249274008||sintomatología urinaria
+238131007||sobrepeso
+271782001||somnolencia
+271782001||somnolencia
+271782001||somnoliento
+414786004||soplos
+414786004||soplos
+414786004||soplos
+414786004||soplos
+414786004||soplos
+8730001000004107||staphylococcus epidermidis en varios hemocultivos
+52613005||sudoración
+52613005||sudoración
+52613005||sudoración
+52613005||sudoración
+42984000||sudoración nocturna
+52613005||sudoración profusa
+52613005||sudoración profusa
+52613005||sudoración profusa
+52613005||sudoroso
+52613005||sudoroso
+52613005||sudoroso
+NO_CODE||t1c
+399647000||t3bn0
+163133003||tac abdominal, que no reveló hallazgos patológicos
+408568004||tac craneal en el que no se aprecian anormalidades
+408568004||tac craneal fue normal
+408568004||tac craneal no demostró ningún hallazgo patológico
+408568004||tac craneal normal
+163133003||tac de abdomen fue normal
+274765004||tacto rectal negativo
+274765004||tacto rectal resultó anodino
+275302008||tacto rectal volumen i adenomatosa, ligeramente doloroso
+11092001||taquicardia
+11092001||taquicardia
+11092001||taquicardia sinusal
+11092001||taquicardia sinusal
+11092001||taquicardia sinusal
+11092001||taquicardia sinusal
+11092001||taquicárdica
+11092001||taquicárdico
+11092001||taquicárdico
+271823003||taquipnea
+271823003||taquipnea
+271823003||taquipnea
+271823003||taquipnea persistente
+271823003||taquipneico
+271823003||taquipneico
+26079004||temblor
+26079004||temblor
+271782001||tendencia al sueño
+2004005||tensión arterial era normal
+827066007||test de colores farnsworth era normal
+300493001||teste derecho de características normales
+276412008||teste derecho horinzontalizado, aumentado de tamaño
+300493001||teste izquierdo de tamaño, movilidad y consistencia normal
+276412008||teste izquierdo se encuentra aumentado de tamaño
+300493001||teste normal
+300493001||teste normoecógeno y de tamaño normal
+300493001||testes se presentaban normales
+300493001||testículo derecho tenía un tamaño y consistencia normales
+87860000||testículos están englobados por la fibrosis y la masa tumoral
+300493001||testículos normales
+309306009||tinción de auramina para micobacterias fue negativa
+309306009||tinción de gram en la que no se observaron gérmenes
+309306009||tinción de ziehl neelsen modificada fue negativa
+830286009||tinción de ziehl-nielsen se observaban escasos bacilos
+309306009||tinción de zn negativo
+301936006||tinción negativa con fluoresceína
+309306009||tinción zielh negativa
+309306009||tinciones de muestras respiratorias fueron negativas para p. carinii (p. jiroveci
+166336006||tirotropina normal
+1144522003||tolerancia oral
+301132007||tonos rítmicos
+49727002||tos
+49727002||tos
+49727002||tos
+49727002||tos
+11833005||tos irritativa
+11833005||tos seca
+11833005||tos seca
+11833005||tos seca
+442082004||total normalidad de las pruebas analíticas
+168833002||transito gastroduodenal fue normal
+168833002||tránsito normal
+6631009||trombocitosis
+6631009||trombocitosis
+6631009||trombocitosis
+302215000||trombopenia
+302215000||trombopenia
+302215000||trombopenia
+302215000||trombopenia
+302215000||trombopenia
+302215000||trombopenia
+300848003||tumoración
+300848003||tumoración
+300848003||tumoración
+300848003||tumoración
+300848003||tumoración
+300848003||tumoración
+300848003||tumoración
+300848003||tumoración
+300848003||tumoración
+300848003||tumoración
+300848003||tumoración
+300848003||tumoración
+300848003||tumoración
+300848003||tumoración
+300848003||tumoración
+300848003||tumoración
+300848003||tumoración
+300848003||tumoración
+300848003||tumoración
+300848003||tumoración
+300848003||tumoración
+300848003||tumoración
+300848003||tumoración
+300848003||tumoración
+300848003||tumoración
+300848003||tumoración
+300848003||tumoración
+300848003||tumoración
+237783006||tumoración adrenal
+237783006||tumoración adrenal
+300848003||tumoración asintomática
+87860000||tumoración carnosa mamelonada adherida al polo superior del testículo
+315284009||tumoración circunscripta en la región parotídea
+299704007||tumoración de crecimiento progresivo de hemimaxilar
+300848003||tumoración de rápido crecimiento, indolora
+87860000||tumoración dura en teste
+87860000||tumoración en ambos testes
+237783006||tumoración en el área suprarrenal
+309532004||tumoración en espalda
+309528005||tumoración en flanco izquierdo
+445456006||tumoración en región basal mandibular a nivel parasinfisario
+300848003||tumoración endofítica
+53929009||tumoración escrotal
+300287006||tumoración esofágica vegetante y ulcerada
+125139001||tumoración grisácea de consistencia blanda y no engrosado
+299703001||tumoración latero-cervical
+300848003||tumoración nodular
+300848003||tumoración profunda
+69559004||tumoración retroperitoneal
+300848003||tumoración sólida
+300848003||tumoración sólida
+87860000||tumoración sólida de 37x21 mm, hipoecoica en teste
+445456006||tumoración submandibular
+445456006||tumoración submandibular
+445456006||tumoración submandibular
+87860000||tumoración testicular
+87860000||tumoración testicular bilateral
+300848003||tumoraciones
+300848003||tumoraciones
+309088003||tumoraciones en valva anterior de riñón
+249301002||uretrorragia
+167568007||urocultivo estéril
+167568007||urocultivo resultó negativo
+60280003||valores de presión intraocular fueron normales
+707724006||valores elevados de transaminasas
+66999008||valores séricos de la hormona paratiroidea intacta (ipth) fueron altos
+428090004||vejiga resecándose una masa
+163352001||vejiga sin lesiones
+253330006||vena porta permeable
+271653008||venas yugulares ingurgitadas
+399153001||vértigo rotatorio
+406010001||vhb (aghbs: negativo
+406105002||vhc (elisa-g: negativo
+300339003||vía biliar normal
+1144523008||vida normal
+165816005||vih (inmunoblot: positivo
+714254003||visceromegalias
+246636008||visión borrosa
+246636008||visión borrosa
+246636008||visión borrosa
+246636008||visión borrosa
+246636008||visión borrosa en ambos ojos
+24982008||visión doble
+24982008||visión doble
+422400008||vómito
+422400008||vómitos
+422400008||vómitos
+422400008||vómitos
+422400008||vómitos
+422400008||vómitos
+422400008||vómitos
+422400008||vómitos
+422400008||vómitos
+422400008||vómitos
+422400008||vómitos
+422400008||vómitos
+422400008||vómitos
+422400008||vómitos
+422400008||vómitos
+422400008||vómitos
+422400008||vómitos
+422400008||vómitos
+422400008||vómitos
+422400008||vómitos
+422400008||vómitos
+300365004||vómitos alimenticios
+422400008||vómitos autolimitados de duración variable
+40835002||vómitos en posos de café
+300365004||vómitos pospandriales
+NO_CODE||zona nodular en su polo superior de mayor intensidad de señal y que se corresponde con el área de menor intensidad en la secuencia t1 y de mayor intensidad en la supresión grasa
+129734009||zonas nodulares
+9972008||dolor irradiado
+9956000||ánimo miedoso
+9956000||temor
+9956000||miedo
+9763007||sibilancias espiratorias
+9589009||dificultad de la marcha
+9589009||dificultad para caminar
+9589009||dificultad en la deambulación
+95715007||espasmo del cuerpo ciliar
+95715007||espasmo ciliar
+95668009||dolor en la cara
+95668009||dolor facial
+95668009||dolor de la cara
+95550001||fibrosis de peritoneo
+95550001||fibrosis peritoneal
+95550001||fibrosis de membrana serosa peritoneal
+95545007||diarrea hemorrágica
+95535005||hemorragia ileal
+95525004||hipoestesia oral
+95442007||cianosis periférica
+95436008||consolidación de pulmón
+95351003||trastorno de membrana mucosa
+95351003||enfermedad de la membrana mucosa
+95351003||trastorno de la mucosa
+95322002||piel edematizada
+95322002||edema cutáneo
+95320005||trastorno de la piel
+95320005||dermatosis
+95320005||alteración de la piel
+95320005||dermatopatía
+95320005||trastorno cutáneo
+94147001||masa del mediastino
+94147001||masa mediastínica
+9360008||hiperamonemia
+93478000||hemorragia intraocular
+93478000||sangría intraocular
+93478000||ojo hemorrágico
+93457003||líquido en cavidad peritoneal
+92972001||monoftalmía
+92972001||ausencia congénita de un ojo
+9236007||alexia
+9236007||ceguera para las palabras
+9236007||alexia óptica
+9236007||afemestesia
+9236007||amnesia visual
+91514001||úlcera corneal
+912005||estenosis congénita de esófago
+912005||anillo esofágico congénito
+912005||estrechez congénita de esófago
+912005||esofagoestenosis
+91175000||convulsión
+91098006||quiluria
+91019004||parestesia
+91002001||leucoplasia de la lengua
+9092004||hiperplasia paratiroidea
+90673000||sensación de ardor
+90673000||sensación quemante
+90673000||ardor
+90673000||sensación urente
+90520006||estenosis de arteria vertebral
+90520006||estrechamiento de arteria vertebral
+90446007||prurito del ano
+90446007||prurito anal
+90446007||prurito perianal
+90145001||prominencia frontal
+90009001||cordón umbilical anormal
+897306006||irritación bronquial
+897306006||irritación de bronquios
+89627008||hiponatremia
+8955008||esputo mucopurulento
+8943002||aumento de peso
+8943002||peso corporal aumentado
+8943002||hallazgo relacionado con aumento del peso corporal
+894119008||cuadrantopsia homónima inferior derecha
+894119008||cuadrantanopsia homónima inferior derecha
+89362005||descenso de peso
+89362005||pérdida de peso
+89091004||edema de párpado
+89091004||hidrobléfaron
+890396001||excavación congénita de ambas papilas ópticas
+890396001||excavación congénita de papila óptica bilateral
+8900005||hipoproteinemia
+88995000||edema del escroto
+88995000||edema escrotal
+88673001||pene grande
+88673001||tamaño aumentado del pene
+88458008||crecimiento bacteriano presente
+88458008||presencia de crecimiento bacteriano
+88400008||células tumorales malignas
+88230002||trastorno del sistema esquelético
+88230002||enfermedad del sistema esquelético
+88111009||hábitos intestinales anormal
+88111009||hábitos intestinales alterados
+879910002||hallazgo de hueso de extremidad inferior
+879910002||hallazgo de hueso de miembro inferior
+87860000||masa testicular
+87860000||bulto testicular
+87860000||tumoración de testículo
+87548005||dispepsia
+87548005||indigestión
+87548005||indigestión dietética leve
+87548005||dolor de estómago
+87521009||desánimo
+8744003||apendicitis catarral
+87380008||ausencia congénita de la vagina
+87361006||alteración de la maduración leucocítica con desviación hacia la izquierda
+87361006||desviación hacia la izquierda del recuento de glóbulos blancos
+87361006||recuento de glóbulos blancos con desviación hacia la izquierda
+87319000||escara
+87310001||monorquidia
+8730001000004107||hemocultivo positivo para microorganismo
+87273009||temperatura corporal normal
+87273009||temperatura normal del cuerpo
+871692005||distensión de músculo recto abdominal
+8701000175105||infiltrado pulmonar en un solo lóbulo
+86854008||hiperreflexia
+86854008||reflejos tendinosos aumentados
+86276007||encías sangrantes
+86276007||hemorragia gingival
+86247009||dilatación del intestino
+86247009||dilatación intestinal
+860969004||sistema venoso normal
+860914002||disfunción eréctil
+860749004||nivel de sustancia en sangre bajo
+86022000||monoplejía
+85974009||masa de estructura intracraneal
+85974009||masa intracraneal
+85974009||bulto intracraneal
+85974009||lesión ocupante de espacio intracraneal
+85972008||trastorno sensitivo
+85972008||perturbación sensitiva
+85919009||trastorno del intestino
+85919009||enfermedad del intestino
+85919009||enteropatía
+85919009||trastorno intestinal
+8573003||hemorragia aguda
+8573003||sangrado agudo
+8573003||pérdida aguda de sangre
+85550003||alucinación de sensación corporal
+85550003||alucinación cenestésica
+85487008||fosfaturia renal
+85487008||diabetes por fosfato
+8510008||movilidad disminuida
+84946008||agotamiento extremo
+84946008||postración
+84828003||leucopenia
+8453006||retracción subesternal de la pared torácica
+84454003||masa abdominal
+84454003||tumor abdominal
+84454003||hinchazón abdominal
+84387000||asintomático
+84324009||color de una colonia bacteriana
+84229001||fatiga
+84178004||edema conjuntival
+840678003||amplitud de movimiento de columna vertebral disminuida
+840672002||cristalino ocular transparente
+840576009||opacidad de cristalino temprana
+840319006||parestesias de ambas manos
+838412000||dolor a la palpación en región lumbar
+836475004||secreción nasal mucopurulenta
+83128009||oliguria
+83035003||quilotórax
+830286009||bacterias observadas en el examen microscópico con tinción
+830121005||sistema nervioso central normal
+830009009||retina de ojo derecho normal
+82991003||dolores corporales generalizados
+82971005||movilidad alterada
+82971005||alteración de la movilidad física
+82971005||limitación de la movilidad
+827121001||masa de cuadrante inferior izquierdo de abdomen
+827066007||visión de colores normal
+827065006||tono de músculo esquelético normal
+827038004||genitales externos normales
+827032003||pulmón normal
+82423001||dolor crónico
+82380002||cuerpo extraño en el intestino
+82184000||soplo aórtico
+82132006||agudeza visual normal
+81680005||cervicalgia
+81680005||cervicodinia
+81680005||dolor de cuello
+81680005||cuello doloroso
+816190002||edema de ambas piernas
+816190002||edema bilateral de piernas
+81141003||función renal normal
+80954004||función respiratoria disminuida
+80954004||respiración disminuida
+80954004||función pulmonar disminuida
+80515008||hepatomegalia
+80515008||hígado grande
+80449002||agotamiento muscular
+80449002||fatiga muscular
+80394007||hiperglucemia
+80394007||hiperglicemia
+80313002||palpitaciones
+80142000||perforación del tabique nasal
+80142000||perforación del septum nasal
+80142000||septum nasal horadado
+80142000||septum nasal perforado
+80142000||tabique nasal perforado
+80142000||tabique nasal horadado
+8011004||disartria
+79922009||dolor epigástrico
+79893008||erupción vesiculosa de la piel
+79893008||erupción cutánea con vesículas
+79890006||pérdida del apetito
+79890006||anorexia
+7939003||edema localizado
+79151009||disestesia
+79131000119100||lesión de riñón
+78934009||prurito de la piel
+78934009||picazón de la piel
+78934009||dermatitis pruriginosa
+78934009||prurito cutáneo
+788954009||hiperostosis de cráneo
+788917000||erosión de hueso
+786838002||nódulo de pulmón
+78667006||distimia
+78667006||neurosis depresiva
+78622004||galactorrea no asociada con el nacimiento
+78622004||galactorrea
+78370002||escleritis
+78341006||neutrofilia
+78341006||leucocitosis con neutrofilia
+78341006||granulocitosis
+782430000||inestabilidad de la articulación radiocubital distal
+781682005||hiperemia de globo ocular
+77867006||intervalo QT acortado
+77867006||reducción del intervalo QT
+77775007||color normal
+77674003||hemianopsia
+77674003||hemianopía
+7752002||hiperbilirrubinemia no conjugada
+7752002||hiperbilirrubinemia indirecta
+774133001||dolor en el antebrazo derecho
+77157004||trastorno del nervio óptico
+77157004||neuropatía óptica
+77069005||signo del psoas
+76948002||dolor severo
+76917005||nódulo tiroideo
+76917005||bocio uninodular no tóxico
+76917005||bocio no tóxico uninodular
+76849009||hiperemia de la conjuntiva
+76849009||hiperemia de los ojos
+76849009||hiperemia ocular
+767094002||trastorno del parénquima renal
+76388001||supradesnivel del ST
+76388001||sobreelevación del segmento ST
+763659007||stent doble J presente
+763659007||stent JJ presente
+76314005||trastorno hidroelectrolítico
+76314005||desequilibrio hidroelectrolítico
+76314005||trastorno de líquidos Y/O electrólitos
+76281005||congestión hepática
+762415003||trastorno de ángulo iridocorneal
+762305005||degeneración de columna vertebral
+762305005||degeneración espinal
+76107001||estenosis del conducto vertebral
+76107001||estenosis del conducto raquídeo
+76107001||estrechez del canal medular
+75864003||síntoma psiquiátrico
+75823008||secreción
+75823008||supuración
+75823008||drenaje
+75753009||coágulo sanguíneo
+75753009||coágulo
+75295004||heces duras
+75295004||materia fecal dura
+74474003||hemorragia digestiva
+74474003||hemorragia gastrointestinal
+74474003||sangrado gastrointestinal
+74474003||HD
+737294004||órgano trasplantado presente
+736706004||función dentofacial normal
+736319003||pensamiento desorganizado
+7358000||síndrome de disuria - polaquiuria
+73511000119101||perfil de hierro anormal
+734009000||diastema
+73320003||hemólisis
+73132005||trastorno de glándula paratiroides
+73132005||enfermedad de las glándulas paratiroides
+73132005||trastorno de las glándulas paratiroides
+73132005||alteración de las glándulas paratiroides
+72970002||signos vitales normales
+72885007||neutropenia
+72885007||granulocitopenia
+72885007||hipoplasia granulocítica
+72885007||aplasia granulocítica
+72885007||granulopenia
+72826005||macrocitosis
+72768000||placa eritematosa
+726490008||estenosis de arteria
+726220000||distensión de fascia de músculo de la cadera
+72587008||picadura
+724850003||fragilidad epidérmica
+724623005||problema de mandíbula
+723316007||dolor tipo choque eléctrico
+722998005||hiperactividad del sistema nervioso autónomo
+722879009||meteorismo funcional
+722829006||dolor agudo de escroto
+722829006||dolor escrotal agudo
+722810000||prótesis in situ
+72042002||incontinencia fecal
+72042002||deposiciones fecales involuntarias
+72042002||incontinencia de heces
+718546008||cistoscopia normal
+718403007||diuresis disminuida
+718360006||funcionalmente independiente
+718067000||falla primaria de la osteointegración de implante dental
+717158001||deleción parcial de cromosoma Y
+714751007||trastorno inflamatorio de hueso de la mandíbula
+714254003||organomegalia abdominal
+71419002||vómito bilioso
+71419002||vómito biliar
+713668006||defecto adquirido del cráneo
+713514005||debilidad muscular de miembro
+712759008||sensación de catástrofe inminente
+71269007||función hemostática normal
+71269007||hemostasia normal
+71269007||coagulación normal de la sangre
+712680005||prueba de antígeno leucocítico humano B27 positiva
+712680005||prueba de HLA-B27 (antígeno leucocítico humano B27) positiva
+712510007||hemorragia intestinal
+71200009||temperatura cutánea disminuida
+71200009||temperatura de la piel disminuida
+711376006||morfología de órgano toracoabdominal normal
+70958007||hiperplasia de células plasmáticas de la médula ósea
+708118007||hallazgo negativo en cultivo microbiológico
+70784009||irritación meníngea
+70784009||síndrome de Duprés
+70784009||meningismo
+707793005||piel caliente
+707724006||nivel de enzimas hepáticas elevado
+707598004||mala oclusión dental
+704999008||inversión anterior de onda T
+704426000||alteración del estado de alerta mental
+704200007||hipotonía adquirida
+70407001||estridor
+70396004||heces acólicas
+70396004||heces de color arcilla
+70396004||heces grises
+703883009||piel fría
+703883009||piel fría al tacto
+703619001||dolor en cintura pélvica
+7011001||alucinaciones
+7006003||movimientos torpes
+7006003||torpeza
+700344004||retracción de párpado superior
+700339006||edema de párpado superior
+699682009||dolor localizado de músculo masticatorio
+699370008||síntoma relacionado con el pie
+698247007||arritmia cardíaca
+698247007||trastorno del ritmo cardíaco
+698195007||incompetencia de labio
+69701009||función corporal anormal
+69701009||funcionamiento corporal anormal
+69559004||masa de estructura retroperitoneal
+69559004||masa retroperitoneal
+69061003||obstrucción extrínseca de la tráquea
+68962001||mialgia
+68962001||miodinia
+68962001||mioneuralgia
+68962001||miosalgia
+68962001||dolor muscular
+68653001||dolor anal
+68633000||trastorno pupilar
+68600005||hemoglobinuria
+6810008||hipoalgesia
+67967009||facies cushingoide
+67967009||cara de luna
+67967009||facies de luna llena
+677511000119104||defecto de la retina de ojo izquierdo
+67307004||circulación colateral aumentada
+67307004||flujo vascular colateral aumentado
+67289000||mordida abierta anterior
+67289000||relación oclusal anterior abierta
+67233009||insomnio intermedio
+67233009||sueño irregular
+67233009||dificultad para mantener el sueño
+67233009||despertares nocturnos
+66999008||hiperparatiroidismo
+66857006||hemoptisis
+66857006||expectoración con sangre
+66569006||raíz dental retenida
+66556007||hemobilia
+66556007||hemorragia biliar
+66556007||hematobilia
+66556007||hemorragia en la bilis
+6631009||trombocitosis
+6631009||aumento de plaquetas
+6631009||incremento de plaquetas
+6631009||plaquetas aumentadas
+66187002||esteatorrea
+66187002||estearrea
+6609001||espongiosis
+6609001||edema intraepidérmico
+65761003||dolor inflamatorio
+65404009||desnutrición
+65124004||tumefacción
+65124004||hinchazón
+65124004||tumescencia
+64882008||fiebre
+64882008||temperatura corporal elevada
+64882008||pirexia
+64779008||trastorno de la coagulación sanguínea
+64779008||coagulopatía
+64779008||defecto de la coagulación
+64730000||ritmo sinusal normal
+64730000||ritmo sinoauricular normal
+64730000||ritmo cardíaco normal
+64667001||neumonía intersticial
+64667001||neumonitis intersticial
+64379006||apetito alimentario disminuido
+64379006||disminución del apetito
+64269007||alucinación visual
+63901009||dolor testicular
+63901009||orquidodinia
+63901009||orquialgia
+63901009||orquidalgia
+63491006||claudicación intermitente
+63491006||miastenia angioesclerótica
+63463003||atrofia renal
+63463003||riñón pequeño de causa desconocida
+63463003||riñón pequeño
+63063006||agudeza visual sin percepción de la luz
+63063006||sin percepción de la luz
+62991000119101||defecto de la pared abdominal fetal
+62640008||rales finos
+62640008||estertores finos
+62577008||insomnio
+62577008||desvelo
+62577008||hiposomnia
+62476001||desorientado
+62476001||desorientación
+62476001||alteración de la orientación
+62330004||función muscular disminuida
+62330004||actividad muscular disminuida
+62330004||función muscular reducida
+62315008||diarrea
+61838003||neoformación ósea
+61448007||atelectasia focal
+61448007||atelectasia lobulillar
+61372001||conducta agresiva
+61372001||comportamiento agresivo
+61372001||agresión
+609624008||hallazgo relacionado con el abdomen
+60862001||acúfenos
+60862001||tinnitus
+60862001||zumbido en los oídos
+6081001||deformidad
+60735000||lagoftalmos
+60728008||abdomen distendido
+60728008||distensión abodminal
+60485005||pleurobronconeumonía
+60485005||pleuroneumonía
+60280003||presión intraocular normal
+60280003||estado de presión intraocular normal
+60046008||derrame pleural
+59931005||inversión de la onda T en el electrocardiograma
+59931005||inversión de la onda T
+59927004||insuficiencia hepática
+59927004||falla hepática
+59927004||falla de la función hepática
+59927004||descompensación hepática
+59892004||infantilismo
+5964004||trastorno del recto
+5964004||enfermedad del recto
+5964004||trastorno rectal
+59614000||sangre oculta en materia fecal
+59614000||test de guayaco positivo en materia fecal
+59614000||sangre oculta en heces
+59614000||prueba de guayaco positiva en materia fecal
+59540003||desigualdad en el tamaño de los ventrículos cerebrales
+59455009||acidosis metabólica
+58840004||ruidos respiratorios disminuidos
+58596002||estridor inspiratorio
+57676002||dolor articular
+57676002||artralgia
+57676002||articulación dolorosa
+57241006||anisocitosis
+56823000||remanente tiroideo cervical
+56731001||hipertono muscular
+56731001||hipertonía
+56731001||hipertono
+56731001||tono muscular aumentado
+56608008||dolor de muñeca
+56608008||muñeca dolorosa
+56574000||poliuria
+56430004||lividez cadavérica
+56208002||úlcera
+56208002||lesión ulcerosa
+56208002||ulceración
+56018004||sibilancias
+55929007||sentimiento de irritabilidad
+55929007||irritabilidad
+5591009||hemianopsia homónima derecha
+55644006||succión del pulgar
+55634009||hemianopsia homónima izquierda
+55300003||calambre
+55300003||calambre en el músculo
+55300003||calambre muscular
+55019002||hábitos intestinales normales
+54767005||trastorno de las vías ópticas
+54598009||orina residual
+54598009||orina residual - RETIRADO -
+53929009||masa de escroto
+53623008||categoría N1
+53623008||estadio N1
+53623008||estadio ganglionar N1
+53298000||hematuria
+53298000||síndrome hematúrico
+52985009||ascitis quilosa
+52985009||quiloperitoneo
+5291005||hipocalcemia
+5291005||síndrome de hipocalcemia
+5291005||enfermedad por deficiencia de calcio
+5291005||síndrome hipocalcémico
+52776004||inestabilidad musculoesquelética
+52613005||sudoración excesiva
+52613005||diaforesis
+52613005||hiperhidrosis
+52613005||sudoración profusa
+52368004||lengua escrotal
+52368004||lengua fisurada
+52368004||lengua surcada
+52368004||lengua agrietada
+52368004||lingua plegada
+51615001||fibrosis pulmonar
+51615001||cirrosis pulmonar
+51599000||edema de laringe
+50960005||hemorragia
+50960005||sangrado
+50960005||extravasación de sangre
+50818007||eyaculación dolorosa
+50711007||hepatitis viral tipo C
+50711007||hepatitis C
+50711007||hepatitis vírica tipo C
+50415004||dolor moderado
+4996001||hipofosfatemia
+49765009||hiperpigmentación de la piel
+49727002||tos
+49650001||disuria
+49650001||micción dolorosa
+49483002||trastorno del mediastino
+49483002||enfermedad del mediastino
+49483002||enfermedad mediastínica
+49483002||trastorno mediastínico
+494716691000132104||dosis de medicación adecuada al paciente
+49233005||disnea
+49233005||dificultad respiratoria
+49233005||falta de aire
+49233005||respiración forzosa
+49233005||respiración trabajosa
+49233005||respiración dificultosa
+49218002||coxalgia
+49218002||dolor de cadera
+49051001||reflejo tendinoso normal
+48926009||raquialgia
+48926009||raquiodinia
+48813009||linfocitopenia
+48813009||linfopenia
+48813009||alinfocitosis
+48694002||ansiedad
+48694002||angustia
+48661000||peritonitis
+48661000||peritonitis de causa indeterminada
+48409008||rales crepitantes
+48409008||estertores crepitantes
+48348007||ruidos respiratorios normales
+48340000||incontinencia
+48167000||amnesia
+48167000||pérdida de la memoria
+47949009||libido normal
+47949009||deseo sexual normal
+47933007||podalgia
+47933007||dolor de pies
+47525004||rales gruesos
+47525004||estertores gruesos
+47312008||hidropesía vesicular
+47312008||hidropesía de la vesícula biliar
+473008002||dolor en mejilla
+472992004||desarrollo normal de caracteres sexuales secundarios
+472979002||protrusión de disco intervertebral de base amplia
+47295007||agitación psicomotriz
+47295007||agitación psicomotora
+47295007||hiperactividad excesiva
+47295007||aumento de la actividad realizada sin un objetivo específico
+47252008||alteración de los patrones de evacuación urinaria
+470760002||oclusión de vena cava inferior
+46784006||cristaluria
+46784006||cristal urinario
+46670006||reflejo anormal
+46621007||atelectasia
+46621007||colapso pulmonar
+46621007||colapso del pulmón
+46218001||tonicidad gástrica disminuida
+46218001||hipotonía gástrica
+45850009||hallazgo en la continencia urinaria normal
+45850009||continencia de la vejiga
+45850009||continencia vesical
+45647009||granuloma
+45647009||granuloma epitelioide
+45647009||granuloma histiocítico
+456161000124109||trastorno de ojo derecho
+45332005||relleno capilar normal
+45332005||tiempo normal de relleno capilar
+45332005||llenado capilar normal
+4519003||hipouricemia
+45177002||tumefacción de estructura del ojo
+45177002||tumefacción del ojo
+45154002||glucosuria
+45089002||visión normal
+45089002||emetropía
+450847001||responde al dolor
+450819000||con dieta absoluta
+450819000||no toma nada por boca
+45030009||trastorno de los movimientos oculares
+45007003||hipotensión arterial
+45007003||hipotensión
+45007003||hipopiesis
+45007003||tensión arterial baja
+45007003||presión arterial baja
+44991000119100||sangrado uterino anormal
+44991000119100||sangrado uterino disfuncional
+449830004||dímero D por encima del rango de referencia
+449830004||dímero D elevado
+449811004||marcha estable
+449707004||edema de pierna
+448928006||masa de antebrazo
+448569009||nódulo de estructura umbilical
+448225001||saturación de oxígeno dentro del rango de referencia
+448225001||saturación de oxígeno normal
+44808001||trastorno de conducción cardíaca
+44808001||trastorno de conducción del corazón
+447238007||depósito de inmunoglobulina G
+447238007||depósito de IgG
+446993003||calcificación de músculo
+44687006||plaqueta gigante
+44687006||megatrombocito
+446634009||conexiones venosas sistémicas normales
+445456006||masa de región submandibular
+445398008||tomografía computarizada de cabeza anormal
+445398008||tomografía computada de cabeza anormal
+445368001||posición y orientación cardíacas normales
+445368001||posición y orientación del corazón normales
+445249002||múltiples nódulos de pulmón
+445249002||múltiples nódulos pulmonares
+445201008||antígeno carcinoembrionario por encima del rango de referencia
+445201008||nivel alto de antígeno carcinoembrionario
+445088006||edema de cara
+445088006||edema facial
+445039006||masa de anexos uterinos
+444955006||riñón derecho presente
+444905003||masa de partes blandas
+444899003||dolor en antebrazo
+444884003||piel intacta
+444827008||eritema de piel
+444827008||eritema cutáneo
+444646006||paroniquia de dedo de la mano
+443828007||enzima pancreática por encima del rango de referencia
+443828007||enzima pancreática por encima del intervalo de referencia
+443718009||cribado para la detección de autoanticuerpos de enfermedad celíaca positivo
+443718009||cribaje para la detección de autoanticuerpos de enfermedad celíaca positivo
+443718009||detección selectiva de autoanticuerpos de enfermedad celíaca positiva
+443718009||rastreo para la detección de autoanticuerpos de enfermedad celíaca positivo
+443718009||tamizaje para la detección de autoanticuerpos de enfermedad celíaca positivo
+443718009||screening para la detección de autoanticuerpos de enfermedad celíaca positivo
+443718009||pesquisa para la detección de autoanticuerpos de enfermedad celíaca positiva
+443371007||nivel de conciencia disminuido
+443371007||nivel de consciencia disminuido
+442756004||hallazgo relacionado con medición por encima del rango de referencia
+442684004||estudio por imágenes del hígado, anormal
+442635007||cultivo microbiológico positivo
+442225006||hallazgo negativo relacionado con medición
+442082004||hallazgo relacionado con medición dentro del rango de referencia
+442076002||saciedad precoz
+441988000||estudio por imágenes del abdomen, anormal
+441975003||masa de lengua
+441905004||estudio por imágenes de la glándula tiroides, anormal
+441837004||signo de Nikolsky
+441811002||metal pesado en espécimen de orina por encima del rango de referencia
+441811002||metal pesado en muestra de orina por encima del rango de referencia
+441766009||masa de nariz
+441708007||tumefacción de región inferior de la mandíbula
+441687008||estudio por imágenes del aparato genitourinario, anormal
+441687008||estudio por imágenes del sistema genitourinario, anormal
+44088000||síndrome de bajo gasto cardíaco
+44088000||síndrome de bajo volumen minuto
+440220007||dolor a la palpación abdominal generalizado
+440109001||cribado de autoanticuerpos para enfermedad celíaca negativo
+440109001||cribaje de autoanticuerpos para enfermedad celíaca negativo
+440109001||screening de autoanticuerpos para enfermedad celíaca negativo
+440109001||detección selectiva de autoanticuerpos para enfermedad celíaca negativa
+440109001||tamizaje de autoanticuerpos para enfermedad celíaca negativo
+440109001||pesquisa de autoanticuerpos para enfermedad celíaca negativa
+43994002||conducta que denota una disminución de la actividad motriz
+43994002||hipocinesia
+43994002||hipoactividad
+43994002||conducta que denota una disminución de la actividad motora
+43994002||hipoquinesia
+43724002||escalofríos
+43724002||estremecimiento
+43696002||hemorragia capilar
+43498006||retención hídrica
+43498006||retención de líquidos corporales
+43400009||anomalía electroencefalográfica con convulsión
+43400009||signos de anormalidad en el EEG, con convulsiones
+43400009||anomalía EEG con convulsión
+43364001||malestar abdominal
+43339004||hipocaliemia
+43339004||hipopotasemia
+43339004||deficiencia de K
+432519008||antígeno del cáncer 125 aumentado
+432519008||antígeno CA 125 aumentado
+430958003||infección de catéter de diálisis peritoneal
+430909002||trastorno de conducta
+43025008||tos paroxística
+43025008||accesos de tos
+43025008||ataques de tos
+42984000||sudoración nocturna
+42984000||sudor nocturno
+429783005||parestesia de miembro inferior
+429353004||lesión traumática de radio
+428915008||anticuerpos positivos contra Toxoplasma gondii
+428472008||pólipo de colon sigmoide
+428264009||marcha dolorosa
+428090004||tumoración en vejiga urinaria
+428090004||masa en la vejiga urinaria
+428090004||masa vesical
+428090004||tumoración vesical
+42800007||temblor fino
+427931002||esputo blanco
+427924001||extravasación de medio de contraste intravenoso
+427924001||extravasación de medio de contraste endovenoso
+427868000||sin cambios en el estado del paciente
+427702008||masa duodenal
+427512004||dependiente para caminar
+427512004||camina con ayuda
+427461000||casi síncope
+427341007||dolor provocado por ejercicio
+427304006||hallazgo relacionado con la respuesta al dolor
+427146008||dolor provocado por toser
+42643001||trastorno de la vejiga urinaria
+42643001||enfermedad de la vejiga
+42643001||trastorno de la vejiga
+42643001||trastorno vesical
+426206001||dolor constante
+425810000||masa de páncreas
+425810000||masa pancreática
+425802001||derrame pleural bilateral
+425711007||masa colónica
+425677008||dolor irradiado al brazo izquierdo
+425423002||dolor provocado por movimiento
+4249000||hipoperfusión periférica
+4249000||mala perfusión periférica
+424774003||convexidad de la curvatura espinal hacia la derecha
+424650008||articulación limitada
+424650008||claridad del habla limitada
+424478004||deformidad en flexión de dedo de la mano semiflexionado
+424372002||edema de extremidad
+423552003||iridotomía periférica permeable
+423459005||adelgazamiento corneal
+423459005||córnea adelgazada
+423417009||tendinitis de la mano
+423341008||edema de papila óptica
+423243008||secreción conjuntival purulenta
+423052008||despertar nocturno frecuente
+422840005||lesión tumoral cerebral
+422840005||masa ocupante cerebral
+422840005||masa cerebral
+422773005||inestabilidad hemodinámica
+422587007||observación de náuseas
+422587007||nauseoso
+422400008||vómitos
+422400008||emesis
+422272001||hallazgo ocular ecográfico
+421689001||anomalía del epitelio pigmentario de la retina
+421561005||reducción concéntrica del campo visual
+421527008||resistencia a proteína C activada causada por Factor V de Leiden
+421527008||resistencia a proteína C activada debida a Factor V de Leiden
+420515004||tortuosidad venosa retinal
+420515004||tortuosidad venosa retiniana
+420515004||tortuosidad de las venas retinianas
+420501001||drusas maculares duras
+419326002||movimiento limitado de los ojos
+419326002||movimiento ocular limitado
+419099009||muerto
+419099009||falleció
+419099009||murió
+419045004||pérdida de la conciencia
+418727003||hallazgo relacionado con el segmento anterior
+418697001||monocitosis
+418697001||monocitos sanguíneos aumentados
+418362005||muerte - muerte súbita
+418290006||prurito
+418035005||producción excesiva de lágrimas
+417967008||trastorno de los eosinófilos
+417746004||lesión traumática
+417746004||traumatismo
+417742002||tumor positivo para receptor hormonal
+417735002||disfunción somática de hueso ilíaco
+41652007||dolor en el ojo
+41652007||dolor ocular
+416318006||resonancia magnética cerebral, normal
+416318006||RM cerebral, normal
+415767003||mucosa colónica ulcerada
+415767003||mucosa del colon ulcerada
+415116008||recuento plaquetario por debajo del rango de referencia
+415116008||recuento plaquetario por debajo del intervalo de referencia
+414786004||soplo
+414764000||cadenas livianas kappa libre monoclonales presente
+414763006||banda monoclonal presente
+4147007||masa
+4147007||masa localizada
+4147007||tumoración
+414639009||halo perimacular
+414478003||aumento del número de leucocitos en sangre
+414478003||leucocitosis
+414400006||hernia de amígdala cerebelosa en el agujero magno
+414391001||mucosa hemorrágica del estómago
+414391001||mucosa gástrica hemorrágica
+41413006||cefalea temporal
+413254002||congestión de la mucosa
+410730009||trastorno de la región vertebral
+410428008||nivel muy bajo de higiene personal
+409774005||morfología inflamatoria
+40969002||pulso periférico normal
+409674002||tiempo de protrombina aumentado
+409668002||fotofobia
+409609008||infiltrado pulmonar en imagen radiológica
+409609008||infiltrado pulmonar
+40917007||confusión
+40917007||confundido
+409054008||alteración de la perfusión tisular
+408573005||resultado de estudio de diagnóstico por imágenes normal
+408568004||tomografía computarizada cerebral - normal
+408568004||TAC cerebral - normal
+40835002||vómito en borra de café
+40835002||emesis en borra de café
+40835002||vómito de sangre digerida
+40709005||lumbalgia
+40709005||lumbago
+40709005||dolor lumbar
+40709005||síndrome de dolor en la región inferior de la espalda
+406602003||infección causada por Staphylococcus aureus
+406124004||falta de conciencia
+406124004||falta de consciencia
+406117000||antígeno de superficie de la hepatitis B, enzimoinmunoanálisis positivo
+406117000||antígeno de superficie de la hepatitis B, ELISA positivo
+406117000||HBsAg, enzimoinmunoanálisis positivo
+406117000||antígeno de superficie de la hepatitis B, inmunoanálisis ligado a enzimas positivo
+406117000||antígeno de superficie de la hepatitis B, análisis inmunoabsorbente ligado a enzimas positivo
+406117000||antígeno de superficie de la hepatitis B, ensayo inmunoabsorbente ligado a enzimas positivo
+406109008||enzimoinmunoanálisis para el virus de la inmunodeficiencia humana, positivo
+406109008||ELISA para HIV, positivo
+406108000||enzimoinmunoanálisis para el virus de la inmunodeficiencia humana, negativo
+406108000||ELISA para VIH, negativo
+406105002||virus de la hepatitis C, enzimoinmunoanálisis negativo
+406105002||virus de la hepatitis C, ELISA negativo
+406105002||VHC, enzimoinmunoanálisis negativo
+406105002||virus de la hepatitis C, inmunoanálisis ligado a enzimas negativo
+406105002||virus de la hepatitis C, análisis inmunoabsorbente ligado a enzimas negativo
+406105002||virus de la hepatitis C, ensayo inmunoabsorbente ligado a enzimas negativo
+406104003||virus de la hepatitis C, enzimoinmunoanálisis positivo
+406104003||virus de la hepatitis C, ELISA positivo
+406104003||VHC, enzimoinmunoanálisis positivo
+406104003||virus de la hepatitis C, inmunoanálisis ligado a enzimas positivo
+406104003||virus de la hepatitis C, análisis inmunoabsorbente ligado a enzimas positivo
+406104003||virus de la hepatitis C, ensayo inmunoabsorbente ligado a enzimas positivo
+406010001||antígeno de superficie de la hepatitis B, negativo
+406010001||HBsAg, negativo
+405740000||enzima o marcador cardíaco elevado
+405729008||enterorragia
+405729008||deposición con sangre
+405729008||sangre roja en heces
+405729008||rectorragia
+405258007||desplazamiento dental
+405258007||desplazamiento de diente
+404640003||mareado
+404200001||masa abdominal central
+403597003||alodinia cutánea
+40226000||deterioro
+40226000||daño
+40226000||debilitamiento
+40226000||lesión física
+400037008||trastorno de piel perianal
+399858007||retina-hallazgo
+399647000||metástasis en ganglio linfático no regional
+399643001||nivel de alfa-fetoproteína sérica elevado
+399406009||nivel sérico de marcador tumoral dentro de límites normales
+399194009||trastorno caracterizado por dolor de espalda
+399153001||vértigo
+399122003||problema de deglución
+39898005||trastorno del sueño
+398979000||tez pálida
+398637008||retina normal
+398600002||erupción centrífuga
+398600002||exantema centrífuga
+398600002||rash centrífugo
+398600002||sarpullido centrífugo
+39832008||manchas retinianas algodonosas
+39832008||exudados retinianos
+39832008||exudados algodonosos
+39832008||placas algodonosas
+398316009||uraco permeable
+398057008||cefalea de tipo tensional
+398057008||cefalea por tensión
+398057008||cefalea tensional
+397542006||alteración visual moderada
+396877008||tumor quístico, parcialmente encapsulado
+396701002||nivel sérico de marcador tumoral-hallazgo
+396697000||nivel elevado de láctico deshidrogenasa sérica
+396560002||tumor hemorrágico
+396556000||tumor pigmentado
+396152005||antígeno prostático específico elevado
+39575007||orina oscura
+39565009||crisis de dolor
+395132000||derrame de quilo
+394924000||síntomas de depresión
+394924000||síntomas depresivos
+392612009||tinción de córnea con fluoresceína
+392315004||estrías de Vogt
+389087006||hipoxemia
+389026000||ascitis
+386806002||cognición alterada
+386806002||disfunción cognitiva
+386806002||déficit cognitivo
+386790008||trastorno de la eyaculación
+386789004||recuento elevado de eosinófilos
+386666001||pupilas simétricas y reactivas a la luz
+386665002||reacción pupilar normal
+3855007||trastorno del páncreas
+3855007||enfermedad del páncreas
+385472000||esquistocitosis
+38343000||dolor en la vagina
+38343000||dolor vaginal
+38138003||facies adenoidea
+37657006||trastorno del esófago
+37657006||enfermedad del esófago
+37480005||pliegue de la retina
+37480005||pliegue retiniano
+373680009||avulsión del cordón umbilical
+373423002||anestesia corneal
+373423002||sensibilidad corneal ausente
+37193007||deficiencia de factor VII
+37193007||deficiencia de factor estable
+371859008||hemodinamia del hemicardio derecho, normal
+3716002||bocio
+3716002||estruma tiroideo
+3716002||agrandamiento de la tiroides
+371436007||trastorno de órbita
+371405004||trastorno del globo ocular
+37125009||pupila dilatada
+37125009||midriasis
+37125009||pupila midriática
+371084005||mandíbula parcialmente edéntula
+371084005||maxilar inferior parcialmente edéntulo
+371030007||dolor torácico opresivo
+370549005||remodelación ósea
+370054008||invasión tumoral por extensión directa a otras estructuras
+367621000119107||hiperoxaluria
+367391008||malestar general
+367358004||inteligencia superior al promedio
+367358004||intelectualmente brillante
+366979004||estado de ánimo deprimido
+366346006||hallazgo relacionado con el tamaño de la mama
+366346006||tamaño de la mama - hallazgo
+366289008||hallazgo relacionado con la retracción del prepucio
+366289008||retracción del prepucio - hallazgo
+366263008||hallazgo relacionado con posición de riñón
+366263008||posición de riñón - hallazgo
+366235006||competencia del labio - hallazgo
+366226004||angulación de diente canino - hallazgo
+366216006||hallazgo relacionado con la perfusión arterial de la mano
+366216006||perfusión arterial de la mano - hallazgo
+366186008||aspecto del ventrículo izquierdo - hallazgo
+366014002||aspecto general de la conjuntiva del limbo - hallazgo
+366010006||hallazgo relacionado con el movimiento del párpado
+366010006||movimiento del párpado - hallazgo
+365853002||imágenes - hallazgo
+365708008||hallazgo relacionado con la presencia de Brucella
+365708008||presencia de brucella - hallazgo
+365707003||hallazgo relacionado con la presencia de antígeno viral
+365707003||presencia de antígeno viral - hallazgo
+365707003||hallazgo relacionado con la presencia de antígeno vírico
+365707003||presencia de antígeno vírico - hallazgo
+365706007||hallazgo relacionado con la presencia de antígeno microbiano
+365706007||presencia de antígeno microbiano - hallazgo
+365669006||hallazgo relacionado con la turbidez de un líquido
+365669006||turbidez de un líquido - hallazgo
+365634009||control de anticoagulación - hallazgo
+365599005||parásitos: serología - hallazgo
+365597007||hongos: serología - hallazgo
+365595004||virus: serología - hallazgo
+365590009||serología: organismo - hallazgo
+365031000||hallazgo relacionado con la capacidad para llevar a cabo las actividades de la vida diaria
+364852004||patrón electroencefalográfico generalizado - hallazgo
+363646005||mediastino ensanchado
+36191001||perforación
+36123008||osificación anormal
+36123008||formación ósea anormal
+360493007||piel anormal (especialmente de la cara)
+359746009||paciente estable
+35912001||aminoaciduria
+35885006||hiperuricemia
+35885006||uricacidemia
+35745008||secreción umbilical
+35425004||índice de masa corporal normal
+35240004||deficiencia de hierro
+3519007||trastorno de membrana sinovial
+3519007||trastorno sinovial
+35064005||heces oscuras
+35064005||heces negras
+35013009||secreción purulenta
+34887006||madarosis palpebral
+34887006||madarosis
+34887006||madarosis ciliar
+34887006||caída de las pestañas
+34615008||hematospermia
+34409000||hemorragia intraluminal vesical
+34409000||hemorragia en la luz de la vejiga
+343051000119108||ojo izquierdo ciego, baja visión en ojo derecho
+34095006||deshidratación
+34095006||síndrome de depleción de agua libre
+33958003||trastorno del pene
+33958003||enfermedad del pene
+33958003||enfermedad peniana
+33958003||trastorno peniano
+3391005||resultado negativo para presencia de células tumorales
+3391005||ausencia de células tumorales
+337541000119105||pérdida súbita de la visión del ojo izquierdo
+33653009||ausencia de sensación
+33653009||pérdida sensitiva
+33653009||anestesia
+33624008||hiperirritabilidad
+33431000119109||lesión de orofaringe
+33431000119109||lesión orofaríngea
+332982000||vómitos incontrolables
+332131000119107||defecto de sector de campo visual de ojo derecho
+33064008||trastorno de la esclerótica
+33005006||flujo retrógrado
+33005006||flujo vascular inverso
+330007||cefalea occipital
+330007||dolor de cabeza occipital
+32566006||dismetría
+31908003||sequedad de la vagina
+31908003||sequedad vaginal
+31788005||epífora por lagrimeo excesivo
+31788005||epífora por exceso de lagrimación
+315332001||proteína de Bence Jones no detectada
+315284009||masa de glándula parótida
+31515003||hipoventilación
+314983004||deterioro de la función renal
+314939008||patrón de sueño, apropiado
+31462008||polaquiuria
+31462008||frecuencia urinaria aumentada
+31462008||frecuencia miccional aumentada
+31462008||mayor frecuencia de micción
+314137006||nitritos urinarios positivos
+31401003||útero bicorne
+31401003||útero bífido
+31341008||hemorragia vítrea
+313387002||fonofobia
+313172000||colonoscopia anormal
+313170008||colonoscopia normal
+312999006||trastorno de la mácula de la retina
+312999006||enfermedad macular
+312999006||maculopatía
+312999006||trastorno de la mácula retiniana
+312895004||trastorno del íleon
+312895004||trastorno ileal
+312397004||pruebas de función tiroidea: normales
+31204009||calcificación de la vejiga
+31204009||vejiga calcificada
+31204009||calcificación vesical
+310814007||dificultades del habla
+310814007||dificultades en el discurso
+310342002||margen de resección libre
+309551005||sintomatología múltiple
+309532004||masa en la espalda
+309529002||masa en pulmón
+309528005||masa lumbar
+309525008||masa en extremidad superior
+309309002||hallazgos citológicos negativos
+309307000||hallazgos citológicos positivos
+309248004||pólipo vesical
+309248004||pólipo de la vejiga
+309089006||masa prostática
+309088003||masa renal
+309087008||parestesia del pie
+308925008||síntoma digestivo
+308923001||síntoma ocular
+308921004||síntoma neurológico
+308921004||síntoma del sistema nervioso
+30819006||ánimo disfórico
+30819006||disforia
+307811009||espécimen de materia fecal: cultivo negativo
+307811009||muestra de materia fecal: cultivo negativo
+307541003||síntomas de las vías urinarias inferiores
+30746006||linfadenopatía
+30746006||adenomegalia
+30746006||agrandamiento de los ganglios linfáticos
+307227006||retención gástrica
+307223005||trastorno de la vena porta
+307223005||trastorno portal
+30721006||temblor intencional
+30721006||temblor cerebeloso
+30721006||temblor volitivo
+30721006||temblor por acción
+30721006||temblor cinético
+307135001||masa en fosa ilíaca izquierda
+30704002||eritema en alas de mariposa
+30704002||eritema malar
+30704002||rash malar
+30704002||rash en alas de mariposa
+30704002||sarpullido en alas de mariposa
+30704002||sarpullido malar
+304299008||amplitud de movimiento del codo normal
+303011007||neutropenia - trastorno
+303011007||trastorno neutropénico
+302940000||absceso de vaina tendinosa
+302890002||rupturas retinianas múltiples
+30233002||deglución dolorosa
+30233002||odinofagia
+30233002||dolor al tragar
+302217008||trastorno de la cámara anterior del ojo
+302215000||trastorno trombocitopénico
+302200001||palidez de la papila óptica
+302200001||palidez del disco óptico
+302200001||palidez de la papila
+302060005||ganglio linfático y vasos linfáticos - hallazgo
+302031001||consistencia testicular normal
+301979008||hallazgo relacionado con la visión de los colores
+301979008||visión de los colores - hallazgo
+301961009||papila óptica normal
+301936006||cámara anterior del ojo: normal
+301924000||globo ocular normal
+301919003||exoftalmía presente
+301919003||presencia de exoftalmos
+301919003||exoftalmos presente
+301918006||hallazgo relacionado con la apariencia del globo ocular
+301918006||apariencia del globo ocular - hallazgo
+301913002||lesión de párpado
+301863008||cavitación pulmonar
+301459008||hemodinamicamente estable
+301404009||dolor a la palpación en hipocondrio derecho
+301403003||dolor a la palpación en epigastrio
+301368006||dolor en el hipocondrio izquierdo
+301368006||dolor hipocondrial izquierdo
+301367001||dolor en el hipocondrio derecho
+301367001||dolor hipocondrial derecho
+301345002||dificultad para dormir
+301314001||calota delgada
+301232003||lesión de pulmón
+301222005||cuerdas vocales normales
+301165004||pulso radial ausente
+301156006||pulso cubital presente
+301132007||ruidos cardíacos normales
+301111004||válvula tricúspide normal
+30098003||hiperemia
+30098003||congestión local
+30098003||ingurgitación
+30098003||ingurgitación vascular
+300863000||masa en la axila
+300862005||masa de una región del cuerpo
+300862005||masa en una región corporal
+300857009||masa de estructura de vías urinarias
+300854002||masa de cavidad oral
+300851005||masa de estructura respiratoria
+300849006||masa de estructura ocular
+300848003||tumoración de estructura corporal
+3006004||alteración de la consciencia
+3006004||perturbación de la consciencia
+3006004||consciencia deteriorada
+3006004||perturbación de la conciencia
+300578003||hallazgo relacionado con la cantidad de lesiones
+300578003||cantidad de lesiones - hallazgo
+300578003||número de lesiones - hallazgo
+300578003||hallazgo relacionado con el número de lesiones
+300569009||tumoración perineal
+300569009||masa perineal
+300563005||bazo presente
+300551000||fertilidad normal
+300531004||próstata de tamaño normal
+300527005||pene normal
+300515007||masa de pene
+300509007||cordón espermático - hallazgo
+300503008||epidídimo normal
+300499002||masa de epidídimo
+300493001||testículo normal
+300492006||lesión de testículo
+300479008||hallazgo genital
+300470007||hallazgo relacionado con el patrón de micción
+300470007||patrón de micción - hallazgo
+300441003||hallazgo relacionado con la apariencia de los riñones
+300441003||apariencia de los riñones - hallazgo
+300419003||defensa abdominal en el hipogastrio
+300419003||defensa abdominal en la región hipogástrica
+30041000119101||síntomas del tracto urinario inferior debidos a hipertrofia prostática benigna
+300401007||hallazgo relacionado con el contorno abdominal
+300401007||hallazgo relacionado con el perímetro abdominal
+300401007||perímetro abdominal - hallazgo
+300401007||hallazgo relacionado con la circunferencia abdominal
+300401007||circunferencia abdominal - hallazgo
+300401007||contorno abdominal - hallazgo
+300377009||no defeca
+300365004||vómito alimentario
+300357002||hallazgo relacionado con el páncreas
+300357002||páncreas - hallazgo
+300344005||vesícula biliar agrandada
+300339003||hallazgo relacionado con la vía biliar
+300339003||vía biliar - hallazgo
+300337001||hígado normal
+300331000||lesión hepática
+300324004||hallazgo relacionado con la apariencia del hígado
+300324004||apariencia del hígado - hallazgo
+300310003||observación del colon
+300310003||hallazgo relacionado con el colon
+300307005||hallazgo relacionado con el apéndice ileocecal
+300307005||apéndice - hallazgo
+300305002||estómago normal
+300287006||masa esofágica
+300269008||salivación normal
+300257000||lesión en glándula salival
+300243002||hallazgo relacionado con la apariencia de la lengua
+300243002||aspecto de la lengua - hallazgo
+300243002||apariencia de la lengua - hallazgo
+299932007||hallazgo relacionado con la sensibilidad vibratoria
+299932007||palestesia - hallazgo
+299932007||sensibilidad vibratoria - hallazgo
+299932007||hallazgo relacionado con la palestesia
+299866004||reflejo anal normal
+299736000||lesión intraespinal ocupante de espacio
+299736000||lesión expansiva intraespinal
+299736000||lesión expansiva intrarraquídea
+299729001||hallazgo relacionado con las meninges
+299729001||meninges - hallazgo
+299728009||desplazamiento de la línea media del cerebro
+299704007||tumoración de la cara
+299703001||masa en el cuello
+299661006||asimetría de la pelvis
+299513007||articulación del pie - dolorosa al movimiento
+299372009||articulación de la rodilla dolorosa a la palpación
+299190001||amplitud de oposición pasiva del pulgar normal
+299190001||arco de oposición pasiva del pulgar normal
+299112005||articulación de dedo de la mano dolorosa al movimiento
+299072000||amplitud de flexión pasiva de dedo de la mano disminuida
+299072000||arco de flexión pasiva de dedo de la mano disminuido
+299061005||hallazgo relacionado con articulación de dedo de la mano
+299061005||articulación de dedo de la mano - hallazgo
+299060006||tumefacción de dedo de la mano
+299042006||debilidad de la mano
+299017002||articulación de la muñeca dolorosa a la palpación
+299016006||articulación de la muñeca estable
+298966005||amplitud de extensión pasiva de la muñeca aumentada
+298966005||arco de extensión pasiva de la muñeca aumentado
+298945002||deformidad de la articulación de la muñeca
+298928007||articulación del codo dolorosa a la palpación
+298750003||hallazgo relacionado con la sensibilidad del miembro superior
+298750003||sensibilidad del miembro superior - hallazgo
+298740004||costilla dolorosa a la palpación
+298692000||prueba de Lasègue positiva
+298692000||prueba de Lasegue positiva
+298690008||prueba de estiramiento del nervio ciático negativa
+29857009||dolor de pecho
+298391004||deformidad de la columna vertebral cervical
+298378000||hallazgo en la región del cuello
+298378000||región del cuello - hallazgo
+298312007||equilibrio normal
+298255009||dolor en el movimiento articular
+29740003||marasmo nutricional
+29740003||atrepsia
+29740003||marasmo del lactante
+29740003||atrofia marántica
+29740003||atrofia nutricional
+29740003||desnutrición severa
+29740003||marasmo
+29740003||desnutrición proteicocalórica
+29740003||pedatrofia
+29740003||atrofia infantil primaria
+29738008||proteinuria
+29738008||presencia anormal de proteínas en orina
+297265001||respuesta verbal inapropiada
+297217002||dolor costal
+297217002||dolor de costilla
+297209005||ruido intestinal timpánico
+297128006||dolor de nuca
+29647006||ruidos respiratorios anormales
+29647006||soplo respiratorio
+29647006||murmullo respiratorio
+29555009||trastorno de la retina
+29555009||trastorno retiniano
+29555009||enfermedad retiniana
+29384001||trastorno del estómago
+29384001||enfermedad del estómago
+29384001||enfermedad gástrica
+2901004||heces alquitranadas
+290084006||mama normal
+289875004||perineo rígido
+289847001||ovario normal
+289598001||vagina húmeda
+289517005||lesión vaginal
+289499007||vulva normal
+289318004||muñón umbilical que no cicatriza
+28928000||caquexia
+28928000||deterioro corporal general
+28928000||adelgazamiento extremo
+28743005||tos productiva
+28743005||tos bronquial
+286933003||estado de confusión
+286800009||carácter tranquilo
+286800009||temperamento tranquilo
+286720003||carácter sociable
+286402008||habla con fluidez
+286402008||habla fluidamente
+286395001||utiliza adecuadamente el lenguaje
+28630001||intervalo QRS acortado
+28630001||QRS acortado
+286279003||dificultad para articular palabras
+286246003||dificultad para utilizar procesos fonológicos
+285652003||lesión en la coroides
+28543008||visceromegalia
+28543008||esplacnomegalia
+285426000||gammapatía monoclonal por IgM de significación incierta
+285385002||dolor en hemitórax izquierdo
+285384003||deterioro general de la salud
+285384003||deterioro general del cuerpo
+285243004||pensamiento lento
+284520004||crepitaciones basales
+284272005||utiliza la pinza (movimiento de la mano)
+283830007||mordedura de animal en el tobillo
+28328005||marcaciones radiológicas
+28328005||densidad radiológica anormal
+282300003||se mantiene en equilibrio
+28221000119103||dolor de músculo abdominal
+281229000||lesión ocupante de sistema nervioso
+281229000||lesión ocupante de espacio de sistema nervioso
+28073009||presión aumentada del líquido cefalorraquídeo
+28073009||presión intracraneal aumentada
+28073009||aumento de la presión de líquido cefalorraquídeo
+280427006||síntoma psicótico presente
+280129003||trastorno de partes blandas de la cavidad torácica
+279992002||caídas recurrentes
+279315008||síntoma psicótico - hallazgo
+27925004||nódulo
+279093005||dolor cólico
+279084009||malestar torácico
+279038004||dorsalgia torácica
+278860009||lumbalgia crónica
+278849000||atrofia cerebral
+278693002||contenido gástrico aspirado en la vía respiratoria inferior
+278693002||presencia de contenido gástrico en la vía respiratoria inferior
+278469000||nistagmo inducido por intensidad del sonido
+277126002||hallazgo relacionado con potenciales evocados somatosensitivos
+277126002||potenciales evocados somatosensitivos - hallazgo
+277126002||potenciales provocados somatosensitivos - hallazgo
+277114007||potenciales evocados visuales simétricos
+276888009||respiración espontánea normal
+276596008||irritación cerebral
+276412008||testículo grande
+276412008||macrorquidia
+276411001||testículo pequeño
+276387009||próstata dura
+276386000||próstata firme
+276364001||problema para lograr una erección
+276362002||respira sin dificultad
+276331001||escroto grande
+275765006||piocitos en orina
+275734002||radiografía abdominal normal
+275730006||estudios urodinámicos normales
+275723000||deterioro del estado del paciente
+275302008||agrandamiento prostático, detectado por tacto rectal
+275295002||sialorrea - síntoma
+275295002||salivación excesiva - síntoma
+274891006||nivel anormal de metales pesados en sangre - hallazgo
+274770006||fosfatasa alcalina elevada
+274765004||examen rectal - no se detectaron anomalías
+274755005||tumefacción de cabeza y cuello
+274663001||dolor agudo
+274608007||reflejo cremastérico positivo
+274571007||ojo izquierdo ciego
+274571007||pérdida de visión del ojo izquierdo
+274521009||anormalidad en el electroencefalograma
+274279008||dolor renal
+274279008||dolor de riñón
+27369003||temblor masivo
+27355003||dolor de dientes
+27355003||odontalgia
+27355003||odontodinia
+27355003||dentalgia
+27272007||paladar ojival
+271835004||distensión abdominal, gaseosa
+271808008||edema generalizado
+271658004||frémito diastólico
+271658004||thrill diastólico
+271653008||ingurgitación venosa yugular
+271591004||completamente consciente
+271591004||totalmente consciente
+271591004||conciencia clara
+271350002||examen microscópico de orina: leucocitos presentes
+271350002||presencia de leucocitos en examen microscópico de orina
+271092002||deformidad del fémur
+271088009||deformidad del cúbito
+268375009||Mantoux: negativa
+268375009||PPD negativa
+267727004||ceguera o visión escasa - ambos ojos
+267447008||hiposmolalidad y/o hiponatremia
+267102003||síntoma de dolor de garganta
+267084003||inestabilidad presente
+267064002||retención de orina
+267053000||tenesmo
+267041004||tumefacción alrededor de los ojos
+267041004||tumefacción periorbitaria
+267041004||tumefacción periocular
+26544005||debilidad muscular
+26544005||fuerza muscular disminuida
+264867001||proteinuria nefrótica
+263108000||fractura-subluxación semilunar
+262795007||desgarro de cápsula de hígado
+262522002||lesión de columna cervical
+26079004||temblor
+26079004||temblor involuntario
+26079004||sacudida
+260246004||hallazgo relacionado con la agudeza visual
+25658005||trastorno de la vagina
+25658005||enfermedad de la vagina
+25658005||trastorno vaginal
+25658005||enfermedad vaginal
+25488008||signos electrocardiográficos de hipertrofia de ventrículo izquierdo
+25488008||signos electrocardiográficos de hipertrofia ventricular izquierda
+25488008||signos electrocardiográficos de hipertrofia del ventrículo izquierdo
+25488008||ECG con signos de HVI
+253883006||quistes renales múltiples
+253330006||conducto venoso permeable
+252030006||micción disfuncional
+252030006||disfunción miccional
+251768002||imagen residual
+251503006||punta-onda focal episódica
+251503006||espiga-onda focal episódica
+251496007||actividad theta focal episódica
+251479006||descargas epileptiformes periódicas bilaterales
+251471009||trazado electroencefalográfico de baja amplitud
+251471009||trazado del EEG de baja amplitud
+251387006||tolerancia gastrointestinal - hallazgo
+251387006||tolerancia digestiva - hallazgo
+251150006||ritmo sinusal
+25064002||cefalea
+25064002||dolor de cabeza
+25064002||cefalalgia
+25064002||cefalodinia
+250243009||dacriocitosis
+250098005||compromiso oligoarticular
+250098005||compromiso pauciarticular
+25003006||acrocianosis
+25003006||enfermedad de Crocq
+249990003||inestable en bipedestación
+249990003||inestable al estar de pie
+249968003||movimiento de agitación de pierna
+249939004||debilidad de músculos proximales
+24982008||diplopía
+24982008||visión doble
+249757009||desviación cubital de la mano
+249641001||esfínter anal intacto
+249632006||mucosa anal - hallazgo
+249604002||hallazgo de próstata
+249597005||hallazgo de recto
+249597005||hallazgo rectal
+249585009||hallazgo de vejiga
+249585009||hallazgo vesical
+249578005||hallazgo de riñón
+249572006||bazo palpable
+249565005||hallazgo relacionado con el hígado
+249565005||hallazgo hepático
+249561001||órgano abdominal - hallazgo
+249554000||matidez abdominal localizada a la percusión - hallazgo
+249545003||defensa abdominal
+249543005||abdomen blando
+249400000||mucosa oral - hallazgo
+249380003||lengua pequeña
+249366005||sangrado de la nariz
+249366005||hemorragia de la nariz
+249366005||sangrado nasal
+249366005||epistaxis
+249355003||cornete nasal - hallazgo
+249321001||nariz ancha
+249316004||desviación nasal
+249302009||meato uretral - hallazgo
+249301002||sangrado por uretra
+249300001||hallazgo uretral
+249274008||síntomas urinarios
+249244000||hallazgo de pene
+249236000||hallazgo testicular
+249232003||hallazgo relacionado con el escroto
+249232003||escroto - hallazgo
+249230006||hallazgo de los genitales masculinos
+248772002||erección matutina
+248727005||hallazgo venoso
+248690009||sonidos cardíacos agregados
+248568003||aleteo nasal
+248554005||vía aérea parcialmente obstruida
+248523006||masa rectal
+248514008||tumoración en párpado
+248509009||masa en el iris
+248487006||tumefacción de papila óptica
+248445009||fiebre, variación diurna
+248374004||cráneo amplio
+248328003||alta estatura
+248328003||talla alta
+248324001||bien nutrido
+248251001||sangra fácilmente
+248248008||manos sudorosas
+248218005||despierto
+248214007||aspecto ictérico de la cara
+248196002||facies patognomónica
+247973004||conducta desinhibida
+247910009||inquietud
+247663003||orientado
+247537000||distribución masculina del vello pubiano
+247537000||distribución masculina del vello pubiano en rombo
+247475002||vasos sanguíneos dilatados en la piel
+247475002||venas visibles en la piel
+247440002||lesión de la piel o mucosa
+247404004||alodinia
+247404004||respuesta dolorosa a estímulos no dolorosos
+247398009||dolor neuropático
+247348008||dolor a la palpación
+247328001||sensible al tacto
+2472002||anuria
+2472002||ausencia de volumen urinario
+2472002||ausencia de excreción urinaria
+247199007||esclerosis de la coroides
+247143009||hallazgo relacionado con la mácula
+247138002||manchas retinianas
+247131008||depósitos de lípidos en retina
+247131008||depósitos lipídicos en la retina
+247103004||hallazgo relacionado con la retina y la coroides
+247044000||hallazgo del cuerpo ciliar
+247025007||hallazgo del iris
+246992005||inflamación de la cámara anterior
+246973008||hallazgo relacionado con la esclerótica y la epiesclerótica
+246966003||hallazgo del endotelio corneal
+246932007||hallazgo del epitelio corneal
+246912006||órbita - hallazgo
+246838007||exceso de grasa orbitaria
+246829005||adherencias palpebrales
+246829005||adherencias de los párpados
+246723000||equilibrio de los músculos oculares, normal
+246659002||escotoma periférico
+246655008||diplopía con ambos ojos abiertos
+246655008||visión doble con ambos ojos abiertos
+246655008||diplopía binocular
+246636008||visión borrosa
+246635007||visión débil
+246595001||raíz de nervio espinal - hallazgo
+24612001||sibilancias - roncus
+24411000119104||tumefacción de triángulo submandibular
+24411000119104||hinchazón de triángulo submandibular
+24361006||retracción del mediastino
+24361006||retracción mediastínica
+24199005||agitación
+24199005||desazón
+238812004||trastorno exantematoso
+23839001||derrame quiloso
+238159008||desaturación sanguínea
+238131007||sobrepeso
+237783006||masa suprarrenal
+237783006||masa adrenal
+237727005||defecto de osmorregulación - polidipsia
+237557003||tumoración tiroidea
+237557003||masa tiroidea
+237475004||filtración de implante mamario
+236763001||trastorno de testículo y epidídimo
+236714000||trastorno sintomático del tracto urinario
+236710009||cálculo en la pelvis renal
+236423003||disfunción renal
+236423003||compromiso de la función renal
+236423003||fallo renal
+235993005||colección intrabdominal
+235993005||colección peritoneal
+235749000||colitis por citomegalovirus
+235749000||colitis por CMV
+235106005||desviación mandibular
+235082006||asimetría de mandíbula
+235082006||asimetría de maxilar inferior
+235013007||anormalidad de cresta alveolar
+234948008||diente ausente
+234947003||trastorno de diente
+234947003||enfermedad de diente
+234184000||filtración paravalvular de prótesis cardíaca
+234131004||anomalía vascular esplenoportal
+234104002||filtración de linfa
+234003006||hemorragia arterial
+23397005||crecimiento y desarrollo normal para la edad
+233928007||disfunción miocárdica
+233786002||estenosis traqueal adquirida
+23298002||megacolon adquirido en adultos
+23298002||megacolon idiopático en adultos
+23267004||acromía de la piel
+23267004||despigmentación de la piel
+232209000||obstrucción nasal
+232122003||defecto pupilar aferente relativo
+232121005||defecto pupilar aferente
+231998005||pliegue coroideo
+231929005||degeneración epitelial de la córnea
+231911000||vascularización corneal superficial
+230759001||edema cerebral vasogénico
+230156002||meningitis maligna
+230156002||meningitis carcinomatosa
+230156002||meningitis neoplásica
+230156002||carcinomatosis meníngea
+230145002||dificultad para respirar
+23011003||afasia global
+23011003||afasia expresiva - receptiva
+23011003||afasia pictórica
+23011003||afasia central
+23011003||afasia cortical
+228453005||activo sexualmente
+228158008||discapacidad para caminar
+228155006||discapacidad para alimentarse
+22803001||función respiratoria normal
+22803001||respiración normal
+22803001||eupnea
+22641006||derrame seroso
+225606002||movimiento anormal
+225581002||deterioro visual
+224954004||extrovertido
+2237002||dolor pleurítico
+2237002||pleurodinia
+2237002||pleuralgia
+2237002||dolor pleural
+22325002||marcha anormal
+22325002||anomalía de marcha
+223176004||trastorno cerebeloso
+22253000||dolor
+22006008||hipertelorismo ocular
+22006008||hipertelorismo orbitario
+218951000119100||alteración visual bilateral
+218951000119100||alteración visual en ambos ojos
+21829004||signo O síntoma vascular
+21829004||hallazgo vascular
+21829004||observación vascular
+21762000||flujo vascular disminuido
+21762000||flujo sanguíneo disminuido
+21522001||dolor abdominal
+213257006||estado de salud general malo
+213257006||sensación general de enfermedad
+211649008||cuerpo extraño en la vejiga
+21124006||signo de Phalen
+210038008||lesión cerebral focal
+20793008||omalgia
+20793008||escapulalgia
+20793008||escapulodinia
+20793008||dolor escapular
+20793008||dolor de omóplato
+20610004||parálisis de cuarto nervio craneal
+20610004||parálisis de nervio troclear
+20610004||parálisis de cuarto nervio craneano
+20610004||parálisis de nervio patético
+20602000||ánimo indiferente
+20602000||conducta apática
+20602000||apatía
+20602000||desapego
+20602000||apático
+20602000||humor indiferente
+20602000||conducta indiferente
+20602000||indiferencia
+20502007||dolor en escroto
+20502007||dolor escrotal
+204806003||agenesia de páncreas
+204806003||agenesia pancreática
+20462008||ameloblastoma
+20462008||adamantinoma (excepto de tibia y huesos largos, M - 92613)
+2032001||edema cerebral
+2032001||tumefacción intracraneal
+2032001||edema de cerebro
+202824000||inestabilidad de la columna vertebral lumbar
+20262006||ataxia
+20262006||ataxia (pérdida de coordinación muscular)
+201281002||mancha de color café con leche
+201281002||manchas de color café con leche
+2004005||presión arterial normal
+2004005||tensión arterial normal
+2004005||normotensión
+19900004||visión periférica disminuida
+198319004||útero de tamaño aumentado
+198319004||útero agrandado
+197942003||hematuria con presencia de coágulos
+197941005||hematuria macroscópica
+197941005||hematuria franca
+197941005||macrohematuria
+197940006||hematuria microscópica
+197940006||microhematuria
+197679002||enfermedad glomerular
+19730000||consistencia anormalmente dura
+19730000||endurecimiento
+19657006||desorientación temporal
+19657006||desorientación en el tiempo
+19657006||alteración de la orientación en el tiempo
+19532005||atonía muscular
+195217004||accidente cerebrovascular del hemisferio cerebral derecho
+195217004||ACV del hemisferio cerebral derecho
+195216008||accidente cerebrovascular del hemisferio cerebral izquierdo
+195216008||ACV del hemisferio cerebral izquierdo
+195182007||oclusión de arteria vertebral
+193967004||edema palpebral
+193967004||tumefacción palpebral
+193967004||tumefacción de párpado
+193722001||visión escasa en ambos ojos
+193071004||adherencias de meninges cerebrales
+18618006||aura
+18618006||aura - observación
+18460000||función normal del sistema nervioso
+18460000||función neurológica normal
+18265008||exoftalmía
+18265008||exoftalmos
+18265008||proptosis
+18165001||ictericia
+18115005||calcificación patológica - estructura calcificada
+18115005||calcificación patológica
+17971005||sedado
+17971005||bajo sedación
+17928001||proteinuria de cadenas livianas
+176271000119108||bilirrubina total elevada
+17585008||atrofia de testículo
+17585008||atrofia testicular
+17450006||mioclono
+170763003||diabetes - buen control
+170728008||agudeza visual disminuida
+16973004||cojera
+169254007||ecografía normal
+169240004||ecocardiograma normal
+169082008||resonancia magnética nuclear normal
+169064005||tomografía axial computarizada normal
+169064005||TAC normal
+169030006||tomografía anormal
+168965003||venografía normal
+168851001||pielografía intravenosa normal
+168838006||enema de bario: normal
+168833002||seriada gastrointestinal con bario, normal
+168833002||seriada gastrointestinal normal
+168749009||mamografía normal
+168733007||radiografía estándar de tórax, normal
+168703000||radiografía simple de abdomen: normal
+168687005||radiografía simple de pie: normal
+168661005||radiografía simple de articulación de la cadera: normal
+168500000||resultado de radiología: normal
+168379004||prueba de la urea en el aliento para Helicobacter, negativa
+168358004||cultivo de hisopado vaginal: positivo
+168344001||cultivo de hisopado uretral: negativo
+168288005||cultivo del hisopado de ojo positivo
+168208008||virus identificado en la muestra
+168208008||muestra: virus identificado
+168208008||espécimen: virus identificado
+168208008||virus identificado en el espécimen
+168201002||bacterias sensibles en la muestra
+168201002||muestra: bacteria sensible
+168201002||bacterias sensibles en el espécimen
+16813005||hiperuricosuria
+16813005||uricaciduria
+167996009||estudio microscópico del esputo - no se detectaron anomalías
+167987009||esputo: no infectado
+167939004||megacariocitos en médula ósea, anormales
+167927007||médula ósea con hiperplasia mieloide
+167899003||líquido sinovial: contenido anormal
+167884003||líquido sinovial: turbio
+167863008||examen de líquido sinovial, anormal
+167768009||examen de semen: normal
+167735002||líquido cefalorraquídeo: proteínas aumentadas ++
+167735002||LCR: proteínas aumentadas ++
+167707001||aspecto límpido del líquido cefalorraquídeo
+167707001||aspecto del LCR (líquido cefalorraquídeo) límpido
+167703002||líquido cefalorraquídeo: examen normal
+167703002||LCR: examen normal
+16763008||hemorragia de hígado
+16763008||sangrado hepático
+16763008||hemorragia hepática
+167596001||examen de heces: normal
+167583002||microalbúmina en orina, negativa
+167568007||cultivo de orina: ausencia de crecimiento
+167568007||urocultivo: ausencia de crecimiento
+167288007||prueba de cuerpos cetónicos en orina: trazas
+167275009||prueba de proteínas en orina = +
+167244000||densidad de la orina, alta
+167244000||densidad urinaria, alta
+167222005||resultado anormal de análisis de orina
+167222005||análisis de orina = anormal
+167221003||análisis de orina: sin anormalidad
+167203001||prueba de absorción de D - xilosa, normal
+167019000||gases en sangre, normales
+167008003||ninguna sustancia tóxica en sangre
+166921001||glucemia normal
+166921001||normoglucemia
+166921001||glicemia normal
+166921001||normoglicemia
+166780008||proteínas séricas totales normales
+166717003||creatinina sérica elevada
+166716007||creatinina sérica normal
+166715006||creatinina sérica, baja
+166702002||nivel elevado de calcio sérico
+166701009||nivel normal de calcio sérico
+166692000||nivel de sodio sérico normal
+166685005||electrólitos normales
+166602006||pruebas de función hepática normales
+166558007||alfa - fetoproteína normal
+166478001||nivel de cortisol normal
+166336006||nivel de hormona tiroestimulante en suero, normal
+166336006||nivel de TSH en suero, normal
+16617009||disfonía
+166165005||estudios de anticuerpos normales
+166159005||antígeno prostático específico normal
+165996008||prueba de hepatitis A negativa
+165878000||título de autoanticuerpos negativo
+165851002||factor antinuclear negativo
+165851002||anticuerpo antinuclear negativo
+165840002||factor reumatoide negativo
+165816005||virus de la inmunodeficiencia humana positivo
+165816005||VIH positivo
+165816005||HIV positivo
+165815009||virus de la inmunodeficiencia humana negativo
+165815009||HIV negativo
+165815009||VIH negativo
+165806002||antígeno de superficie de hepatitis B positivo
+165806002||HBsAg positivo
+165773002||prueba de Coombs directa positiva
+165562007||pruebas de coagulación/sangrado normales
+165507003||recuento de leucocitos normal
+165468009||eritrosedimentación elevada
+165468009||ESD elevada
+165468009||VES elevada
+165414004||hematocrito - bajo
+165406005||hemograma completo normal
+165399006||hemoglobina normal
+165397008||hemoglobina baja
+165245003||camina de manera independiente
+165141001||gastroscopia normal
+165131004||resultado normal de biopsia quirúrgica
+165131004||biopsia quirúrgica normal
+164917005||onda Q electrocardiográfica anormal
+164917005||ECG: onda Q anormal
+164854000||electrocardiograma normal
+164734008||fundoscopia normal
+164727006||prueba visual normal
+164717000||electroencefalograma normal
+164179004||examen nasal normal
+164178007||examen de oído normal
+164177002||evaluación otorrinolaringológica - no se detectaron anomalías
+164177002||evaluación ORL - no se detectaron anomalías
+164177002||examen ORL - sin anomalías
+163352001||examen genitourinario - no se detectaron anomalías
+163133003||examen de abdomen - no se detectaron anomalías
+163133003||examen abdominal - no se detectaron anomalías
+16294009||esplenomegalia
+16294009||agrandamiento del bazo
+162504001||cólico
+162300006||cefalea unilateral
+162299003||cefalea generalizada
+162278001||moscas volantes en el campo visual
+162208002||lenguaje incoherente
+162189001||síntomas de nerviosismo general
+162189001||nerviosismo general, síntomas
+162128006||chorro urinario débil
+162053006||dolor suprapúbico
+162053006||dolor hipogástrico
+162052001||dolor en fosa ilíaca izquierda
+162051008||dolor en fosa ilíaca derecha
+162046002||dolor abdominal central
+162046002||dolor centroabdominal
+161992004||venas torácicas prominentes
+161991006||venas abdominales prominentes
+161977000||dolor del reborde costal
+161920001||síntoma respiratorio
+161815000||himen intacto
+161152002||problema social
+16080000||depósito de fibrina
+16079691000119105||estudio por imágenes del sistema nervioso central anormal
+160680006||movilidad completa
+160680006||se moviliza en forma independiente
+16000031000119101||trastorno de esclerótica de ojo izquierdo
+15933661000119109||lesión de trompa de Falopio derecho
+15930381000119104||edema de ambas papilas ópticas
+15930381000119104||edema de papila bilateral
+15929741000119101||disfunción de la mano derecha
+15758002||trastorno de las meninges
+15732321000119108||edema de ambos párpados
+15639231000119102||edema de la mácula retiniana de ambos ojos
+15639231000119102||edema macular bilateral
+15634971000119107||debilidad de ambas extremidades superiores
+15634971000119107||debilidad bilateral de extremidad superior
+15634971000119107||debilidad de ambos brazos
+155876003||riñón no funcionante
+15280003||ruidos intestinales disminuidos
+15280003||ruidos hidroaéreos intestinales disminuidos
+15253005||asimetría de la cara
+15241006||trastorno del sistema nervioso autónomo
+15241006||trastorno del sistema vegetativo
+15241006||disautonomía
+15232001||trama vascular pulmonar aumentada
+15232001||incremento de la trama vascular pulmonar
+15013002||moscas volantes
+14619009||foria
+14619009||estrabismo latente
+14619009||heteroforia concomitante
+14310000||secreción nasal purulenta
+14310000||rinorrea purulenta
+14151009||hiperestesia
+14151009||hiperestesia (sensibilidad aumentada)
+141000119100||somnolencia diurna
+14040001000004109||dolor no controlado
+139394000||nocturia
+1388004||alcalosis metabólica
+1386000||hemorragia intracraneal
+13791008||astenia
+13791008||debilidad general
+13791008||desgano
+13791008||abatimiento
+135819008||estado general de salud, muy malo
+135818000||estado general de salud, malo
+135817005||estado general de salud, regular
+135815002||estado general de salud, bueno
+134190002||zona gatillo miofascial
+134190002||zona gatillo
+13290001000004109||cultivo de esputo positivo para Aspergillus
+13164000||agudeza visual reducida
+131137002||disminución del nivel de inmunoglobulinas
+131089005||nivel de hormona tiroidea aumentado
+13045009||anisocoria
+129792006||distorsión estructural de la mama
+129741003||lesión mal definida
+129741003||lesión borrosa
+129741003||lesión de bordes indefinidos
+129734009||lesión de forma ovalada
+129734009||lesión ovoide
+129733003||lesión de forma redondeada
+129733003||lesión circular
+129623003||síndrome endotelial iridocorneal
+129606007||síndrome del lóbulo frontal
+129579005||flujo vascular en una derivación portoesplénica
+129139009||trastorno de la columna lumbar
+129139009||trastorno de la columna vertebral a nivel lumbar
+12856003||várice
+12856003||vena varicosa
+12856003||flebectasia
+128524007||trastorno del colon
+128524007||enfermedad del colon
+128491006||osificación heterotópica
+128419007||mineralización patológica
+128419007||estructura mineralizada de manera patológica
+128308005||opacidad radiológica
+128295000||trastorno inflamatorio del ojo
+128295000||trastorno ocular inflamatorio
+128295000||oftalmitis
+128234004||trastorno del maxilar
+128234004||trastorno del maxilar superior
+128233005||trastorno de la mandíbula
+128233005||trastorno del maxilar inferior
+128145008||hallazgo en las mucosas
+128139000||trastorno inflamatorio
+128139000||enfermedad inflamatoria
+128128003||trastorno de la corteza cerebral
+128128003||enfermedad de la corteza cerebral
+128127008||trastorno del sistema visual
+128073008||trastorno de uréter
+128071005||enfermedad de la región retroperitoneal, excepto de los órganos principales
+128071005||enfermedad del espacio retroperitoneal
+128071005||trastorno del retroperitoneo
+128071005||trastorno del retroperitoneo, que no compromete los órganos principales
+128052008||enfermedad vascular abdominal
+128052008||trastorno vascular abdominal
+128041002||trastorno del tejido celular subcutáneo
+128041002||enfermedad del tejido celular subcutáneo
+12772003||visión periférica anormal
+127563002||hemorragia escasa
+127355002||albúmina disminuida
+127086001||linfadenopatía cervical
+127002001||neoplasia de la retina
+127002001||tumor de la retina
+126903003||neoplasia del conducto deferente
+126860002||neoplasia de la cabeza del páncreas
+126842002||neoplasia del colon transverso
+126636004||neoplasia de la región supraclavicular
+126634001||neoplasia mandibular
+12584003||dolor óseo
+12584003||ostealgia
+12584003||osteodinia
+12532009||malestar
+12532009||malestar corporal indefinido
+12532009||malestar corporal impreciso
+125163009||fractura en consolidación
+125139001||masa tumoral blanda
+125139001||tumor blando
+125134006||densidad radiológica anormal, área reducida
+125132005||densidad radiológica anormal, nodular
+125129007||densidad radiológica anormal, irregular
+124734007||hallazgo en el perineo
+124734007||observación en el perineo
+124078008||nivel de bilirrubina disminuido
+123824001||ruidos cardíacos anormales
+123824001||tonos cardíacos anormales
+123791008||fibrinógeno en sangre por encima del rango de referencia
+123791008||nivel de fibrinógeno elevado
+123729002||viruria
+123640000||sequedad de las membranas mucosas
+123640000||sequedad de las mucosas
+12326000||acidosis respiratoria
+1231489009||desviación de línea media de arco dental maxilar
+1231489009||desviación de línea media del arco dental superior
+1231193005||electrooculograma normal
+1231186006||lateropulsión ocular
+1231186006||hipermetría de sacadas con hipometría de sacadas contralateral
+12241791000119109||ambos ojos rojos
+12241791000119109||ojos rojos bilaterales
+1217294009||opacidad pulmonar en vidrio deslustrado
+1217294009||opacidad en vidrio deslustrado
+1217294009||opacidad pulmonar en vidrio esmerilado
+1217293003||broncograma aéreo
+121000119106||lesión de piel de cara
+1209208002||palidez de piel de cara
+1209208002||palidez facial
+1204256006||masa en encía
+1204256006||masa gingival
+119971000119104||proteína C reactiva elevada
+1197782006||hipertermia
+1197659000||síndrome de dolor en epigastrio
+1197659000||síndrome de dolor epigástrico
+1196999009||masa en paladar
+11934000||ptosis de párpado
+11934000||ptosis palpebral
+11934000||párpado caído
+11934000||blefaroptosis
+119247004||hipoalbuminemia
+118954006||hallazgo en el cartílago
+118945008||trastorno del cráneo
+118945008||enfermedad del cráneo
+118945008||trastorno craneal
+118940003||trastorno del sistema nervioso
+118940003||enfermedad del sistema nervioso
+118940003||enfermedad neurológica
+118935006||trastorno de la cadera
+118935006||enfermedad de la cadera
+118932009||trastorno del pie
+118932009||enfermedad del pie
+118931002||trastorno del flanco
+118931002||enfermedad del flanco
+118930001||trastorno facial
+118930001||enfermedad de la cara
+118930001||enfermedad facial
+118930001||trastorno de la cara
+11833005||tos seca
+118244001||hallazgo por percusión
+118235002||hallazgo ocular / visual
+118235002||hallazgo relacionado con los ojos y/o la visión
+118228005||hallazgo funcional
+117294002||aglutinación trombocítica
+117294002||aglutinación plaquetaria
+117294002||aglutinaciones plaquetarias
+117261000119108||microlitiasis testicular
+11718531000119109||retracción de ambos párpados superiores
+11718531000119109||retracción bilateral de párpados superiores
+1163581009||nódulo de paladar blando
+1163581009||nódulo en velo del paladar
+116337000||hallazgo en la cavidad bucal
+116337000||hallazgo relacionado con la boca
+116337000||hallazgo relacionado con la cavidad oral
+116312005||hallazgo relacionado con el miembro inferior
+116312005||miembro inferior - hallazgo
+116311003||hallazgo relacionado con la región de la mano
+116311003||región de la mano - hallazgo
+116290004||dolor abdominal agudo
+1162602001||amplificación de gen de receptor 2 de factor de crecimiento epidérmico detectada
+1162602001||amplificación de gen HER2 (human epidermal growth factor receptor 2) detectada
+1157297002||examen ginecológico normal
+1153487008||creatina cinasa dentro del rango de referencia
+1153487008||creatinquinasa dentro del rango de referencia
+115239009||tumor de hueso
+11512006||función sexual normal
+1151008||constricción del campo visual
+1151008||estrechamiento del campo visual
+1149248007||mucosa oral intacta
+1148973008||función neurovascular periférica normal
+1148838007||función cardíaca normal
+1148806002||función normal del sistema inmunológico
+1148806002||función del sistema inmunológico normal
+1148582006||hallazgo relacionado con la función renal
+1144674006||adecuadamente hidratado
+1144586002||dolor aumentado
+1144586002||aumento del dolor
+1144586002||más dolor
+1144523008||tolerancia normal a la actividad
+1144523008||tolerancia a la actividad normal
+1144522003||tolera la dieta
+1144522003||tolerancia a la dieta
+11441004||prostatismo
+1137685003||perfusión tisular normal
+112630007||facies anormal
+112222000||presión intraocular aumentada
+112222000||presión intraocular elevada
+112222000||aumento de la presión intraocular
+112081000119108||examen ocular centrado en el problema, normal
+111975006||intervalo QT prolongado
+111953009||postura antálgica
+111953009||actitud antálgica
+111953009||posición antálgica
+11114002||gingivalgia
+11114002||dolor gingival
+11114002||encías dolorosas
+11114002||dolor de encías
+11092001||taquicardia sinusal
+110342004||eritema gingival
+110342004||eritema de la encía
+110299009||higiene oral deficiente
+110279003||enfermedad inactiva luego de la terapia
+110015006||lesión de pene
+110015006||lesiones de pene
+110015006||lesiones penianas
+109983007||gammapatía monoclonal
+109983007||gammapatía monoclonal (clínica)
+109803005||anomalía labial adquirida
+109803005||anomalía adquirida de los labios
+109677007||luxación dental lateral
+109677007||desplazamiento lateral de diente
+109639001||limitación para abrir la boca
+109639001||capacidad limitada para abrir la boca
+109588005||resorción de vértice de raíz dental
+109536003||exfoliación demorada de un solo diente
+109495004||mordida cruzada
+108369006||tumor
+1082431000119108||dilatación adquirida de conducto biliar
+10683471000119104||masa subcutánea de cabeza
+10683471000119104||tumoración subcutánea de cabeza
+10675001||frecuencia normal del pulso
+106150003||hallazgo en nervio craneal
+106145009||hallazgo en el sistema nervioso motor
+106144008||hallazgo de las neuronas Y/O de las fibras nerviosas
+106144008||hallazgo de las células nerviosas Y/O de las fibras nerviosas
+106030000||hallazgo relacionado con el músculo
+106030000||hallazgo muscular
+10601006||dolor de extremidad inferior
+10601006||dolor de pierna
+10601006||dolor de miembro inferior
+105821000119107||inmunidad contra paperas por serología positiva
+105719004||discapacidad física Y/O estado de insuficiencia
+105597003||ceguera Y/O nivel de deterioro de la visión
+103625009||inflamación localizada
+103268003||ojeras
+103251002||motilidad ocular normal
+103251002||movimiento normal del ojo
+103013007||dolor ardiente
+103002009||sensación de frío y calor
+103002009||calor y frío
+102968003||potencial evocado visual anormal
+102968003||potencial provocado visual anormal
+102962002||potencial evocado anormal
+102962002||potencial provocado anormal
+102957003||hallazgo neurológico
+102957003||hallazgo en sistema nervioso
+102893002||excitabilidad
+102835006||dificultad en la micción
+102835006||dificultad para orinar
+102834005||micción normal
+102628000||dolor de vesícula
+102628000||dolor vesicular
+102614006||dolor abdominal generalizado
+102614006||dolor abdominal general - síntoma
+102608004||apetito alimentario excesivo
+102608004||apetito excesivo
+102591006||dolor de la pared torácica a la palpación
+102588006||dolor de la pared torácica
+102587001||dolor de pecho agudo
+102576009||edema de pie
+102576009||edema podal
+102572006||edema de la extremidad inferior
+102572006||edema del miembro inferior
+102570003||dolor inguinal
+102570003||inguinodinia
+102570003||dolor en la ingle
+102569004||amplitud del movimiento de la cadera disminuida
+102568007||paresia de la extremidad inferior
+102568007||debilidad muscular de la extremidad inferior
+102568007||paresia del miembro inferior
+102568007||debilidad muscular del miembro inferior
+102558002||edema de la extremidad superior
+102558002||edema del miembro superior
+102499006||en forma y bien
+102499006||estado de buena salud
+102499006||estado saludable
+102031000119109||masa paratesticular
+1003772006||flora normal de faringe
+10017004||desgaste oclusal de los dientes
+10017004||desgaste oclusal de diente
+418844005||ecografía y drenaje de próstata
+418844005||ultrasonido y drenaje de próstata
+309306009||hallazgo microbiológico negativo
+274667000||dolor mandibular
+274643008||palidez corporal
+274643008||palidez
+271823003||taquipnea
+271782001||somnolencia
+271594007||síncope
+271594007||desmayo
+268926000||examen del aparato respiratorio - no se detectaron anomalías
+267038008||edema
+257552002||inflamación
+235719002||intolerancia alimentaria
+165232002||incontinencia vesical
+162010006||sin problemas bucales
+14760008||estreñimiento
+14760008||constipación
+131148009||hemorragia
+131148009||sangrado
+130951007||retención de orina en la vejiga
+112638000||desplazamiento

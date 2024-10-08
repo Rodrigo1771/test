@@ -1,0 +1,30 @@
+When the entity annotation starts at the middle of the word, instead of the beginning.
+
+Track1:
+    Train:
+        es-S0210-48062004000500011-1.txt    1084    infoma
+        es-S0210-48062006000900014-1.txt    2570    el
+        es-S0211-69952017000200225-2.txt    891     esiones
+        es-S0212-71992006000900007-1.txt    2300    eagudización
+        es-S1134-80462014000300004-4.txt    281     billo
+    Dev:
+        casos_clinicos_cardiologia178.txt   4105    eak
+        casos_clinicos_cardiologia255.txt   2901    entrículo
+        casos_clinicos_cardiologia435.txt   6961    eak
+        casos_clinicos_cardiologia542.txt   4885    nsuficiencia
+Track2:
+    Train:
+        en:
+            none
+        es:
+            none
+        it:
+            none
+    Dev:
+        en:
+            casos_clinicos_cardiologia393.txt   1438    nsulin
+            casos_clinicos_cardiologia92.txt    4126    g
+        es:
+            casos_clinicos_cardiologia493.txt   3407    g
+        it:
+            none

@@ -1,0 +1,1544 @@
+43498006||ritenzione di liquidi generalizzata
+8943002||aumento di peso
+225581002||grave perdita della vista
+15639231000119102||edema maculare diffuso bilaterale di grado severo
+15639231000119102||edema maculare bilaterale
+312895004||ileo terminale con pareti ispessite e segni di proliferazione vascolare
+300848003||masse
+3391005||negatività per le cellule maligne
+NO_CODE||citologia emorragica
+NO_CODE||citologia emorragica
+NO_CODE||citologia emorragica
+NO_CODE||citologia emorragica
+722998005||corteccia vegetativa
+274643008||pallore mucocutaneo
+410730009||massa prevertebrale
+84387000||asintomatico
+301459008||emodinamicamente stabile
+165406005||emogramma normale
+359746009||stabile
+425802001||versamento pleurico bilaterale
+50960005||materiale emorragico
+88400008||cellule neoplastiche
+88400008||cellule neoplastiche
+60046008||versamento pleurico
+21522001||dolore addominale
+95550001||ispessimento peritoneale
+285384003||deterioramento delle condizioni generali
+419099009||morto
+15013002||miodesopsie
+131148009||sanguinamento
+89362005||perdita di peso
+42984000||sudorazione notturna
+30233002||odinofagia
+64882008||febbre
+64882008||febbre
+235013007||nell'area incisale, una protuberanza
+303011007||neutropenia
+422400008||vomito
+84946008||prostrazione
+22253000||doloroso
+22253000||doloroso
+135819008||condizioni generali molto precarie
+422587007||nausea
+87273009||febbrile
+231911000||vascolarizzazione superficiale
+781682005||iperemia mista
+781682005||iperemia mista
+246932007||superficie epiteliale corneale liscia e regolare
+299060006||dolore e gonfiore al dito indice
+3519007||ipervascolarizzazione sinoviale
+65124004||gonfiore simmetrico
+58840004||diminuzione dell'intensità del rumore inspiratorio
+70407001||stridore
+70407001||stridore
+70407001||stridore
+70407001||stridore
+70407001||stridore
+422400008||vomito
+422400008||vomito
+1388004||alcalosi metabolica
+70407001||stridore residuo
+49233005||distress respiratorio
+49233005||distress respiratorio
+49233005||distress respiratorio
+135815002||buone condizioni generali
+169240004||L'ecocardiografia era normale
+225606002||movimenti anomali
+7939003||edema post-traumatico
+69061003||compressione estrinseca 2 cm sopra la carina
+53298000||ematuria
+422587007||nausea
+93457003||liquido libero intra-addominale
+422773005||instabilità emodinamica
+84454003||massa addominale
+414478003||leucocitosi
+78341006||neutrofilia
+45007003||ipotensione
+45007003||ipotensione
+309088003||massa renale
+102570003||dolore alla palpazione nel terzo medio della regione inguinale
+49218002||coxalgia
+427341007||dolore con l'esercizio fisico
+22253000||dolore
+22253000||dolore
+22253000||dolore
+22253000||dolore
+838412000||dolore alla palpazione dei punti sciatici
+428264009||dolore alla deambulazione
+879910002||La testa del femore presenta un piccolo isolotto osseo
+118954006||lieve alterazione subcondrale
+118935006||edema nell'acetabolo anterosuperiore
+271092002||deformità a forma di gobba nella regione cervico-cefalica del femore
+44991000119100||metrorragia
+419099009||morto
+25658005||coinvolgimento del terzo inferiore della vagina
+64882008||febbre
+48409008||ronchi e crepitii bilaterali
+414478003||leucocitosi
+64667001||pattern interstiziale micronodulare bilaterale diffuso
+64667001||coinvolgimento interstiziale micronodulare bilaterale
+167996009||Gli strisci di espettorato erano negativi
+66857006||emottisi
+66857006||emottisi
+3006004||alterazione del livello di coscienza
+16294009||splenomegalia omogenea
+249565005||parenchima epatico eterogeneo
+131148009||sanguinamento
+246636008||visione offuscata
+405729008||rettorragia
+405729008||rettorragia
+27925004||nodulo solido
+168733007||La radiografia del torace era normale
+135815002||buone condizioni generali
+40709005||dolore lombare
+NO_CODE||L'esame fisico era normale
+139394000||nicturia
+60728008||addome globoso
+NO_CODE||piega pilorica ispessita
+29738008||proteinuria
+29738008||proteinuria
+29738008||proteinuria
+29738008||proteinuria
+84387000||asintomatico
+414763006||picchi monoclonali
+127355002||diminuzione percentuale dell'albumina senza picchi monoclonali
+386806002||deterioramento cognitivo
+443371007||diminuzione del livello di coscienza
+443371007||diminuzione del livello di coscienza
+47295007||agitazione psicomotoria
+271782001||sonnolenza
+264867001||proteinuria nel range nefrosico
+56731001||spasticità
+162189001||nervosismo
+29738008||proteinuria
+59892004||infantilismo
+301459008||stabilità emodinamica
+102614006||dolore addominale diffuso
+13791008||astenia
+249545003||peritonismo
+300337001||il fegato era di dimensioni normali
+168965003||flebografia normale
+129623003||contatto iridoendoteliale
+422587007||nausea
+422400008||vomito
+89627008||iponatriemia
+89627008||iponatriemia
+89627008||iponatriemia
+89627008||iponatriemia
+89627008||iponatriemia
+251150006||ritmo sinusale
+13791008||astenia
+40709005||dolore lombare
+40709005||dolore lombare
+64882008||febbre
+64882008||febbre
+50415004||dolore moderato
+8573003||emorragia attiva
+22253000||dolore
+128128003||area brunastra di 0,5 x 1 cm nella corteccia cerebrale del lobo parietale
+707724006||transaminasi elevate
+2472002||oligo-anuria
+166717003||aumento della creatinina
+110299009||scarsa igiene orale
+49233005||dispnea
+399122003||disfagia
+30233002||odinofagia
+271823003||tachipnea
+16617009||disfonia
+109639001||limitazione dell'apertura della bocca
+24411000119104||aumento di volume nella regione sottomandibolare che si estende alla regione cervicale anteriore e sovraclaveare
+707793005||ipertermia locale
+414478003||leucocitosi
+24361006||spostamento mediastinico
+2237002||dolore pleuritico nell'emitorace
+49233005||dispnea
+40709005||dolore lombare
+64882008||febbre
+64882008||febbre
+367391008||malessere generale
+84387000||asintomatico
+77069005||segno dello psoas positivo
+365708008||antibrucella-coombs: positivo
+135815002||buone condizioni generali
+9956000||paura
+267084003||instabilità
+398979000||pallore
+20262006||atassia
+399153001||vertigini
+NO_CODE||esame fisico normale
+223176004||segni cerebellari
+722998005||componente vegetativa
+48694002||ansia
+125163009||buona guarigione delle fratture
+15253005||asimmetria facciale
+707598004||malocclusione
+289875004||restrizione del perineo
+38343000||dolore vaginale
+426206001||dolore costante
+161815000||L'introito vaginale rimane chiuso
+228453005||attività sessuale regolare
+123640000||secchezza locale
+102031000119109||massa paratestuale
+87860000||massa testicolare
+87860000||massa testicolare
+87860000||massa testicolare indolore
+84387000||asintomatico
+103625009||infiammazione locale
+300848003||masse
+300848003||masse
+135815002||buone condizioni generali
+300493001||testicoli sani
+300493001||testicolo normale
+27925004||nodulazioni
+248514008||tumori palpebrali
+418290006||prurito
+162504001||coliche
+53298000||ematuria
+40709005||dolore lombare
+197940006||microematuria
+271350002||leucocituria
+84387000||asintomatico
+84387000||asintomatico
+40709005||lombalgia
+64882008||febbre alta
+84387000||asintomatico
+84387000||asintomatico
+247663003||orientato
+249545003||difesa addominale
+11512006||normale funzione sessuale
+64882008||febbre alta
+43724002||brividi
+267064002||ritenzione
+52985009||liquido ascitico lattiginoso
+442076002||sensazione di pienezza postprandiale precoce
+166602006||profilo epatico normale
+93457003||liquido libero intra-addominale
+300848003||massa
+102893002||eccitabilità
+286933003||sindrome confusionale
+81141003||la funzione renale è rimasta stabile
+81141003||recupero della funzione renale
+103013007||dolore intenso e bruciante
+95322002||edema dei tessuti molli
+28328005||frammenti radiopachi
+128477000||raccolta di materiale purulento
+3006004||alterazione del livello di coscienza
+NO_CODE||L'esame fisico era normale
+698247007||anomalie del ritmo cardiaco
+95525004||ipoestesia nel territorio di distribuzione del nervo mentoniero
+131148009||emorragia
+6810008||indolore
+300848003||massa
+300848003||massa
+300848003||massa omogenea
+300848003||masse
+162010006||l'esame intraorale era normale
+33431000119109||placche biancastre nell'orofaringe
+11833005||tosse secca
+49233005||dispnea
+29857009||dolore toracico bilaterale
+64882008||febbre
+89362005||perdita di peso
+399122003||disfagia
+30233002||odinofagia
+66857006||emottisi
+48813009||linfopenia
+414478003||leucocitosi
+55929007||irritabilità
+422400008||vomito
+64882008||febbre
+444827008||eritema
+271835004||distensione addominale
+257552002||segni infiammatori
+257552002||segni infiammatori
+301367001||dolore colico nell'ipocondrio destro
+64882008||febbre
+18165001||ittero
+18165001||ittero
+165397008||calo dei livelli di emoglobina
+39575007||coluria
+70396004||acolia
+422587007||nausea
+422400008||vomito
+74474003||emorragia gastrointestinale
+74474003||emorragia gastrointestinale
+50960005||vaso sanguinante
+300324004||fegato omogeneo
+300344005||cistifellea distesa
+8573003||emorragia attiva
+44991000119100||metrorragia
+21522001||dolore addominale
+53298000||ematuria
+274279008||dolore alla fossa renale
+445039006||massa annessiale
+309088003||massa complessa nel polo inferiore del rene
+193967004||edema palpebrale
+193967004||edema palpebrale molle
+30098003||ingurgito
+30098003||ingurgito
+246655008||diplopia binoculare in elevazione, levo e destrogiro
+246659002||scotoma periferico inferiore
+18265008||proptosi unilaterale
+18265008||proptosi
+246655008||diplopia binoculare
+162053006||dolore ipogastrico
+64882008||febbre
+22253000||dolore
+53298000||ematuria
+211649008||corpo estraneo intravescicale
+299017002||Dolore alla palpazione a livello dell'articolazione radio-carpale distale
+56608008||dolore a entrambi i polsi
+249757009||deviazione ulnare
+249757009||deviazione ulnare
+82423001||dolore cronico
+298945002||deformità dei polsi
+299061005||Le articolazioni metacarpo-falangee, interfalangee prossimali e interfalangee distali sono libere
+131148009||sanguinamento
+786838002||nodulo polmonare
+786838002||nodulo polmonare
+786838002||nodulo polmonare
+27925004||noduli
+43696002||punto di sanguinamento
+89362005||perdita di peso
+422400008||vomito
+422400008||vomito
+308925008||sintomi digestivi
+84387000||asintomatico
+251387006||la tolleranza orale era buona
+300305002||stomaco con morfologia e svuotamento normali
+46218001||ipotonia gastrica
+NO_CODE||diminuzione della captazione orbitale
+700339006||edema della palpebra superiore
+700344004||retrazione palpebrale
+700344004||retrazione palpebrale
+700344004||retrazione palpebrale
+246912006||attività a livello orbitale
+18265008||esoftalmo
+366289008||prepuzio retrattile
+249302009||meato centrale
+276411001||testicolo sinistro con volume ridotto
+302031001||testicolo destro di consistenza normale
+300503008||epididimi normali
+290084006||seno normale
+271823003||tachipnea
+271823003||tachipnea
+11092001||tachicardia
+11092001||tachicardia
+11092001||tachicardia
+11092001||tachicardia
+11092001||tachicardia
+251150006||ritmo sinusale
+703883009||freddezza
+95442007||cianosi acrale
+84387000||asintomatico
+8943002||buon aumento di peso
+135815002||buon aspetto generale
+275723000||peggioramento delle condizioni generali
+314983004||progressivo deterioramento della funzione renale
+734009000||diastemi
+734009000||diastemi
+718067000||perdita di osso perimplantare
+234948008||assenza del secondo premolare superiore destro e del primo molare inferiore
+332982000||vomito incoercibile
+8943002||aumento di peso
+22253000||dolore
+386666001||pupille reattive simmetriche
+1148838007||normocardico
+48661000||irritazione peritoneale
+15241006||sintomatologia vegetativa
+419045004||perdita di coscienza
+301459008||stabilità respiratoria ed emodinamica
+18165001||ittero
+22803001||buona dinamica respiratoria
+707724006||enzimi epatici elevati
+78667006||distimia
+425423002||movimento potenzialmente doloroso
+276412008||testicolo ingrossato
+418697001||monocitosi
+64882008||sindrome febbrile
+64882008||febbre
+64882008||febbre
+64882008||febbre
+57676002||artralgie
+707724006||ipertrasaminemia
+414478003||leucocitosi
+57676002||manifestazioni articolari
+57676002||manifestazioni articolari
+55929007||irritabilità
+359746009||stabile
+707724006||ipertransaminemia
+300287006||massa mamellata e stenosante da 32 cm alla giunzione esofagogastrica
+89362005||perdita di peso
+79890006||anoressia
+49483002||coinvolgimento mediastinico
+55634009||emianopsia omonima sinistra
+422400008||vomito
+246723000||ortoforia
+24982008||diplopia
+43400009||anomalie epilettiformi
+386665002||I riflessi pupillari sono normali
+164734008||Il fondo di entrambi gli occhi è apparentemente normale
+423341008||papilledema
+14619009||foria
+249565005||parenchima epatico eterogeneo
+9360008||livelli di ammonio persistentemente elevati
+67307004||circolazione collaterale
+67307004||circolazione collaterale
+300563005||milza omogenea
+59927004||lieve scompenso idropico
+92972001||occhio singolo
+398637008||depressione foveale normale
+371405004||iperfluorescenza anulare
+162300006||cefalea localizzata al volto e all'emicranio
+90145001||protrusione frontale destra
+64269007||allucinazioni visive complesse
+247475002||segni cutanei di ipervascolarizzazione cranica
+55929007||irritabilità
+80449002||affaticamento muscolare
+72826005||macrocitosi
+39832008||essudati cotonosi bilaterali
+15758002||ispessimento meningeo-durale sparso più marcato nella regione frontale sinistra
+298312007||L'equilibrio motorio era simmetrico
+364852004||rallentamento diffuso
+168749009||La mammografia era normale
+167707001||liquido cerebrospinale limpido
+165507003||leucociti normali
+423341008||edema papillare
+8900005||ipoproteinemia
+309088003||massa renale
+309088003||tumore renale
+307541003||sintomi del tratto urinario inferiore
+300848003||massa
+300848003||massa
+300848003||massa
+300848003||massa
+309088003||massa parailare nel rene
+49650001||disuria
+84387000||asintomatico
+300441003||rene destro normale
+18115005||calcificazioni
+722829006||dolore scrotale acuto
+7358000||sindrome della minzione
+84387000||asintomatico
+64882008||febbre
+441687008||immagine di calcificazione intratesticolare
+441687008||immagine di calcificazione intratesticolare
+20502007||disagio (elevazione dello scroto
+117261000119108||microcalcificazioni testicolari
+274643008||intenso pallore mucocutaneo
+64882008||febbre
+64882008||febbre
+249572006||splenomegalia alla palpazione
+79890006||anoressia
+13791008||astenia
+89362005||perdita di circa 21 kg di peso
+57241006||anisocitosi
+250243009||dacriociti
+250243009||dacriociti
+44687006||piastrine giganti
+409609008||infiltrato polmonare basale
+300337001||dimensioni normali del fegato
+64882008||picchi febbrili
+NO_CODE||perdita di contrasto nel terzo medio e all'estremità distale
+399153001||vertigini
+399153001||vertigini
+84387000||asintomatico
+84387000||asintomatico
+18460000||esame fisico e neurologico normale
+12326000||acidosi respiratoria
+79131000119100||cambiamenti post-chirurgici a livello della corteccia renale e del grasso adiacente
+309088003||massa renale
+309088003||massa renale
+79922009||epigastralgia
+274279008||dolore alla fossa renale
+13791008||astenia
+79890006||anoressia
+89362005||perdita di peso
+84454003||masse addominali
+84387000||asintomatico
+53298000||ematuria
+27925004||nodulo esofitico
+300848003||massa
+300848003||massa
+249316004||deviazione della piramide nasale
+164727006||L'esame oculistico non ha mostrato alterazioni
+164179004||La rinoscopia anteriore non ha mostrato alterazioni del pavimento o delle pareti nasali
+249355003||coinvolgimento del turbinato inferiore
+300848003||massa
+300848003||massa
+300848003||massa
+300848003||massa
+80142000||distruzione del setto intersinuso-nasale
+413254002||mucosa sana ed eritematosa
+89362005||perdita di peso di 8 kg
+404200001||massa ipogastrica centrale
+23298002||dilatazione gigante del retto e del colon sinistro
+249561001||spostamento di tutti gli organi addominali
+8943002||aumento di peso
+249545003||peritonismo
+102614006||dolore addominale diffuso
+64882008||febbre
+128524007||infiltrazione e ispessimento dell'intera parete del colon
+93457003||liquido libero
+36191001||perforazione
+36191001||perforazione
+36191001||perforazione
+81680005||dolore cervicale
+81680005||dolore cervicale
+445456006||tumore sottocutaneo laterocervicale destro a livello dell'angolo della mandibola
+76107001||occupazione del recesso anterolaterale del canale spinale
+84387000||asintomatico
+106150003||i nervi cranici sono conservati bilateralmente
+21522001||dolore addominale
+301367001||dolore all'ipocondrio destro
+309088003||massa renale
+43364001||disagio addominale
+13791008||astenia
+47295007||agitazione psicomotoria
+45007003||ipotensione
+79890006||anoressia
+62476001||disorientamento
+7011001||allucinazioni
+14783006||iperbilirubinemia
+9360008||iperammoniemia
+62476001||disorientato
+300848003||masse
+300337001||fegato omogeneo senza alterazioni
+830121005||buona differenziazione della materia bianca e grigia
+300337001||fegato con architettura conservata
+399153001||vertigini
+7752002||iperbilirubinemia non coniugata
+389026000||ascite
+2032001||segni di edema cerebrale
+419099009||morte
+300578003||esacerbazione delle lesioni
+116290004||dolore addominale acuto
+64882008||febbre
+49233005||dispnea
+389087006||ipossiemia
+123824001||suoni cardiaci aritmici
+79922009||dolore addominale epigastrico
+165399006||livelli normali di emoglobina
+425802001||versamento pleurico bilaterale
+77674003||emianopsia nasale destra
+13791008||astenia
+418290006||prurito
+398637008||retina applicata
+398637008||macula normale
+45007003||ipotensione sintomatica
+12856003||dilatazione e tortuosità venosa
+102968003||latenze centrali prolungate
+45007003||ipotensione arteriosa sintomatica
+95668009||dolore facciale
+141000119100||sonnolenza diurna
+67233009||risvegli notturni
+398057008||cefalea tensiva nelle regioni occipitale e temporale
+22253000||componente dolorosa
+10017004||usura occlusale
+722879009||meteorismo
+22325002||disturbi dell'andatura
+62476001||disorientamento
+286279003||difficoltà ad articolare il linguaggio
+246636008||visione offuscata
+24982008||visione doppia verticale
+419045004||perdita di coscienza
+80313002||palpitazioni
+64882008||febbre
+22325002||andatura con tendenza alla lateropulsione verso destra
+24982008||diplopia
+24982008||diplopia
+246655008||diplopia binoculare verticale
+267084003||instabilità
+300848003||massa
+13791008||astenia
+13791008||astenia
+26544005||diminuzione della forza
+9589009||difficoltà a camminare
+89362005||perdita di peso di 7 kg
+12584003||dolore osseo diffuso
+4996001||ipofosfatemia
+4996001||ipofosfatemia
+85487008||fosfaturia
+4519003||ipouricemia
+59455009||acidosi metabolica
+29738008||proteinuria
+26544005||debolezza muscolare
+26544005||debolezza muscolare
+34095006||disidratato
+79922009||dolore addominale epigastrico
+422587007||nausea
+422400008||vomito
+64730000||suoni cardiaci ritmici
+64882008||febbre
+60728008||distensione
+297209005||timpanismo
+251150006||ritmo sinusale
+84387000||asintomatico
+445368001||silhouette cardiaca normale
+166716007||creatinina plasmatica in valori normali
+300862005||massa parspinale
+30721006||tremore intenzionale
+69701009||deficit funzionali
+128041002||infiltrazione del tessuto sottocutaneo
+424774003||convessità lombare
+249301002||uretorragia
+102835006||incapacità di urinare
+130951007||pallone vescicale
+84387000||asintomatico
+309248004||immagini polipoidi parietali di dimensioni inferiori a 2-3 cm sia nella vescica che nel diverticolo
+22253000||dolore
+22253000||dolore
+22253000||dolore
+22253000||dolore
+22253000||dolore
+20793008||forte dolore a livello della scapola
+64882008||febbre
+67967009||aspetto cushingoide
+NO_CODE||elementi cushingoidi
+228158008||incapacità di deambulare
+39565009||episodi dolorosi
+61838003||neoformazione ossea paracervicale
+128139000||condizioni infiammatorie
+128491006||ossificazioni eterotopiche
+399153001||vertigini
+894119008||quadrantanopsia omonima inferiore destra
+22253000||dolore
+22253000||dolore
+22253000||dolore
+22253000||dolore
+22253000||dolore
+22253000||dolore
+22253000||dolore
+22253000||dolore
+22253000||dolore
+1144586002||esacerbazioni dolorose
+202824000||instabilità lombare
+84387000||asintomatico
+87860000||nodulo testicolare
+102031000119109||tumore paratestuale
+247348008||doloroso alla palpazione
+135815002||buone condizioni generali
+62315008||diarrea
+79922009||epigastralgia
+14783006||iperbilirubinemia
+18165001||ittero
+18165001||ittero
+39575007||coluria
+70396004||acolia
+301367001||dolore persistente all'ipocondrio destro
+422587007||nausea
+422400008||vomito
+414478003||leucocitosi
+365595004||I marcatori dell'epatite virale erano negativi
+18165001||ittero cutaneo-mucoso
+419099009||morto
+66187002||steatorrea
+249545003||peritonismo
+47312008||la cistifellea era idropica
+NO_CODE||labbra sanguinanti
+445088006||edema facciale
+249400000||mucosa labiale arrossata
+76849009||congiuntive iperemiche
+1197782006||ipertermia
+1197782006||ipertermia
+49233005||distress respiratorio
+248568003||svasatura nasale
+249543005||addome morbido
+64882008||febbre
+64882008||febbre
+131148009||sanguinamento
+275295002||scialorrea
+1231186006||movimenti lateralizzati
+246966003||riepitelizzazione corneale
+135815002||buone condizioni generali
+414478003||Leucocitosi
+409668002||fotofobia
+51599000||edema laringeo
+246636008||visione offuscata
+29555009||sollevamento del neuroepitelio nasale juxtafoveolare
+84387000||asintomatico
+12772003||alterazioni campimetriche
+247138002||macchie bianco-giallastre distribuite sul polo posteriore
+18265008||proptosi
+18265008||esoftalmo
+18265008||leggera proptosi
+170728008||la visione del paziente è scesa a 0,9 nell'occhio
+6631009||trombocitosi
+13791008||astenia
+79890006||anoressia
+89362005||perdita di peso di circa 20 kg
+228158008||incapacità di deambulare
+786838002||nodulo di 1,4 x 1,6 cm nel lobo superiore destro, a contatto con la pleura viscerale
+166558007||alfa-fetoproteina normale
+409609008||infiltrato alveolare nel lobo inferiore sinistro
+13791008||astenia
+89362005||perdita di peso
+8943002||aumento di peso
+49233005||distress respiratorio
+8510008||ridotta capacità funzionale
+271835004||distensione addominale
+83128009||oliguria
+279084009||fastidio all'emitorace
+84828003||leucopenia
+302215000||trombocitopenia
+395132000||drenaggio chiloso
+365669006||liquido lattiginoso
+23839001||aspetto chiloso
+22641006||aspetto sieroso
+22641006||aspetto sieroso
+102591006||dolore più intenso alla palpazione del bordo costale
+22253000||dolore
+309087008||anestesia plantare
+309087008||anestesia plantare
+309087008||anestesia plantare sinistra
+409054008||scarsa perfusione
+75823008||essudato
+238131007||sovrappeso
+309088003||massa solida eterogenea nel polo inferiore del rene
+166701009||normocalcemia
+53298000||ematuria
+62577008||insonnia
+197941005||ematuria franca
+248324001||stato nutrizionale adeguato
+65404009||malnutrizione
+247131008||essudati lipidici
+398637008||retina applicata
+301459008||situazione clinica stabile
+359746009||stabile
+169030006||anomalie tomografiche
+84387000||asintomatico
+301459008||stabilità emodinamica
+22253000||dolore
+22253000||dolore
+22253000||dolore
+22253000||dolore
+22253000||dolore
+22253000||dolore
+247404004||allodinia
+247404004||allodinia
+267038008||edema
+267038008||edema
+84387000||asintomatico
+1144523008||vita normale
+429353004||esposizione della placca di osteosintesi nel terzo distale del radio
+33005006||flusso inverso nell'arteria interossea posteriore
+309532004||massa paravertebrale
+NO_CODE||traslocazione 14-18
+11441004||sindrome prostatica
+249604002||tessuto prostatico normale
+22006008||ipertelorismo
+112630007||fronte prominente
+52368004||lingua fessurata
+27272007||palato profondo
+419099009||deceduto
+102572006||edema degli arti inferiori
+91098006||chiluria
+860914002||impotenza sessuale
+128127008||assottigliamento in entrambi gli occhi
+890396001||marcato aumento dell'escavazione papillare in entrambi gli occhi
+302890002||separazione degli strati retinici interni in comunicazione con la fovea
+713514005||diminuzione della forza degli arti
+46670006||alterazioni dei riflessi osteotendinei
+18265008||esoftalmo
+3716002||tiroide ingrossata
+89362005||perdita di peso
+64379006||diminuzione dell'assunzione
+26079004||tremore
+55929007||irritabilità
+162189001||nervosismo
+26544005||perdita di forza
+26544005||perdita di forza
+43339004||ipokaliemia
+312397004||funzione tiroidea normale
+27925004||noduli
+27925004||nodulo solido
+422400008||vomito
+422773005||instabilità emodinamica
+422773005||instabilità emodinamica
+102570003||dolore nella regione inguinale
+443371007||diminuzione del livello di coscienza
+386806002||deterioramento cognitivo
+161152002||grave deterioramento sociale
+89362005||perdita di peso di 15 kg
+271808008||stato edematoso
+2472002||anuria
+29740003||stato cachettico
+128139000||infiammazione
+414478003||leucocitosi
+4249000||ipoperfusione periferica
+1148582006||miglioramento della funzione renale
+13791008||astenia
+89362005||perdita di peso
+249236000||testicolo destro con parenchima eterogeneo
+17585008||testicolo sinistro atrofico
+87860000||Il testicolo destro presenta un tumore
+16080000||deposito di fibrina intrasinusoidale
+419045004||perdita di coscienza
+422773005||instabilità emodinamica
+302215000||trombocitopenia
+165414004||diminuzione dell'ematocrito
+19532005||atonia
+418362005||morte improvvisa
+95436008||consolidamento parenchimale esteso nel lobo superiore
+409609008||infiltrati alveolari
+64882008||febbre
+64882008||febbre
+427931002||espettorazione biancastra
+95436008||consolidamento in risoluzione parziale nel lobo inferiore
+409609008||infiltrato alveolare
+49233005||dispnea
+8955008||espettorazione purulenta
+13791008||astenia
+84387000||asintomatico
+49727002||tosse
+409609008||infiltrati basali
+NO_CODE||lesioni endoluminali
+95436008||consolidamento
+309089006||immagine ipodensa di 3 cm del lobo prostatico
+786838002||immagine nodulare calcificata nel lobo inferiore sinistro
+102588006||forte dolore all'emitorace
+28743005||tosse produttiva
+49233005||dispnea
+13791008||astenia
+79890006||anoressia
+418290006||prurito
+18165001||ittero mucocutaneo
+18165001||ittero mucocutaneo
+39575007||coluria
+70396004||acolia
+249545003||peritonismo
+300337001||fegato di dimensioni normali
+230145002||difficoltà respiratorie
+249380003||notevole riduzione delle dimensioni della lingua
+67289000||morso aperto anteriore
+62991000119101||difetto della parete addominale
+52776004||instabilità della lesione
+22253000||dolore
+82971005||impotenza funzionale
+82971005||limitazione funzionale
+1148973008||esame neurovascolare distale normale
+263108000||Il frammento dorsale del semilunare è attaccato alle ossa carpali e spostato dorsalmente
+6081001||deformità
+135815002||buone condizioni generali
+64882008||febbre
+64882008||febbre
+33624008||irritabile
+10683471000119104||noduli sulla testa
+84387000||asintomatico
+414478003||leucocitosi
+414478003||leucocitosi
+35240004||carenza di ferro
+409668002||fotofobia
+422400008||vomito
+22253000||dolore
+18618006||aura
+737294004||trapiantato
+84387000||asintomatico
+366216006||buona perfusione della mano
+271658004||brivido
+441708007||aumento di volume nella regione dell'angolo mandibolare
+6810008||indolore
+300269008||La secrezione salivare era normale
+724623005||doppio contorno mandibolare
+84387000||asintomatico
+310342002||i margini chirurgici erano liberi
+1204256006||tumore peduncolato sulla cresta gengivale mandibolare
+15253005||asimmetria facciale
+271835004||distensione addominale
+271835004||distensione addominale
+278693002||contenuto gastrico nelle vie aeree
+419099009||morte
+71419002||vomito verde scuro sul viso
+836475004||liquido verde scuro nelle narici
+162046002||dolore addominale localizzato nel mesogastrio
+300344005||cistifellea distesa
+86247009||ansa afferente dilatata e piena di liquido
+1082431000119108||dilatazione dei dotti biliari intra ed extraepatici
+22253000||dolore
+22253000||dolore
+47933007||dolore meccanico al piede
+299513007||dolore alla mobilizzazione dell'avampiede
+95322002||edema dei tessuti molli
+128139000||infiammazione
+118932009||sovraccarico del piede
+79890006||anoressia
+285384003||grave deterioramento delle condizioni generali
+300857009||tumore uroteliale
+708118007||La coltura del fluido è risultata negativa
+236710009||immagine calcifica nell'area teorica della pelvi renale
+419099009||morte
+118228005||normofunzione controlaterale
+276888009||respirazione spontanea
+279038004||dorsalgia
+40709005||lombalgia
+40709005||lombalgia
+40709005||lombalgia
+40709005||lombalgia
+298255009||dolore alla flessione
+NO_CODE||segno dell'arco negativo
+134190002||punti trigger nell'area paravertebrale
+39898005||disturbi del sonno
+68600005||emoglobinuria
+73320003||emolisi
+73320003||emolisi
+396697000||lattodeidrogenasi elevata
+234184000||perdita periprotesica
+234184000||perdita perivalvolare
+18165001||ittero
+18165001||ittero
+235719002||intolleranza alimentare
+386789004||eosinofilia
+386789004||eosinofilia
+49233005||dispnea
+238159008||desaturazione
+64882008||febbre
+414478003||leucocitosi
+21522001||dolore addominale
+271835004||distensione addominale
+78341006||neutrofilia
+48661000||irritazione peritoneale
+79922009||epigastralgia
+247663003||orientato
+274643008||Pallore mucocutaneo
+422587007||nausea
+427146008||Il dolore aumenta con la tosse e l'ispirazione
+64882008||febbre
+39575007||coluria
+70396004||acolia
+48661000||irritazione peritoneale
+76281005||edema periportale
+707724006||aumento delle transaminasi
+93457003||Liquido libero
+93457003||liquido libero
+22253000||dolore
+22253000||dolore
+22253000||dolore
+67307004||circolazione collaterale
+860969004||vena porta e vene sovraepatiche permeabili
+76281005||congestione epatica
+371859008||buona funzione ventricolare
+78341006||neutrofilia
+NO_CODE||irritazione del nervo dentale inferiore
+234947003||trasmigrazione del canino
+78341006||neutrofilia
+64882008||febbre
+64882008||febbre
+64882008||febbre
+28743005||tosse produttiva
+49233005||dispnea
+128308005||condensazione paracardiaca
+271823003||tachipnea
+31515003||ipoventilazione
+309529002||massa polmonare
+309529002||massa polmonare
+897306006||segni infiammatori non specifici nell'albero bronchiale
+1217293003||broncogramma aereo
+95436008||condensazione
+827032003||parenchima polmonare ben ventilato
+51615001||tratto fibroso residuo nel polmone
+300848003||massa tumorale
+78622004||galattorrea
+237475004||liquido periprotesico nel seno
+22641006||materiale sieroso
+300848003||massa
+398979000||Pallore
+102587001||dolore toracico acuto
+444899003||dolore all'avambraccio
+774133001||dolore e formazione di ematoma sulla faccia volare dell'avambraccio destro in relazione al sito di puntura del catetere
+234003006||emorragia arteriosa attiva
+22253000||Dolore
+22253000||dolore
+21522001||dolore addominale
+21522001||dolore addominale
+21522001||dolore addominale
+21522001||Dolore addominale
+21522001||dolore addominale
+135815002||buone condizioni generali
+422400008||vomito
+422400008||vomito
+300339003||dotto biliare scarsamente disteso
+48167000||perdita della memoria di fissazione
+419099009||morto
+102957003||focalità neurologica
+84387000||asintomatico
+78934009||sensazione di prurito
+20793008||iperestesia nella regione scapolare
+403597003||allodinia cutanea
+14151009||iperestesia
+723316007||"sensazione di ""scosse elettriche"
+366235006||tono delle labbra
+1144523008||vita normale
+441708007||rigonfiamento della corteccia vestibolare della mandibola
+109677007||spostamento laterale delle radici dei denti
+109588005||riassorbimento apicale
+128308005||strutture radiopache
+NO_CODE||cellule stellate
+20462008||ameloblasti
+131148009||sanguinamento
+248251001||sanguinamento con attrito
+396556000||massa pigmentata
+45089002||buona visione binoculare
+762415003||massa pigmentata nell'angolo iridocorneale
+102835006||incapacità di urinare
+64882008||febbre
+275723000||peggioramento delle condizioni generali
+22253000||dolore
+49650001||disuria
+414478003||leucocitosi
+275765006||piociti nel sedimento urinario
+167222005||sedimento patologico
+102834005||minzione uretrale normale
+414478003||leucocitosi
+102614006||dolore addominale continuo e diffuso
+78341006||neutrofilia
+422400008||vomito
+422400008||vomito
+21522001||dolore addominale
+86247009||anse dilatate dell'intestino tenue
+247348008||dolore diffuso alla palpazione
+48661000||irritazione peritoneale
+48661000||irritazione peritoneale
+135815002||buone condizioni cliniche
+28928000||cachessia
+43364001||disagio addominale
+405729008||rettorragia
+405729008||rettorragia
+131148009||sanguinamento
+359746009||stabile
+359746009||stabile
+NO_CODE||arteriografia in cui non sono state osservate anomalie
+405729008||ematochezia
+131148009||emorragia
+131148009||emorragia
+131148009||emorragia
+131148009||emorragia
+131148009||emorragia
+8573003||emorragia prossimale
+405740000||alterazioni dei marcatori cardiaci
+233928007||alterazioni regionali della contrattilità
+726490008||stenosi angiografiche
+722998005||corteccia vegetativa
+11092001||tachicardia sinusale
+11092001||tachicardia sinusale
+11092001||tachicardia sinusale
+366186008||ventricolo sinistro normale
+371405004||immagine sacculare iperfluorescente
+307223005||gas nei vasi mesenterici sussidiari e nella vena porta
+86699002||apiretico
+301459008||emodinamicamente stabile
+84387000||asintomatico
+309088003||neoformazione solida nel rene
+108369006||neoformazione corticale
+45007003||ipotensione
+13791008||astenia
+13791008||astenia
+302215000||trombopenia
+9589009||rendono difficile la deambulazione
+79890006||anoressia
+30704002||eritema malare
+89362005||perdita di peso
+385472000||schistociti
+23011003||afasia globale
+249366005||Epistassi
+131148009||sanguinamento
+17971005||sedato
+64882008||febbre
+64882008||febbre
+301459008||emodinamicamente stabile
+1144674006||ben idratato
+78341006||neutrofilia
+48661000||irritazione peritoneale
+62315008||diarrea
+21522001||dolore addominale
+21522001||dolore addominale
+21522001||dolore addominale
+45007003||ipotensione
+443828007||enzimi pancreatici elevati
+414478003||leucocitosi
+257552002||segni infiammatori
+257552002||segni infiammatori
+246992005||lieve reazione infiammatoria nella camera anteriore
+247044000||iniezione ciliare
+247044000||iniezione ciliare
+246992005||reazione infiammatoria in camera anteriore
+246992005||infiammazione della camera anteriore
+422272001||ispessimento della parete oculare
+168733007||La radiografia del torace era normale
+95715007||spasmo ciliare
+127086001||linfonodi del collo
+62315008||diarrea
+62315008||diarrea
+21522001||dolore addominale
+285384003||deterioramento generale
+89362005||perdita di peso
+72042002||incontinenza anale
+126842002||massa nel colon trasverso
+247328001||doloroso al tatto
+257552002||segni infiammatori
+119247004||ipoalbuminemia
+428472008||massa polipoide nel sigma
+135815002||buone condizioni generali
+399406009||normalità biochimica dei parametri tumorali
+11092001||tachicardico
+102614006||dolore addominale diffuso
+62315008||diarrea
+79890006||anoressia
+44088000||segni indiretti di bassa gittata cardiaca
+422773005||instabilità emodinamica
+251150006||ritmo sinusale
+237727005||polidipsia
+56574000||poliuria
+707724006||aumento delle transaminasi
+165406005||emogramma normale
+300441003||Rene destro normale
+166602006||Profilo epatico normale
+40969002||pulsazioni periferiche conservate
+81141003||La funzione renale è rimasta nei limiti della norma
+170763003||controllo metabolico
+170763003||controllo metabolico
+31401003||utero bicorne
+39832008||essudati cotonosi
+409674002||livelli elevati di protrombina tissutale
+232209000||ostruzione nasale
+249366005||epistassi
+300848003||massa
+161920001||sintomi respiratori
+161920001||sintomi respiratori
+64882008||febbre
+64882008||febbre
+29738008||proteinuria
+29738008||proteinuria
+29738008||proteinuria
+53298000||ematuria
+167221003||sedimento urinario normale
+NO_CODE||Lo studio di immunofluorescenza è risultato negativo
+386789004||eosinofilia
+386789004||eosinofilia
+386789004||eosinofilia
+127563002||microemorragie
+386789004||eosinofilia periferica
+307811009||colture delle feci: negative
+417967008||aumento degli eosinofili nella lamina propria
+NO_CODE||aumento del numero di eosinofili nelle biopsie
+417742002||I recettori ormonali erano positivi
+20602000||apatia
+422587007||nausea
+422400008||vomito
+162208002||linguaggio incoerente
+43994002||inibizione psicomotoria
+712759008||sensazione di morte imminente
+271782001||sonnolenza
+271782001||sonnolenza
+167244000||aumento dell'osmolarità urinaria
+267447008||diminuzione dell'osmolarità plasmatica
+165232002||incontinenza urinaria
+48694002||ansia
+48694002||ansia
+166692000||normalizzazione dei livelli plasmatici di sodio
+414639009||anello perimaculare di punti biancastri
+21829004||integrità dell'asse vascolare
+399194009||mal di schiena
+429783005||intorpidimento delle gambe con parestesia
+9589009||difficoltà a camminare
+131148009||emorragia
+10601006||dolore agli arti inferiori
+84387000||asintomatico
+22253000||dolore
+22253000||dolore
+359746009||stabile
+300848003||massa
+300848003||massa
+300848003||massa
+300848003||massa
+248509009||massa arrotondata situata tra la radice dell'iride e il corpo ciliare
+45089002||buona funzione visiva
+396556000||massa pigmentata
+396556000||massa pigmentata
+300441003||reni normali
+165406005||emogramma normale
+42643001||ispessimento della parete vescicale
+309307000||La citologia è risultata positiva per le cellule maligne
+84828003||leucopenia
+300470007||minzione notturna
+60728008||addome globoso
+125132005||immagini nodulari
+197942003||ematuria totale con coaguli
+103268003||borse palpebrali
+103268003||borse palpebrali
+301913002||formazione palpebrale
+257552002||segni infiammatori
+247398009||dolore neuropatico
+22253000||Dolore
+22253000||dolore
+22253000||dolore
+274608007||riflesso cremasterico positivo
+49233005||dispnea
+49233005||dispnea
+52613005||sudorazione
+422400008||vomito
+419045004||perdita di coscienza
+300310003||immagine adiacente al colon
+297128006||dolore occipitale
+297128006||dolore occipitale
+15758002||ispessimento meningeo
+15758002||ispessimento diffuso delle meningi
+22253000||dolore
+22253000||dolore
+22253000||dolore
+22253000||dolore
+49727002||tosse
+330007||cefalea occipitale
+367391008||malessere generale
+55300003||crampi
+314983004||funzione renale compromessa
+13791008||astenia
+64882008||febbre
+251150006||ritmo sinusale
+84387000||asintomatico
+168733007||La radiografia del torace era normale
+29738008||proteinuria
+16813005||uricosuria
+367621000119107||ossaluria
+197940006||microematuria
+197940006||microematuria
+29738008||proteinuria
+29738008||proteinuria
+29738008||proteinuria
+84387000||asintomatico
+442082004||i risultati di laboratorio erano nella norma
+274891006||cadmio nel sangue
+274891006||cadmio nel sangue
+441811002||cadmio nelle urine
+441811002||cadmio nelle urine
+444827008||arrossamento generalizzato
+72768000||placca eritematosa
+95320005||eritema ed edema sul lato destro del viso, sul braccio e sulla mano
+300848003||massa
+21762000||diminuzione del flusso vascolare
+246636008||visione offuscata
+301918006||asimmetria oculare
+419326002||limitazione generalizzata della mobilità estrinseca
+308923001||sintomi oculari
+16617009||disfonia
+66857006||emottisi
+49233005||aumento del lavoro respiratorio
+445249002||immagini nodulari multiple nel lobo superiore del polmone
+64882008||febbre
+371436007||coinvolgimento intraorbitale
+NO_CODE||ispessimento della vena oftalmica superiore
+85974009||noduli nella regione parietale
+18460000||L'esame neurologico era normale
+NO_CODE||espansione della diploe
+35745008||abbondante fuoriuscita di liquido chiaro dal centro dell'ombelico
+289318004||ombelico mal cicatrizzato
+52613005||sudorazione
+1231489009||deviazione della linea mediana dentale
+22253000||dolore
+22253000||dolore
+22253000||dolore
+22253000||dolore
+22253000||dolore
+22253000||dolore
+22253000||dolore
+15013002||miodesopsie
+64882008||febbre
+90446007||prurito anale
+80954004||progressivo deterioramento respiratorio
+271591004||livello di coscienza normale
+105597003||perdita della vista
+105597003||perdita della vista
+285384003||deterioramento generale
+31341008||emovitreo
+427868000||mantenimento delle condizioni generali
+300344005||la cistifellea era marcatamente distesa e ingrossata
+21522001||dolore addominale
+35013009||essudato purulento
+419099009||morte
+22253000||dolore
+22253000||dolore
+422587007||nausea
+1197659000||gastralgia
+79922009||dolore gastrico
+84387000||asintomatico
+103251002||La motilità intrinseca ed estrinseca era normale
+827066007||Il test del colore era normale
+5591009||emianopsia omonima destra
+246659002||scotoma campimetrico
+232122003||difetto pupillare afferente relativo nell'occhio
+64882008||febbre
+64882008||febbre
+64882008||febbre
+367391008||malessere generale
+167927007||ipercellularità con arresto maturativo nella serie mieloide
+84324009||colonie giallo pallido
+128524007||ispessimento della parete del cieco e del colon ascendente
+161920001||sintomi respiratori
+399406009||I marcatori tumorali erano normali
+409609008||infiltrato reticolonodulare in entrambi i campi superiori
+45647009||granulomi
+60401004||cellule giganti multinucleate
+167987009||espettorato, che non era bacillifero
+313170008||colonscopia di controllo, che è risultata normale
+84387000||asintomatico
+49233005||dispnea
+33653009||perdita di sensibilità
+40969002||pulsazioni periferiche conservate
+301459008||emodinamicamente stabile
+135815002||buone condizioni generali
+10675001||frequenza normale
+29647006||rantoli
+21522001||dolore addominale
+64882008||febbre
+238108007||cachettico
+442756004||aumento dei reagenti di fase acuta
+89362005||perdita di peso di 25 kg
+128524007||aspetto mucoso a ciottoli nel retto e nel colon trasverso
+64882008||febbre
+49727002||tosse
+230145002||dispnea progressiva
+13791008||astenia
+89362005||perdita di peso
+94147001||massa mediastinica
+83035003||La toracentesi ha mostrato un fluido denso e lattiginoso
+49650001||disuria
+42643001||ispessimento della parete vescicale
+129734009||immagine nodulare
+166717003||aumento della creatinina plasmatica
+162053006||dolore ipogastrico
+64882008||febbre
+49650001||disuria
+197940006||microematuria
+84387000||asintomatico
+165131004||studio anatomo-patologico intraoperatorio, escludendo la malignità
+419099009||morto
+64882008||febbre
+16973004||zoppia
+16973004||zoppia
+22253000||dolore
+22253000||dolore
+102569004||limitazione alla mobilizzazione passiva e attiva dell'anca
+167899003||contenuto ecogeno intra-articolare
+708118007||emocoltura negativa
+84387000||asintomatico
+167884003||liquido sinoviale purulento
+13791008||astenia
+55300003||crampi
+68962001||mialgie
+84387000||asintomatico
+84387000||asintomatico
+302215000||trombopenia
+18115005||calcificazioni
+18115005||calcificazioni
+838412000||dolore e difesa alla palpazione profonda della fossa lombare
+838412000||dolore alla percussione e alla palpazione della fossa lombare
+81141003||buona funzione renale
+427924001||stravaso di contrasto
+249578005||rene destro funzionante
+301936006||La biomicroscopia del polo anteriore era normale
+167939004||megacariociti displastici e atipici
+301459008||stabilità emodinamica
+131148009||emorragia
+131148009||emorragia
+131148009||emorragia
+131148009||emorragia
+131148009||emorragia
+422773005||instabilità emodinamica
+131148009||sanguinamento
+NO_CODE||esame fisico normale
+427924001||stravaso intraluminale di contrasto dipendente da un'arteria digiunale prossimale
+405729008||ematochezia
+405729008||ematochezia
+267038008||edema
+443371007||progressivo deterioramento del livello di coscienza
+13045009||anisocoria
+13045009||anisocoria
+195217004||appiattimento dell'emisfero destro, in particolare del lobo frontale
+NO_CODE||emosiderofagi
+37125009||pupilla destra midriatica
+419099009||morte
+419099009||morte
+299728009||deviazione della linea mediana verso sinistra
+NO_CODE||collasso del ventricolo laterale destro
+6609001||spongiosi
+84387000||asintomatico
+50818007||eiaculazione dolorosa
+34615008||emospermia
+27925004||formazione nodulare
+135815002||buone condizioni generali
+399406009||i marcatori tumorali sono rimasti negativi
+22253000||dolore
+300848003||tumori
+300848003||tumori
+300848003||tumori
+300848003||tumori
+64882008||febbre
+274663001||dolore acuto
+11092001||tachicardia
+274643008||pallore mucocutaneo
+271835004||distensione addominale
+131148009||emorragia
+131148009||emorragia
+300848003||massa
+309309002||Lo studio di estensione eseguito dopo l'intervento è risultato negativo
+45007003||ipotensione
+45007003||ipotensione
+123729002||viruria
+29738008||proteinuria
+29738008||proteinuria
+365707003||viremia negativa
+365707003||viremia negativa
+236423003||disfunzione renale
+79922009||fastidio epigastrico
+NO_CODE||L'esame fisico era normale
+52613005||sudorazione profusa
+52613005||sudorazione profusa
+16617009||disfonia
+274643008||pallore mucocutaneo
+399122003||disfagia
+64882008||Febbre
+64882008||febbre
+64882008||febbre
+48409008||crepitii all'auscultazione polmonare
+13791008||astenia
+89362005||perdita di peso di 3 kg
+249230006||scomparsa del solco epididimo-testicolare
+275734002||radiografia addominale normale
+300848003||massa
+53298000||ematuria
+300493001||testicolo sinistro normale
+276412008||aumento del diametro e della consistenza del testicolo
+117294002||aggregazione piastrinica
+16294009||splenomegalia omogenea
+302215000||trombocitopenia
+64882008||febbre
+64882008||febbre
+64882008||febbre
+422840005||massa cerebrale
+62315008||diarrea
+281229000||massa intra-assiale
+18460000||esame neurologico rigorosamente normale
+162299003||cefalea olocranica
+84387000||asintomatico
+48661000||irritazione peritoneale
+249641001||sfintere conservato
+230759001||edema vasogenico
+309306009||succo duodenale e biopsia della seconda porzione duodenale senza patogeni
+13791008||astenia
+76849009||iperemia congiuntivale
+24982008||diplopia verticale
+246838007||aumento del grasso orbitale
+301961009||la papilla non presentava edema o pallore
+301961009||La macula era normale
+386665002||riflessi pupillari normali
+302200001||pallore papillare
+22253000||dolore
+18265008||esoftalmo omolaterale
+18265008||esoftalmo omolaterale
+232121005||difetto pupillare afferente
+NO_CODE||ispessimento distale dei muscoli retto inferiore e retto laterale
+366010006||difficoltà ad aprire le palpebre
+313170008||colonscopia fino all'ileo terminale, con mucosa e calibro normali
+8744003||appendice di dimensioni normali e leggermente congestionata
+168851001||l'urografia escretoria era normale
+299661006||asimmetria delle creste iliache
+NO_CODE||all'esame rettale non sono stati rilevati organi genitali interni
+84387000||asintomatico
+409774005||dati infiammatori
+300257000||aumento metabolico a livello parotideo
+109639001||limitazione dell'apertura orale
+405729008||rettorragia
+267053000||tenesmo
+68653001||dolore anale
+5964004||area indurita sulla parete laterale sinistra del retto
+249632006||lato laterale sinistro dell'ampolla rettale un'area eritematosa
+65761003||sintomi infiammatori nell'area irradiata, con dolore
+714751007||episodio infiammatorio fistolizzato nell'emimandibola
+84387000||asintomatico
+22253000||dolore
+79922009||dolore all'epigastrio
+22253000||dolore
+422587007||nausea
+271594007||sincope
+164854000||l'elettrocardiogramma è risultato normale
+419099009||morte
+27925004||noduli
+27925004||noduli
+428090004||massa di 5 cm sulla faccia laterale sinistra della vescica
+131148009||sanguinamento
+45850009||continente
+45850009||continente
+48340000||incontinenza
+45850009||continenza
+62315008||diarrea
+249300001||moncone uretrale
+704200007||ipotonia generalizzata
+75864003||scompenso dei sintomi psichiatrici
+286720003||socievole
+297265001||comportamento verbale socialmente inappropriato
+422650009||isolamento sociale
+736319003||pensiero disorganizzato
+247973004||disinibizione
+419099009||morte
+59540003||effetto massa sul sistema ventricolare
+279315008||sintomi psicotici congruenti e non congruenti
+279315008||sintomi psicotici congruenti e non congruenti
+129606007||coinvolgimento frontale
+718360006||indipendente
+718360006||indipendente
+718360006||indipendente
+62577008||insonnia
+1144523008||vita normale
+166701009||La calcemia è rimasta normale
+5291005||ipocalcemia
+9092004||ingrossamento della ghiandola paratiroidea inferiore
+79890006||anoressia
+10601006||dolore alla coscia
+299729001||meningi intatte
+419045004||perdita di coscienza
+62315008||diarrea
+62315008||diarrea
+89362005||perdita di peso
+249968003||movimenti anomali della gamba
+247663003||orientato
+8011004||disartria
+8011004||disartria
+62476001||disorientamento
+40917007||confusione mentale
+118940003||coinvolgimento neurologico
+440109001||anticorpi anti-gliadina e anti-transglutaminasi negativi
+443718009||anticorpi anti-endomisio debolmente positivi
+17450006||mioclonie
+17450006||mioclonie
+17450006||mioclonie
+17450006||mioclonie
+17450006||mioclonie in entrambi gli arti inferiori
+17450006||mioclonie riflesse in entrambe le braccia
+164717000||normale attività bioelettrica cerebrale di fondo
+430909002||disturbi comportamentali
+419099009||morto
+86854008||iperreflessia
+9589009||La deambulazione era gravemente compromessa
+20262006||atassia
+17450006||mioclonie spontanee
+164717000||normale attività bioelettrica di fondo

@@ -1,0 +1,1197 @@
+81141003||good bilateral renal function
+48661000||peritoneal irritation
+84387000||asymptomatic
+300848003||mass was painless
+300441003||renal distortion
+69559004||retroperitoneal mass
+300848003||mass
+300848003||mass
+300848003||mass
+8943002||weight gain
+301459008||haemodynamic stability
+84387000||asymptomatic
+62315008||diarrhoea
+49727002||cough
+49727002||cough
+25064002||headache
+8955008||mucopurulent expectoration
+64882008||fever
+64882008||fever
+80313002||palpitations
+49233005||dyspnoea
+49233005||dyspnoea
+414786004||murmurs
+248690009||extratonos
+312397004||thyroid profile was normal
+3391005||negative for malignant cells
+267038008||oedema
+75823008||secretion
+257552002||phlogosis
+27925004||nodule
+84387000||asymptomatic
+87860000||bilateral testicular tumour
+64882008||fever
+84387000||asymptomatic
+399406009||negative tumour markers
+367391008||general malaise
+34887006||madarosis
+76849009||mixed conjunctival hyperemia
+64882008||fever
+64882008||fever
+79890006||loss of appetite
+251150006||sinus rhythm
+422587007||nausea
+422587007||nausea
+422400008||vomiting
+27925004||hyperechoic nodule
+69559004||retroperitoneal mass
+166602006||liver function was preserved
+30233002||mild odynophagia
+367391008||general malaise
+43724002||chills
+127086001||nodes in both laterocervical areas
+64882008||fever
+64882008||fever
+422400008||self-limited vomiting of variable duration
+232121005||afferent pupillary defect
+31341008||blood into the vitreous cavity
+67967009||cushingoid habitus
+237783006||adrenal mass
+300848003||mass
+300848003||masses
+399122003||dysphagia
+399122003||dysphagia
+64882008||febrile episodes
+29738008||proteinuria
+29738008||proteinuria
+29738008||proteinuria
+29738008||proteinuria
+84828003||leukopenia
+257552002||inflammatory signs
+35240004||iron deficiency
+64882008||fever
+419099009||died
+64882008||fever
+131148009||haemorrhage
+45850009||continent
+22253000||pain
+422400008||vomiting
+422400008||vomiting
+72970002||vital signs were normal
+21522001||abdominal pain
+13791008||asthenia
+83128009||oliguria
+37125009||mydriatic
+59455009||metabolic acidosis
+419099009||died
+83128009||oligoanuria
+422773005||haemodynamically unstable
+2472002||anuria
+2472002||anuria
+8573003||active bleeding
+301459008||haemodynamically stable
+419099009||success
+275723000||clinical deterioration
+246636008||blurred vision
+257552002||inflammatory signs
+18165001||jaundice
+64882008||fever
+414478003||leukocytosis
+708118007||blood cultures were sterile
+419099009||died
+78341006||neutrophilia
+444905003||soft tissue mass
+84387000||asymptomatic
+399406009||tumour markers were negative
+414478003||leukocytosis
+8943002||weight gain
+274643008||skin pallor
+708118007||culture was negative
+395132000||chylous fluid
+NO_CODE||oedematous and congestive folds
+52985009||chylous ascites
+389026000||ascites
+389026000||ascites
+389026000||ascites
+52985009||ascitic fluid with chylous characteristics
+8900005||hypoproteinaemia
+119247004||hypoalbuminaemia
+5291005||hypocalcaemia
+389026000||ascitic fluid
+389026000||ascitic fluid
+389026000||ascitic fluid
+422840005||hypodense image in the interhemispheric line at the level of the frontal horns
+164717000||electroencephalogram was within normal limits
+386789004||eosinophilia
+49233005||dyspnoea
+13791008||asthenia
+79890006||anorexia
+419099009||death
+166717003||progressive increase in creatinine
+NO_CODE||dental integrity
+91019004||paraesthesia
+84387000||asymptomatic
+225581002||poor vision
+103251002||extrinsic and intrinsic ocular motility
+24982008||diplopia
+64882008||fever
+52613005||profuse sweating
+300848003||tumours
+300848003||tumours
+300848003||tumours
+15253005||facial asymmetry
+22253000||pain
+84387000||asymptomatic
+300848003||radiolucent mass with trabeculations
+300848003||mass
+300848003||mass
+84387000||asymptomatic
+300848003||mass
+27925004||nodule
+NO_CODE||normal physical examination
+300848003||endophytic tumour
+309088003||solid nodules in both kidneys
+49233005||dyspnoea
+70407001||stridor
+271823003||tachypnoea
+89362005||weight loss
+79890006||hyporexia
+64882008||fever
+30233002||odynophagia
+300848003||masses
+2472002||anuria
+53298000||haematuria
+31462008||pollakiuria
+162053006||hypogastric pain
+64882008||fever
+13791008||asthenia
+33958003||painful induration of the penile base
+81141003||preserved renal function
+29738008||proteinuria
+29738008||proteinuria
+300848003||mass
+69559004||retroperitoneal masses
+422587007||nausea
+48661000||peritoneal irritation
+359746009||stable
+359746009||stable
+271594007||syncope
+84387000||asymptomatic
+363646005||mediastinal widening
+247663003||oriented
+257552002||inflammatory signs
+95545007||diarrhoeal stools, sometimes accompanied by blood
+89362005||weight loss
+21522001||abdominal pain
+21522001||abdominal pain
+247663003||oriented
+1144674006||normohydrated
+422587007||nausea
+64882008||fever
+249543005||abdomen is soft, depressible
+399406009||tumour markers were negative
+301459008||haemodynamically stable
+302215000||thrombopenia
+22253000||pain
+22253000||pain
+NO_CODE||normal haptoglobin
+165406005||normal parameters of the three haematological series
+274643008||skin pallor
+300848003||mass
+300848003||mass
+53298000||haematuria
+110279003||disease-free
+443371007||obnubilation
+21522001||abdominal pain
+21522001||abdominal pain
+422400008||vomiting
+62476001||disorientation
+249545003||abdominal defence
+2472002||anuria
+247348008||painful on palpation
+257552002||inflammatory signs
+13791008||asthenia
+9589009||difficulty in ambulation
+83128009||oliguria
+102957003||neurological focality
+84946008||prostration
+135815002||good general condition
+34095006||dehydration
+271594007||syncope
+234104002||lymphatic exudation
+84387000||asymptomatic
+84387000||asymptomatic
+84387000||asymptomatic
+128139000||inflammation
+257552002||inflammatory signs
+399406009||serum tumour markers were at normal levels
+419099009||died
+64882008||fever
+24982008||diplopia
+64882008||feverish
+18265008||ocular proptosis
+18265008||ocular proptosis
+131148009||haemorrhage
+131148009||haemorrhage
+131148009||haemorrhage
+271594007||syncopal episode
+34095006||signs of hydrosaline depletion
+43339004||hypokalaemia
+13791008||asthenia
+79890006||anorexia
+89362005||weight loss
+84454003||abdominal masses
+62315008||diarrhoea
+14760008||constipation
+249543005||soft, depressible, non-painful abdomen
+300848003||masses
+64882008||fever
+414478003||leukocytosis
+84387000||asymptomatic
+386789004||peripheral eosinophilia
+386789004||peripheral eosinophilia
+386789004||eosinophilia
+312895004||ileum due to parietal thickening
+119247004||hypoalbuminaemia
+79922009||epigastric pain
+422587007||nausea
+404640003||dizziness
+13791008||asthenia
+79890006||moderate anorexia
+89362005||weight loss
+48661000||peritoneal irritation
+301403003||painful on palpation in the epigastrium
+249543005||abdomen was soft, depressible
+249545003||defence
+26544005||muscle weakness
+26544005||muscle weakness
+84387000||asymptomatic
+419099009||death
+419099009||death
+419099009||death
+419099009||died
+18265008||bilateral exophthalmos
+18265008||proptosis of one year's evolution in both eyes
+64882008||fever
+64882008||fever
+89362005||weight loss
+247663003||oriented
+359746009||stable
+419099009||died
+60046008||pleural effusion
+62315008||febrile diarrhoea
+64882008||fever
+359746009||stable
+11092001||tachycardic
+37125009||mild bilateral mydriasis
+26079004||tremor
+251150006||sinus rhythm
+286933003||confusional syndrome
+NO_CODE||normal lactate
+40226000||progressive deterioration
+43339004||hypokalaemia
+43339004||hypokalaemia
+43339004||hypokalaemia
+59455009||metabolic acidosis
+11092001||tachycardic
+11092001||tachycardic
+13791008||asthenia
+89362005||weight loss
+21522001||abdominal pain
+422400008||vomiting
+102614006||diffuse abdominal pain
+102957003||neurological focality
+247663003||oriented
+414786004||murmurs
+300848003||masses
+NO_CODE||morphologically normal adrenal glands
+11092001||sinus tachycardia
+45007003||hypotensive
+103251002||extrinsic and intrinsic motility was normal
+708118007||negative culture
+NO_CODE||systemic apparatus study was not significant
+53298000||haematuria
+64882008||fever
+365707003||undetectable viral load
+15253005||facial asymmetry
+103251002||extrinsic and intrinsic ocular motility were normal
+22253000||pain
+75823008||exudate
+419099009||died
+309088003||renal mass
+309088003||upper pole of the right kidney and internally, there is a solid mass
+16617009||dysphonia
+84387000||asymptomatic
+31462008||pollakiuria
+84387000||asymptomatic
+53298000||haematuria
+249543005||abdomen was soft and depressible
+300848003||mass
+300848003||mass
+300848003||mass
+300848003||mass
+300848003||mass
+300848003||mass
+129734009||nodular areas
+135815002||good general condition
+89362005||weight loss
+29738008||proteinuria
+29738008||proteinuria
+29738008||proteinuria
+29738008||proteinuria
+267038008||oedema
+267038008||oedema
+247398009||neuropathic pain
+13791008||asthenia
+79890006||anorexia
+64882008||fever
+22253000||pain
+62315008||diarrhoea
+409668002||intense photophobia
+418290006||itching
+409668002||photophobia
+13791008||asthenia
+28928000||cachexia
+707724006||elevated liver enzymes
+80394007||hyperglycaemia
+53298000||haematuria
+31462008||pollakiuria
+193967004||eyelid oedema
+139394000||nocturia
+49233005||dyspnoea
+34615008||haemospermia
+164734008||fundus examination was normal
+444905003||soft tissue mass
+84387000||asymptomatic
+24982008||diplopia
+24982008||diplopia
+419099009||died
+422400008||vomiting
+271823003||tachypnoea
+22253000||painful
+249543005||abdomen was soft
+422587007||nausea
+422400008||vomiting
+24982008||horizontal binocular diplopia
+64882008||fever
+34095006||dehydrated
+40917007||confused
+84387000||asymptomatic
+300441003||adequate cortico-medullary differentiation
+166701009||calcaemia in range
+5291005||severe hypocalcaemia
+131148009||rebleeding
+45089002||right eye was normal
+39575007||choluria
+84387000||asymptomatic
+274667000||hemimandibular pain
+64882008||fever
+274765004||negative rectal examination
+274643008||pallor
+8573003||active bleeding
+135817005||acceptable general condition
+64882008||febrile syndrome
+165232002||urinary incontinence
+49650001||dysuria
+130951007||bladder balloon
+102568007||decreased strength in both lower limbs
+64882008||fever
+301459008||haemodynamically stable
+40917007||confused
+52613005||sweaty
+167221003||normal sediment
+248514008||palpebral nodule
+274765004||rectal examination was unremarkable
+422773005||haemodynamic destabilisation
+53298000||haematuria
+422773005||haemodynamic compromise
+53298000||total anaemic haematuria
+428090004||bladder clot
+419099009||died
+56731001||generalised hypertonia
+22006008||hypertelorism
+102968003||visual evoked potentials are pathological with an increased latency period
+69559004||retroperitoneal tumour
+300848003||mass
+300848003||mass
+102031000119109||paratesticular mass
+285384003||progressive deterioration of general condition
+359746009||clinically stable
+13045009||anisocoria
+274643008||pallor
+419099009||death
+33624008||irritable
+91175000||seizures
+91175000||seizures
+247973004||moria
+131148009||haemorrhage
+64882008||fever
+64882008||fever
+84387000||asymptomatic
+414786004||murmurs
+70784009||meningismus
+48348007||preserved vesicular murmur
+NO_CODE||normofunctioning aortic prosthesis
+309088003||mass was clearly visualised over the outer edge of the kidney
+131148009||bleeding
+22253000||pain
+64882008||fever
+22253000||pain
+135815002||good general condition
+64882008||fever
+18165001||jaundice
+301367001||abdominal pain in the right hypochondrium
+301459008||haemodynamically stable
+707724006||elevated transaminase values
+409609008||basal alveolar infiltrate
+300848003||hypoechoic mass
+27925004||hypoechoic nodules
+110279003||disease-free
+49727002||cough
+64882008||fever
+414478003||leukocytosis
+300848003||mass
+300848003||mass
+300848003||mass
+422400008||vomiting
+246636008||blurred vision in both eyes
+64882008||fever
+29738008||proteinuria
+275723000||clinical deterioration
+NO_CODE||linear image above the umbilical scar
+131148009||bleeding
+419099009||died
+79922009||epigastralgia
+300848003||mass
+135815002||good general condition
+64882008||fever
+84387000||asymptomatic
+40709005||lumbar pain
+22253000||pain
+300848003||mass
+419099009||death
+40709005||low back pain
+300848003||mass
+64882008||febrile syndrome
+64882008||fever
+64882008||fever
+43724002||chills
+43724002||chills
+13791008||asthenia
+367391008||general malaise
+367391008||general malaise
+NO_CODE||peritoneal nodule in the mesentery of the distal ileum
+25064002||headache
+30233002||odynophagia
+89362005||weight loss
+302215000||thrombopenia
+84387000||asymptomatic
+84387000||asymptomatic
+27925004||subcapsular nodule
+707724006||slightly elevated transaminases
+430909002||behavioural alterations
+8011004||dysarthria
+9589009||difficulty in walking
+64882008||fever
+64882008||fever
+64882008||fever
+52613005||diaphoresis
+52613005||diaphoresis
+62476001||disorientation
+286933003||confusional syndrome
+22253000||pain
+75823008||exudate
+1144523008||normal life
+89362005||weight loss
+64882008||fever
+225581002||decreased vision
+24982008||double vision
+271823003||persistent tachypnoea
+64882008||fever
+64882008||fever
+64882008||fever
+64882008||high fever
+309306009||negative microbiological samples
+708118007||repeated negative cultures
+128139000||inflammatory reaction
+18165001||jaundice
+18165001||jaundice
+18165001||jaundice
+18165001||jaundice
+21522001||abdominal pain
+48661000||peritoneal irritation
+422400008||vomiting
+162053006||hypogastric pain
+53298000||haematuria
+102614006||generalised abdominal pain
+197940006||microhaematuria
+247663003||oriented
+135815002||good general condition
+249545003||peritonism
+11092001||sinus tachycardia
+47295007||psychomotor agitation
+443371007||decreased level of consciousness
+37125009||mydriasis
+22253000||painful
+91175000||convulsive episode
+102957003||neurological focality
+11092001||tachycardia
+37125009||slightly mydriatic pupils
+64882008||fever
+21522001||abdominal pain
+422587007||nausea
+80394007||hyperglycaemia
+422773005||haemodynamic instability
+11092001||sinus tachycardia
+45007003||arterial hypotension
+35013009||purulent material
+301459008||haemodynamically stable
+89362005||weight loss
+399122003||progressive dysphagia
+443371007||low level of consciousness
+330007||severe headache in the occipital region
+31515003||hypoventilation
+25064002||headache
+267038008||oedema
+708118007||blood cultures were sterile
+64882008||fever
+64882008||fever
+62315008||diarrhoea
+43724002||chills
+422400008||vomiting
+79890006||anorexia
+84387000||asymptomatic
+49650001||irritative urinary symptoms
+423341008||papillary oedema
+2472002||anuria
+2472002||anuria
+11833005||irritative cough
+66857006||slight haemoptotic expectoration
+21522001||abdominal pain
+62315008||diarrhoea
+91175000||convulsive episode
+91175000||seizure
+NO_CODE||physical examination was normal
+64730000||normal sinus rhythm
+91175000||seizures
+91175000||seizures
+13791008||asthenia
+26079004||tremor
+34095006||dehydration
+34095006||dehydration
+34095006||dehydration
+91175000||convulsive episodes
+5291005||hypocalcaemia
+300848003||mass
+300848003||mass
+300848003||mass
+300848003||mass
+300848003||mass
+62330004||left levator muscle function was limited
+78341006||polymorphonuclear leukocytes and abundant mucus
+49233005||respiratory distress
+24982008||double vision
+404640003||dizziness
+16617009||dysphonia
+399122003||dysphagia
+24982008||diplopia
+24982008||diplopia
+24982008||horizontal diplopia
+218951000119100||limitation of bilateral abduction
+64882008||fever
+64882008||fever
+21522001||abdominal pain
+89362005||weight loss
+65404009||severe malnutrition
+64882008||fever
+21522001||abdominal pain
+445039006||adnexal mass
+419099009||died
+62476001||disorientation
+49233005||dyspnoea
+165232002||urinary incontinence
+131148009||haemorrhage
+112638000||mass effect
+112638000||mass effect
+300848003||mass
+21522001||abdominal pain
+249757009||ulnar deviation of the hand
+422773005||haemodynamic instability
+422773005||haemodynamic instability
+422773005||haemodynamic instability
+84387000||asymptomatic
+300848003||mass
+271823003||tachypnoea
+11092001||tachycardia
+64882008||fever
+49233005||dyspnoea
+251150006||sinus rhythm
+62640008||fine crackles in both lung fields
+248690009||crackles on cardiac auscultation
+64882008||fever
+414478003||leukocytosis
+165232002||urinary incontinence
+119247004||severe hypoalbuminaemia
+74474003||gastrointestinal bleeding
+84387000||asymptomatic
+131148009||bleeding
+8573003||active bleeding
+8573003||active bleeding
+84387000||asymptomatic
+300848003||mass
+300848003||mass
+25064002||headache
+232121005||afferent pupillary defect
+24982008||diplopia
+31462008||pollakiuria
+414478003||leukocytosis
+49650001||dysuria
+78341006||neutrophilia
+197940006||microhaematuria
+64882008||fever
+35013009||purulent material
+35013009||purulent material
+NO_CODE||heterogeneous echogenicity
+89362005||lose weight
+422400008||vomiting
+707724006||elevated transaminases
+27925004||nodular formation
+414478003||leukocytosis
+386789004||eosinophilia
+422587007||nausea
+422400008||vomiting
+79890006||anorexia
+13791008||asthenia
+84387000||asymptomatic
+22253000||painful
+67307004||abnormal abdominal collateral circulation
+89362005||weight loss
+409668002||photophobia
+89362005||weight loss
+418290006||itching
+8900005||hypoproteinaemia
+64882008||fever
+64882008||fever
+64882008||fever
+13791008||asthenia
+79890006||anorexia
+79890006||anorexia
+274643008||skin pallor
+11833005||dry cough
+102614006||diffuse abdominal pain
+135815002||good general condition
+167221003||urine sediment was normal
+251150006||sinus rhythm
+422773005||haemodynamic compromise
+708118007||pericardial fluid culture was sterile
+84387000||asymptomatic
+84387000||asymptomatic
+NO_CODE||physical examination was normal
+2004005||blood pressure was normal
+60728008||abdomen was globular
+414478003||leukocytosis
+78341006||neutrophilia
+414786004||murmurs
+27925004||nodules
+48661000||peritoneal irritation
+419099009||exitus
+45007003||arterial hypotension
+275723000||clinical deterioration
+40709005||lumbar pain
+64882008||fever
+419099009||died
+42984000||night sweats
+84387000||asymptomatic
+NO_CODE||facial mobility was preserved
+NO_CODE||pt3b
+60862001||sudden onset tinnitus
+64882008||fever
+43724002||chills
+301459008||haemodynamic stability
+31462008||pollakiuria
+300441003||preserved left renal parenchyma
+45850009||daytime continence
+40709005||low back pain
+67307004||collateral circulation
+389026000||ascites
+27925004||nodule
+33958003||penile induration at the base
+22253000||painful
+64882008||fever
+414478003||leukocytosis
+169240004||transthoracic echocardiography showed normal images
+78341006||neutrophilia
+386789004||eosinophilia
+302215000||thrombopenia
+302215000||thrombopenia
+302215000||thrombopenia
+53298000||haematuria
+131148009||bleeding
+8573003||active bleeding
+419099009||died
+81141003||renal function remained normal
+13791008||asthenia
+445088006||facial oedema
+64882008||fever
+64882008||fever
+64882008||febrile syndrome
+29738008||proteinuria
+83128009||oliguria
+197940006||microhaematuria
+285384003||deterioration of general condition
+131148009||blood
+22253000||pain
+131148009||bleeding
+300848003||masses
+300848003||mass
+300848003||mass
+22253000||persistent pain
+22253000||persistent pain
+82971005||functional limitation
+82971005||functional limitation
+62476001||disorientation
+53298000||haematuria
+110279003||disease-free interval
+110279003||disease-free interval
+63901009||acute testicular pain
+419099009||died
+62315008||diarrhoea
+45089002||right eye was normal
+707598004||malocclusion
+15253005||facial asymmetry
+734009000||diastemas
+64882008||fever
+285384003||deterioration of general condition
+414478003||leukocytosis
+78341006||neutrophilia
+419099009||died
+249543005||soft abdomen
+246636008||blurred vision
+NO_CODE||low viral load
+135815002||good general condition
+81141003||normal bilateral renal function
+13791008||asthenia
+404640003||dizziness
+79890006||anorexia
+89362005||weight loss of 12 kilograms
+309088003||renal mass
+286402008||spoke normally
+419099009||died
+419099009||died
+13791008||asthenia
+79890006||anorexia
+102614006||diffuse abdominal pain
+52613005||sweating
+79922009||epigastric pain
+64882008||fever
+285384003||deterioration of general condition
+62315008||diarrhoea
+62315008||diarrhoea
+62315008||diarrhoea
+64882008||fever
+64882008||fever
+21522001||abdominal pain
+79922009||epigastralgia
+52613005||diaphoretic
+40709005||lumbar pain
+422587007||nausea
+48661000||peritoneal irritation
+422400008||vomiting
+40969002||symmetrical arterial pulses
+84387000||asymptomatic
+251150006||sinus rhythm
+249545003||defence
+102834005||comfortable spontaneous urination
+64882008||fever
+21522001||abdominal pain
+165232002||urinary incontinence
+79922009||epigastralgia
+89362005||weight loss
+29738008||proteinuria
+29738008||proteinuria
+29738008||proteinuria
+29738008||proteinuria
+29738008||proteinuria
+29738008||proteinuria
+29738008||proteinuria
+414478003||leukocytosis
+414478003||leukocytosis
+40709005||lumbar pain
+53298000||haematuria
+13791008||moderate asthenia
+247348008||painful on palpation
+13791008||asthenia
+13791008||asthenia
+131148009||bleeding
+131148009||bleeding
+131148009||bleeding
+162010006||intraoral examination was normal
+419099009||died
+301924000||left eye was normal
+105597003||loss of vision
+48661000||peritoneal irritation
+21522001||abdominal pain
+422400008||vomiting
+79890006||anorexia
+84387000||asymptomatic
+414478003||leukocytosis
+78341006||neutrophilia
+389026000||ascitic fluid
+300848003||mass
+300848003||mass
+64882008||high fever
+29738008||proteinuria
+29738008||proteinuria
+197940006||microhaematuria
+300441003||kidneys of normal size and echostructure
+84387000||asymptomatic
+45647009||granulomas
+45647009||granulomas
+267038008||oedema
+419099009||died
+444905003||soft tissue mass
+247348008||pain on palpation
+445456006||tumour in the basal mandibular region at the parasymphyseal level
+89362005||weight loss
+131148009||bleeding
+43364001||abdominal discomfort
+84387000||asymptomatic
+NO_CODE||physical examination was normal
+102614006||diffuse abdominal pain
+64882008||fever
+43724002||chills
+49233005||dyspnoea
+84387000||asymptomatic
+50960005||haemorrhagic foci
+50960005||haemorrhagic foci
+131148009||rebleeding
+409668002||photophobia
+22253000||pain
+22253000||pain
+13791008||asthenia
+79890006||anorexia
+89362005||weight loss
+419099009||died
+303011007||neutropenia
+371030007||oppressive back pain
+52613005||sweating
+49233005||dyspnoea
+84387000||asymptomatic
+64730000||cardiac auscultation was rhythmic
+102031000119109||paratesticular mass
+247328001||painful to the touch
+64882008||fever
+238131007||overweight
+249545003||abdominal defence
+22253000||pain
+22253000||pain
+112630007||triangular facies
+419099009||died
+419099009||died
+29738008||proteinuria
+359746009||stable
+167221003||no alterations in the sediment
+49233005||dyspnoea
+422773005||haemodynamic alterations
+22253000||pain
+22253000||pain
+301459008||haemodynamic stability
+9589009||difficulty in ambulation
+386789004||eosinophilia
+64882008||occasional fever
+64882008||fever
+40709005||lumbar pain
+40709005||lumbar pain
+49650001||dysuria
+49650001||dysuria
+84387000||asymptomatic
+53298000||haematuria
+52613005||sweating
+52613005||sweating
+165406005||normal haemogram
+330007||occipital headache
+25064002||headaches
+26544005||muscle weakness
+125132005||solid nodular image
+84387000||asymptomatic
+43339004||hypokalaemia
+43339004||hypokalaemia
+43339004||hypokalaemia
+13791008||asthenia
+66857006||haemoptotic expectoration
+64882008||fever
+64882008||fever
+135815002||good general condition
+708118007||bronchoaspirate culture showed no growth for bacteria, fungi or mycobacteria
+164854000||electrocardiogram was normal
+165507003||leukocyte count was normal
+445368001||normal cardiac silhouette
+48813009||lymphopenia
+235719002||digestive intolerance
+52985009||chylous ascites
+53298000||haematuria
+53298000||haematuria
+53298000||haematuria
+22253000||pain
+197942003||emission of clots
+197941005||frank haematuria
+25064002||severe headache
+25064002||headache
+25064002||headache
+25064002||headache
+367391008||general malaise
+11833005||dry cough
+64882008||fever
+64882008||fever
+232209000||nasal obstruction
+419045004||loss of consciousness
+43724002||chills
+84387000||asymptomatic
+414786004||murmurs
+135815002||good general appearance
+249543005||abdomen is soft, depressible
+300848003||masses
+70784009||meningismus
+48348007||preserved vesicular murmur
+52613005||profuse sweating
+25064002||headache
+40709005||lumbar pain
+69559004||retroperitoneal mass
+69559004||retroperitoneal mass
+423341008||papilledema
+64882008||fever
+64882008||fever
+303011007||neutropenia
+232209000||nasal obstruction
+232209000||nasal obstruction
+135815002||good general condition
+84387000||asymptomatic
+84387000||asymptomatic
+6631009||thrombocytosis
+6631009||thrombocytosis
+6631009||thrombocytosis
+45647009||granulomas
+367391008||general malaise
+301367001||dull pain in the right hypochondrium
+35013009||purulent material
+405729008||rectorrhagia
+21522001||abdominal pain
+95545007||bloody diarrhoea
+25064002||headache
+389026000||ascites
+389026000||ascites
+389026000||ascites
+419099009||death
+275723000||clinical deterioration
+105597003||loss of vision
+301459008||haemodynamic stability
+64882008||fever
+21522001||abdominal pain
+249301002||urethrorrhagia
+84387000||asymptomatic
+301459008||haemodynamically stable
+45007003||hypotension
+21522001||abdominal pain
+33958003||induration of the distal third of the penile shaft
+409668002||photophobia
+267038008||oedema
+267038008||oedema
+419045004||loss of consciousness
+30098003||hyperemia
+76849009||conjunctival hyperemia
+76849009||conjunctival injection
+398637008||applied retina
+75823008||secretion
+301961009||papilla and macula were normal
+84387000||asymptomatic
+247348008||painful on palpation
+300848003||mass
+300848003||mass
+300493001||normal testicles
+399406009||negative testicular markers
+21522001||abdominal pain
+301459008||haemodynamically stable
+300848003||mass
+300848003||mass
+419099009||died
+422587007||nausea
+422400008||vomiting
+13791008||asthenia
+39575007||choluria
+18165001||jaundice
+707724006||hypertransaminemia
+301367001||abdominal pain predominantly in the right hypochondrium
+166602006||physical examination and laboratory tests, including a liver profile, were normal
+13791008||asthenia
+79890006||anorexia
+422587007||nausea
+404640003||dizziness
+21522001||abdominal pain
+443371007||decreased level of consciousness
+443371007||decreased level of consciousness
+301459008||haemodynamically stable
+59455009||metabolic acidosis
+34095006||dehydration
+34095006||dehydration
+43339004||hypokalaemia
+300848003||masses
+300848003||masses
+300848003||tumours
+300848003||tumours
+247663003||oriented
+52613005||profuse sweating
+275295002||sialorrhoea
+422587007||nausea
+422400008||vomiting
+17450006||generalised myoclonus
+17450006||generalised myoclonus
+238159008||desaturation
+91175000||seizures
+37125009||mydriasis
+37125009||reactive mydriasis
+31515003||hypoventilation
+31515003||hypoventilation
+31515003||hypoventilation
+80449002||muscle fatigue
+80449002||muscle fatigue
+47295007||psychomotor agitation
+15241006||muscarinic manifestations
+95442007||peripheral cyanosis
+45007003||hypotensive
+30098003||severe hyperemia
+257552002||inflammatory signs
+246636008||blurred vision
+22253000||pain
+22253000||pain
+164734008||fundus without significant alterations in both eyes
+708118007||culture (aerobic and anaerobic) was negative for bacteria
+131148009||haemorrhage
+131148009||haemorrhage
+131148009||haemorrhage
+131148009||bleeding
+64882008||fever
+309306009||auramine staining for mycobacteria was negative
+25064002||headaches
+79922009||epigastric pain
+246636008||blurred vision
+29738008||proteinuria
+83128009||oliguria
+423341008||papillary oedema
+423341008||optic disc oedema
+87860000||testicular mass
+84387000||asymptomatic
+22253000||painful
+399406009||tumour markers were negative
+81141003||renal function remained normal
+40709005||low back pain
+39575007||dark urine
+300441003||signal hypointensity in the renal cortex
+NO_CODE||decreased haptoglobin
+68600005||haemoglobinuria
+68600005||haemoglobinuria
+68600005||haemoglobinuria
+29738008||proteinuria
+29738008||proteinuria
+167221003||normal sediment
+NO_CODE||undetectable haptoglobin
+25064002||headache
+409668002||photophobia
+367391008||general malaise
+13791008||asthenia
+52613005||diaphoresis
+22253000||pain
+72970002||clinical examination and vital signs were normal
+131148009||haemorrhage
+131148009||haemorrhage
+409668002||photophobia
+5291005||hypocalcaemia
+80313002||palpitations
+64882008||fever
+84387000||asymptomatic
+84387000||asymptomatic
+271594007||syncope
+418362005||sudden death
+79922009||epigastralgia
+13791008||asthenia
+399122003||dysphagia
+NO_CODE||physical examination was normal
+300848003||masses
+NO_CODE||normal mucosa
+21522001||abdominal pain
+62315008||diarrhoea
+29738008||proteinuria
+29738008||proteinuria
+264867001||nephrotic proteinuria
+440109001||negativation of anti-transglutaminase antibodies
+91019004||paraesthesia
+57241006||moderate anisocytosis
+707724006||elevated liver enzymes
+22253000||painful
+30098003||hyperemia
+300848003||asymptomatic tumour
+414478003||leukocytosis
+13791008||asthenia
+64882008||fever
+84387000||asymptomatic
+22325002||gait disturbance
+84387000||asymptomatic
+22253000||pain
+22253000||pain
+22253000||pain
+22253000||painful
+87860000||testicles are engulfed by fibrosis and the tumour mass
+131148009||bleeding
+300848003||mass
+300848003||mass
+27925004||nodular formation
+237783006||adrenal hypodense mass
+64882008||febrile syndrome
+64882008||fever
+21522001||abdominal pain
+21522001||abdominal pain
+11833005||dry cough
+64882008||fever
+13791008||asthenia
+79890006||anorexia
+422587007||nausea
+28928000||cachexia
+409609008||bilateral alveolar-interstitial infiltrate
+94147001||mediastinal mass
+422400008||vomiting
+NO_CODE||microbiological studies on blood, urine, sputum, brocoaspirate and lymph node puncture were negative for bacteria, mycobacteria and fungi
+166558007||normal alpha-fetoprotein
+419099009||died
+49233005||dyspnoea of progressive intensity
+84387000||asymptomatic
+64882008||fever
+43724002||chills
+303011007||neutropenia
+8573003||active bleeding
+79890006||anorexia
+89362005||loss of about 15 kg of weight
+NO_CODE||physical examination was normal
+27925004||nodule
+237783006||adrenal tumour
+237783006||adrenal tumour
+418035005||tearing
+65124004||generalised swelling
+13791008||asthenia
+237783006||adrenal mass
+419099009||dying
+398637008||normal macular thickness
+64882008||fever
+22253000||pain
+422587007||nausea
+422400008||vomiting
+116290004||acute abdominal pain
+21522001||abdominal pain
+59455009||metabolic acidosis
+422587007||nausea
+422400008||vomiting
+251150006||sinus rhythm
+443371007||progressive deterioration of the level of consciousness
+64882008||fever
+11092001||sinus tachycardia
+43339004||hypokalaemia
+419099009||died
+246635007||low vision
