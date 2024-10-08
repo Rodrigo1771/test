@@ -1,6 +1,8 @@
 import os
 import json
 import random
+import pandas as pd
+
 
 mode = 'final-model'  # ['hyperparameter-search', 'final-model']
 languages = ['es', 'en', 'it', 'fr', 'pt']
@@ -14,6 +16,7 @@ paths_per_language = {
         'gazetteer_file_path': '../../../../datasets/symptemist/symptemist_gazetteer/symptemist_gazetter_snomed_ES_v2.tsv'
             if lang == 'es' else None,
         'output_dir': f'out/{mode}/{lang}',
+        'gold_standard_file_path': f'../../../../eval-libs/el/test-file-reference-tsvs/symptemist_{lang}_test_file_reference.tsv',
     }
     for lang in languages
 }
@@ -169,6 +172,16 @@ def build_dictionary_files(gazetteer_file_path, output_dir, test_file_codes, lan
         __build_dictionary_files_not_spanish(parsed_simple_training_file, output_dir, test_file_codes, lang)
 
 
+def build_el_test_file_reference_tsv(paths):
+    df = pd.read_csv(paths['test_file_path'], delimiter='\t')
+    df = df.iloc[:, :-4]
+    df = df.rename(columns={'span_ini': 'start_span'})
+    df = df.rename(columns={'span_end': 'end_span'})
+    os.makedirs(os.path.dirname(paths['gold_standard_file_path']), exist_ok=True)
+    df.to_csv(paths['gold_standard_file_path'], sep='\t', index=False)
+    return df
+
+
 for lang, paths in paths_per_language.items():
     os.makedirs(os.path.join(paths['output_dir'], 'aux'), exist_ok=True)
     build_training_file(paths['training_file_path'], paths['output_dir'], lang, mode)
@@ -177,3 +190,4 @@ for lang, paths in paths_per_language.items():
     else:
         codes = build_test_file(paths['test_file_path'], paths['output_dir'], lang, mode)
     build_dictionary_files(paths['gazetteer_file_path'], paths['output_dir'], codes, lang, mode)
+    build_el_test_file_reference_tsv(paths)

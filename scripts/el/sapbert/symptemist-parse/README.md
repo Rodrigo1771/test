@@ -62,3 +62,5 @@ The structure of the output directory will be the following:
       └── pt
           └── (...)
 ```
+
+The script actually produces another file (per language), containing the Gold Standard anotations in a format suited for the evaluation library. These files are saves in `eval-libs/el/test-file-reference-tsvs`.
