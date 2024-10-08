@@ -13,7 +13,7 @@ RUN apt-get update && apt-get install -y \
     python3 \
     python3-pip \
     git \
-    && rm -rf /var/lib/apt/lists/* \
+    && rm -rf /var/lib/apt/lists/*
 
 # Install Python dependencies
 RUN pip3 install --no-cache-dir torch tqdm numpy pandas pytorch_metric_learning transformers sentencepiece protobuf
@@ -33,16 +33,16 @@ ENV MODE=$MODE
 ENV MODEL_TYPE=$MODEL_TYPE
 
 # Clone GitHub repo
-RUN git clone https://Rodrigo1771:"$GITHUB_TOKEN"@github.com/Rodrigo1771/multilingual-bio-ner-and-el-msc-diss
+RUN git clone https://Rodrigo1771:"$GITHUB_TOKEN"@github.com/Rodrigo1771/test
 
 # Run either the hyperparameter search or the final training and evaluation script
 CMD if [ "$MODE" = "hyperparameter-search" ]; then \
-        cd dissertation/scripts/el/sapbert/pipeline && \
+        cd test/scripts/el/sapbert/pipeline && \
         ./sapbert_hyperparameter_search.sh "$DATASET" "$LANG"; \
     elif [ "$MODE" = "final-model" ]; then \
-        cd dissertation/scripts/el/sapbert/pipeline && \
+        cd test/scripts/el/sapbert/pipeline && \
         ./sapbert_train_and_evaluate_final_model.sh "$DATASET" "$LANG"; \
     else \
-        cd dissertation/scripts/el/sapbert/pipeline && \
+        cd test/scripts/el/sapbert/pipeline && \
         ./sapbert_train-aug_and_evaluate_final_model.sh "$DATASET" "$LANG" "$MODEL_TYPE"; \
     fi

@@ -20,7 +20,7 @@ if [ "$MODE" == "final-model-aug" ]; then
 else
   MODEL_TYPE_MODIFIER=""
 fi
-SOURCE_DIR="/usr/src/app/dissertation/scripts/el/sapbert/pipeline/out/${DATASET}/${MODE}${MODEL_TYPE_MODIFIER}/${LANG}"
+SOURCE_DIR="/usr/src/app/test/scripts/el/sapbert/pipeline/out/${DATASET}/${MODE}${MODEL_TYPE_MODIFIER}/${LANG}"
 DEST_DIR="out/${DATASET}/${MODE}${MODEL_TYPE_MODIFIER}/${LANG}"
 if [ "$MODE" == "hyperparameter-search" ]; then
 	RESULTS_FILE="*_training_results.json"

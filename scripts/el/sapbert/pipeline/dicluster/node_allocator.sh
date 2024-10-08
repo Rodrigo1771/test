@@ -8,7 +8,7 @@
 GITHUB_TOKEN=$(grep 'gh_token' config | cut -d'=' -f2)
 DATASET="symptemist"
 LANGS=("es" "en" "fr" "it" "pt")  # {symptemist: [es, en, fr, it, pt]}
-MODE="final-model"  # [hyperparameter-search, final-model, final-mode-aug]
+MODE="hyperparameter-search"  # [hyperparameter-search, final-model, final-mode-aug]
 MODEL_TYPE="fasttext"  # {hyperparameter-search: [], final-model: [], final-mode-aug: [word2vec, fasttext]} - if mode is not final-mode-aug, this parameter will be ignored in the Dockerfile
 ALLOCATION_TIME="6"  # in hours
 

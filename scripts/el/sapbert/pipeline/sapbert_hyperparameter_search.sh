@@ -10,7 +10,7 @@ LANG=$2
 
 # Verify inputs
 SYMPTEMIST_LANGS="es en fr it pt"
-if [ "$DATASET" = "SYMPTEMIST" ]; then
+if [ "$DATASET" = "symptemist" ]; then
   if ! echo "$SYMPTEMIST_LANGS" | grep -qw "$LANG"; then
     echo "[ERROR] $(readlink -f "$0"): $LANG language option not supported for SympTEMIST."
     exit 1
