@@ -1,5 +1,5 @@
 import os
-import re
+import regex
 import argparse
 import humanize
 from tqdm import tqdm
@@ -22,22 +22,22 @@ def get_file_size(file_path):
 
 
 def clean_text(text):
-    text = re.sub("(?s)<ref>.+?</ref>", "", text)  # remove reference links
-    text = re.sub("(?s)<[^>]+>", "", text)  # remove html tags
-    text = re.sub("&[a-z]+;", "", text)  # remove html entities
-    text = re.sub("\{\{(?:[^{}]++|(?R))*+\}\}", "", text)  # remove markup tags
-    text = re.sub("(?s){.+?}", "", text)  # remove markup tags
-    text = re.sub("(?s)\[\[([^]]+\|)", "", text)  # remove link target strings
-    text = re.sub("(?s)\[\[([^]]+\:.+?]])", "", text)  # remove media links
+    text = regex.sub("(?s)<ref>.+?</ref>", "", text)  # remove reference links
+    text = regex.sub("(?s)<[^>]+>", "", text)  # remove html tags
+    text = regex.sub("&[a-z]+;", "", text)  # remove html entities
+    text = regex.sub("\{\{(?:[^{}]++|(?R))*+\}\}", "", text)  # remove markup tags
+    text = regex.sub("(?s){.+?}", "", text)  # remove markup tags
+    text = regex.sub("(?s)\[\[([^]]+\|)", "", text)  # remove link target strings
+    text = regex.sub("(?s)\[\[([^]]+\:.+?]])", "", text)  # remove media links
 
-    text = re.sub("[']{5}", "", text)  # remove italic+bold symbols
-    text = re.sub("[']{3}", "", text)  # remove bold symbols
-    text = re.sub("[']{2}", "", text)  # remove italic symbols
+    text = regex.sub("[']{5}", "", text)  # remove italic+bold symbols
+    text = regex.sub("[']{3}", "", text)  # remove bold symbols
+    text = regex.sub("[']{2}", "", text)  # remove italic symbols
 
-    text = re.sub(u"[^ \r\n\p{Latin}\-'‘’.?!]", " ", text)  # mostly european languages
+    text = regex.sub(u"[^ \r\n\p{Latin}\-'‘’.?!]", " ", text)  # mostly european languages
     text = text.lower()
 
-    text = re.sub("[ ]{2,}", " ", text)  # Squeeze spaces.
+    text = regex.sub("[ ]{2,}", " ", text)  # Squeeze spaces.
 
     return text
 
@@ -51,7 +51,7 @@ def build_corpus(args):
             running_text = elem.text
             try:
                 running_text = clean_text(running_text)
-                sents = re.split("([.?!])?[\n]+|[.?!] ", running_text)
+                sents = regex.split("([.?!])?[\n]+|[.?!] ", running_text)
                 for sent in sents:
                     if sent is not None:
                         words = sent.split()

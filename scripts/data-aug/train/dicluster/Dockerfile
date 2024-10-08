@@ -23,7 +23,7 @@ RUN python3 -m venv venv
 ENV PATH="/usr/src/app/venv/bin:$PATH"
 
 # Install Python dependencies
-RUN pip3 install --no-cache-dir tqdm lxml humanize gensim numpy
+RUN pip3 install --no-cache-dir tqdm regex lxml humanize gensim numpy
 
 # Get arguments
 ARG GITHUB_TOKEN
