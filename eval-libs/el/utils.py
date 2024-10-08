@@ -165,3 +165,4 @@ def write_results(scores, output_path):
     data['official_accuracy'] = scores['total']['accuracy']
     with open(output_path, 'w') as f:
         json.dump(data, f, indent=4)
+    print(f"Official accuracy: {data['official_accuracy']}")
