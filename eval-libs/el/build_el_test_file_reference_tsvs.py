@@ -4,8 +4,8 @@ import pandas as pd
 symptemist_languages = ['es', 'en', 'it', 'fr', 'pt']
 symptemist_paths_per_language = {
     lang: {
-        'test_file_path': '../../datasets/symptemist/test/subtask2-linking/symptemist_tsv_test_subtask2.tsv'
-        if lang == 'es' else f'../../datasets/symptemist/test/subtask3-experimental_multilingual/symptemist_task3_{lang}_test.tsv',
+        'test_file_path': '../../datasets/symptemist/symptemist_test/subtask2-linking/symptemist_tsv_test_subtask2.tsv'
+        if lang == 'es' else f'../../datasets/symptemist/symptemist_test/subtask3-experimental_multilingual/symptemist_task3_{lang}_test.tsv',
         'output_file_path': f'test-file-reference-tsvs/{lang}_test_file_reference.tsv',
     }
     for lang in symptemist_languages
