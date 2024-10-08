@@ -5,9 +5,10 @@
 
 GITHUB_TOKEN=$(grep 'gh_token' config | cut -d'=' -f2)
 LANGS=("es" "en" "fr" "it" "pt")  # [es, en, fr, it, pt]
+ALLOCATION_TIME="24"  # in hours
 
 for i in "${!LANGS[@]}"; do
-  oarsub -l {"network_address='alakazam-0$((i+1))'"},walltime=48:00:00 "./container_handler.sh ${GITHUB_TOKEN} ${LANGS[$i]}"
+  oarsub -l {"network_address='alakazam-0$((i+1))'"},walltime="${ALLOCATION_TIME}":00:00 "./container_handler.sh ${GITHUB_TOKEN} ${LANGS[$i]}"
 done
 
 exit
