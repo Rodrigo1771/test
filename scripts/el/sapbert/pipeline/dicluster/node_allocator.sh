@@ -5,7 +5,7 @@
 # DATASET (if more datasets are added), LANGS, MODE, MODEL_TYPE and ALLOCATION_TIME to your liking. The GITHUB_TOKEN
 # is read from the "scripts/config" file.
 
-GITHUB_TOKEN=$(grep 'gh_token' ../../../../config | cut -d'=' -f2)
+GITHUB_TOKEN=$(grep 'gh_token' config | cut -d'=' -f2)
 DATASET="symptemist"
 LANGS=("es" "en" "fr" "it" "pt")  # {symptemist: [es, en, fr, it, pt]}
 MODE="final-model"  # [hyperparameter-search, final-model, final-mode-aug]

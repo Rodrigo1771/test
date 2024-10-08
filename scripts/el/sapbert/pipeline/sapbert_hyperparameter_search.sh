@@ -22,9 +22,12 @@ fi
 
 
 # Define hyperparameters and models
-EPOCHS=20
-BATCH_SIZES=(64 128 256 512)
-LEARNING_RATES=(1e-4 5e-5 2e-5 1e-5)
+# EPOCHS=20
+# BATCH_SIZES=(64 128 256 512)
+# LEARNING_RATES=(1e-4 5e-5 2e-5 1e-5)
+EPOCHS=3
+BATCH_SIZES=(64 128)
+LEARNING_RATES=(1e-4)
 case $LANG in
   "es")
     MODEL_IDS=("cambridgeltl/SapBERT-UMLS-2020AB-all-lang-from-XLMR" "PlanTL-GOB-ES/bsc-bio-ehr-es")
