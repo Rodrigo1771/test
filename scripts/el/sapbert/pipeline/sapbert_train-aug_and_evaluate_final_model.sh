@@ -133,10 +133,12 @@ for DISTANCE_THRESHOLD in "${DISTANCE_THRESHOLDS[@]}"; do
     echo ""
 
     # Evaluate the model on the official evaluation library
-    cd "../../../eval-libs/el/" && python3 "evaluate.py" \
+    cd ../../../eval-libs/el/ && python3 evaluate.py \
       -r "test-file-reference-tsvs/${DATASET}_${LANG}_test_file_reference.tsv" \
       -p "../../scripts/el/sapbert/pipeline/out/${DATASET}/final-model-aug/${MODEL_TYPE}/${LANG}/${MODEL_ID#*/}_${EPOCHS}_${BATCH_SIZE}_${LEARNING_RATE}_${DISTANCE_THRESHOLD}_predictions.tsv" \
       -o "../../scripts/el/sapbert/pipeline/out/${DATASET}/final-model-aug/${MODEL_TYPE}/${LANG}/${MODEL_ID#*/}_${EPOCHS}_${BATCH_SIZE}_${LEARNING_RATE}_${DISTANCE_THRESHOLD}_final_results.json"
+
+    cd ../../scripts/el/sapbert/pipeline
 
   done
 done

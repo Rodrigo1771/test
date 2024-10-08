@@ -86,8 +86,6 @@ for MODEL_ID in "${MODEL_IDS[@]}"; do
   done
 
   # Identify and log the best model's hyperparameters in the results file
-  cd ../../../scripts/el/sapbert/pipeline && python3 log_best_overall_model.py --dataset "${DATASET}" --language "${LANG}" --model_id "${MODEL_ID#*/}"
+  cd ../../../scripts/el/sapbert/pipeline/ && python3 log_best_overall_model.py --dataset "${DATASET}" --language "${LANG}" --model_id "${MODEL_ID#*/}"
 
 done
-
-
