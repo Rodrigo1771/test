@@ -83,6 +83,8 @@ for MODEL_ID in "${MODEL_IDS[@]}"; do
         --parallel \
         --pairwise \
         --use_miner
+
+      echo ""
     done
   done
 

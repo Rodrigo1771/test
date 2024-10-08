@@ -9,7 +9,7 @@ parser.add_argument("--model_id")
 args = parser.parse_args()
 
 # Load results json
-hyperparameter_search_dir = f'../out/{args.dataset}/hyperparameter-search/{args.language}'
+hyperparameter_search_dir = f'out/{args.dataset}/hyperparameter-search/{args.language}'
 with open(f"{hyperparameter_search_dir}/{args.model_id}_training_results.json", 'r') as f:
     results = json.load(f)
 
