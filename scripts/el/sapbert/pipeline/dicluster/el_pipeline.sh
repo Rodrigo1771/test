@@ -22,6 +22,7 @@ else
 fi
 SOURCE_DIR="/usr/src/app/test/scripts/el/sapbert/pipeline/out/${DATASET}/${MODE}${MODEL_TYPE_MODIFIER}/${LANG}"
 DEST_DIR="out/${DATASET}/${MODE}${MODEL_TYPE_MODIFIER}/${LANG}"
+mkdir -p "${DEST_DIR}"
 if [ "$MODE" == "hyperparameter-search" ]; then
 	RESULTS_FILE="*_training_results.json"
 elif [ "$MODE" == "final-model" ]; then

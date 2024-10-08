@@ -49,7 +49,6 @@ esac
 
 # Hyperparameter search
 for MODEL_ID in "${MODEL_IDS[@]}"; do
-
   echo ""
   echo ">>> [1] HYPERPARAMETER SEARCH USING THE SAPBERT PIPELINE"
   echo ">>> [1]   MODEL: ${MODEL_ID}"
@@ -57,16 +56,17 @@ for MODEL_ID in "${MODEL_IDS[@]}"; do
   echo ">>> [1]   DATASET: ${DATASET}"
   echo ""
 
+  cd ../../../../models/sapbert/train/
+
   for BATCH_SIZE in "${BATCH_SIZES[@]}"; do
     for LEARNING_RATE in "${LEARNING_RATES[@]}"; do
-      echo ""
       echo ">>> [1]   BATCH SIZE: ${BATCH_SIZE}"
       echo ">>> [1]   LEARNING RATE: ${LEARNING_RATE}"
       echo ">>> [1]   EPOCHS: ${EPOCHS}"
       echo ""
 
       # Train model
-      cd ../../../../models/sapbert/train/ && CUDA_VISIBLE_DEVICES=0,1 python3 train.py \
+      CUDA_VISIBLE_DEVICES=0,1 python3 train.py \
         --model_dir "$MODEL_ID" \
         --training_file_path "../../../scripts/el/sapbert/${DATASET}-parse/out/hyperparameter-search/${LANG}/sapbert_${DATASET}_${LANG}_training_file.txt" \
         --validation_file_path "../../../scripts/el/sapbert/${DATASET}-parse/out/hyperparameter-search/${LANG}/sapbert_${DATASET}_${LANG}_validation_file.txt" \
