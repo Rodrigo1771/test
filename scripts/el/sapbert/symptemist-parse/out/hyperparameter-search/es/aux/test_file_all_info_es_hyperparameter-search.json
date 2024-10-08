@@ -1,0 +1,5578 @@
+[
+    {
+        "filename": "es-S0004-06142010000300011-1",
+        "label": "SINTOMA",
+        "start_span": "649",
+        "end_span": "716",
+        "entity": "5HIAA en orina de 24 horas estaba dentro de los par\u00e1metros normales",
+        "code": "171250001"
+    },
+    {
+        "filename": "es-S0212-71992006000200006-1",
+        "label": "SINTOMA",
+        "start_span": "2196",
+        "end_span": "2215",
+        "entity": "abdomen no doloroso",
+        "code": "162037008"
+    },
+    {
+        "filename": "es-S0212-71992006000600007-1",
+        "label": "SINTOMA",
+        "start_span": "1488",
+        "end_span": "1522",
+        "entity": "abolici\u00f3n de los reflejos aqu\u00edleos",
+        "code": "274818004"
+    },
+    {
+        "filename": "es-S0210-48062009000400016-1",
+        "label": "SINTOMA",
+        "start_span": "1241",
+        "end_span": "1287",
+        "entity": "abundante salida de orina a trav\u00e9s del drenaje",
+        "code": "366368001"
+    },
+    {
+        "filename": "es-S0365-66912005001100008-1",
+        "label": "SINTOMA",
+        "start_span": "2571",
+        "end_span": "2580",
+        "entity": "acantosis",
+        "code": "23620008"
+    },
+    {
+        "filename": "es-S0212-16112010000600022-1",
+        "label": "SINTOMA",
+        "start_span": "1940",
+        "end_span": "1978",
+        "entity": "acidosis metab\u00f3lica hiperlactacid\u00e9mica",
+        "code": "91273001"
+    },
+    {
+        "filename": "es-S0465-546X2014000300010-1",
+        "label": "SINTOMA",
+        "start_span": "808",
+        "end_span": "814",
+        "entity": "acolia",
+        "code": "70396004"
+    },
+    {
+        "filename": "es-S0365-66912004000600008-1",
+        "label": "SINTOMA",
+        "start_span": "1090",
+        "end_span": "1122",
+        "entity": "ac\u00famulo de l\u00edquido subrretiniano",
+        "code": "247156002"
+    },
+    {
+        "filename": "es-S0376-78922012000300005-1",
+        "label": "SINTOMA",
+        "start_span": "2423",
+        "end_span": "2459",
+        "entity": "adecuada formaci\u00f3n \u00f3sea longitudinal",
+        "code": "63049000"
+    },
+    {
+        "filename": "es-S0212-71992005000700008-1",
+        "label": "SINTOMA",
+        "start_span": "830",
+        "end_span": "837",
+        "entity": "afebril",
+        "code": "87273009"
+    },
+    {
+        "filename": "es-S0004-06142008000700015-2",
+        "label": "SINTOMA",
+        "start_span": "352",
+        "end_span": "359",
+        "entity": "Afebril",
+        "code": "87273009"
+    },
+    {
+        "filename": "es-S0210-48062006000900014-1",
+        "label": "SINTOMA",
+        "start_span": "570",
+        "end_span": "602",
+        "entity": "afectaci\u00f3n de genitales externos",
+        "code": "724386005"
+    },
+    {
+        "filename": "es-S0212-71992004000600005-1",
+        "label": "SINTOMA",
+        "start_span": "969",
+        "end_span": "998",
+        "entity": "afectaci\u00f3n del estado general",
+        "code": "285384003"
+    },
+    {
+        "filename": "es-S0212-16112007000800012-1",
+        "label": "SINTOMA",
+        "start_span": "2259",
+        "end_span": "2297",
+        "entity": "afectaci\u00f3n difusa de intestino delgado",
+        "code": "119522002"
+    },
+    {
+        "filename": "es-S0365-66912012000800004-1",
+        "label": "SINTOMA",
+        "start_span": "603",
+        "end_span": "621",
+        "entity": "afectaci\u00f3n pupilar",
+        "code": "68633000"
+    },
+    {
+        "filename": "es-S0210-48062007000400013-1",
+        "label": "SINTOMA",
+        "start_span": "740",
+        "end_span": "745",
+        "entity": "aftas",
+        "code": "427617000"
+    },
+    {
+        "filename": "es-S0212-71992007000300006-1",
+        "label": "SINTOMA",
+        "start_span": "2469",
+        "end_span": "2478",
+        "entity": "agitaci\u00f3n",
+        "code": "24199005"
+    },
+    {
+        "filename": "es-S0212-71992007000300006-1",
+        "label": "SINTOMA",
+        "start_span": "3521",
+        "end_span": "3542",
+        "entity": "agitaci\u00f3n psicomotriz",
+        "code": "47295007"
+    },
+    {
+        "filename": "es-S0210-56912006000200007-1",
+        "label": "SINTOMA",
+        "start_span": "187",
+        "end_span": "194",
+        "entity": "agitado",
+        "code": "24199005"
+    },
+    {
+        "filename": "es-S0365-66912005001200010-1",
+        "label": "SINTOMA",
+        "start_span": "359",
+        "end_span": "437",
+        "entity": "agudeza visual era de cuenta dedos en el ojo derecho (OD) y amaurosis en el OI",
+        "code": "343051000119108"
+    },
+    {
+        "filename": "es-S0004-06142009000500009-1",
+        "label": "SINTOMA",
+        "start_span": "1534",
+        "end_span": "1566",
+        "entity": "aire ect\u00f3pico en la pelvis menor",
+        "code": "285841006"
+    },
+    {
+        "filename": "es-S0212-16112013000300056-1",
+        "label": "SINTOMA",
+        "start_span": "1999",
+        "end_span": "2065",
+        "entity": "aislamientos: Staphylococcus epidermidis en el cat\u00e9ter funcionante",
+        "code": "429268001"
+    },
+    {
+        "filename": "es-S0365-66912011000900005-1",
+        "label": "SINTOMA",
+        "start_span": "648",
+        "end_span": "666",
+        "entity": "alas nasales finas",
+        "code": "128274005"
+    },
+    {
+        "filename": "es-S0211-69952012000500016-1",
+        "label": "SINTOMA",
+        "start_span": "1716",
+        "end_span": "1727",
+        "entity": "albuminuria",
+        "code": "274769005"
+    },
+    {
+        "filename": "es-S0376-78922015000200010-1",
+        "label": "SINTOMA",
+        "start_span": "1817",
+        "end_span": "1823",
+        "entity": "alerta",
+        "code": "248234008"
+    },
+    {
+        "filename": "es-S0210-48062007000400013-1",
+        "label": "SINTOMA",
+        "start_span": "999",
+        "end_span": "1030",
+        "entity": "alteraci\u00f3n de enzimas hep\u00e1ticas",
+        "code": "166643006"
+    },
+    {
+        "filename": "es-S0376-78922012000300005-1",
+        "label": "SINTOMA",
+        "start_span": "3281",
+        "end_span": "3310",
+        "entity": "alteraci\u00f3n de la sensibilidad",
+        "code": "85972008"
+    },
+    {
+        "filename": "es-S0004-06142007000900014-1",
+        "label": "SINTOMA",
+        "start_span": "146",
+        "end_span": "178",
+        "entity": "alteraci\u00f3n del h\u00e1bito intestinal",
+        "code": "88111009"
+    },
+    {
+        "filename": "es-S1130-01082007000600012-1",
+        "label": "SINTOMA",
+        "start_span": "445",
+        "end_span": "477",
+        "entity": "alteraci\u00f3n del h\u00e1bito intestinal",
+        "code": "88111009"
+    },
+    {
+        "filename": "es-S0376-78922014000200011-1",
+        "label": "SINTOMA",
+        "start_span": "2691",
+        "end_span": "2714",
+        "entity": "alteraci\u00f3n en la marcha",
+        "code": "22325002"
+    },
+    {
+        "filename": "es-S1130-01082008000100009-1",
+        "label": "SINTOMA",
+        "start_span": "277",
+        "end_span": "327",
+        "entity": "alteraci\u00f3n en las pruebas de coagulaci\u00f3n sangu\u00ednea",
+        "code": "165563002"
+    },
+    {
+        "filename": "es-S1130-01082007000400016-1",
+        "label": "SINTOMA",
+        "start_span": "274",
+        "end_span": "310",
+        "entity": "alteraci\u00f3n mixta del perfil hep\u00e1tico",
+        "code": "166603001"
+    },
+    {
+        "filename": "es-S1130-01082007000700011-2",
+        "label": "SINTOMA",
+        "start_span": "1429",
+        "end_span": "1461",
+        "entity": "alteraciones a nivel neurol\u00f3gico",
+        "code": "118940003"
+    },
+    {
+        "filename": "es-S0212-16112012000300028-1",
+        "label": "SINTOMA",
+        "start_span": "1566",
+        "end_span": "1604",
+        "entity": "alteraciones del equilibrio \u00e1cido-base",
+        "code": "26436007"
+    },
+    {
+        "filename": "es-S0212-16112010000600022-1",
+        "label": "SINTOMA",
+        "start_span": "1195",
+        "end_span": "1227",
+        "entity": "alteraciones hidroelectrol\u00edticas",
+        "code": "76314005"
+    },
+    {
+        "filename": "es-S0210-48062005000300016-2",
+        "label": "SINTOMA",
+        "start_span": "1976",
+        "end_span": "2007",
+        "entity": "alteraciones intra-peritoneales",
+        "code": "66579008"
+    },
+    {
+        "filename": "es-S1130-01082008001000010-1",
+        "label": "SINTOMA",
+        "start_span": "453",
+        "end_span": "485",
+        "entity": "Amilasa y lipasa fueron normales",
+        "code": "166571005"
+    },
+    {
+        "filename": "es-S0212-16112012000600045-1",
+        "label": "SINTOMA",
+        "start_span": "1014",
+        "end_span": "1022",
+        "entity": "anasarca",
+        "code": "442433009"
+    },
+    {
+        "filename": "es-S0365-66912009000800005-1",
+        "label": "SINTOMA",
+        "start_span": "864",
+        "end_span": "920",
+        "entity": "angio-resonancia magn\u00e9tica cerebral no detect\u00f3 patolog\u00eda",
+        "code": "416318006"
+    },
+    {
+        "filename": "es-S0365-66912006000600011-1",
+        "label": "SINTOMA",
+        "start_span": "897",
+        "end_span": "936",
+        "entity": "\u00e1ngulo estrecho sim\u00e9trico en ambos ojos",
+        "code": "419422001"
+    },
+    {
+        "filename": "es-S1130-01082008000100017-1",
+        "label": "SINTOMA",
+        "start_span": "692",
+        "end_span": "713",
+        "entity": "anisocitosis moderada",
+        "code": "57241006"
+    },
+    {
+        "filename": "es-S0210-48062009000200018-1",
+        "label": "SINTOMA",
+        "start_span": "831",
+        "end_span": "839",
+        "entity": "anorexia",
+        "code": "79890006"
+    },
+    {
+        "filename": "es-S0378-48352006000500005-1",
+        "label": "SINTOMA",
+        "start_span": "210",
+        "end_span": "218",
+        "entity": "anorexia",
+        "code": "79890006"
+    },
+    {
+        "filename": "es-S0378-48352006000900006-1",
+        "label": "SINTOMA",
+        "start_span": "314",
+        "end_span": "331",
+        "entity": "anorexia moderada",
+        "code": "79890006"
+    },
+    {
+        "filename": "es-S0212-71992003000500006-1",
+        "label": "SINTOMA",
+        "start_span": "1217",
+        "end_span": "1243",
+        "entity": "anticardiolipina: negativo",
+        "code": "165878000"
+    },
+    {
+        "filename": "es-S0210-56912007000900007-3",
+        "label": "SINTOMA",
+        "start_span": "63",
+        "end_span": "69",
+        "entity": "anuria",
+        "code": "2472002"
+    },
+    {
+        "filename": "es-S0210-48062005000500016-1",
+        "label": "SINTOMA",
+        "start_span": "1125",
+        "end_span": "1131",
+        "entity": "anuria",
+        "code": "2472002"
+    },
+    {
+        "filename": "es-S0365-66912006001200009-1",
+        "label": "SINTOMA",
+        "start_span": "806",
+        "end_span": "849",
+        "entity": "ara\u00f1azo de un gato en el muslo de la pierna",
+        "code": "403165009"
+    },
+    {
+        "filename": "es-S0212-71992007000300005-1",
+        "label": "SINTOMA",
+        "start_span": "4051",
+        "end_span": "4078",
+        "entity": "\u00e1reas de vidrio deslustrado",
+        "code": "1217294009"
+    },
+    {
+        "filename": "es-S0365-66912003000600010-1",
+        "label": "SINTOMA",
+        "start_span": "3260",
+        "end_span": "3301",
+        "entity": "\u00e1reas focales de hiper e hipopigmentaci\u00f3n",
+        "code": "79644001"
+    },
+    {
+        "filename": "es-S0210-48062005000500016-1",
+        "label": "SINTOMA",
+        "start_span": "1042",
+        "end_span": "1083",
+        "entity": "arteriografia renal de control fue normal",
+        "code": "168947002"
+    },
+    {
+        "filename": "es-S0378-48352006000900006-1",
+        "label": "SINTOMA",
+        "start_span": "775",
+        "end_span": "813",
+        "entity": "asas yeyunales con niveles hidroaereos",
+        "code": "118435004"
+    },
+    {
+        "filename": "es-S0376-78922015000400013-1",
+        "label": "SINTOMA",
+        "start_span": "113",
+        "end_span": "160",
+        "entity": "asimetr\u00eda de volumen de los miembros inferiores",
+        "code": "449614009"
+    },
+    {
+        "filename": "es-S0004-06142009000500011-1",
+        "label": "SINTOMA",
+        "start_span": "2145",
+        "end_span": "2157",
+        "entity": "asintom\u00e1tica",
+        "code": "84387000"
+    },
+    {
+        "filename": "es-S0210-48062006000200017-1",
+        "label": "SINTOMA",
+        "start_span": "2787",
+        "end_span": "2799",
+        "entity": "asintom\u00e1tico",
+        "code": "84387000"
+    },
+    {
+        "filename": "es-S0210-48062005001000013-1",
+        "label": "SINTOMA",
+        "start_span": "3974",
+        "end_span": "3986",
+        "entity": "asintom\u00e1tico",
+        "code": "84387000"
+    },
+    {
+        "filename": "es-S0210-48062006000300015-1",
+        "label": "SINTOMA",
+        "start_span": "2352",
+        "end_span": "2364",
+        "entity": "asintom\u00e1tico",
+        "code": "84387000"
+    },
+    {
+        "filename": "es-S0212-71992004001100007-1",
+        "label": "SINTOMA",
+        "start_span": "2815",
+        "end_span": "2827",
+        "entity": "asintom\u00e1tico",
+        "code": "84387000"
+    },
+    {
+        "filename": "es-S0212-71992006000200006-1",
+        "label": "SINTOMA",
+        "start_span": "1257",
+        "end_span": "1269",
+        "entity": "asintom\u00e1tico",
+        "code": "84387000"
+    },
+    {
+        "filename": "es-S1130-01082008000100010-1",
+        "label": "SINTOMA",
+        "start_span": "1990",
+        "end_span": "2002",
+        "entity": "asintom\u00e1tico",
+        "code": "84387000"
+    },
+    {
+        "filename": "es-S1130-01082008000500014-1",
+        "label": "SINTOMA",
+        "start_span": "2114",
+        "end_span": "2126",
+        "entity": "asintom\u00e1tico",
+        "code": "84387000"
+    },
+    {
+        "filename": "es-S1130-01082009000500012-1",
+        "label": "SINTOMA",
+        "start_span": "604",
+        "end_span": "616",
+        "entity": "asintom\u00e1tico",
+        "code": "84387000"
+    },
+    {
+        "filename": "es-S0210-48062004000500008-1",
+        "label": "SINTOMA",
+        "start_span": "524",
+        "end_span": "531",
+        "entity": "astenia",
+        "code": "13791008"
+    },
+    {
+        "filename": "es-S0210-56912007000900007-1",
+        "label": "SINTOMA",
+        "start_span": "860",
+        "end_span": "867",
+        "entity": "astenia",
+        "code": "13791008"
+    },
+    {
+        "filename": "es-S0212-71992004000800009-1",
+        "label": "SINTOMA",
+        "start_span": "135",
+        "end_span": "142",
+        "entity": "astenia",
+        "code": "13791008"
+    },
+    {
+        "filename": "es-S1130-01082006000700014-1",
+        "label": "SINTOMA",
+        "start_span": "1113",
+        "end_span": "1120",
+        "entity": "astenia",
+        "code": "13791008"
+    },
+    {
+        "filename": "es-S1130-01082010000600013-1",
+        "label": "SINTOMA",
+        "start_span": "260",
+        "end_span": "267",
+        "entity": "astenia",
+        "code": "13791008"
+    },
+    {
+        "filename": "es-S1130-01082011000500014-1",
+        "label": "SINTOMA",
+        "start_span": "1388",
+        "end_span": "1411",
+        "entity": "aumento de la citolisis",
+        "code": "125353008"
+    },
+    {
+        "filename": "es-S0365-66912006000200012-1",
+        "label": "SINTOMA",
+        "start_span": "916",
+        "end_span": "964",
+        "entity": "aumento de l\u00edquido perineural en la vaina del NO",
+        "code": "246556002"
+    },
+    {
+        "filename": "es-S0004-06142008000400010-1",
+        "label": "SINTOMA",
+        "start_span": "782",
+        "end_span": "820",
+        "entity": "aumento de tama\u00f1o del hueso esfenoides",
+        "code": "733303000"
+    },
+    {
+        "filename": "es-S0213-12852016000500002-1",
+        "label": "SINTOMA",
+        "start_span": "284",
+        "end_span": "315",
+        "entity": "aumento de volumen en mand\u00edbula",
+        "code": "323351000119108"
+    },
+    {
+        "filename": "es-S1130-05582003000600004-3",
+        "label": "SINTOMA",
+        "start_span": "293",
+        "end_span": "336",
+        "entity": "aumento de volumen en regi\u00f3n infraorbitaria",
+        "code": "267041004"
+    },
+    {
+        "filename": "es-S1130-05582003000600004-1",
+        "label": "SINTOMA",
+        "start_span": "152",
+        "end_span": "185",
+        "entity": "aumento de volumen parasinfisario",
+        "code": "108571000119102"
+    },
+    {
+        "filename": "es-S0365-66912007000300011-1",
+        "label": "SINTOMA",
+        "start_span": "2482",
+        "end_span": "2504",
+        "entity": "aumento del hemicuerpo",
+        "code": "276654001"
+    },
+    {
+        "filename": "es-S0212-71992006000600008-1",
+        "label": "SINTOMA",
+        "start_span": "821",
+        "end_span": "869",
+        "entity": "aumento discreto de los reactantes de fase aguda",
+        "code": "441888001"
+    },
+    {
+        "filename": "es-S0212-16112004000400007-1",
+        "label": "SINTOMA",
+        "start_span": "723",
+        "end_span": "766",
+        "entity": "aumento importante del d\u00e9bito de la f\u00edstula",
+        "code": "52747002"
+    },
+    {
+        "filename": "es-S0210-48062007001000004-4",
+        "label": "SINTOMA",
+        "start_span": "251",
+        "end_span": "281",
+        "entity": "aumento indoloro del test\u00edculo",
+        "code": "276412008"
+    },
+    {
+        "filename": "es-S0212-16112011000600041-2",
+        "label": "SINTOMA",
+        "start_span": "235",
+        "end_span": "276",
+        "entity": "aumento paulatino del per\u00edmetro abdominal",
+        "code": "300401007"
+    },
+    {
+        "filename": "es-S0365-66912006000700011-1",
+        "label": "SINTOMA",
+        "start_span": "989",
+        "end_span": "1024",
+        "entity": "aumento progresivo de la creatinina",
+        "code": "166717003"
+    },
+    {
+        "filename": "es-S0212-71992006000100006-1",
+        "label": "SINTOMA",
+        "start_span": "1181",
+        "end_span": "1213",
+        "entity": "auscultaci\u00f3n card\u00edaca es r\u00edtmica",
+        "code": "64730000"
+    },
+    {
+        "filename": "es-S0212-71992006000600008-1",
+        "label": "SINTOMA",
+        "start_span": "511",
+        "end_span": "547",
+        "entity": "auscultaci\u00f3n cardiaca estaba r\u00edtmica",
+        "code": "64730000"
+    },
+    {
+        "filename": "es-S0212-71992006000700009-1",
+        "label": "SINTOMA",
+        "start_span": "913",
+        "end_span": "942",
+        "entity": "Auscultaci\u00f3n cardiaca r\u00edtmica",
+        "code": "64730000"
+    },
+    {
+        "filename": "es-S0365-66912006000200012-1",
+        "label": "SINTOMA",
+        "start_span": "1580",
+        "end_span": "1631",
+        "entity": "ausencia de conducci\u00f3n del est\u00edmulo visual en el NO",
+        "code": "88772000"
+    },
+    {
+        "filename": "es-S0365-66912007001000009-1",
+        "label": "SINTOMA",
+        "start_span": "1573",
+        "end_span": "1598",
+        "entity": "AV de movimiento de manos",
+        "code": "260295004"
+    },
+    {
+        "filename": "es-S0004-06142010000500014-1",
+        "label": "SINTOMA",
+        "start_span": "1189",
+        "end_span": "1204",
+        "entity": "bacilos Gram(+)",
+        "code": "83514008"
+    },
+    {
+        "filename": "es-S0465-546X2009000300008-1",
+        "label": "SINTOMA",
+        "start_span": "1901",
+        "end_span": "1973",
+        "entity": "BACTEC MGIT 960 se confirma el crecimiento de Mycobacterium tuberculosis",
+        "code": "473426009"
+    },
+    {
+        "filename": "es-S0365-66912011001000003-2",
+        "label": "SINTOMA",
+        "start_span": "84",
+        "end_span": "95",
+        "entity": "baja visi\u00f3n",
+        "code": "246635007"
+    },
+    {
+        "filename": "es-S0365-66912003000600010-1",
+        "label": "SINTOMA",
+        "start_span": "2093",
+        "end_span": "2137",
+        "entity": "biomicroscopia de c\u00e1mara anterior era normal",
+        "code": "112081000119108"
+    },
+    {
+        "filename": "es-S0365-66912006000100009-1",
+        "label": "SINTOMA",
+        "start_span": "862",
+        "end_span": "879",
+        "entity": "bioqu\u00edmica normal",
+        "code": "166315009"
+    },
+    {
+        "filename": "es-S0212-71992007000600008-1",
+        "label": "SINTOMA",
+        "start_span": "1242",
+        "end_span": "1259",
+        "entity": "Bioqu\u00edmica normal",
+        "code": "166315009"
+    },
+    {
+        "filename": "es-S0210-56912007000900007-6",
+        "label": "SINTOMA",
+        "start_span": "351",
+        "end_span": "363",
+        "entity": "bradipsiquia",
+        "code": "285243004"
+    },
+    {
+        "filename": "es-S0212-71992005001200010-1",
+        "label": "SINTOMA",
+        "start_span": "2672",
+        "end_span": "2691",
+        "entity": "buen estado general",
+        "code": "135815002"
+    },
+    {
+        "filename": "es-S0212-71992007000300005-1",
+        "label": "SINTOMA",
+        "start_span": "1210",
+        "end_span": "1229",
+        "entity": "buen estado general",
+        "code": "135815002"
+    },
+    {
+        "filename": "es-S0376-78922014000100013-1",
+        "label": "SINTOMA",
+        "start_span": "2466",
+        "end_span": "2485",
+        "entity": "buen estado general",
+        "code": "135815002"
+    },
+    {
+        "filename": "es-S0004-06142009000500009-1",
+        "label": "SINTOMA",
+        "start_span": "2669",
+        "end_span": "2688",
+        "entity": "buen estado general",
+        "code": "135815002"
+    },
+    {
+        "filename": "es-S0004-06142009000500011-1",
+        "label": "SINTOMA",
+        "start_span": "1299",
+        "end_span": "1318",
+        "entity": "buen estado general",
+        "code": "135815002"
+    },
+    {
+        "filename": "es-S0211-69952011000400013-1",
+        "label": "SINTOMA",
+        "start_span": "975",
+        "end_span": "1010",
+        "entity": "buena diferenciaci\u00f3n corticomedular",
+        "code": "125113004"
+    },
+    {
+        "filename": "es-S0212-71992000001200009-1",
+        "label": "SINTOMA",
+        "start_span": "1888",
+        "end_span": "1938",
+        "entity": "bullas a\u00e9reas de gran tama\u00f1o en el l\u00f3bulo superior",
+        "code": "278976004"
+    },
+    {
+        "filename": "es-S0210-48062009000200018-1",
+        "label": "SINTOMA",
+        "start_span": "2539",
+        "end_span": "2593",
+        "entity": "Busqueda de bacilos acido-alcohol resistentes negativa",
+        "code": "309306009"
+    },
+    {
+        "filename": "es-S0211-69952011000400013-1",
+        "label": "SINTOMA",
+        "start_span": "3008",
+        "end_span": "3041",
+        "entity": "cadenas ligeras en orina negativa",
+        "code": "167450007"
+    },
+    {
+        "filename": "es-S0210-48062006000900014-1",
+        "label": "SINTOMA",
+        "start_span": "3936",
+        "end_span": "3960",
+        "entity": "cambios post-quir\u00fargicos",
+        "code": "19585003"
+    },
+    {
+        "filename": "es-S0378-48352005000100005-1",
+        "label": "SINTOMA",
+        "start_span": "738",
+        "end_span": "759",
+        "entity": "captaciones m\u00faltiples",
+        "code": "129680003"
+    },
+    {
+        "filename": "es-S0212-16112013000300056-1",
+        "label": "SINTOMA",
+        "start_span": "1105",
+        "end_span": "1183",
+        "entity": "cat\u00e9ter estaba situado desde la vena cava superior hasta el ventr\u00edculo derecho",
+        "code": "473138005"
+    },
+    {
+        "filename": "es-S0212-71992006000100006-1",
+        "label": "SINTOMA",
+        "start_span": "456",
+        "end_span": "499",
+        "entity": "cefalea global, m\u00e1s intensa a nivel frontal",
+        "code": "267096005"
+    },
+    {
+        "filename": "es-S0211-69952015000100013-1",
+        "label": "SINTOMA",
+        "start_span": "148",
+        "end_span": "156",
+        "entity": "cefaleas",
+        "code": "25064002"
+    },
+    {
+        "filename": "es-S0365-66912003000600010-1",
+        "label": "SINTOMA",
+        "start_span": "165",
+        "end_span": "173",
+        "entity": "cefaleas",
+        "code": "25064002"
+    },
+    {
+        "filename": "es-S0365-66912009001100006-1",
+        "label": "SINTOMA",
+        "start_span": "359",
+        "end_span": "373",
+        "entity": "cierre angular",
+        "code": "251726002"
+    },
+    {
+        "filename": "es-S0365-66912011000800006-1",
+        "label": "SINTOMA",
+        "start_span": "1838",
+        "end_span": "1858",
+        "entity": "cierre corneal total",
+        "code": "246924004"
+    },
+    {
+        "filename": "es-S0210-48062004000400012-1",
+        "label": "SINTOMA",
+        "start_span": "2227",
+        "end_span": "2282",
+        "entity": "citolog\u00eda de orina, que no evidenciaba c\u00e9lulas malignas",
+        "code": "310438004"
+    },
+    {
+        "filename": "es-S0212-71992006000700009-1",
+        "label": "SINTOMA",
+        "start_span": "703",
+        "end_span": "720",
+        "entity": "cl\u00ednica digestiva",
+        "code": "308925008"
+    },
+    {
+        "filename": "es-S0212-71992007000300006-1",
+        "label": "SINTOMA",
+        "start_span": "2586",
+        "end_span": "2605",
+        "entity": "cl\u00ednica neurol\u00f3gica",
+        "code": "308921004"
+    },
+    {
+        "filename": "es-S0365-66912003000600010-1",
+        "label": "SINTOMA",
+        "start_span": "693",
+        "end_span": "712",
+        "entity": "coagulaci\u00f3n: normal",
+        "code": "165562007"
+    },
+    {
+        "filename": "es-S0210-48062005000600013-1",
+        "label": "SINTOMA",
+        "start_span": "782",
+        "end_span": "789",
+        "entity": "coagulo",
+        "code": "75753009"
+    },
+    {
+        "filename": "es-S0210-48062005000600013-1",
+        "label": "SINTOMA",
+        "start_span": "696",
+        "end_span": "703",
+        "entity": "co\u00e1gulo",
+        "code": "75753009"
+    },
+    {
+        "filename": "es-S0210-48062009000200018-1",
+        "label": "SINTOMA",
+        "start_span": "714",
+        "end_span": "722",
+        "entity": "co\u00e1gulos",
+        "code": "75753009"
+    },
+    {
+        "filename": "es-S0365-66912008000100007-1",
+        "label": "SINTOMA",
+        "start_span": "595",
+        "end_span": "635",
+        "entity": "cociente de desarrollo psicomotor normal",
+        "code": "9908006"
+    },
+    {
+        "filename": "es-S0210-48062006000700010-1",
+        "label": "SINTOMA",
+        "start_span": "553",
+        "end_span": "562",
+        "entity": "colecci\u00f3n",
+        "code": "235957008"
+    },
+    {
+        "filename": "es-S0378-48352004000200007-1",
+        "label": "SINTOMA",
+        "start_span": "1360",
+        "end_span": "1379",
+        "entity": "colecci\u00f3n de sangre",
+        "code": "50960005"
+    },
+    {
+        "filename": "es-S0212-71992006000100005-1",
+        "label": "SINTOMA",
+        "start_span": "154",
+        "end_span": "164",
+        "entity": "colestasis",
+        "code": "33688009"
+    },
+    {
+        "filename": "es-S0212-71992007000300006-1",
+        "label": "SINTOMA",
+        "start_span": "1250",
+        "end_span": "1269",
+        "entity": "c\u00f3licos abdominales",
+        "code": "51197009"
+    },
+    {
+        "filename": "es-S0212-16112012000300028-1",
+        "label": "SINTOMA",
+        "start_span": "3666",
+        "end_span": "3688",
+        "entity": "componentes trif\u00e1sicos",
+        "code": "251466002"
+    },
+    {
+        "filename": "es-S1130-05582003000600004-1",
+        "label": "SINTOMA",
+        "start_span": "772",
+        "end_span": "811",
+        "entity": "compromiso del nervio alveolar inferior",
+        "code": "106150003"
+    },
+    {
+        "filename": "es-S0212-71992006000800007-1",
+        "label": "SINTOMA",
+        "start_span": "4045",
+        "end_span": "4068",
+        "entity": "compromiso hemodin\u00e1mico",
+        "code": "422773005"
+    },
+    {
+        "filename": "es-S0212-71992007000600008-1",
+        "label": "SINTOMA",
+        "start_span": "3301",
+        "end_span": "3431",
+        "entity": "condensaci\u00f3n alveolar parcheada de distribuci\u00f3n predominante en segmento apicales de l\u00f3bulos inferiores y ambos l\u00f3bulos superiores",
+        "code": "1217294009"
+    },
+    {
+        "filename": "es-S0212-16112013000300056-1",
+        "label": "SINTOMA",
+        "start_span": "1842",
+        "end_span": "1877",
+        "entity": "condensaciones parcheadas en pulm\u00f3n",
+        "code": "1217294009"
+    },
+    {
+        "filename": "es-S0210-48062003000400012-1",
+        "label": "SINTOMA",
+        "start_span": "332",
+        "end_span": "385",
+        "entity": "conducto deferente izquierdo que no se lograba palpar",
+        "code": "300506000"
+    },
+    {
+        "filename": "es-S0212-71992005000700008-1",
+        "label": "SINTOMA",
+        "start_span": "1793",
+        "end_span": "1810",
+        "entity": "configuraci\u00f3n RSR",
+        "code": "50799005"
+    },
+    {
+        "filename": "es-S0365-66912012000300003-1",
+        "label": "SINTOMA",
+        "start_span": "285",
+        "end_span": "301",
+        "entity": "congesti\u00f3n nasal",
+        "code": "68235000"
+    },
+    {
+        "filename": "es-S0376-78922014000300013-1",
+        "label": "SINTOMA",
+        "start_span": "5016",
+        "end_span": "5033",
+        "entity": "congesti\u00f3n venosa",
+        "code": "301175001"
+    },
+    {
+        "filename": "es-S0365-66912007001000009-1",
+        "label": "SINTOMA",
+        "start_span": "644",
+        "end_span": "662",
+        "entity": "conjuntiva \u00edntegra",
+        "code": "301926003"
+    },
+    {
+        "filename": "es-S0212-71992005000700008-1",
+        "label": "SINTOMA",
+        "start_span": "839",
+        "end_span": "849",
+        "entity": "consciente",
+        "code": "271591004"
+    },
+    {
+        "filename": "es-S0212-71992007000300006-1",
+        "label": "SINTOMA",
+        "start_span": "485",
+        "end_span": "495",
+        "entity": "consciente",
+        "code": "271591004"
+    },
+    {
+        "filename": "es-S1130-01082007000600012-1",
+        "label": "SINTOMA",
+        "start_span": "510",
+        "end_span": "520",
+        "entity": "consciente",
+        "code": "271591004"
+    },
+    {
+        "filename": "es-S0004-06142009000500009-1",
+        "label": "SINTOMA",
+        "start_span": "565",
+        "end_span": "575",
+        "entity": "consciente",
+        "code": "271591004"
+    },
+    {
+        "filename": "es-S0210-56912010000400009-1",
+        "label": "SINTOMA",
+        "start_span": "1323",
+        "end_span": "1333",
+        "entity": "consciente",
+        "code": "271591004"
+    },
+    {
+        "filename": "es-S0210-48062009000400017-1",
+        "label": "SINTOMA",
+        "start_span": "1176",
+        "end_span": "1191",
+        "entity": "contenido graso",
+        "code": "118247008"
+    },
+    {
+        "filename": "es-S0212-71992006000100006-1",
+        "label": "SINTOMA",
+        "start_span": "727",
+        "end_span": "739",
+        "entity": "convulsiones",
+        "code": "91175000"
+    },
+    {
+        "filename": "es-S0365-66912008000100007-2",
+        "label": "SINTOMA",
+        "start_span": "307",
+        "end_span": "319",
+        "entity": "convulsiones",
+        "code": "91175000"
+    },
+    {
+        "filename": "es-S1130-05582003000600004-1",
+        "label": "SINTOMA",
+        "start_span": "639",
+        "end_span": "676",
+        "entity": "crepitaci\u00f3n de la cortical vestibular",
+        "code": "23149001"
+    },
+    {
+        "filename": "es-S0212-71992004001100007-1",
+        "label": "SINTOMA",
+        "start_span": "572",
+        "end_span": "614",
+        "entity": "crepitantes basales bilaterales pulmonares",
+        "code": "284520004"
+    },
+    {
+        "filename": "es-S0212-71992000001200009-1",
+        "label": "SINTOMA",
+        "start_span": "917",
+        "end_span": "961",
+        "entity": "crepitantes finos en ambos campos pulmonares",
+        "code": "62640008"
+    },
+    {
+        "filename": "es-S0212-16112010000600022-1",
+        "label": "SINTOMA",
+        "start_span": "2680",
+        "end_span": "2686",
+        "entity": "crisis",
+        "code": "91175000"
+    },
+    {
+        "filename": "es-S0365-66912007001200013-1",
+        "label": "SINTOMA",
+        "start_span": "2086",
+        "end_span": "2118",
+        "entity": "CRMP-5-IgG, que result\u00f3 positivo",
+        "code": "165879008"
+    },
+    {
+        "filename": "es-S0465-546X2011000300007-1",
+        "label": "SINTOMA",
+        "start_span": "1409",
+        "end_span": "1422",
+        "entity": "cuadro febril",
+        "code": "64882008"
+    },
+    {
+        "filename": "es-S0212-71992004000600005-1",
+        "label": "SINTOMA",
+        "start_span": "778",
+        "end_span": "791",
+        "entity": "cuadro febril",
+        "code": "64882008"
+    },
+    {
+        "filename": "es-S0212-16112012000300028-1",
+        "label": "SINTOMA",
+        "start_span": "171",
+        "end_span": "185",
+        "entity": "cuadro man\u00edaco",
+        "code": "231494001"
+    },
+    {
+        "filename": "es-S0365-66912012000200004-1",
+        "label": "SINTOMA",
+        "start_span": "1460",
+        "end_span": "1472",
+        "entity": "cuello corto",
+        "code": "95427009"
+    },
+    {
+        "filename": "es-S0211-69952012000700031-1",
+        "label": "SINTOMA",
+        "start_span": "1008",
+        "end_span": "1055",
+        "entity": "cultivo da hongo levaduriforme, ureasa positivo",
+        "code": "442635007"
+    },
+    {
+        "filename": "es-S0376-78922011000200004-1",
+        "label": "SINTOMA",
+        "start_span": "1187",
+        "end_span": "1232",
+        "entity": "cultivo dieron positivo para Escherichia Coli",
+        "code": "442635007"
+    },
+    {
+        "filename": "es-S0212-71992000001200010-1",
+        "label": "SINTOMA",
+        "start_span": "1927",
+        "end_span": "1969",
+        "entity": "cultivo donde creci\u00f3 Streptococcus milleri",
+        "code": "88458008"
+    },
+    {
+        "filename": "es-S0211-69952011000500013-1",
+        "label": "SINTOMA",
+        "start_span": "3029",
+        "end_span": "3031",
+        "entity": "CV",
+        "code": "129759000"
+    },
+    {
+        "filename": "es-S0211-69952011000500013-1",
+        "label": "SINTOMA",
+        "start_span": "1202",
+        "end_span": "1204",
+        "entity": "CV",
+        "code": "129759000"
+    },
+    {
+        "filename": "es-S0212-16112012000400060-1",
+        "label": "SINTOMA",
+        "start_span": "1875",
+        "end_span": "1901",
+        "entity": "debilidad de pulsos pedios",
+        "code": "84699000"
+    },
+    {
+        "filename": "es-S0211-69952015000200015-1",
+        "label": "SINTOMA",
+        "start_span": "340",
+        "end_span": "362",
+        "entity": "debilidad generalizada",
+        "code": "13791008"
+    },
+    {
+        "filename": "es-S0210-48062006000700010-1",
+        "label": "SINTOMA",
+        "start_span": "743",
+        "end_span": "776",
+        "entity": "d\u00e9bito persistente por el drenaje",
+        "code": "366368001"
+    },
+    {
+        "filename": "es-S0212-16112007000800012-1",
+        "label": "SINTOMA",
+        "start_span": "3219",
+        "end_span": "3249",
+        "entity": "dedos de las manos longil\u00edneos",
+        "code": "249766008"
+    },
+    {
+        "filename": "es-S0365-66912009000800005-1",
+        "label": "SINTOMA",
+        "start_span": "724",
+        "end_span": "748",
+        "entity": "defecto pupilar aferente",
+        "code": "232121005"
+    },
+    {
+        "filename": "es-S0210-48062005001000013-1",
+        "label": "SINTOMA",
+        "start_span": "1031",
+        "end_span": "1060",
+        "entity": "defectos de relleno vesicales",
+        "code": "274730004"
+    },
+    {
+        "filename": "es-S0378-48352006000900006-1",
+        "label": "SINTOMA",
+        "start_span": "501",
+        "end_span": "508",
+        "entity": "defensa",
+        "code": "249545003"
+    },
+    {
+        "filename": "es-S0210-48062009000300013-6",
+        "label": "SINTOMA",
+        "start_span": "811",
+        "end_span": "861",
+        "entity": "deficiente visualizaci\u00f3n de c\u00e1lices e infund\u00edbulos",
+        "code": "274536007"
+    },
+    {
+        "filename": "es-S0378-48352004000200007-1",
+        "label": "SINTOMA",
+        "start_span": "73",
+        "end_span": "92",
+        "entity": "d\u00e9ficit intelectual",
+        "code": "110359009"
+    },
+    {
+        "filename": "es-S0212-71992007000300006-1",
+        "label": "SINTOMA",
+        "start_span": "722",
+        "end_span": "735",
+        "entity": "d\u00e9ficit motor",
+        "code": "52559000"
+    },
+    {
+        "filename": "es-S1130-05582003000600004-1",
+        "label": "SINTOMA",
+        "start_span": "1166",
+        "end_span": "1208",
+        "entity": "Deformaba y adelgazaba la basal mandibular",
+        "code": "235082006"
+    },
+    {
+        "filename": "es-S1130-01082007000500016-1",
+        "label": "SINTOMA",
+        "start_span": "488",
+        "end_span": "520",
+        "entity": "deposiciones de aspecto mel\u00e9nico",
+        "code": "35064005"
+    },
+    {
+        "filename": "es-S0212-16112011000600041-1",
+        "label": "SINTOMA",
+        "start_span": "116",
+        "end_span": "175",
+        "entity": "deposiciones diarreicas, en ocasiones acompa\u00f1adas de sangre",
+        "code": "95545007"
+    },
+    {
+        "filename": "es-S0210-56912007000900007-3",
+        "label": "SINTOMA",
+        "start_span": "1315",
+        "end_span": "1345",
+        "entity": "deposiciones mucosas repetidas",
+        "code": "441782005"
+    },
+    {
+        "filename": "es-S0212-71992007000300006-1",
+        "label": "SINTOMA",
+        "start_span": "895",
+        "end_span": "907",
+        "entity": "desaturaci\u00f3n",
+        "code": "238159008"
+    },
+    {
+        "filename": "es-S0210-48062005000100016-1",
+        "label": "SINTOMA",
+        "start_span": "969",
+        "end_span": "997",
+        "entity": "descenso del \u00cdndice de Quick",
+        "code": "165569003"
+    },
+    {
+        "filename": "es-S0210-48062005000100016-1",
+        "label": "SINTOMA",
+        "start_span": "3828",
+        "end_span": "3860",
+        "entity": "desestructuraci\u00f3n de la gl\u00e1ndula",
+        "code": "300532006"
+    },
+    {
+        "filename": "es-S0212-16112007000800011-1",
+        "label": "SINTOMA",
+        "start_span": "2181",
+        "end_span": "2195",
+        "entity": "deshidrataci\u00f3n",
+        "code": "34095006"
+    },
+    {
+        "filename": "es-S0212-16112004000400007-1",
+        "label": "SINTOMA",
+        "start_span": "1302",
+        "end_span": "1316",
+        "entity": "deshidrataci\u00f3n",
+        "code": "34095006"
+    },
+    {
+        "filename": "es-S0212-16112012000300029-1",
+        "label": "SINTOMA",
+        "start_span": "1703",
+        "end_span": "1737",
+        "entity": "deterioro de su estado nutricional",
+        "code": "129844000"
+    },
+    {
+        "filename": "es-S0210-48062006000900014-1",
+        "label": "SINTOMA",
+        "start_span": "3422",
+        "end_span": "3450",
+        "entity": "deterioro del estado general",
+        "code": "285384003"
+    },
+    {
+        "filename": "es-S0212-16112004000400007-1",
+        "label": "SINTOMA",
+        "start_span": "2675",
+        "end_span": "2727",
+        "entity": "deterioro del nivel de conciencia de tipo fluctuante",
+        "code": "830285008"
+    },
+    {
+        "filename": "es-S0211-69952011000400013-1",
+        "label": "SINTOMA",
+        "start_span": "547",
+        "end_span": "587",
+        "entity": "deterioro importante de su funci\u00f3n renal",
+        "code": "314983004"
+    },
+    {
+        "filename": "es-S0212-16112012000300028-1",
+        "label": "SINTOMA",
+        "start_span": "310",
+        "end_span": "330",
+        "entity": "deterioro progresivo",
+        "code": "40226000"
+    },
+    {
+        "filename": "es-S1130-01082005001000014-1",
+        "label": "SINTOMA",
+        "start_span": "3051",
+        "end_span": "3090",
+        "entity": "deterioro progresivo del estado general",
+        "code": "285384003"
+    },
+    {
+        "filename": "es-S0210-56912006000200007-1",
+        "label": "SINTOMA",
+        "start_span": "906",
+        "end_span": "950",
+        "entity": "deterioro progresivo del nivel de conciencia",
+        "code": "443371007"
+    },
+    {
+        "filename": "es-S0211-57352011000100008-1",
+        "label": "SINTOMA",
+        "start_span": "1686",
+        "end_span": "1696",
+        "entity": "diaforesis",
+        "code": "52613005"
+    },
+    {
+        "filename": "es-S0210-48062007000100011-1",
+        "label": "SINTOMA",
+        "start_span": "234",
+        "end_span": "244",
+        "entity": "diaforesis",
+        "code": "52613005"
+    },
+    {
+        "filename": "es-S0212-16112007000800011-1",
+        "label": "SINTOMA",
+        "start_span": "151",
+        "end_span": "158",
+        "entity": "diarrea",
+        "code": "62315008"
+    },
+    {
+        "filename": "es-S0212-71992000001200010-1",
+        "label": "SINTOMA",
+        "start_span": "383",
+        "end_span": "390",
+        "entity": "diarrea",
+        "code": "62315008"
+    },
+    {
+        "filename": "es-S1130-01082008000200009-1",
+        "label": "SINTOMA",
+        "start_span": "279",
+        "end_span": "286",
+        "entity": "diarrea",
+        "code": "62315008"
+    },
+    {
+        "filename": "es-S0212-71992006000100005-1",
+        "label": "SINTOMA",
+        "start_span": "745",
+        "end_span": "752",
+        "entity": "diarrea",
+        "code": "62315008"
+    },
+    {
+        "filename": "es-S0004-06142010000300011-1",
+        "label": "SINTOMA",
+        "start_span": "542",
+        "end_span": "549",
+        "entity": "diarrea",
+        "code": "62315008"
+    },
+    {
+        "filename": "es-S1130-05582008000300005-1",
+        "label": "SINTOMA",
+        "start_span": "546",
+        "end_span": "555",
+        "entity": "diastemas",
+        "code": "734009000"
+    },
+    {
+        "filename": "es-S1130-05582003000600004-3",
+        "label": "SINTOMA",
+        "start_span": "398",
+        "end_span": "449",
+        "entity": "dificult\u00e1ndole la mirada hacia abajo y a la derecha",
+        "code": "418078000"
+    },
+    {
+        "filename": "es-S0365-66912008000700008-1",
+        "label": "SINTOMA",
+        "start_span": "229",
+        "end_span": "237",
+        "entity": "diplop\u00eda",
+        "code": "24982008"
+    },
+    {
+        "filename": "es-S0211-57352011000100008-1",
+        "label": "SINTOMA",
+        "start_span": "2118",
+        "end_span": "2147",
+        "entity": "discurso espont\u00e1neo coherente",
+        "code": "225922003"
+    },
+    {
+        "filename": "es-S0211-69952012000500016-1",
+        "label": "SINTOMA",
+        "start_span": "373",
+        "end_span": "381",
+        "entity": "disfagia",
+        "code": "399122003"
+    },
+    {
+        "filename": "es-S1130-01082010000600012-1",
+        "label": "SINTOMA",
+        "start_span": "1140",
+        "end_span": "1159",
+        "entity": "disfagia a l\u00edquidos",
+        "code": "162025006"
+    },
+    {
+        "filename": "es-S0212-16112014000200032-3",
+        "label": "SINTOMA",
+        "start_span": "174",
+        "end_span": "243",
+        "entity": "disfagia secundaria a la radioterapia tanto a s\u00f3lidos como a l\u00edquidos",
+        "code": "235605005"
+    },
+    {
+        "filename": "es-S0212-71992007000300007-1",
+        "label": "SINTOMA",
+        "start_span": "796",
+        "end_span": "832",
+        "entity": "dismetria en las cuatro extremidades",
+        "code": "32566006"
+    },
+    {
+        "filename": "es-S0365-66912011000700004-1",
+        "label": "SINTOMA",
+        "start_span": "38",
+        "end_span": "67",
+        "entity": "disminuci\u00f3n de agudeza visual",
+        "code": "170728008"
+    },
+    {
+        "filename": "es-S0365-66912011001000005-1",
+        "label": "SINTOMA",
+        "start_span": "29",
+        "end_span": "58",
+        "entity": "disminuci\u00f3n de agudeza visual",
+        "code": "170728008"
+    },
+    {
+        "filename": "es-S0365-66912010000300005-1",
+        "label": "SINTOMA",
+        "start_span": "53",
+        "end_span": "86",
+        "entity": "disminuci\u00f3n de agudeza visual (AV",
+        "code": "170728008"
+    },
+    {
+        "filename": "es-S0211-69952010000400013-1",
+        "label": "SINTOMA",
+        "start_span": "463",
+        "end_span": "486",
+        "entity": "disminuci\u00f3n de diuresis",
+        "code": "718403007"
+    },
+    {
+        "filename": "es-S0212-16112005000600011-1",
+        "label": "SINTOMA",
+        "start_span": "1112",
+        "end_span": "1144",
+        "entity": "disminuci\u00f3n de la agudeza visual",
+        "code": "170728008"
+    },
+    {
+        "filename": "es-S0212-16112012000400060-1",
+        "label": "SINTOMA",
+        "start_span": "3064",
+        "end_span": "3108",
+        "entity": "disminuci\u00f3n de volumen de la c\u00e1mara g\u00e1strica",
+        "code": "118434000"
+    },
+    {
+        "filename": "es-S0212-71992006000600008-1",
+        "label": "SINTOMA",
+        "start_span": "361",
+        "end_span": "367",
+        "entity": "disnea",
+        "code": "49233005"
+    },
+    {
+        "filename": "es-S1130-01082006000700014-1",
+        "label": "SINTOMA",
+        "start_span": "1123",
+        "end_span": "1152",
+        "entity": "disnea de moderados esfuerzos",
+        "code": "161939006"
+    },
+    {
+        "filename": "es-S0212-71992000001200009-1",
+        "label": "SINTOMA",
+        "start_span": "720",
+        "end_span": "736",
+        "entity": "disnea de reposo",
+        "code": "161941007"
+    },
+    {
+        "filename": "es-S0378-48352005000100005-1",
+        "label": "SINTOMA",
+        "start_span": "460",
+        "end_span": "477",
+        "entity": "disnea progresiva",
+        "code": "49233005"
+    },
+    {
+        "filename": "es-S0211-69952012000500016-1",
+        "label": "SINTOMA",
+        "start_span": "2435",
+        "end_span": "2444",
+        "entity": "dispepsia",
+        "code": "87548005"
+    },
+    {
+        "filename": "es-S0210-48062006000200017-1",
+        "label": "SINTOMA",
+        "start_span": "1942",
+        "end_span": "1962",
+        "entity": "distensi\u00f3n abdominal",
+        "code": "60728008"
+    },
+    {
+        "filename": "es-S1130-01082010000600013-1",
+        "label": "SINTOMA",
+        "start_span": "383",
+        "end_span": "403",
+        "entity": "distensi\u00f3n abdominal",
+        "code": "60728008"
+    },
+    {
+        "filename": "es-S0210-48062004000400012-1",
+        "label": "SINTOMA",
+        "start_span": "983",
+        "end_span": "1027",
+        "entity": "distorsi\u00f3n de la silueta y la pelvis renales",
+        "code": "300441003"
+    },
+    {
+        "filename": "es-S0210-48062004000400012-1",
+        "label": "SINTOMA",
+        "start_span": "3283",
+        "end_span": "3299",
+        "entity": "distorsi\u00f3n renal",
+        "code": "300441003"
+    },
+    {
+        "filename": "es-S0004-06142009000100013-1",
+        "label": "SINTOMA",
+        "start_span": "534",
+        "end_span": "541",
+        "entity": "disuria",
+        "code": "49650001"
+    },
+    {
+        "filename": "es-S0210-48062005000100016-1",
+        "label": "SINTOMA",
+        "start_span": "319",
+        "end_span": "326",
+        "entity": "disuria",
+        "code": "49650001"
+    },
+    {
+        "filename": "es-S0211-69952012000200030-1",
+        "label": "SINTOMA",
+        "start_span": "279",
+        "end_span": "298",
+        "entity": "diuresis conservada",
+        "code": "300474003"
+    },
+    {
+        "filename": "es-S0210-48062005000500016-1",
+        "label": "SINTOMA",
+        "start_span": "1880",
+        "end_span": "1899",
+        "entity": "diuresis espont\u00e1nea",
+        "code": "300474003"
+    },
+    {
+        "filename": "es-S0210-56912008000100008-3",
+        "label": "SINTOMA",
+        "start_span": "462",
+        "end_span": "467",
+        "entity": "dolor",
+        "code": "22253000"
+    },
+    {
+        "filename": "es-S0365-66912006000800010-1",
+        "label": "SINTOMA",
+        "start_span": "320",
+        "end_span": "325",
+        "entity": "dolor",
+        "code": "22253000"
+    },
+    {
+        "filename": "es-S0376-78922014000200011-1",
+        "label": "SINTOMA",
+        "start_span": "2473",
+        "end_span": "2478",
+        "entity": "dolor",
+        "code": "22253000"
+    },
+    {
+        "filename": "es-S1130-05582007000500006-1",
+        "label": "SINTOMA",
+        "start_span": "425",
+        "end_span": "430",
+        "entity": "dolor",
+        "code": "22253000"
+    },
+    {
+        "filename": "es-S0004-06142009000700011-1",
+        "label": "SINTOMA",
+        "start_span": "317",
+        "end_span": "322",
+        "entity": "dolor",
+        "code": "22253000"
+    },
+    {
+        "filename": "es-S1130-01082008000500016-2",
+        "label": "SINTOMA",
+        "start_span": "452",
+        "end_span": "490",
+        "entity": "dolor a la palpaci\u00f3n en cabeza femoral",
+        "code": "299307002"
+    },
+    {
+        "filename": "es-S0004-06142009000100012-1",
+        "label": "SINTOMA",
+        "start_span": "406",
+        "end_span": "428",
+        "entity": "dolor a nivel de ingle",
+        "code": "102570003"
+    },
+    {
+        "filename": "es-S0210-56912007000900007-3",
+        "label": "SINTOMA",
+        "start_span": "100",
+        "end_span": "115",
+        "entity": "dolor abdominal",
+        "code": "21522001"
+    },
+    {
+        "filename": "es-S0212-16112012000400060-1",
+        "label": "SINTOMA",
+        "start_span": "828",
+        "end_span": "843",
+        "entity": "dolor abdominal",
+        "code": "21522001"
+    },
+    {
+        "filename": "es-S0210-48062006000200017-1",
+        "label": "SINTOMA",
+        "start_span": "1589",
+        "end_span": "1604",
+        "entity": "dolor abdominal",
+        "code": "21522001"
+    },
+    {
+        "filename": "es-S1130-01082010000600013-1",
+        "label": "SINTOMA",
+        "start_span": "358",
+        "end_span": "380",
+        "entity": "dolor abdominal difuso",
+        "code": "102614006"
+    },
+    {
+        "filename": "es-S0212-71992005000700008-1",
+        "label": "SINTOMA",
+        "start_span": "632",
+        "end_span": "654",
+        "entity": "dolor abdominal difuso",
+        "code": "102614006"
+    },
+    {
+        "filename": "es-S0210-56912006000800008-1",
+        "label": "SINTOMA",
+        "start_span": "230",
+        "end_span": "268",
+        "entity": "dolor abdominal en hipocondrio derecho",
+        "code": "301367001"
+    },
+    {
+        "filename": "es-S0212-16112004000400007-1",
+        "label": "SINTOMA",
+        "start_span": "853",
+        "end_span": "890",
+        "entity": "dolor difuso a la palpaci\u00f3n abdominal",
+        "code": "440220007"
+    },
+    {
+        "filename": "es-S1130-01082006001000017-1",
+        "label": "SINTOMA",
+        "start_span": "207",
+        "end_span": "250",
+        "entity": "dolor difuso a la palpaci\u00f3n profunda en FII",
+        "code": "301411008"
+    },
+    {
+        "filename": "es-S0212-71992007000300006-1",
+        "label": "SINTOMA",
+        "start_span": "639",
+        "end_span": "666",
+        "entity": "dolor difuso de tipo c\u00f3lico",
+        "code": "371102005"
+    },
+    {
+        "filename": "es-S0212-71992006000800007-1",
+        "label": "SINTOMA",
+        "start_span": "2336",
+        "end_span": "2360",
+        "entity": "dolor difuso del abdomen",
+        "code": "102614006"
+    },
+    {
+        "filename": "es-S0210-48062009000900015-2",
+        "label": "SINTOMA",
+        "start_span": "337",
+        "end_span": "355",
+        "entity": "dolor en el glande",
+        "code": "285375003"
+    },
+    {
+        "filename": "es-S0365-66912003000600010-1",
+        "label": "SINTOMA",
+        "start_span": "175",
+        "end_span": "194",
+        "entity": "dolor en epigastrio",
+        "code": "79922009"
+    },
+    {
+        "filename": "es-S1130-01082009000700012-1",
+        "label": "SINTOMA",
+        "start_span": "66",
+        "end_span": "96",
+        "entity": "dolor en fosa iliaca izquierda",
+        "code": "162052001"
+    },
+    {
+        "filename": "es-S0004-06142007000900011-1",
+        "label": "SINTOMA",
+        "start_span": "493",
+        "end_span": "523",
+        "entity": "dolor en fosa il\u00edaca izquierda",
+        "code": "162052001"
+    },
+    {
+        "filename": "es-S0004-06142007000900014-1",
+        "label": "SINTOMA",
+        "start_span": "75",
+        "end_span": "103",
+        "entity": "dolor en hipocondrio derecho",
+        "code": "301367001"
+    },
+    {
+        "filename": "es-S0212-71992000001200010-1",
+        "label": "SINTOMA",
+        "start_span": "613",
+        "end_span": "641",
+        "entity": "dolor en hipocondrio derecho",
+        "code": "301367001"
+    },
+    {
+        "filename": "es-S1130-01082007000600012-1",
+        "label": "SINTOMA",
+        "start_span": "236",
+        "end_span": "266",
+        "entity": "dolor en hipocondrio izquierdo",
+        "code": "301368006"
+    },
+    {
+        "filename": "es-S0378-48352006000900006-1",
+        "label": "SINTOMA",
+        "start_span": "97",
+        "end_span": "114",
+        "entity": "dolor epig\u00e1strico",
+        "code": "79922009"
+    },
+    {
+        "filename": "es-S0365-66912011000400005-1",
+        "label": "SINTOMA",
+        "start_span": "834",
+        "end_span": "861",
+        "entity": "dolor intenso periorbitario",
+        "code": "86260003"
+    },
+    {
+        "filename": "es-S0004-06142009000100013-1",
+        "label": "SINTOMA",
+        "start_span": "464",
+        "end_span": "476",
+        "entity": "dolor lumbar",
+        "code": "40709005"
+    },
+    {
+        "filename": "es-S0211-69952013000400027-1",
+        "label": "SINTOMA",
+        "start_span": "196",
+        "end_span": "208",
+        "entity": "dolor lumbar",
+        "code": "40709005"
+    },
+    {
+        "filename": "es-S0211-69952012000500016-1",
+        "label": "SINTOMA",
+        "start_span": "459",
+        "end_span": "500",
+        "entity": "dolor lumbar de caracter\u00edsticas mec\u00e1nicas",
+        "code": "279040009"
+    },
+    {
+        "filename": "es-S0365-66912005001100008-1",
+        "label": "SINTOMA",
+        "start_span": "57",
+        "end_span": "79",
+        "entity": "dolor ocular bilateral",
+        "code": "41652007"
+    },
+    {
+        "filename": "es-S0210-48062005000300016-2",
+        "label": "SINTOMA",
+        "start_span": "324",
+        "end_span": "340",
+        "entity": "dolor precordial",
+        "code": "71884009"
+    },
+    {
+        "filename": "es-S0210-48062009000300013-5",
+        "label": "SINTOMA",
+        "start_span": "935",
+        "end_span": "942",
+        "entity": "dolores",
+        "code": "22253000"
+    },
+    {
+        "filename": "es-S1130-01082008000100010-1",
+        "label": "SINTOMA",
+        "start_span": "819",
+        "end_span": "869",
+        "entity": "dolorimiento abdominal intermitente en hipogastrio",
+        "code": "371094000"
+    },
+    {
+        "filename": "es-S1130-05582008000300004-1",
+        "label": "SINTOMA",
+        "start_span": "452",
+        "end_span": "475",
+        "entity": "dolorosa a la palpaci\u00f3n",
+        "code": "247348008"
+    },
+    {
+        "filename": "es-S0004-06142009000100009-1",
+        "label": "SINTOMA",
+        "start_span": "595",
+        "end_span": "612",
+        "entity": "dolorosa al tacto",
+        "code": "247328001"
+    },
+    {
+        "filename": "es-S0210-56912007000900007-6",
+        "label": "SINTOMA",
+        "start_span": "423",
+        "end_span": "431",
+        "entity": "doloroso",
+        "code": "22253000"
+    },
+    {
+        "filename": "es-S0004-06142008000700015-2",
+        "label": "SINTOMA",
+        "start_span": "303",
+        "end_span": "311",
+        "entity": "doloroso",
+        "code": "22253000"
+    },
+    {
+        "filename": "es-S0365-66912005001200012-1",
+        "label": "SINTOMA",
+        "start_span": "544",
+        "end_span": "547",
+        "entity": "DPV",
+        "code": "53772007"
+    },
+    {
+        "filename": "es-S0210-56912008000100008-4",
+        "label": "SINTOMA",
+        "start_span": "856",
+        "end_span": "868",
+        "entity": "E-ST c\u00f3ncava",
+        "code": "704998000"
+    },
+    {
+        "filename": "es-S0210-56912008000100008-3",
+        "label": "SINTOMA",
+        "start_span": "684",
+        "end_span": "696",
+        "entity": "E-ST c\u00f3ncava",
+        "code": "704998000"
+    },
+    {
+        "filename": "es-S0211-69952013000700023-1",
+        "label": "SINTOMA",
+        "start_span": "231",
+        "end_span": "277",
+        "entity": "Eco renal y test\u00edculo-prost\u00e1tica sin hallazgos",
+        "code": "163352001"
+    },
+    {
+        "filename": "es-S0212-71992005000400009-1",
+        "label": "SINTOMA",
+        "start_span": "1723",
+        "end_span": "1777",
+        "entity": "ecocardiograf\u00eda transtor\u00e1cica mostr\u00f3 im\u00e1genes normales",
+        "code": "169240004"
+    },
+    {
+        "filename": "es-S0212-71992004000800009-1",
+        "label": "SINTOMA",
+        "start_span": "1598",
+        "end_span": "1667",
+        "entity": "ecocardiograma transtor\u00e1cico en el que no se encontraron alteraciones",
+        "code": "169240004"
+    },
+    {
+        "filename": "es-S0212-71992005000400009-1",
+        "label": "SINTOMA",
+        "start_span": "2083",
+        "end_span": "2114",
+        "entity": "ecograf\u00eda de abdomen fue normal",
+        "code": "169254007"
+    },
+    {
+        "filename": "es-S0465-546X2014000400012-1",
+        "label": "SINTOMA",
+        "start_span": "800",
+        "end_span": "805",
+        "entity": "edema",
+        "code": "267038008"
+    },
+    {
+        "filename": "es-S0365-66912003000600010-1",
+        "label": "SINTOMA",
+        "start_span": "364",
+        "end_span": "417",
+        "entity": "edema (+ + +) en ambos miembros inferiores, con f\u00f3vea",
+        "code": "816181009"
+    },
+    {
+        "filename": "es-S0365-66912012000200004-1",
+        "label": "SINTOMA",
+        "start_span": "1133",
+        "end_span": "1146",
+        "entity": "edema corneal",
+        "code": "27194006"
+    },
+    {
+        "filename": "es-S0365-66912009000100008-1",
+        "label": "SINTOMA",
+        "start_span": "711",
+        "end_span": "726",
+        "entity": "edema de papila",
+        "code": "423341008"
+    },
+    {
+        "filename": "es-S0365-66912003000600010-1",
+        "label": "SINTOMA",
+        "start_span": "3077",
+        "end_span": "3092",
+        "entity": "edema de papila",
+        "code": "423341008"
+    },
+    {
+        "filename": "es-S0004-06142009000500011-1",
+        "label": "SINTOMA",
+        "start_span": "1118",
+        "end_span": "1143",
+        "entity": "edema en miembro inferior",
+        "code": "102572006"
+    },
+    {
+        "filename": "es-S0211-69952013000700025-1",
+        "label": "SINTOMA",
+        "start_span": "1342",
+        "end_span": "1348",
+        "entity": "edemas",
+        "code": "267038008"
+    },
+    {
+        "filename": "es-S0211-69952011000400013-1",
+        "label": "SINTOMA",
+        "start_span": "721",
+        "end_span": "727",
+        "entity": "edemas",
+        "code": "267038008"
+    },
+    {
+        "filename": "es-S0376-78922015000200010-1",
+        "label": "SINTOMA",
+        "start_span": "1037",
+        "end_span": "1095",
+        "entity": "electroencefalograma estuvo dentro de los l\u00edmites normales",
+        "code": "164717000"
+    },
+    {
+        "filename": "es-S1130-01082006000100014-1",
+        "label": "SINTOMA",
+        "start_span": "1691",
+        "end_span": "1735",
+        "entity": "elemental de orina y sedimento eran normales",
+        "code": "167221003"
+    },
+    {
+        "filename": "es-S0211-69952015000200015-1",
+        "label": "SINTOMA",
+        "start_span": "634",
+        "end_span": "658",
+        "entity": "elevaci\u00f3n marcada de PTH",
+        "code": "66999008"
+    },
+    {
+        "filename": "es-S0211-69952014000100016-1",
+        "label": "SINTOMA",
+        "start_span": "892",
+        "end_span": "914",
+        "entity": "elevaciones de azoados",
+        "code": "445009001"
+    },
+    {
+        "filename": "es-S1130-05582005000300007-1",
+        "label": "SINTOMA",
+        "start_span": "1595",
+        "end_span": "1614",
+        "entity": "ELISA IgG: positivo",
+        "code": "168276008"
+    },
+    {
+        "filename": "es-S0004-06142010000300011-1",
+        "label": "SINTOMA",
+        "start_span": "1018",
+        "end_span": "1053",
+        "entity": "engrosamiento de cord\u00f3n esperm\u00e1tico",
+        "code": "249266007"
+    },
+    {
+        "filename": "es-S1130-01082005001000014-1",
+        "label": "SINTOMA",
+        "start_span": "2115",
+        "end_span": "2178",
+        "entity": "engrosamiento de la grasa perirrectal, pared vesical y de recto",
+        "code": "609620004"
+    },
+    {
+        "filename": "es-S0212-71992004000600005-1",
+        "label": "SINTOMA",
+        "start_span": "2973",
+        "end_span": "3034",
+        "entity": "engrosamiento focal de la c\u00e1psula hep\u00e1tica de l\u00f3bulo hep\u00e1tico",
+        "code": "300331000"
+    },
+    {
+        "filename": "es-S0378-48352006000300008-1",
+        "label": "SINTOMA",
+        "start_span": "68",
+        "end_span": "157",
+        "entity": "enrojecimiento de la piel en tercio superior del t\u00f3rax y parte proximal de ambos miembros",
+        "code": "444827008"
+    },
+    {
+        "filename": "es-S0212-71992007000600008-1",
+        "label": "SINTOMA",
+        "start_span": "3553",
+        "end_span": "3589",
+        "entity": "ensanchamiento en la zona subcarinal",
+        "code": "47125007"
+    },
+    {
+        "filename": "es-S0212-71992004000600005-1",
+        "label": "SINTOMA",
+        "start_span": "1309",
+        "end_span": "1330",
+        "entity": "enzimas de colestasis",
+        "code": "33688009"
+    },
+    {
+        "filename": "es-S0365-66912006000700011-1",
+        "label": "SINTOMA",
+        "start_span": "856",
+        "end_span": "867",
+        "entity": "eosinofilia",
+        "code": "386789004"
+    },
+    {
+        "filename": "es-S0211-69952014000100016-1",
+        "label": "SINTOMA",
+        "start_span": "849",
+        "end_span": "856",
+        "entity": "ep\u00edfora",
+        "code": "193982009"
+    },
+    {
+        "filename": "es-S0376-78922014000200012-1",
+        "label": "SINTOMA",
+        "start_span": "1333",
+        "end_span": "1367",
+        "entity": "eritema hacia la porci\u00f3n palpebral",
+        "code": "1137447008"
+    },
+    {
+        "filename": "es-S0212-71992000001200010-1",
+        "label": "SINTOMA",
+        "start_span": "580",
+        "end_span": "591",
+        "entity": "escalofr\u00edos",
+        "code": "43724002"
+    },
+    {
+        "filename": "es-S0210-48062009000600017-1",
+        "label": "SINTOMA",
+        "start_span": "3179",
+        "end_span": "3202",
+        "entity": "escapes entre micciones",
+        "code": "251979003"
+    },
+    {
+        "filename": "es-S0212-71992006001000008-1",
+        "label": "SINTOMA",
+        "start_span": "923",
+        "end_span": "938",
+        "entity": "esclerodactilia",
+        "code": "201051000"
+    },
+    {
+        "filename": "es-S0212-71992006000800008-1",
+        "label": "SINTOMA",
+        "start_span": "1302",
+        "end_span": "1361",
+        "entity": "es\u00f3fago, mucosa de cavidad g\u00e1strica y bulbo duodenal normal",
+        "code": "165141001"
+    },
+    {
+        "filename": "es-S0365-66912010000300004-1",
+        "label": "SINTOMA",
+        "start_span": "1311",
+        "end_span": "1431",
+        "entity": "espacio entre la membrana de Descemet y el estroma corneal presentaba un importante relleno hem\u00e1tico y por viscoel\u00e1stico",
+        "code": "231916005"
+    },
+    {
+        "filename": "es-S0212-16112007000800011-1",
+        "label": "SINTOMA",
+        "start_span": "3536",
+        "end_span": "3555",
+        "entity": "espasmos musculares",
+        "code": "45352006"
+    },
+    {
+        "filename": "es-S0212-71992007000300005-1",
+        "label": "SINTOMA",
+        "start_span": "2642",
+        "end_span": "2661",
+        "entity": "esputos hemoptoicos",
+        "code": "61281005"
+    },
+    {
+        "filename": "es-S0212-71992007000300005-1",
+        "label": "SINTOMA",
+        "start_span": "3860",
+        "end_span": "3879",
+        "entity": "esputos hemoptoicos",
+        "code": "61281005"
+    },
+    {
+        "filename": "es-S0210-48062009000300013-5",
+        "label": "SINTOMA",
+        "start_span": "1003",
+        "end_span": "1027",
+        "entity": "estabilidad hemodin\u00e1mica",
+        "code": "301459008"
+    },
+    {
+        "filename": "es-S0212-16112004000400007-1",
+        "label": "SINTOMA",
+        "start_span": "1970",
+        "end_span": "1995",
+        "entity": "estable hemodin\u00e1micamente",
+        "code": "301459008"
+    },
+    {
+        "filename": "es-S0210-56912009000600008-1",
+        "label": "SINTOMA",
+        "start_span": "817",
+        "end_span": "825",
+        "entity": "estridor",
+        "code": "70407001"
+    },
+    {
+        "filename": "es-S0365-66912006001200009-1",
+        "label": "SINTOMA",
+        "start_span": "485",
+        "end_span": "541",
+        "entity": "estudio con l\u00e1mpara de hendidura no presentaba patolog\u00eda",
+        "code": "112081000119108"
+    },
+    {
+        "filename": "es-S0378-48352006000400006-1",
+        "label": "SINTOMA",
+        "start_span": "550",
+        "end_span": "579",
+        "entity": "estudio de extensi\u00f3n negativo",
+        "code": "89474008"
+    },
+    {
+        "filename": "es-S1130-05582007000500006-1",
+        "label": "SINTOMA",
+        "start_span": "456",
+        "end_span": "503",
+        "entity": "examen intrabucal no se observaron alteraciones",
+        "code": "162010006"
+    },
+    {
+        "filename": "es-S0210-48062005000300016-2",
+        "label": "SINTOMA",
+        "start_span": "1219",
+        "end_span": "1262",
+        "entity": "Examen neurol\u00f3gico general sin alteraciones",
+        "code": "163586006"
+    },
+    {
+        "filename": "es-S0004-06142008000300015-1",
+        "label": "SINTOMA",
+        "start_span": "1210",
+        "end_span": "1252",
+        "entity": "exploraci\u00f3n f\u00edsica dentro de la normalidad",
+        "code": "NO_CODE"
+    },
+    {
+        "filename": "es-S0212-71992006000800007-1",
+        "label": "SINTOMA",
+        "start_span": "2365",
+        "end_span": "2394",
+        "entity": "exploraci\u00f3n f\u00edsica era normal",
+        "code": "NO_CODE"
+    },
+    {
+        "filename": "es-S0212-16112007000800012-1",
+        "label": "SINTOMA",
+        "start_span": "3306",
+        "end_span": "3334",
+        "entity": "exploraci\u00f3n f\u00edsica es normal",
+        "code": "NO_CODE"
+    },
+    {
+        "filename": "es-S0004-06142008000700014-1",
+        "label": "SINTOMA",
+        "start_span": "518",
+        "end_span": "547",
+        "entity": "exploraci\u00f3n f\u00edsica fue normal",
+        "code": "NO_CODE"
+    },
+    {
+        "filename": "es-S0211-69952012000500016-1",
+        "label": "SINTOMA",
+        "start_span": "1210",
+        "end_span": "1236",
+        "entity": "Factor reumatoide negativo",
+        "code": "165840002"
+    },
+    {
+        "filename": "es-S0365-66912012000300003-1",
+        "label": "SINTOMA",
+        "start_span": "2061",
+        "end_span": "2068",
+        "entity": "fallece",
+        "code": "419099009"
+    },
+    {
+        "filename": "es-S0378-48352005000400004-1",
+        "label": "SINTOMA",
+        "start_span": "2412",
+        "end_span": "2419",
+        "entity": "fallece",
+        "code": "419099009"
+    },
+    {
+        "filename": "es-S0210-48062004000400008-1",
+        "label": "SINTOMA",
+        "start_span": "2322",
+        "end_span": "2333",
+        "entity": "falleciendo",
+        "code": "419099009"
+    },
+    {
+        "filename": "es-S0378-48352005000100005-1",
+        "label": "SINTOMA",
+        "start_span": "1743",
+        "end_span": "1751",
+        "entity": "Falleci\u00f3",
+        "code": "419099009"
+    },
+    {
+        "filename": "es-S0004-06142010000300011-1",
+        "label": "SINTOMA",
+        "start_span": "2179",
+        "end_span": "2187",
+        "entity": "Falleci\u00f3",
+        "code": "419099009"
+    },
+    {
+        "filename": "es-S0210-56912007000900007-1",
+        "label": "SINTOMA",
+        "start_span": "1784",
+        "end_span": "1792",
+        "entity": "falleci\u00f3",
+        "code": "419099009"
+    },
+    {
+        "filename": "es-S0378-48352006000500005-1",
+        "label": "SINTOMA",
+        "start_span": "1808",
+        "end_span": "1816",
+        "entity": "falleci\u00f3",
+        "code": "419099009"
+    },
+    {
+        "filename": "es-S1130-01082008000100009-1",
+        "label": "SINTOMA",
+        "start_span": "370",
+        "end_span": "378",
+        "entity": "falleci\u00f3",
+        "code": "419099009"
+    },
+    {
+        "filename": "es-S0212-71992004000800009-1",
+        "label": "SINTOMA",
+        "start_span": "3795",
+        "end_span": "3803",
+        "entity": "falleci\u00f3",
+        "code": "419099009"
+    },
+    {
+        "filename": "es-S0376-78922009000400002-1",
+        "label": "SINTOMA",
+        "start_span": "187",
+        "end_span": "201",
+        "entity": "fallo de bomba",
+        "code": "105981003"
+    },
+    {
+        "filename": "es-S0212-71992006000800007-1",
+        "label": "SINTOMA",
+        "start_span": "3861",
+        "end_span": "3897",
+        "entity": "falta de activaci\u00f3n de vector septal",
+        "code": "301115008"
+    },
+    {
+        "filename": "es-S0365-66912003000600010-1",
+        "label": "SINTOMA",
+        "start_span": "2793",
+        "end_span": "2895",
+        "entity": "fases m\u00e1s avanzadas mostraban focos de difusi\u00f3n progresiva en el espacio subpigmentario y subretiniano",
+        "code": "57534004"
+    },
+    {
+        "filename": "es-S0211-69952010000400013-1",
+        "label": "SINTOMA",
+        "start_span": "1336",
+        "end_span": "1345",
+        "entity": "febr\u00edcula",
+        "code": "64882008"
+    },
+    {
+        "filename": "es-S0211-69952014000100016-1",
+        "label": "SINTOMA",
+        "start_span": "993",
+        "end_span": "999",
+        "entity": "febril",
+        "code": "64882008"
+    },
+    {
+        "filename": "es-S0210-48062009000400016-1",
+        "label": "SINTOMA",
+        "start_span": "669",
+        "end_span": "678",
+        "entity": "fecaluria",
+        "code": "300477005"
+    },
+    {
+        "filename": "es-S0212-16112012000500043-1",
+        "label": "SINTOMA",
+        "start_span": "1149",
+        "end_span": "1176",
+        "entity": "fenotipo PKU suave-moderado",
+        "code": "190687004"
+    },
+    {
+        "filename": "es-S0365-66912005001200012-1",
+        "label": "SINTOMA",
+        "start_span": "285",
+        "end_span": "333",
+        "entity": "fibras de mielina en la arcada temporal superior",
+        "code": "230506000"
+    },
+    {
+        "filename": "es-S1130-01082007000700011-2",
+        "label": "SINTOMA",
+        "start_span": "2175",
+        "end_span": "2232",
+        "entity": "fibrobroncoscopia no se encontraron hallazgos patol\u00f3gicos",
+        "code": "165142008"
+    },
+    {
+        "filename": "es-S0210-48062005001000013-1",
+        "label": "SINTOMA",
+        "start_span": "2664",
+        "end_span": "2681",
+        "entity": "fibrosis reactiva",
+        "code": "125562006"
+    },
+    {
+        "filename": "es-S0004-06142010000500014-1",
+        "label": "SINTOMA",
+        "start_span": "196",
+        "end_span": "202",
+        "entity": "fiebre",
+        "code": "64882008"
+    },
+    {
+        "filename": "es-S0210-48062006000700010-1",
+        "label": "SINTOMA",
+        "start_span": "788",
+        "end_span": "794",
+        "entity": "fiebre",
+        "code": "64882008"
+    },
+    {
+        "filename": "es-S0210-56912010000200009-1",
+        "label": "SINTOMA",
+        "start_span": "1015",
+        "end_span": "1021",
+        "entity": "fiebre",
+        "code": "64882008"
+    },
+    {
+        "filename": "es-S0210-56912006000200007-1",
+        "label": "SINTOMA",
+        "start_span": "3281",
+        "end_span": "3287",
+        "entity": "fiebre",
+        "code": "64882008"
+    },
+    {
+        "filename": "es-S0211-69952013000700023-1",
+        "label": "SINTOMA",
+        "start_span": "132",
+        "end_span": "138",
+        "entity": "fiebre",
+        "code": "64882008"
+    },
+    {
+        "filename": "es-S0211-69952014000200012-1",
+        "label": "SINTOMA",
+        "start_span": "987",
+        "end_span": "993",
+        "entity": "fiebre",
+        "code": "64882008"
+    },
+    {
+        "filename": "es-S0211-69952014000400020-1",
+        "label": "SINTOMA",
+        "start_span": "529",
+        "end_span": "535",
+        "entity": "fiebre",
+        "code": "64882008"
+    },
+    {
+        "filename": "es-S0211-69952014000100016-1",
+        "label": "SINTOMA",
+        "start_span": "535",
+        "end_span": "541",
+        "entity": "fiebre",
+        "code": "64882008"
+    },
+    {
+        "filename": "es-S0212-16112012000500042-1",
+        "label": "SINTOMA",
+        "start_span": "1399",
+        "end_span": "1405",
+        "entity": "fiebre",
+        "code": "64882008"
+    },
+    {
+        "filename": "es-S0212-16112012000600045-1",
+        "label": "SINTOMA",
+        "start_span": "2100",
+        "end_span": "2106",
+        "entity": "fiebre",
+        "code": "64882008"
+    },
+    {
+        "filename": "es-S0212-71992006000100006-1",
+        "label": "SINTOMA",
+        "start_span": "421",
+        "end_span": "427",
+        "entity": "fiebre",
+        "code": "64882008"
+    },
+    {
+        "filename": "es-S0465-546X2011000300007-1",
+        "label": "SINTOMA",
+        "start_span": "1453",
+        "end_span": "1459",
+        "entity": "fiebre",
+        "code": "64882008"
+    },
+    {
+        "filename": "es-S0211-69952010000400013-1",
+        "label": "SINTOMA",
+        "start_span": "592",
+        "end_span": "598",
+        "entity": "fiebre",
+        "code": "64882008"
+    },
+    {
+        "filename": "es-S0004-06142007000900013-1",
+        "label": "SINTOMA",
+        "start_span": "330",
+        "end_span": "336",
+        "entity": "fiebre",
+        "code": "64882008"
+    },
+    {
+        "filename": "es-S0212-71992006000200006-1",
+        "label": "SINTOMA",
+        "start_span": "3469",
+        "end_span": "3497",
+        "entity": "fiebre de origen desconocido",
+        "code": "7520000"
+    },
+    {
+        "filename": "es-S1130-01082007000400016-1",
+        "label": "SINTOMA",
+        "start_span": "836",
+        "end_span": "851",
+        "entity": "foco infeccioso",
+        "code": "40733004"
+    },
+    {
+        "filename": "es-S0212-71992004001100007-1",
+        "label": "SINTOMA",
+        "start_span": "2356",
+        "end_span": "2374",
+        "entity": "focos hemorr\u00e1gicos",
+        "code": "50960005"
+    },
+    {
+        "filename": "es-S0212-71992006000200006-1",
+        "label": "SINTOMA",
+        "start_span": "2300",
+        "end_span": "2317",
+        "entity": "focos infecciosos",
+        "code": "40733004"
+    },
+    {
+        "filename": "es-S0365-66912004001100011-1",
+        "label": "SINTOMA",
+        "start_span": "503",
+        "end_span": "561",
+        "entity": "fondo de ojo sin alteraciones significativas en ambos ojos",
+        "code": "164734008"
+    },
+    {
+        "filename": "es-S0210-48062004000400008-1",
+        "label": "SINTOMA",
+        "start_span": "1835",
+        "end_span": "1892",
+        "entity": "formaci\u00f3n de caracter\u00edsticas similares en la ra\u00edz peneana",
+        "code": "300515007"
+    },
+    {
+        "filename": "es-S0212-71992005001200010-1",
+        "label": "SINTOMA",
+        "start_span": "3813",
+        "end_span": "3850",
+        "entity": "f\u00f3rmula leucocitaria sin alteraciones",
+        "code": "165507003"
+    },
+    {
+        "filename": "es-S0365-66912004000600009-2",
+        "label": "SINTOMA",
+        "start_span": "189",
+        "end_span": "198",
+        "entity": "fotofobia",
+        "code": "409668002"
+    },
+    {
+        "filename": "es-S0365-66912008000100009-3",
+        "label": "SINTOMA",
+        "start_span": "35",
+        "end_span": "44",
+        "entity": "fotofobia",
+        "code": "409668002"
+    },
+    {
+        "filename": "es-S0212-16112013000300056-1",
+        "label": "SINTOMA",
+        "start_span": "1080",
+        "end_span": "1112",
+        "entity": "fragmento abandonado del cat\u00e9ter",
+        "code": "NO_CODE"
+    },
+    {
+        "filename": "es-S0212-71992003000500006-1",
+        "label": "SINTOMA",
+        "start_span": "868",
+        "end_span": "902",
+        "entity": "funci\u00f3n hep\u00e1tica estaba conservada",
+        "code": "166602006"
+    },
+    {
+        "filename": "es-S0211-69952014000200012-1",
+        "label": "SINTOMA",
+        "start_span": "1580",
+        "end_span": "1600",
+        "entity": "funci\u00f3n renal normal",
+        "code": "81141003"
+    },
+    {
+        "filename": "es-S0004-06142009000500011-1",
+        "label": "SINTOMA",
+        "start_span": "2122",
+        "end_span": "2142",
+        "entity": "funci\u00f3n renal normal",
+        "code": "81141003"
+    },
+    {
+        "filename": "es-S0212-71992007000300007-1",
+        "label": "SINTOMA",
+        "start_span": "838",
+        "end_span": "889",
+        "entity": "funciones corticales superiores estaban conservadas",
+        "code": "449888003"
+    },
+    {
+        "filename": "es-S0212-71992003000500006-1",
+        "label": "SINTOMA",
+        "start_span": "1603",
+        "end_span": "1657",
+        "entity": "ganglios de la zona media de la cadena latero-cervical",
+        "code": "127087005"
+    },
+    {
+        "filename": "es-S0210-48062009000900015-3",
+        "label": "SINTOMA",
+        "start_span": "588",
+        "end_span": "619",
+        "entity": "glande hipocr\u00f3mico, hipot\u00e9rmico",
+        "code": "249250005"
+    },
+    {
+        "filename": "es-S0210-48062009000900015-2",
+        "label": "SINTOMA",
+        "start_span": "434",
+        "end_span": "479",
+        "entity": "glande, as\u00ed como sensaci\u00f3n de anestesia local",
+        "code": "249250005"
+    },
+    {
+        "filename": "es-S0212-71992005000700008-1",
+        "label": "SINTOMA",
+        "start_span": "3021",
+        "end_span": "3070",
+        "entity": "gl\u00e1ndulas suprarrenales morfol\u00f3gicamente normales",
+        "code": "NO_CODE"
+    },
+    {
+        "filename": "es-S0212-16112012000300028-1",
+        "label": "SINTOMA",
+        "start_span": "902",
+        "end_span": "918",
+        "entity": "glucemia elevada",
+        "code": "444780001"
+    },
+    {
+        "filename": "es-S0211-69952017000200225-2",
+        "label": "SINTOMA",
+        "start_span": "248",
+        "end_span": "273",
+        "entity": "haptoglobina indetectable",
+        "code": "NO_CODE"
+    },
+    {
+        "filename": "es-S0004-06142007000900011-1",
+        "label": "SINTOMA",
+        "start_span": "832",
+        "end_span": "840",
+        "entity": "hematoma",
+        "code": "385494008"
+    },
+    {
+        "filename": "es-S0004-06142007000900013-1",
+        "label": "SINTOMA",
+        "start_span": "402",
+        "end_span": "453",
+        "entity": "hemiescroto izquierdo aumentado de tama\u00f1o, doloroso",
+        "code": "823012003"
+    },
+    {
+        "filename": "es-S0004-06142009000700011-1",
+        "label": "SINTOMA",
+        "start_span": "390",
+        "end_span": "455",
+        "entity": "hemiescroto izquierdo mayor de lo normal, a tensi\u00f3n, con una masa",
+        "code": "53929009"
+    },
+    {
+        "filename": "es-S1130-01082010000300015-1",
+        "label": "SINTOMA",
+        "start_span": "309",
+        "end_span": "334",
+        "entity": "hemodin\u00e1micamente estable",
+        "code": "301459008"
+    },
+    {
+        "filename": "es-S0211-69952017000200225-2",
+        "label": "SINTOMA",
+        "start_span": "1353",
+        "end_span": "1376",
+        "entity": "hemoglobinuria negativa",
+        "code": "250220000"
+    },
+    {
+        "filename": "es-S0004-06142009000500009-1",
+        "label": "SINTOMA",
+        "start_span": "1094",
+        "end_span": "1127",
+        "entity": "hemograma es pr\u00e1cticamente normal",
+        "code": "165407001"
+    },
+    {
+        "filename": "es-S0004-06142009000100013-1",
+        "label": "SINTOMA",
+        "start_span": "899",
+        "end_span": "915",
+        "entity": "Hemograma normal",
+        "code": "165406005"
+    },
+    {
+        "filename": "es-S0004-06142009000800010-1",
+        "label": "SINTOMA",
+        "start_span": "2204",
+        "end_span": "2214",
+        "entity": "hemol\u00edtico",
+        "code": "128086004"
+    },
+    {
+        "filename": "es-S0365-66912007000800013-1",
+        "label": "SINTOMA",
+        "start_span": "155",
+        "end_span": "165",
+        "entity": "hemorragia",
+        "code": "131148009"
+    },
+    {
+        "filename": "es-S0365-66912007000800013-1",
+        "label": "SINTOMA",
+        "start_span": "21",
+        "end_span": "39",
+        "entity": "hemorragia macular",
+        "code": "28998008"
+    },
+    {
+        "filename": "es-S0365-66912012000500005-1",
+        "label": "SINTOMA",
+        "start_span": "844",
+        "end_span": "855",
+        "entity": "hemorragias",
+        "code": "131148009"
+    },
+    {
+        "filename": "es-S0365-66912003000600010-1",
+        "label": "SINTOMA",
+        "start_span": "3099",
+        "end_span": "3110",
+        "entity": "hemorragias",
+        "code": "131148009"
+    },
+    {
+        "filename": "es-S0365-66912003000600010-1",
+        "label": "SINTOMA",
+        "start_span": "1217",
+        "end_span": "1265",
+        "entity": "hemorragias en el polo posterior de los dos ojos",
+        "code": "343871000119105"
+    },
+    {
+        "filename": "es-S0004-06142008000400010-1",
+        "label": "SINTOMA",
+        "start_span": "1872",
+        "end_span": "1883",
+        "entity": "hemospermia",
+        "code": "34615008"
+    },
+    {
+        "filename": "es-S0365-66912007000200010-1",
+        "label": "SINTOMA",
+        "start_span": "1831",
+        "end_span": "1851",
+        "entity": "hemov\u00edtreo bilateral",
+        "code": "343091000119103"
+    },
+    {
+        "filename": "es-S0365-66912009000100008-1",
+        "label": "SINTOMA",
+        "start_span": "214",
+        "end_span": "220",
+        "entity": "hifema",
+        "code": "75229002"
+    },
+    {
+        "filename": "es-S0365-66912005001100008-1",
+        "label": "SINTOMA",
+        "start_span": "1463",
+        "end_span": "1510",
+        "entity": "hifema que ocupa la mitad de la c\u00e1mara anterior",
+        "code": "75229002"
+    },
+    {
+        "filename": "es-S0210-56912006000800008-1",
+        "label": "SINTOMA",
+        "start_span": "879",
+        "end_span": "893",
+        "entity": "h\u00edgado peque\u00f1o",
+        "code": "300325003"
+    },
+    {
+        "filename": "es-S0004-06142008000600013-1",
+        "label": "SINTOMA",
+        "start_span": "888",
+        "end_span": "906",
+        "entity": "hinchaz\u00f3n cervical",
+        "code": "301777002"
+    },
+    {
+        "filename": "es-S0365-66912007001000009-1",
+        "label": "SINTOMA",
+        "start_span": "730",
+        "end_span": "736",
+        "entity": "hipema",
+        "code": "231954005"
+    },
+    {
+        "filename": "es-S0365-66912007001200013-1",
+        "label": "SINTOMA",
+        "start_span": "1148",
+        "end_span": "1172",
+        "entity": "hipercaptaci\u00f3n en papila",
+        "code": "247201009"
+    },
+    {
+        "filename": "es-S0004-06142008000400010-1",
+        "label": "SINTOMA",
+        "start_span": "845",
+        "end_span": "875",
+        "entity": "hiperostosis de cara orbitaria",
+        "code": "788954009"
+    },
+    {
+        "filename": "es-S0212-71992005000700008-1",
+        "label": "SINTOMA",
+        "start_span": "1095",
+        "end_span": "1169",
+        "entity": "hiperpigmentaci\u00f3n cut\u00e1nea generalizada, acentuada en pezones, \u00e1rea genital",
+        "code": "49765009"
+    },
+    {
+        "filename": "es-S0365-66912004001100011-1",
+        "label": "SINTOMA",
+        "start_span": "1403",
+        "end_span": "1422",
+        "entity": "hipertensi\u00f3n ocular",
+        "code": "4210003"
+    },
+    {
+        "filename": "es-S0212-16112005000600011-1",
+        "label": "SINTOMA",
+        "start_span": "1389",
+        "end_span": "1396",
+        "entity": "hiphema",
+        "code": "75229002"
+    },
+    {
+        "filename": "es-S0365-66912005001200010-1",
+        "label": "SINTOMA",
+        "start_span": "165",
+        "end_span": "175",
+        "entity": "hipoacusia",
+        "code": "15188001"
+    },
+    {
+        "filename": "es-S0210-48062007001000016-1",
+        "label": "SINTOMA",
+        "start_span": "1307",
+        "end_span": "1317",
+        "entity": "hipoacusia",
+        "code": "15188001"
+    },
+    {
+        "filename": "es-S0210-48062007001000016-1",
+        "label": "SINTOMA",
+        "start_span": "1544",
+        "end_span": "1561",
+        "entity": "hipoac\u00fasia s\u00fabita",
+        "code": "79471008"
+    },
+    {
+        "filename": "es-S0212-16112004000400007-1",
+        "label": "SINTOMA",
+        "start_span": "3468",
+        "end_span": "3482",
+        "entity": "hipomagnesemia",
+        "code": "82020005"
+    },
+    {
+        "filename": "es-S0212-16112007000800011-1",
+        "label": "SINTOMA",
+        "start_span": "3475",
+        "end_span": "3489",
+        "entity": "hipomagnesemia",
+        "code": "82020005"
+    },
+    {
+        "filename": "es-S0211-69952013000500032-2",
+        "label": "SINTOMA",
+        "start_span": "1018",
+        "end_span": "1031",
+        "entity": "hipopotasemia",
+        "code": "43339004"
+    },
+    {
+        "filename": "es-S0211-69952015000100013-1",
+        "label": "SINTOMA",
+        "start_span": "925",
+        "end_span": "938",
+        "entity": "hipopotasemia",
+        "code": "43339004"
+    },
+    {
+        "filename": "es-S0212-16112012000300028-1",
+        "label": "SINTOMA",
+        "start_span": "954",
+        "end_span": "967",
+        "entity": "hipopotasemia",
+        "code": "43339004"
+    },
+    {
+        "filename": "es-S0212-16112007000800012-1",
+        "label": "SINTOMA",
+        "start_span": "1126",
+        "end_span": "1141",
+        "entity": "hipoproteinemia",
+        "code": "8900005"
+    },
+    {
+        "filename": "es-S1130-01082009000500011-1",
+        "label": "SINTOMA",
+        "start_span": "235",
+        "end_span": "244",
+        "entity": "hiporexia",
+        "code": "79890006"
+    },
+    {
+        "filename": "es-S0210-48062006000900014-1",
+        "label": "SINTOMA",
+        "start_span": "3452",
+        "end_span": "3463",
+        "entity": "hipotensi\u00f3n",
+        "code": "45007003"
+    },
+    {
+        "filename": "es-S1130-01082007000700016-1",
+        "label": "SINTOMA",
+        "start_span": "346",
+        "end_span": "366",
+        "entity": "hipotensi\u00f3n arterial",
+        "code": "45007003"
+    },
+    {
+        "filename": "es-S0365-66912007000300011-1",
+        "label": "SINTOMA",
+        "start_span": "2194",
+        "end_span": "2216",
+        "entity": "hipoton\u00eda cervicoaxial",
+        "code": "398151007"
+    },
+    {
+        "filename": "es-S0365-66912009000100008-1",
+        "label": "SINTOMA",
+        "start_span": "592",
+        "end_span": "608",
+        "entity": "hipoton\u00eda ocular",
+        "code": "95255005"
+    },
+    {
+        "filename": "es-S0212-71992007000300006-1",
+        "label": "SINTOMA",
+        "start_span": "2910",
+        "end_span": "2924",
+        "entity": "hipoventilaci\u00f3",
+        "code": "31515003"
+    },
+    {
+        "filename": "es-S0212-71992007000300006-1",
+        "label": "SINTOMA",
+        "start_span": "3305",
+        "end_span": "3320",
+        "entity": "hipoventilaci\u00f3n",
+        "code": "31515003"
+    },
+    {
+        "filename": "es-S0465-546X2014000300010-1",
+        "label": "SINTOMA",
+        "start_span": "817",
+        "end_span": "826",
+        "entity": "ictericia",
+        "code": "18165001"
+    },
+    {
+        "filename": "es-S1130-01082007000400016-1",
+        "label": "SINTOMA",
+        "start_span": "62",
+        "end_span": "71",
+        "entity": "ictericia",
+        "code": "18165001"
+    },
+    {
+        "filename": "es-S1130-01082006001000017-1",
+        "label": "SINTOMA",
+        "start_span": "376",
+        "end_span": "411",
+        "entity": "imagen estenosante a nivel de sigma",
+        "code": "19132000"
+    },
+    {
+        "filename": "es-S0376-78922015000200010-1",
+        "label": "SINTOMA",
+        "start_span": "772",
+        "end_span": "848",
+        "entity": "imagen hipodensa en la l\u00ednea interhemisf\u00e9rica a nivel de las astas frontales",
+        "code": "422840005"
+    },
+    {
+        "filename": "es-S0211-69952015000100013-1",
+        "label": "SINTOMA",
+        "start_span": "1846",
+        "end_span": "1867",
+        "entity": "imagen nodular s\u00f3lida",
+        "code": "125132005"
+    },
+    {
+        "filename": "es-S0212-71992004001100007-1",
+        "label": "SINTOMA",
+        "start_span": "1842",
+        "end_span": "1955",
+        "entity": "imag\u00e9nes hiperdensas a nivel temporalparietal y occipital de ambos hemisferios compatibles con focos hemorr\u00e1gicos",
+        "code": "722617004"
+    },
+    {
+        "filename": "es-S0210-48062004000400008-1",
+        "label": "SINTOMA",
+        "start_span": "1317",
+        "end_span": "1362",
+        "entity": "im\u00e1genes nodulares en ambos campos pulmonares",
+        "code": "445249002"
+    },
+    {
+        "filename": "es-S0212-71992005000400009-1",
+        "label": "SINTOMA",
+        "start_span": "2229",
+        "end_span": "2266",
+        "entity": "im\u00e1genes nodulares en l\u00f3bulo superior",
+        "code": "445249002"
+    },
+    {
+        "filename": "es-S0365-66912010000300004-1",
+        "label": "SINTOMA",
+        "start_span": "1771",
+        "end_span": "1788",
+        "entity": "inclusi\u00f3n corneal",
+        "code": "440027000"
+    },
+    {
+        "filename": "es-S0212-16112007000800011-1",
+        "label": "SINTOMA",
+        "start_span": "1165",
+        "end_span": "1192",
+        "entity": "incontinencia de esf\u00ednteres",
+        "code": "129847007"
+    },
+    {
+        "filename": "es-S0210-48062009000600017-1",
+        "label": "SINTOMA",
+        "start_span": "3354",
+        "end_span": "3376",
+        "entity": "incontinencia nocturna",
+        "code": "68191002"
+    },
+    {
+        "filename": "es-S0210-48062009000400016-1",
+        "label": "SINTOMA",
+        "start_span": "2441",
+        "end_span": "2463",
+        "entity": "incontinencia urinaria",
+        "code": "165232002"
+    },
+    {
+        "filename": "es-S0378-48352004000200007-1",
+        "label": "SINTOMA",
+        "start_span": "2187",
+        "end_span": "2209",
+        "entity": "incontinencia urinaria",
+        "code": "165232002"
+    },
+    {
+        "filename": "es-S0004-06142008000700015-2",
+        "label": "SINTOMA",
+        "start_span": "153",
+        "end_span": "190",
+        "entity": "induraci\u00f3n peneana a nivel de la base",
+        "code": "33958003"
+    },
+    {
+        "filename": "es-S0212-71992007000300007-1",
+        "label": "SINTOMA",
+        "start_span": "138",
+        "end_span": "164",
+        "entity": "inestabilidad de la marcha",
+        "code": "22631008"
+    },
+    {
+        "filename": "es-S1130-01082009001000013-1",
+        "label": "SINTOMA",
+        "start_span": "2164",
+        "end_span": "2190",
+        "entity": "inestabilidad hemodin\u00e1mica",
+        "code": "422773005"
+    },
+    {
+        "filename": "es-S1130-01082009001000013-1",
+        "label": "SINTOMA",
+        "start_span": "1457",
+        "end_span": "1483",
+        "entity": "inestabilidad hemodin\u00e1mica",
+        "code": "422773005"
+    },
+    {
+        "filename": "es-S1130-01082009001000013-1",
+        "label": "SINTOMA",
+        "start_span": "855",
+        "end_span": "881",
+        "entity": "inestabilidad hemodin\u00e1mica",
+        "code": "422773005"
+    },
+    {
+        "filename": "es-S0211-69952015000200015-1",
+        "label": "SINTOMA",
+        "start_span": "1408",
+        "end_span": "1441",
+        "entity": "infecciosa (serolog\u00edas negativas)",
+        "code": "168265009"
+    },
+    {
+        "filename": "es-S0365-66912011000400005-1",
+        "label": "SINTOMA",
+        "start_span": "884",
+        "end_span": "934",
+        "entity": "infiltrado corneal perif\u00e9rico superior en semiluna",
+        "code": "418638008"
+    },
+    {
+        "filename": "es-S0210-56912010000200009-1",
+        "label": "SINTOMA",
+        "start_span": "1530",
+        "end_span": "1541",
+        "entity": "infiltrados",
+        "code": "409609008"
+    },
+    {
+        "filename": "es-S0365-66912012000500005-1",
+        "label": "SINTOMA",
+        "start_span": "1227",
+        "end_span": "1243",
+        "entity": "intensa hiper-FA",
+        "code": "274770006"
+    },
+    {
+        "filename": "es-S0212-16112012000300029-1",
+        "label": "SINTOMA",
+        "start_span": "1348",
+        "end_span": "1370",
+        "entity": "intolerancia digestiva",
+        "code": "235719002"
+    },
+    {
+        "filename": "es-S0365-66912005001100008-1",
+        "label": "SINTOMA",
+        "start_span": "1062",
+        "end_span": "1080",
+        "entity": "inyecci\u00f3n vascular",
+        "code": "278021008"
+    },
+    {
+        "filename": "es-S1130-01082010000100021-1",
+        "label": "SINTOMA",
+        "start_span": "305",
+        "end_span": "326",
+        "entity": "irritaci\u00f3n peritoneal",
+        "code": "48661000"
+    },
+    {
+        "filename": "es-S0210-48062007001000004-4",
+        "label": "SINTOMA",
+        "start_span": "792",
+        "end_span": "845",
+        "entity": "lactato deshidrogenasa y la alfafetoprote\u00edna normales",
+        "code": "166558007"
+    },
+    {
+        "filename": "es-S0212-16112012000300028-1",
+        "label": "SINTOMA",
+        "start_span": "993",
+        "end_span": "1007",
+        "entity": "lactato normal",
+        "code": "NO_CODE"
+    },
+    {
+        "filename": "es-S1130-01082006000100014-1",
+        "label": "SINTOMA",
+        "start_span": "2748",
+        "end_span": "2760",
+        "entity": "LCR negativo",
+        "code": "167703002"
+    },
+    {
+        "filename": "es-S0210-48062007000100012-1",
+        "label": "SINTOMA",
+        "start_span": "735",
+        "end_span": "746",
+        "entity": "LDH: normal",
+        "code": "NO_CODE"
+    },
+    {
+        "filename": "es-S1130-05582008000300004-1",
+        "label": "SINTOMA",
+        "start_span": "390",
+        "end_span": "406",
+        "entity": "lesi\u00f3n era m\u00f3vil",
+        "code": "300592009"
+    },
+    {
+        "filename": "es-S0211-69952011000400013-1",
+        "label": "SINTOMA",
+        "start_span": "1776",
+        "end_span": "1814",
+        "entity": "lesiones macrosc\u00f3picas en la v\u00eda a\u00e9rea",
+        "code": "233776003"
+    },
+    {
+        "filename": "es-S0212-71992007001000008-1",
+        "label": "SINTOMA",
+        "start_span": "281",
+        "end_span": "293",
+        "entity": "leucocitosis",
+        "code": "414478003"
+    },
+    {
+        "filename": "es-S0212-71992005000400009-1",
+        "label": "SINTOMA",
+        "start_span": "1029",
+        "end_span": "1041",
+        "entity": "leucocitosis",
+        "code": "414478003"
+    },
+    {
+        "filename": "es-S0210-48062006000900014-1",
+        "label": "SINTOMA",
+        "start_span": "3474",
+        "end_span": "3519",
+        "entity": "leucocitosis con marcada desviaci\u00f3n izquierda",
+        "code": "87361006"
+    },
+    {
+        "filename": "es-S0004-06142007000700015-1",
+        "label": "SINTOMA",
+        "start_span": "1081",
+        "end_span": "1110",
+        "entity": "leve s\u00edntomatologia miccional",
+        "code": "249274008"
+    },
+    {
+        "filename": "es-S0004-06142009000100009-1",
+        "label": "SINTOMA",
+        "start_span": "197",
+        "end_span": "225",
+        "entity": "leves molestias testiculares",
+        "code": "63901009"
+    },
+    {
+        "filename": "es-S0210-48062007000700017-1",
+        "label": "SINTOMA",
+        "start_span": "2295",
+        "end_span": "2314",
+        "entity": "libre de enfermedad",
+        "code": "110279003"
+    },
+    {
+        "filename": "es-S0210-48062007001000004-4",
+        "label": "SINTOMA",
+        "start_span": "2606",
+        "end_span": "2625",
+        "entity": "libre de enfermedad",
+        "code": "110279003"
+    },
+    {
+        "filename": "es-S0212-71992004000600005-1",
+        "label": "SINTOMA",
+        "start_span": "1259",
+        "end_span": "1292",
+        "entity": "ligera elevaci\u00f3n de transaminasas",
+        "code": "707724006"
+    },
+    {
+        "filename": "es-S0365-66912009000800005-2",
+        "label": "SINTOMA",
+        "start_span": "445",
+        "end_span": "468",
+        "entity": "limitaci\u00f3n de la mirada",
+        "code": "419326002"
+    },
+    {
+        "filename": "es-S0365-66912003000600010-1",
+        "label": "SINTOMA",
+        "start_span": "3136",
+        "end_span": "3166",
+        "entity": "l\u00ednea de demarcaci\u00f3n en el ojo",
+        "code": "301918006"
+    },
+    {
+        "filename": "es-S0210-48062006000200017-1",
+        "label": "SINTOMA",
+        "start_span": "1413",
+        "end_span": "1448",
+        "entity": "l\u00edquido libre en cavidad peritoneal",
+        "code": "93457003"
+    },
+    {
+        "filename": "es-S1130-01082008001000010-1",
+        "label": "SINTOMA",
+        "start_span": "1384",
+        "end_span": "1508",
+        "entity": "localizaci\u00f3n peria\u00f3rtica con extensi\u00f3n a territorio iliaco bilateral, un tejido denso rodeando dichas estructuras vasculares",
+        "code": "248713000"
+    },
+    {
+        "filename": "es-S0378-48352006000400006-1",
+        "label": "SINTOMA",
+        "start_span": "1077",
+        "end_span": "1096",
+        "entity": "LSI con atelectasia",
+        "code": "61448007"
+    },
+    {
+        "filename": "es-S0210-48062009000600017-1",
+        "label": "SINTOMA",
+        "start_span": "164",
+        "end_span": "173",
+        "entity": "lumbalgia",
+        "code": "40709005"
+    },
+    {
+        "filename": "es-S1130-01082010000600012-1",
+        "label": "SINTOMA",
+        "start_span": "227",
+        "end_span": "239",
+        "entity": "lumboci\u00e1tica",
+        "code": "202794004"
+    },
+    {
+        "filename": "es-S0365-66912003000600010-1",
+        "label": "SINTOMA",
+        "start_span": "933",
+        "end_span": "951",
+        "entity": "mal estado general",
+        "code": "135818000"
+    },
+    {
+        "filename": "es-S0212-71992005000400009-1",
+        "label": "SINTOMA",
+        "start_span": "762",
+        "end_span": "780",
+        "entity": "mal estado general",
+        "code": "135818000"
+    },
+    {
+        "filename": "es-S0211-69952014000400020-1",
+        "label": "SINTOMA",
+        "start_span": "260",
+        "end_span": "281",
+        "entity": "mala higiene personal",
+        "code": "410428008"
+    },
+    {
+        "filename": "es-S0212-71992003000500006-1",
+        "label": "SINTOMA",
+        "start_span": "219",
+        "end_span": "235",
+        "entity": "malestar general",
+        "code": "367391008"
+    },
+    {
+        "filename": "es-S0212-71992004000600005-1",
+        "label": "SINTOMA",
+        "start_span": "385",
+        "end_span": "401",
+        "entity": "malestar general",
+        "code": "367391008"
+    },
+    {
+        "filename": "es-S1130-01082007000500016-1",
+        "label": "SINTOMA",
+        "start_span": "341",
+        "end_span": "357",
+        "entity": "malestar general",
+        "code": "367391008"
+    },
+    {
+        "filename": "es-S1130-05582008000300005-1",
+        "label": "SINTOMA",
+        "start_span": "533",
+        "end_span": "544",
+        "entity": "maloclusi\u00f3n",
+        "code": "707598004"
+    },
+    {
+        "filename": "es-S0211-69952012000500016-1",
+        "label": "SINTOMA",
+        "start_span": "415",
+        "end_span": "449",
+        "entity": "manifestaciones gastrointestinales",
+        "code": "267045008"
+    },
+    {
+        "filename": "es-S0465-546X2009000300008-1",
+        "label": "SINTOMA",
+        "start_span": "824",
+        "end_span": "847",
+        "entity": "Mantoux previo positivo",
+        "code": "268376005"
+    },
+    {
+        "filename": "es-S0365-66912006001200009-1",
+        "label": "SINTOMA",
+        "start_span": "1507",
+        "end_span": "1535",
+        "entity": "Mantoux tambi\u00e9n fue negativo",
+        "code": "268375009"
+    },
+    {
+        "filename": "es-S0004-06142009000100009-1",
+        "label": "SINTOMA",
+        "start_span": "677",
+        "end_span": "730",
+        "entity": "marcadores tumorales germinales, con resultado normal",
+        "code": "399406009"
+    },
+    {
+        "filename": "es-S0004-06142008000600014-1",
+        "label": "SINTOMA",
+        "start_span": "855",
+        "end_span": "913",
+        "entity": "marcadores tumorales presentaron una elevaci\u00f3n de la \u03b1-FTP",
+        "code": "399643001"
+    },
+    {
+        "filename": "es-S1130-01082007001200012-1",
+        "label": "SINTOMA",
+        "start_span": "1222",
+        "end_span": "1257",
+        "entity": "marcadores virales fueron negativos",
+        "code": "168265009"
+    },
+    {
+        "filename": "es-S0004-06142009000100010-1",
+        "label": "SINTOMA",
+        "start_span": "1388",
+        "end_span": "1392",
+        "entity": "masa",
+        "code": "300848003"
+    },
+    {
+        "filename": "es-S0365-66912006001000011-1",
+        "label": "SINTOMA",
+        "start_span": "1314",
+        "end_span": "1318",
+        "entity": "masa",
+        "code": "300848003"
+    },
+    {
+        "filename": "es-S0365-66912006001000011-1",
+        "label": "SINTOMA",
+        "start_span": "284",
+        "end_span": "288",
+        "entity": "masa",
+        "code": "300848003"
+    },
+    {
+        "filename": "es-S0376-78922009000100011-1",
+        "label": "SINTOMA",
+        "start_span": "1778",
+        "end_span": "1782",
+        "entity": "masa",
+        "code": "300848003"
+    },
+    {
+        "filename": "es-S0378-48352004000300006-1",
+        "label": "SINTOMA",
+        "start_span": "222",
+        "end_span": "234",
+        "entity": "masa anexial",
+        "code": "445039006"
+    },
+    {
+        "filename": "es-S0365-66912004001200011-1",
+        "label": "SINTOMA",
+        "start_span": "535",
+        "end_span": "548",
+        "entity": "masa coroidea",
+        "code": "127001008"
+    },
+    {
+        "filename": "es-S1130-01082010000600012-1",
+        "label": "SINTOMA",
+        "start_span": "547",
+        "end_span": "602",
+        "entity": "masa de color marr\u00f3n-negro en tercio superior esof\u00e1gico",
+        "code": "300287006"
+    },
+    {
+        "filename": "es-S0004-06142009000100010-1",
+        "label": "SINTOMA",
+        "start_span": "972",
+        "end_span": "1049",
+        "entity": "masa dependiente del ri\u00f1\u00f3n izquierdo, en cara anterior, de contenido qu\u00edstico",
+        "code": "722223000"
+    },
+    {
+        "filename": "es-S0004-06142009000100013-1",
+        "label": "SINTOMA",
+        "start_span": "1050",
+        "end_span": "1074",
+        "entity": "masa en flanco izquierdo",
+        "code": "448772000"
+    },
+    {
+        "filename": "es-S0004-06142009000100012-1",
+        "label": "SINTOMA",
+        "start_span": "2517",
+        "end_span": "2540",
+        "entity": "masa en regi\u00f3n inguinal",
+        "code": "281398003"
+    },
+    {
+        "filename": "es-S0210-48062004000400008-1",
+        "label": "SINTOMA",
+        "start_span": "1740",
+        "end_span": "1807",
+        "entity": "masa extratesticular ecog\u00e9nica, s\u00f3lida con peque\u00f1as \u00e1reas qu\u00edsticas",
+        "code": "53929009"
+    },
+    {
+        "filename": "es-S0004-06142009000800011-1",
+        "label": "SINTOMA",
+        "start_span": "1215",
+        "end_span": "1279",
+        "entity": "masa fue claramente visualizada sobre el borde externo del ri\u00f1\u00f3n",
+        "code": "309088003"
+    },
+    {
+        "filename": "es-S0378-48352006000900006-1",
+        "label": "SINTOMA",
+        "start_span": "1931",
+        "end_span": "1942",
+        "entity": "masa hiliar",
+        "code": "309530007"
+    },
+    {
+        "filename": "es-S0212-71992005001200010-1",
+        "label": "SINTOMA",
+        "start_span": "956",
+        "end_span": "971",
+        "entity": "masa intranasal",
+        "code": "441766009"
+    },
+    {
+        "filename": "es-S0378-48352004000300006-1",
+        "label": "SINTOMA",
+        "start_span": "2318",
+        "end_span": "2330",
+        "entity": "masa ov\u00e1rica",
+        "code": "289922002"
+    },
+    {
+        "filename": "es-S0378-48352004000300006-1",
+        "label": "SINTOMA",
+        "start_span": "273",
+        "end_span": "285",
+        "entity": "masa ov\u00e1rica",
+        "code": "289922002"
+    },
+    {
+        "filename": "es-S0378-48352006000300008-1",
+        "label": "SINTOMA",
+        "start_span": "692",
+        "end_span": "708",
+        "entity": "Masa pancre\u00e1tica",
+        "code": "425810000"
+    },
+    {
+        "filename": "es-S0210-48062005001000013-1",
+        "label": "SINTOMA",
+        "start_span": "1269",
+        "end_span": "1302",
+        "entity": "masa p\u00e9lvica anterior a la vejiga",
+        "code": "74285003"
+    },
+    {
+        "filename": "es-S0210-48062005001000013-1",
+        "label": "SINTOMA",
+        "start_span": "1002",
+        "end_span": "1025",
+        "entity": "masa p\u00e9lvica subvesical",
+        "code": "74285003"
+    },
+    {
+        "filename": "es-S0210-48062004000400012-1",
+        "label": "SINTOMA",
+        "start_span": "339",
+        "end_span": "386",
+        "entity": "masa que deformaba hemiabdomen anterior derecho",
+        "code": "84454003"
+    },
+    {
+        "filename": "es-S0210-48062007001000004-4",
+        "label": "SINTOMA",
+        "start_span": "2143",
+        "end_span": "2190",
+        "entity": "masa retroperitoneal de 3 cm x 8 cm paraa\u00f3rtica",
+        "code": "69559004"
+    },
+    {
+        "filename": "es-S0376-78922009000100011-1",
+        "label": "SINTOMA",
+        "start_span": "2512",
+        "end_span": "2523",
+        "entity": "masa s\u00f3lida",
+        "code": "369757002"
+    },
+    {
+        "filename": "es-S0210-48062007000700017-1",
+        "label": "SINTOMA",
+        "start_span": "805",
+        "end_span": "875",
+        "entity": "masa s\u00f3lida de 7 x 6 cms en la musculatura de pared abdominal anterior",
+        "code": "314603004"
+    },
+    {
+        "filename": "es-S0004-06142009000900011-1",
+        "label": "SINTOMA",
+        "start_span": "74",
+        "end_span": "89",
+        "entity": "masa testicular",
+        "code": "87860000"
+    },
+    {
+        "filename": "es-S0004-06142009000800010-1",
+        "label": "SINTOMA",
+        "start_span": "274",
+        "end_span": "302",
+        "entity": "masa vesical en cara lateral",
+        "code": "428090004"
+    },
+    {
+        "filename": "es-S0210-48062009000200018-1",
+        "label": "SINTOMA",
+        "start_span": "598",
+        "end_span": "629",
+        "entity": "material gelatinoso en la orina",
+        "code": "276409005"
+    },
+    {
+        "filename": "es-S0210-48062005000100016-1",
+        "label": "SINTOMA",
+        "start_span": "3899",
+        "end_span": "3917",
+        "entity": "material purulento",
+        "code": "35013009"
+    },
+    {
+        "filename": "es-S1130-01082007000500016-1",
+        "label": "SINTOMA",
+        "start_span": "1529",
+        "end_span": "1547",
+        "entity": "material purulento",
+        "code": "35013009"
+    },
+    {
+        "filename": "es-S0210-48062004000400012-1",
+        "label": "SINTOMA",
+        "start_span": "548",
+        "end_span": "570",
+        "entity": "matidez a la percusi\u00f3n",
+        "code": "249554000"
+    },
+    {
+        "filename": "es-S0378-48352004000300007-1",
+        "label": "SINTOMA",
+        "start_span": "1938",
+        "end_span": "1983",
+        "entity": "m\u00e9dula \u00f3sea no presentaba infiltraci\u00f3n por LH",
+        "code": "167932008"
+    },
+    {
+        "filename": "es-S0212-71992005000700008-1",
+        "label": "SINTOMA",
+        "start_span": "1074",
+        "end_span": "1082",
+        "entity": "megalias",
+        "code": "28543008"
+    },
+    {
+        "filename": "es-S0211-69952013000500032-2",
+        "label": "SINTOMA",
+        "start_span": "1108",
+        "end_span": "1135",
+        "entity": "mejor\u00eda de la funci\u00f3n renal",
+        "code": "1148582006"
+    },
+    {
+        "filename": "es-S1130-01082005001100014-1",
+        "label": "SINTOMA",
+        "start_span": "158",
+        "end_span": "165",
+        "entity": "melenas",
+        "code": "2901004"
+    },
+    {
+        "filename": "es-S1130-01082008000500016-2",
+        "label": "SINTOMA",
+        "start_span": "210",
+        "end_span": "217",
+        "entity": "melenas",
+        "code": "2901004"
+    },
+    {
+        "filename": "es-S0212-16112012000500043-1",
+        "label": "SINTOMA",
+        "start_span": "1237",
+        "end_span": "1289",
+        "entity": "metabolismo de las pterinas, cuyo estudio fue normal",
+        "code": "NO_CODE"
+    },
+    {
+        "filename": "es-S0210-48062009000400016-1",
+        "label": "SINTOMA",
+        "start_span": "2377",
+        "end_span": "2407",
+        "entity": "micci\u00f3n espont\u00e1nea confortable",
+        "code": "102834005"
+    },
+    {
+        "filename": "es-S0004-06142007000700013-1",
+        "label": "SINTOMA",
+        "start_span": "602",
+        "end_span": "613",
+        "entity": "micrognatia",
+        "code": "32958008"
+    },
+    {
+        "filename": "es-S0210-48062005000100016-1",
+        "label": "SINTOMA",
+        "start_span": "1052",
+        "end_span": "1066",
+        "entity": "microhematuria",
+        "code": "197940006"
+    },
+    {
+        "filename": "es-S0365-66912006000100010-1",
+        "label": "SINTOMA",
+        "start_span": "1161",
+        "end_span": "1178",
+        "entity": "midriasis del ojo",
+        "code": "37125009"
+    },
+    {
+        "filename": "es-S1130-01082011000500014-1",
+        "label": "SINTOMA",
+        "start_span": "594",
+        "end_span": "668",
+        "entity": "m\u00ednima movilizaci\u00f3n enzim\u00e1tica (GOT 74 UI/l, GPT 96 UI/l, GGT 182 UI/l, FA",
+        "code": "707724006"
+    },
+    {
+        "filename": "es-S1130-01082011000500014-1",
+        "label": "SINTOMA",
+        "start_span": "1303",
+        "end_span": "1336",
+        "entity": "mioclon\u00edas en miembros inferiores",
+        "code": "17450006"
+    },
+    {
+        "filename": "es-S0212-71992007000300006-1",
+        "label": "SINTOMA",
+        "start_span": "860",
+        "end_span": "884",
+        "entity": "mioclon\u00edas generalizadas",
+        "code": "17450006"
+    },
+    {
+        "filename": "es-S0212-71992007000300006-1",
+        "label": "SINTOMA",
+        "start_span": "886",
+        "end_span": "892",
+        "entity": "miosis",
+        "code": "301939004"
+    },
+    {
+        "filename": "es-S0004-06142009000200013-1",
+        "label": "SINTOMA",
+        "start_span": "470",
+        "end_span": "491",
+        "entity": "molestias miccionales",
+        "code": "49650001"
+    },
+    {
+        "filename": "es-S0365-66912009000800005-2",
+        "label": "SINTOMA",
+        "start_span": "366",
+        "end_span": "407",
+        "entity": "motilidad extraocular en el OI fue normal",
+        "code": "NO_CODE"
+    },
+    {
+        "filename": "es-S0365-66912009000800005-1",
+        "label": "SINTOMA",
+        "start_span": "417",
+        "end_span": "469",
+        "entity": "motilidad ocular en el ojo izquierdo (OI) fue normal",
+        "code": "103251002"
+    },
+    {
+        "filename": "es-S0365-66912006000600011-1",
+        "label": "SINTOMA",
+        "start_span": "470",
+        "end_span": "510",
+        "entity": "motilidad ocular extr\u00ednseca e intr\u00ednseca",
+        "code": "103251002"
+    },
+    {
+        "filename": "es-S0210-48062007001000016-1",
+        "label": "SINTOMA",
+        "start_span": "810",
+        "end_span": "844",
+        "entity": "movilidad facial estaba conservada",
+        "code": "NO_CODE"
+    },
+    {
+        "filename": "es-S1130-01082008000100017-1",
+        "label": "SINTOMA",
+        "start_span": "1375",
+        "end_span": "1405",
+        "entity": "mucosa g\u00e1strica muy congestiva",
+        "code": "23062000"
+    },
+    {
+        "filename": "es-S0212-16112007000800012-1",
+        "label": "SINTOMA",
+        "start_span": "2497",
+        "end_span": "2573",
+        "entity": "mucosa g\u00e1strica, duodenal y yeyunal no evidenci\u00f3 alteraciones significativas",
+        "code": "163132008"
+    },
+    {
+        "filename": "es-S0212-71992006000800008-1",
+        "label": "SINTOMA",
+        "start_span": "657",
+        "end_span": "670",
+        "entity": "mucosa normal",
+        "code": "NO_CODE"
+    },
+    {
+        "filename": "es-S0365-66912007000800012-1",
+        "label": "SINTOMA",
+        "start_span": "1690",
+        "end_span": "1747",
+        "entity": "mutaci\u00f3n 2785+3 del AAGT en el intr\u00f3n 19 del gen Jagged 1",
+        "code": "55446002"
+    },
+    {
+        "filename": "es-S0211-57352011000100008-1",
+        "label": "SINTOMA",
+        "start_span": "1467",
+        "end_span": "1474",
+        "entity": "mutismo",
+        "code": "88052002"
+    },
+    {
+        "filename": "es-S0210-56912006000200007-1",
+        "label": "SINTOMA",
+        "start_span": "200",
+        "end_span": "207",
+        "entity": "n\u00e1useas",
+        "code": "422587007"
+    },
+    {
+        "filename": "es-S0212-71992007000300006-1",
+        "label": "SINTOMA",
+        "start_span": "671",
+        "end_span": "678",
+        "entity": "n\u00e1useas",
+        "code": "422587007"
+    },
+    {
+        "filename": "es-S0212-71992007000600008-1",
+        "label": "SINTOMA",
+        "start_span": "2577",
+        "end_span": "2607",
+        "entity": "negativo para c\u00e9lulas malignas",
+        "code": "3391005"
+    },
+    {
+        "filename": "es-S0465-546X2014000300010-1",
+        "label": "SINTOMA",
+        "start_span": "1458",
+        "end_span": "1475",
+        "entity": "negativo para VIH",
+        "code": "165815009"
+    },
+    {
+        "filename": "es-S0210-48062006000200017-1",
+        "label": "SINTOMA",
+        "start_span": "1801",
+        "end_span": "1812",
+        "entity": "neutrofilia",
+        "code": "78341006"
+    },
+    {
+        "filename": "es-S0365-66912005001200010-1",
+        "label": "SINTOMA",
+        "start_span": "453",
+        "end_span": "471",
+        "entity": "nistagmus pendular",
+        "code": "35743001"
+    },
+    {
+        "filename": "es-S0211-69952011000400013-1",
+        "label": "SINTOMA",
+        "start_span": "3769",
+        "end_span": "3844",
+        "entity": "No se observaron microorganismos en las tinciones de PAS y de Ziehl-Nielsen",
+        "code": "168230009"
+    },
+    {
+        "filename": "es-S1130-01082009000700015-1",
+        "label": "SINTOMA",
+        "start_span": "862",
+        "end_span": "868",
+        "entity": "n\u00f3dulo",
+        "code": "27925004"
+    },
+    {
+        "filename": "es-S0004-06142008000300015-1",
+        "label": "SINTOMA",
+        "start_span": "276",
+        "end_span": "345",
+        "entity": "n\u00f3dulo de 2 cm, duro e indoloro en relaci\u00f3n al polo superior de teste",
+        "code": "87860000"
+    },
+    {
+        "filename": "es-S0378-48352004000300006-1",
+        "label": "SINTOMA",
+        "start_span": "527",
+        "end_span": "545",
+        "entity": "n\u00f3dulo mesent\u00e9rico",
+        "code": "NO_CODE"
+    },
+    {
+        "filename": "es-S0378-48352005000100005-1",
+        "label": "SINTOMA",
+        "start_span": "819",
+        "end_span": "863",
+        "entity": "n\u00f3dulo que sobresal\u00eda sobre el lecho mamario",
+        "code": "89164003"
+    },
+    {
+        "filename": "es-S0211-69952013000700025-1",
+        "label": "SINTOMA",
+        "start_span": "1736",
+        "end_span": "1755",
+        "entity": "n\u00f3dulo retroareolar",
+        "code": "16836091000119107"
+    },
+    {
+        "filename": "es-S1130-01082009000700015-1",
+        "label": "SINTOMA",
+        "start_span": "683",
+        "end_span": "735",
+        "entity": "n\u00f3dulo \u00fanico de 1 x 1,5 cm localizado en el ap\u00e9ndice",
+        "code": "235771005"
+    },
+    {
+        "filename": "es-S0378-48352004000200007-1",
+        "label": "SINTOMA",
+        "start_span": "2390",
+        "end_span": "2428",
+        "entity": "n\u00f3dulos metast\u00e1sicos en ambos pulmones",
+        "code": "94391008"
+    },
+    {
+        "filename": "es-S0211-69952011000400013-1",
+        "label": "SINTOMA",
+        "start_span": "1321",
+        "end_span": "1349",
+        "entity": "n\u00f3dulos pulmonares m\u00faltiples",
+        "code": "445249002"
+    },
+    {
+        "filename": "es-S0365-66912011000700004-1",
+        "label": "SINTOMA",
+        "start_span": "689",
+        "end_span": "721",
+        "entity": "n\u00f3dulos s\u00f3lidos en ambos ri\u00f1ones",
+        "code": "309088003"
+    },
+    {
+        "filename": "es-S0210-48062009000300013-6",
+        "label": "SINTOMA",
+        "start_span": "1198",
+        "end_span": "1228",
+        "entity": "normal funci\u00f3n renal bilateral",
+        "code": "81141003"
+    },
+    {
+        "filename": "es-S0004-06142007000900014-1",
+        "label": "SINTOMA",
+        "start_span": "307",
+        "end_span": "321",
+        "entity": "normocoloreada",
+        "code": "77775007"
+    },
+    {
+        "filename": "es-S1130-01082007000600012-1",
+        "label": "SINTOMA",
+        "start_span": "533",
+        "end_span": "547",
+        "entity": "normohidratada",
+        "code": "1144674006"
+    },
+    {
+        "filename": "es-S0212-71992005001200010-1",
+        "label": "SINTOMA",
+        "start_span": "2791",
+        "end_span": "2808",
+        "entity": "obstrucci\u00f3n nasal",
+        "code": "232209000"
+    },
+    {
+        "filename": "es-S0212-71992005001200010-1",
+        "label": "SINTOMA",
+        "start_span": "346",
+        "end_span": "363",
+        "entity": "obstrucci\u00f3n nasal",
+        "code": "232209000"
+    },
+    {
+        "filename": "es-S0376-78922014000100013-1",
+        "label": "SINTOMA",
+        "start_span": "1116",
+        "end_span": "1179",
+        "entity": "ocupa toda la maxila derecha y parcialmente la maxila izquierda",
+        "code": "126545005"
+    },
+    {
+        "filename": "es-S0365-66912005001200010-1",
+        "label": "SINTOMA",
+        "start_span": "568",
+        "end_span": "588",
+        "entity": "OI seclusi\u00f3n pupilar",
+        "code": "57286009"
+    },
+    {
+        "filename": "es-S0365-66912012000200004-1",
+        "label": "SINTOMA",
+        "start_span": "167",
+        "end_span": "175",
+        "entity": "ojo rojo",
+        "code": "703630003"
+    },
+    {
+        "filename": "es-S0365-66912012000300003-1",
+        "label": "SINTOMA",
+        "start_span": "487",
+        "end_span": "495",
+        "entity": "ojo rojo",
+        "code": "703630003"
+    },
+    {
+        "filename": "es-S0211-69952010000400013-1",
+        "label": "SINTOMA",
+        "start_span": "1387",
+        "end_span": "1395",
+        "entity": "oliguria",
+        "code": "83128009"
+    },
+    {
+        "filename": "es-S0210-56912008000100008-4",
+        "label": "SINTOMA",
+        "start_span": "844",
+        "end_span": "850",
+        "entity": "onda J",
+        "code": "102594003"
+    },
+    {
+        "filename": "es-S0210-56912008000100008-4",
+        "label": "SINTOMA",
+        "start_span": "875",
+        "end_span": "901",
+        "entity": "onda T positiva de V2 a V5",
+        "code": "251237002"
+    },
+    {
+        "filename": "es-S0210-56912008000100008-3",
+        "label": "SINTOMA",
+        "start_span": "701",
+        "end_span": "746",
+        "entity": "ondas T positivas en las derivaciones V2 a V4",
+        "code": "251237002"
+    },
+    {
+        "filename": "es-S0210-48062007000100011-1",
+        "label": "SINTOMA",
+        "start_span": "187",
+        "end_span": "204",
+        "entity": "opresi\u00f3n tor\u00e1cica",
+        "code": "23924001"
+    },
+    {
+        "filename": "es-S0004-06142007000900014-1",
+        "label": "SINTOMA",
+        "start_span": "576",
+        "end_span": "590",
+        "entity": "organomegalias",
+        "code": "28543008"
+    },
+    {
+        "filename": "es-S0212-71992005000400009-1",
+        "label": "SINTOMA",
+        "start_span": "1004",
+        "end_span": "1018",
+        "entity": "organomegalias",
+        "code": "28543008"
+    },
+    {
+        "filename": "es-S0212-71992007000300006-1",
+        "label": "SINTOMA",
+        "start_span": "498",
+        "end_span": "507",
+        "entity": "orientado",
+        "code": "247663003"
+    },
+    {
+        "filename": "es-S0210-48062004000400007-1",
+        "label": "SINTOMA",
+        "start_span": "1603",
+        "end_span": "1635",
+        "entity": "origen tiroideo de la tumoraci\u00f3n",
+        "code": "237557003"
+    },
+    {
+        "filename": "es-S0210-48062009000400016-1",
+        "label": "SINTOMA",
+        "start_span": "1442",
+        "end_span": "1453",
+        "entity": "Orina clara",
+        "code": "33320006"
+    },
+    {
+        "filename": "es-S0212-71992006001000008-1",
+        "label": "SINTOMA",
+        "start_span": "454",
+        "end_span": "461",
+        "entity": "palidez",
+        "code": "274643008"
+    },
+    {
+        "filename": "es-S1130-01082005001100014-1",
+        "label": "SINTOMA",
+        "start_span": "295",
+        "end_span": "302",
+        "entity": "palidez",
+        "code": "274643008"
+    },
+    {
+        "filename": "es-S0365-66912008001000010-1",
+        "label": "SINTOMA",
+        "start_span": "718",
+        "end_span": "738",
+        "entity": "papiledema bilateral",
+        "code": "15930381000119104"
+    },
+    {
+        "filename": "es-S0378-48352006000300008-1",
+        "label": "SINTOMA",
+        "start_span": "253",
+        "end_span": "301",
+        "entity": "p\u00e1pulas viol\u00e1ceas en los nudillos de ambas manos",
+        "code": "782394006"
+    },
+    {
+        "filename": "es-S0212-71992006000700008-1",
+        "label": "SINTOMA",
+        "start_span": "1438",
+        "end_span": "1445",
+        "entity": "paresia",
+        "code": "41786007"
+    },
+    {
+        "filename": "es-S0213-12852016000500002-1",
+        "label": "SINTOMA",
+        "start_span": "5829",
+        "end_span": "5839",
+        "entity": "parestesia",
+        "code": "91019004"
+    },
+    {
+        "filename": "es-S1130-01082008000500014-1",
+        "label": "SINTOMA",
+        "start_span": "2137",
+        "end_span": "2191",
+        "entity": "parestesias ocasionales y leves en miembros inferiores",
+        "code": "429783005"
+    },
+    {
+        "filename": "es-S0365-66912007000300011-1",
+        "label": "SINTOMA",
+        "start_span": "2435",
+        "end_span": "2457",
+        "entity": "paroxismos irritativos",
+        "code": "251489005"
+    },
+    {
+        "filename": "es-S0210-48062009000400016-1",
+        "label": "SINTOMA",
+        "start_span": "1677",
+        "end_span": "1743",
+        "entity": "paso de contraste desde la uni\u00f3n uretrovesical a la ampolla rectal",
+        "code": "168857002"
+    },
+    {
+        "filename": "es-S0212-71992007000600008-1",
+        "label": "SINTOMA",
+        "start_span": "4697",
+        "end_span": "4725",
+        "entity": "patr\u00f3n en vidrio deslustrado",
+        "code": "1217294009"
+    },
+    {
+        "filename": "es-S0212-71992004000800009-1",
+        "label": "SINTOMA",
+        "start_span": "1447",
+        "end_span": "1475",
+        "entity": "patr\u00f3n intersticial pulmonar",
+        "code": "233703007"
+    },
+    {
+        "filename": "es-S0210-56912010000200009-1",
+        "label": "SINTOMA",
+        "start_span": "2284",
+        "end_span": "2302",
+        "entity": "PCR VHS-1 positivo",
+        "code": "309306009"
+    },
+    {
+        "filename": "es-S1130-01082010000600013-1",
+        "label": "SINTOMA",
+        "start_span": "321",
+        "end_span": "345",
+        "entity": "p\u00e9rdida de 15 kg de peso",
+        "code": "89362005"
+    },
+    {
+        "filename": "es-S0378-48352006000900006-1",
+        "label": "SINTOMA",
+        "start_span": "337",
+        "end_span": "352",
+        "entity": "p\u00e9rdida de peso",
+        "code": "89362005"
+    },
+    {
+        "filename": "es-S0004-06142008000700014-1",
+        "label": "SINTOMA",
+        "start_span": "267",
+        "end_span": "296",
+        "entity": "p\u00e9rdida de unos 15 kg de peso",
+        "code": "89362005"
+    },
+    {
+        "filename": "es-S0365-66912004001200011-1",
+        "label": "SINTOMA",
+        "start_span": "53",
+        "end_span": "70",
+        "entity": "p\u00e9rdida de visi\u00f3n",
+        "code": "105597003"
+    },
+    {
+        "filename": "es-S0210-48062005000500016-1",
+        "label": "SINTOMA",
+        "start_span": "2058",
+        "end_span": "2090",
+        "entity": "permeabilidad de la endopr\u00f3tesis",
+        "code": "NO_CODE"
+    },
+    {
+        "filename": "es-S0004-06142009000100013-1",
+        "label": "SINTOMA",
+        "start_span": "117",
+        "end_span": "134",
+        "entity": "pesadez en flanco",
+        "code": "271857006"
+    },
+    {
+        "filename": "es-S0004-06142009000100013-1",
+        "label": "SINTOMA",
+        "start_span": "432",
+        "end_span": "459",
+        "entity": "pesadez en flanco izquierdo",
+        "code": "162049009"
+    },
+    {
+        "filename": "es-S0210-48062005000100016-1",
+        "label": "SINTOMA",
+        "start_span": "288",
+        "end_span": "299",
+        "entity": "polaquiuria",
+        "code": "31462008"
+    },
+    {
+        "filename": "es-S0004-06142008000400010-1",
+        "label": "SINTOMA",
+        "start_span": "1846",
+        "end_span": "1857",
+        "entity": "polaquiuria",
+        "code": "31462008"
+    },
+    {
+        "filename": "es-S0210-48062004000400007-1",
+        "label": "SINTOMA",
+        "start_span": "404",
+        "end_span": "486",
+        "entity": "polo superior del ri\u00f1\u00f3n derecho y en situaci\u00f3n interna, se aprecia una masa s\u00f3lida",
+        "code": "309088003"
+    },
+    {
+        "filename": "es-S1130-01082006000700014-1",
+        "label": "SINTOMA",
+        "start_span": "730",
+        "end_span": "745",
+        "entity": "Porta permeable",
+        "code": "253330006"
+    },
+    {
+        "filename": "es-S0212-16112012000500043-1",
+        "label": "SINTOMA",
+        "start_span": "1437",
+        "end_span": "1472",
+        "entity": "portadores de la mutaci\u00f3n p.Phe55fs",
+        "code": "47461006"
+    },
+    {
+        "filename": "es-S0210-56912010000200009-1",
+        "label": "SINTOMA",
+        "start_span": "2512",
+        "end_span": "2549",
+        "entity": "positividad nuclear para herpes virus",
+        "code": "373875003"
+    },
+    {
+        "filename": "es-S0465-546X2014000300010-1",
+        "label": "SINTOMA",
+        "start_span": "1435",
+        "end_span": "1455",
+        "entity": "positividad para VHC",
+        "code": "406104003"
+    },
+    {
+        "filename": "es-S0212-16112010000600022-1",
+        "label": "SINTOMA",
+        "start_span": "1411",
+        "end_span": "1421",
+        "entity": "postraci\u00f3n",
+        "code": "84946008"
+    },
+    {
+        "filename": "es-S0365-66912007000300011-1",
+        "label": "SINTOMA",
+        "start_span": "1805",
+        "end_span": "1894",
+        "entity": "potenciales evocados visuales resultan patol\u00f3gicos con un aumento del per\u00edodo de latencia",
+        "code": "102968003"
+    },
+    {
+        "filename": "es-S0210-48062004000300007-1",
+        "label": "SINTOMA",
+        "start_span": "2807",
+        "end_span": "2837",
+        "entity": "presencia de material amiloide",
+        "code": "68790008"
+    },
+    {
+        "filename": "es-S0004-06142007000900014-1",
+        "label": "SINTOMA",
+        "start_span": "662",
+        "end_span": "689",
+        "entity": "presentando signo de Murphy",
+        "code": "53566005"
+    },
+    {
+        "filename": "es-S0365-66912009001100006-1",
+        "label": "SINTOMA",
+        "start_span": "1817",
+        "end_span": "1845",
+        "entity": "presi\u00f3n intraocular adecuada",
+        "code": "60280003"
+    },
+    {
+        "filename": "es-S0210-48062003000800013-1",
+        "label": "SINTOMA",
+        "start_span": "806",
+        "end_span": "828",
+        "entity": "prolongaci\u00f3n de la VSG",
+        "code": "165468009"
+    },
+    {
+        "filename": "es-S0365-66912007000300011-1",
+        "label": "SINTOMA",
+        "start_span": "1146",
+        "end_span": "1181",
+        "entity": "prominencia del sistema ventricular",
+        "code": "277476007"
+    },
+    {
+        "filename": "es-S0210-48062007000500016-1",
+        "label": "SINTOMA",
+        "start_span": "2021",
+        "end_span": "2049",
+        "entity": "Pr\u00f3stata aumentada de tama\u00f1o",
+        "code": "249607009"
+    },
+    {
+        "filename": "es-S0210-48062005000100016-1",
+        "label": "SINTOMA",
+        "start_span": "683",
+        "end_span": "759",
+        "entity": "pr\u00f3stata de tama\u00f1o III/IV, no indurada y ligeramente dolorosa a la palpaci\u00f3n",
+        "code": "300535008"
+    },
+    {
+        "filename": "es-S0210-48062005001000013-1",
+        "label": "SINTOMA",
+        "start_span": "797",
+        "end_span": "815",
+        "entity": "pr\u00f3stata homog\u00e9nea",
+        "code": "366293002"
+    },
+    {
+        "filename": "es-S0211-69952011000600018-1",
+        "label": "SINTOMA",
+        "start_span": "1268",
+        "end_span": "1319",
+        "entity": "proteinograma con d\u00e9bil banda an\u00f3mala en zona gamma",
+        "code": "116134004"
+    },
+    {
+        "filename": "es-S0211-69952013000700023-1",
+        "label": "SINTOMA",
+        "start_span": "770",
+        "end_span": "847",
+        "entity": "Proteinograma-inmunofijaci\u00f3n con banda monoclonal inmunoglobulina (Ig)A-kappa",
+        "code": "414764000"
+    },
+    {
+        "filename": "es-S1130-01082006000100014-1",
+        "label": "SINTOMA",
+        "start_span": "1882",
+        "end_span": "1897",
+        "entity": "proteinorraquia",
+        "code": "167734003"
+    },
+    {
+        "filename": "es-S0211-69952012000500016-1",
+        "label": "SINTOMA",
+        "start_span": "3258",
+        "end_span": "3269",
+        "entity": "proteinuria",
+        "code": "29738008"
+    },
+    {
+        "filename": "es-S0211-69952012000500016-1",
+        "label": "SINTOMA",
+        "start_span": "2109",
+        "end_span": "2120",
+        "entity": "proteinuria",
+        "code": "29738008"
+    },
+    {
+        "filename": "es-S0211-69952013000700025-1",
+        "label": "SINTOMA",
+        "start_span": "51",
+        "end_span": "62",
+        "entity": "proteinuria",
+        "code": "29738008"
+    },
+    {
+        "filename": "es-S0211-69952013000700025-1",
+        "label": "SINTOMA",
+        "start_span": "827",
+        "end_span": "838",
+        "entity": "proteinuria",
+        "code": "29738008"
+    },
+    {
+        "filename": "es-S0211-69952015000300011-1",
+        "label": "SINTOMA",
+        "start_span": "672",
+        "end_span": "683",
+        "entity": "proteinuria",
+        "code": "29738008"
+    },
+    {
+        "filename": "es-S0211-69952017000200225-2",
+        "label": "SINTOMA",
+        "start_span": "1329",
+        "end_span": "1340",
+        "entity": "proteinuria",
+        "code": "29738008"
+    },
+    {
+        "filename": "es-S0211-69952011000600018-1",
+        "label": "SINTOMA",
+        "start_span": "2231",
+        "end_span": "2254",
+        "entity": "proteinuria persistente",
+        "code": "12511000132108"
+    },
+    {
+        "filename": "es-S1130-01082008001000010-1",
+        "label": "SINTOMA",
+        "start_span": "1636",
+        "end_span": "1643",
+        "entity": "prurito",
+        "code": "418290006"
+    },
+    {
+        "filename": "es-S0378-48352005000400004-1",
+        "label": "SINTOMA",
+        "start_span": "1668",
+        "end_span": "1680",
+        "entity": "PSA normales",
+        "code": "166159005"
+    },
+    {
+        "filename": "es-S0212-71992006000100006-1",
+        "label": "SINTOMA",
+        "start_span": "1504",
+        "end_span": "1529",
+        "entity": "pulsos distales presentes",
+        "code": "301151001"
+    },
+    {
+        "filename": "es-S0211-57352011000100008-1",
+        "label": "SINTOMA",
+        "start_span": "973",
+        "end_span": "1015",
+        "entity": "punci\u00f3n lumbar con recuento celular normal",
+        "code": "167717006"
+    },
+    {
+        "filename": "es-S0210-48062007000500016-1",
+        "label": "SINTOMA",
+        "start_span": "2982",
+        "end_span": "2985",
+        "entity": "pus",
+        "code": "367646009"
+    },
+    {
+        "filename": "es-S0365-66912008000100009-3",
+        "label": "SINTOMA",
+        "start_span": "848",
+        "end_span": "875",
+        "entity": "queratinizaci\u00f3n conjuntival",
+        "code": "246874003"
+    },
+    {
+        "filename": "es-S0212-16112012000300029-1",
+        "label": "SINTOMA",
+        "start_span": "524",
+        "end_span": "534",
+        "entity": "quilot\u00f3rax",
+        "code": "83035003"
+    },
+    {
+        "filename": "es-S0212-71992006000100008-1",
+        "label": "SINTOMA",
+        "start_span": "1247",
+        "end_span": "1296",
+        "entity": "radiograf\u00eda de t\u00f3rax sin alteraciones patol\u00f3gicas",
+        "code": "168733007"
+    },
+    {
+        "filename": "es-S0004-06142010000300011-1",
+        "label": "SINTOMA",
+        "start_span": "722",
+        "end_span": "797",
+        "entity": "rastreo corporal con In.111 pentre\u00f3tida y SPECT no presentaron alteraciones",
+        "code": "171109003"
+    },
+    {
+        "filename": "es-S0212-71992007000300005-1",
+        "label": "SINTOMA",
+        "start_span": "1485",
+        "end_span": "1518",
+        "entity": "recuento de leucocitos era normal",
+        "code": "165507003"
+    },
+    {
+        "filename": "es-S0365-66912007000300011-1",
+        "label": "SINTOMA",
+        "start_span": "753",
+        "end_span": "767",
+        "entity": "reflejos vivos",
+        "code": "86854008"
+    },
+    {
+        "filename": "es-S0212-16112012000600045-1",
+        "label": "SINTOMA",
+        "start_span": "218",
+        "end_span": "234",
+        "entity": "reflujo alcalino",
+        "code": "1027000"
+    },
+    {
+        "filename": "es-S0465-546X2011000300007-1",
+        "label": "SINTOMA",
+        "start_span": "479",
+        "end_span": "507",
+        "entity": "respiraci\u00f3n nocturna ag\u00f3nica",
+        "code": "430546009"
+    },
+    {
+        "filename": "es-S0212-71992006000800008-1",
+        "label": "SINTOMA",
+        "start_span": "1367",
+        "end_span": "1433",
+        "entity": "restos hem\u00e1ticos aislados a nivel de la segunda porci\u00f3n de duodeno",
+        "code": "95533003"
+    },
+    {
+        "filename": "es-S0210-48062006000300015-1",
+        "label": "SINTOMA",
+        "start_span": "200",
+        "end_span": "235",
+        "entity": "retraso de la eliminaci\u00f3n en la UIV",
+        "code": "268370004"
+    },
+    {
+        "filename": "es-S0212-71992006000100008-1",
+        "label": "SINTOMA",
+        "start_span": "1616",
+        "end_span": "1696",
+        "entity": "retroperitoneo medio (entre la aorta y la vena cava inferior) se aprecia un masa",
+        "code": "69559004"
+    },
+    {
+        "filename": "es-S0210-48062009000600017-1",
+        "label": "SINTOMA",
+        "start_span": "893",
+        "end_span": "918",
+        "entity": "ri\u00f1\u00f3n derecho sin funci\u00f3n",
+        "code": "155876003"
+    },
+    {
+        "filename": "es-S0210-48062009000600017-1",
+        "label": "SINTOMA",
+        "start_span": "924",
+        "end_span": "965",
+        "entity": "ri\u00f1\u00f3n izquierdo con morfolog\u00eda conservada",
+        "code": "444954005"
+    },
+    {
+        "filename": "es-S0004-06142007000700013-1",
+        "label": "SINTOMA",
+        "start_span": "1202",
+        "end_span": "1229",
+        "entity": "ri\u00f1\u00f3n un aspecto de esponja",
+        "code": "82525005"
+    },
+    {
+        "filename": "es-S0211-69952011000400013-1",
+        "label": "SINTOMA",
+        "start_span": "3279",
+        "end_span": "3321",
+        "entity": "ri\u00f1ones de tama\u00f1o y ecoestructura normales",
+        "code": "300441003"
+    },
+    {
+        "filename": "es-S0212-71992006000100006-1",
+        "label": "SINTOMA",
+        "start_span": "543",
+        "end_span": "551",
+        "entity": "rinorrea",
+        "code": "64611009"
+    },
+    {
+        "filename": "es-S0212-71992005001200010-1",
+        "label": "SINTOMA",
+        "start_span": "431",
+        "end_span": "449",
+        "entity": "rinorrea purulenta",
+        "code": "14310000"
+    },
+    {
+        "filename": "es-S0211-69952014000100016-1",
+        "label": "SINTOMA",
+        "start_span": "821",
+        "end_span": "837",
+        "entity": "rinorrea verdosa",
+        "code": "14310000"
+    },
+    {
+        "filename": "es-S0212-71992004001100007-1",
+        "label": "SINTOMA",
+        "start_span": "555",
+        "end_span": "570",
+        "entity": "ritmo de galope",
+        "code": "2170000"
+    },
+    {
+        "filename": "es-S0211-69952014000200012-1",
+        "label": "SINTOMA",
+        "start_span": "677",
+        "end_span": "696",
+        "entity": "RNA de VHC positivo",
+        "code": "711331006"
+    },
+    {
+        "filename": "es-S0212-71992006000100006-1",
+        "label": "SINTOMA",
+        "start_span": "1325",
+        "end_span": "1331",
+        "entity": "roncus",
+        "code": "24612001"
+    },
+    {
+        "filename": "es-S0212-71992000001200010-1",
+        "label": "SINTOMA",
+        "start_span": "1136",
+        "end_span": "1158",
+        "entity": "RX de t\u00f3rax era normal",
+        "code": "168733007"
+    },
+    {
+        "filename": "es-S0212-16112004000400007-1",
+        "label": "SINTOMA",
+        "start_span": "687",
+        "end_span": "720",
+        "entity": "salida de heces por la colostom\u00eda",
+        "code": "302112009"
+    },
+    {
+        "filename": "es-S0210-56912006000300007-2",
+        "label": "SINTOMA",
+        "start_span": "578",
+        "end_span": "586",
+        "entity": "sangrado",
+        "code": "131148009"
+    },
+    {
+        "filename": "es-S0365-66912011001000005-1",
+        "label": "SINTOMA",
+        "start_span": "2297",
+        "end_span": "2305",
+        "entity": "sangrado",
+        "code": "131148009"
+    },
+    {
+        "filename": "es-S1130-01082006000700014-1",
+        "label": "SINTOMA",
+        "start_span": "1560",
+        "end_span": "1568",
+        "entity": "sangrado",
+        "code": "131148009"
+    },
+    {
+        "filename": "es-S0004-06142009000800010-1",
+        "label": "SINTOMA",
+        "start_span": "2102",
+        "end_span": "2110",
+        "entity": "sangrado",
+        "code": "131148009"
+    },
+    {
+        "filename": "es-S0004-06142009000800010-1",
+        "label": "SINTOMA",
+        "start_span": "1956",
+        "end_span": "1971",
+        "entity": "sangrado activo",
+        "code": "8573003"
+    },
+    {
+        "filename": "es-S0365-66912006000100010-1",
+        "label": "SINTOMA",
+        "start_span": "343",
+        "end_span": "368",
+        "entity": "sangrado intraventricular",
+        "code": "23276006"
+    },
+    {
+        "filename": "es-S0365-66912007000200010-1",
+        "label": "SINTOMA",
+        "start_span": "1497",
+        "end_span": "1523",
+        "entity": "sangre a la cavidad v\u00edtrea",
+        "code": "31341008"
+    },
+    {
+        "filename": "es-S0365-66912012000200004-1",
+        "label": "SINTOMA",
+        "start_span": "1029",
+        "end_span": "1038",
+        "entity": "secreci\u00f3n",
+        "code": "75823008"
+    },
+    {
+        "filename": "es-S0210-48062009000900015-3",
+        "label": "SINTOMA",
+        "start_span": "702",
+        "end_span": "734",
+        "entity": "secreci\u00f3n purulenta transuretral",
+        "code": "9957009"
+    },
+    {
+        "filename": "es-S1130-05582003000600004-3",
+        "label": "SINTOMA",
+        "start_span": "101",
+        "end_span": "148",
+        "entity": "sensaci\u00f3n de crepitaci\u00f3n a nivel infraorbitario",
+        "code": "23149001"
+    },
+    {
+        "filename": "es-S0210-48062007001000016-1",
+        "label": "SINTOMA",
+        "start_span": "778",
+        "end_span": "805",
+        "entity": "sensaci\u00f3n de plenitud \u00f3tica",
+        "code": "103281005"
+    },
+    {
+        "filename": "es-S0212-71992006000100008-1",
+        "label": "SINTOMA",
+        "start_span": "685",
+        "end_span": "703",
+        "entity": "sensaci\u00f3n nauseosa",
+        "code": "422587007"
+    },
+    {
+        "filename": "es-S0378-48352004000300007-1",
+        "label": "SINTOMA",
+        "start_span": "980",
+        "end_span": "1019",
+        "entity": "serolog\u00eda de VIH y hepatovirus negativa",
+        "code": "406108000"
+    },
+    {
+        "filename": "es-S0212-71992004000600005-1",
+        "label": "SINTOMA",
+        "start_span": "422",
+        "end_span": "449",
+        "entity": "serolog\u00eda positiva para VEB",
+        "code": "445460009"
+    },
+    {
+        "filename": "es-S0211-69952015000200015-1",
+        "label": "SINTOMA",
+        "start_span": "835",
+        "end_span": "871",
+        "entity": "severidad de la cl\u00ednica neurol\u00f3gica,",
+        "code": "308921004"
+    },
+    {
+        "filename": "es-S0212-71992007000300006-1",
+        "label": "SINTOMA",
+        "start_span": "596",
+        "end_span": "605",
+        "entity": "sialorrea",
+        "code": "275295002"
+    },
+    {
+        "filename": "es-S0365-66912006001100007-1",
+        "label": "SINTOMA",
+        "start_span": "680",
+        "end_span": "700",
+        "entity": "signos inflamatorios",
+        "code": "257552002"
+    },
+    {
+        "filename": "es-S1130-01082010000100021-1",
+        "label": "SINTOMA",
+        "start_span": "455",
+        "end_span": "462",
+        "entity": "s\u00edncope",
+        "code": "271594007"
+    },
+    {
+        "filename": "es-S0212-71992004000600005-1",
+        "label": "SINTOMA",
+        "start_span": "71",
+        "end_span": "86",
+        "entity": "s\u00edndrome febril",
+        "code": "64882008"
+    },
+    {
+        "filename": "es-S0210-48062007000500016-1",
+        "label": "SINTOMA",
+        "start_span": "276",
+        "end_span": "295",
+        "entity": "s\u00edndrome prost\u00e1tico",
+        "code": "11441004"
+    },
+    {
+        "filename": "es-S0365-66912012000200004-1",
+        "label": "SINTOMA",
+        "start_span": "991",
+        "end_span": "1000",
+        "entity": "sinequias",
+        "code": "5242004"
+    },
+    {
+        "filename": "es-S0211-69952012000500016-1",
+        "label": "SINTOMA",
+        "start_span": "2396",
+        "end_span": "2423",
+        "entity": "s\u00edntomas gastrointestinales",
+        "code": "267045008"
+    },
+    {
+        "filename": "es-S0212-16112004000400007-1",
+        "label": "SINTOMA",
+        "start_span": "3936",
+        "end_span": "3957",
+        "entity": "s\u00edntomas neurol\u00f3gicos",
+        "code": "308921004"
+    },
+    {
+        "filename": "es-S0210-48062005000700010-1",
+        "label": "SINTOMA",
+        "start_span": "538",
+        "end_span": "562",
+        "entity": "sintomatolog\u00eda miccional",
+        "code": "7358000"
+    },
+    {
+        "filename": "es-S1130-05582005000300007-1",
+        "label": "SINTOMA",
+        "start_span": "2036",
+        "end_span": "2062",
+        "entity": "sintomatolog\u00eda neurol\u00f3gica",
+        "code": "308921004"
+    },
+    {
+        "filename": "es-S0210-48062007000500016-1",
+        "label": "SINTOMA",
+        "start_span": "780",
+        "end_span": "791",
+        "entity": "somnoliento",
+        "code": "271782001"
+    },
+    {
+        "filename": "es-S0210-48062005000300016-2",
+        "label": "SINTOMA",
+        "start_span": "1080",
+        "end_span": "1098",
+        "entity": "soplos abdominales",
+        "code": "249590007"
+    },
+    {
+        "filename": "es-S1130-01082006000700014-1",
+        "label": "SINTOMA",
+        "start_span": "336",
+        "end_span": "367",
+        "entity": "spiders en regi\u00f3n nasal y t\u00f3rax",
+        "code": "195382003"
+    },
+    {
+        "filename": "es-S0212-71992006000600008-1",
+        "label": "SINTOMA",
+        "start_span": "348",
+        "end_span": "358",
+        "entity": "sudoraci\u00f3n",
+        "code": "52613005"
+    },
+    {
+        "filename": "es-S0211-69952013000400027-1",
+        "label": "SINTOMA",
+        "start_span": "120",
+        "end_span": "138",
+        "entity": "sudoraci\u00f3n profusa",
+        "code": "52613005"
+    },
+    {
+        "filename": "es-S0210-48062007000500016-1",
+        "label": "SINTOMA",
+        "start_span": "794",
+        "end_span": "802",
+        "entity": "sudoroso",
+        "code": "52613005"
+    },
+    {
+        "filename": "es-S0212-16112007000600015-1",
+        "label": "SINTOMA",
+        "start_span": "2220",
+        "end_span": "2237",
+        "entity": "sufrimiento fetal",
+        "code": "130955003"
+    },
+    {
+        "filename": "es-S0212-16112004000400007-1",
+        "label": "SINTOMA",
+        "start_span": "2931",
+        "end_span": "2953",
+        "entity": "TAC craneal fue normal",
+        "code": "408568004"
+    },
+    {
+        "filename": "es-S0212-71992005000400009-1",
+        "label": "SINTOMA",
+        "start_span": "2430",
+        "end_span": "2455",
+        "entity": "TAC de abdomen fue normal",
+        "code": "163133003"
+    },
+    {
+        "filename": "es-S1130-01082005001100014-1",
+        "label": "SINTOMA",
+        "start_span": "370",
+        "end_span": "391",
+        "entity": "tacto rectal negativo",
+        "code": "274765004"
+    },
+    {
+        "filename": "es-S1130-01082007001000017-1",
+        "label": "SINTOMA",
+        "start_span": "1361",
+        "end_span": "1372",
+        "entity": "taquicardia",
+        "code": "11092001"
+    },
+    {
+        "filename": "es-S0210-56912006000200007-1",
+        "label": "SINTOMA",
+        "start_span": "604",
+        "end_span": "623",
+        "entity": "taquicardia sinusal",
+        "code": "11092001"
+    },
+    {
+        "filename": "es-S0210-56912009000600008-1",
+        "label": "SINTOMA",
+        "start_span": "858",
+        "end_span": "867",
+        "entity": "taquipnea",
+        "code": "271823003"
+    },
+    {
+        "filename": "es-S0212-71992007000600008-1",
+        "label": "SINTOMA",
+        "start_span": "602",
+        "end_span": "613",
+        "entity": "taquipneico",
+        "code": "271823003"
+    },
+    {
+        "filename": "es-S0376-78922013000300013-1",
+        "label": "SINTOMA",
+        "start_span": "2267",
+        "end_span": "2313",
+        "entity": "tejido fibroso cicatricial en la regi\u00f3n lumbar",
+        "code": "70582006"
+    },
+    {
+        "filename": "es-S1130-01082009000400014-1",
+        "label": "SINTOMA",
+        "start_span": "590",
+        "end_span": "608",
+        "entity": "tendencia al sue\u00f1o",
+        "code": "271782001"
+    },
+    {
+        "filename": "es-S0212-71992006000800007-1",
+        "label": "SINTOMA",
+        "start_span": "613",
+        "end_span": "640",
+        "entity": "tensi\u00f3n arterial era normal",
+        "code": "2004005"
+    },
+    {
+        "filename": "es-S0004-06142007000900013-1",
+        "label": "SINTOMA",
+        "start_span": "1161",
+        "end_span": "1206",
+        "entity": "teste derecho de tama\u00f1o y consistencia normal",
+        "code": "300483008"
+    },
+    {
+        "filename": "es-S0004-06142010000300011-1",
+        "label": "SINTOMA",
+        "start_span": "1093",
+        "end_span": "1168",
+        "entity": "test\u00edculo derecho present\u00f3 aumento de calibre de las estructuras vasculares",
+        "code": "1145181009"
+    },
+    {
+        "filename": "es-S0004-06142009000300014-1",
+        "label": "SINTOMA",
+        "start_span": "363",
+        "end_span": "382",
+        "entity": "test\u00edculos normales",
+        "code": "300493001"
+    },
+    {
+        "filename": "es-S0004-06142010000500014-1",
+        "label": "SINTOMA",
+        "start_span": "1060",
+        "end_span": "1111",
+        "entity": "tinci\u00f3n de auramina para micobacterias fue negativa",
+        "code": "309306009"
+    },
+    {
+        "filename": "es-S1130-01082006000100014-1",
+        "label": "SINTOMA",
+        "start_span": "1983",
+        "end_span": "2034",
+        "entity": "tinci\u00f3n de Gram en la que no se observaron g\u00e9rmenes",
+        "code": "309306009"
+    },
+    {
+        "filename": "es-S1130-01082008001000010-1",
+        "label": "SINTOMA",
+        "start_span": "1988",
+        "end_span": "2010",
+        "entity": "tinci\u00f3n Zielh negativa",
+        "code": "309306009"
+    },
+    {
+        "filename": "es-S0212-16112012000500042-1",
+        "label": "SINTOMA",
+        "start_span": "1280",
+        "end_span": "1295",
+        "entity": "tolerancia oral",
+        "code": "1144522003"
+    },
+    {
+        "filename": "es-S0004-06142007000700013-1",
+        "label": "SINTOMA",
+        "start_span": "520",
+        "end_span": "542",
+        "entity": "tonalidad subcian\u00f3tica",
+        "code": "304229000"
+    },
+    {
+        "filename": "es-S0212-71992007000600008-1",
+        "label": "SINTOMA",
+        "start_span": "79",
+        "end_span": "82",
+        "entity": "tos",
+        "code": "49727002"
+    },
+    {
+        "filename": "es-S0378-48352006000400006-1",
+        "label": "SINTOMA",
+        "start_span": "787",
+        "end_span": "801",
+        "entity": "tos irritativa",
+        "code": "11833005"
+    },
+    {
+        "filename": "es-S0004-06142009000800010-1",
+        "label": "SINTOMA",
+        "start_span": "2349",
+        "end_span": "2360",
+        "entity": "trombopenia",
+        "code": "302215000"
+    },
+    {
+        "filename": "es-S0004-06142008000600014-1",
+        "label": "SINTOMA",
+        "start_span": "1563",
+        "end_span": "1573",
+        "entity": "tumoraci\u00f3n",
+        "code": "300848003"
+    },
+    {
+        "filename": "es-S0211-69952013000400027-1",
+        "label": "SINTOMA",
+        "start_span": "1442",
+        "end_span": "1452",
+        "entity": "tumoraci\u00f3n",
+        "code": "300848003"
+    },
+    {
+        "filename": "es-S0213-12852004000500002-1",
+        "label": "SINTOMA",
+        "start_span": "572",
+        "end_span": "582",
+        "entity": "tumoraci\u00f3n",
+        "code": "300848003"
+    },
+    {
+        "filename": "es-S0376-78922014000200011-1",
+        "label": "SINTOMA",
+        "start_span": "1596",
+        "end_span": "1606",
+        "entity": "tumoraci\u00f3n",
+        "code": "300848003"
+    },
+    {
+        "filename": "es-S0376-78922014000200011-1",
+        "label": "SINTOMA",
+        "start_span": "1666",
+        "end_span": "1676",
+        "entity": "tumoraci\u00f3n",
+        "code": "300848003"
+    },
+    {
+        "filename": "es-S0378-48352006000900006-1",
+        "label": "SINTOMA",
+        "start_span": "1440",
+        "end_span": "1450",
+        "entity": "tumoraci\u00f3n",
+        "code": "300848003"
+    },
+    {
+        "filename": "es-S1130-01082010000300015-1",
+        "label": "SINTOMA",
+        "start_span": "1117",
+        "end_span": "1127",
+        "entity": "tumoraci\u00f3n",
+        "code": "300848003"
+    },
+    {
+        "filename": "es-S1130-05582007000600006-1",
+        "label": "SINTOMA",
+        "start_span": "1597",
+        "end_span": "1607",
+        "entity": "tumoraci\u00f3n",
+        "code": "300848003"
+    },
+    {
+        "filename": "es-S0004-06142007000900014-1",
+        "label": "SINTOMA",
+        "start_span": "1770",
+        "end_span": "1780",
+        "entity": "tumoraci\u00f3n",
+        "code": "300848003"
+    },
+    {
+        "filename": "es-S0365-66912011000600006-1",
+        "label": "SINTOMA",
+        "start_span": "1442",
+        "end_span": "1460",
+        "entity": "tumoraci\u00f3n adrenal",
+        "code": "237783006"
+    },
+    {
+        "filename": "es-S1130-01082007000700011-2",
+        "label": "SINTOMA",
+        "start_span": "2394",
+        "end_span": "2435",
+        "entity": "tumoraci\u00f3n esof\u00e1gica vegetante y ulcerada",
+        "code": "300287006"
+    },
+    {
+        "filename": "es-S0210-48062005001000013-1",
+        "label": "SINTOMA",
+        "start_span": "2863",
+        "end_span": "2881",
+        "entity": "tumoraci\u00f3n nodular",
+        "code": "300848003"
+    },
+    {
+        "filename": "es-S0004-06142009000300014-4",
+        "label": "SINTOMA",
+        "start_span": "97",
+        "end_span": "123",
+        "entity": "tumoraci\u00f3n retroperitoneal",
+        "code": "69559004"
+    },
+    {
+        "filename": "es-S0210-48062004000400008-1",
+        "label": "SINTOMA",
+        "start_span": "552",
+        "end_span": "569",
+        "entity": "tumoraci\u00f3n s\u00f3lida",
+        "code": "300848003"
+    },
+    {
+        "filename": "es-S0212-71992005001200010-1",
+        "label": "SINTOMA",
+        "start_span": "539",
+        "end_span": "563",
+        "entity": "tumoraci\u00f3n submandibular",
+        "code": "445456006"
+    },
+    {
+        "filename": "es-S0212-71992005001200010-1",
+        "label": "SINTOMA",
+        "start_span": "1978",
+        "end_span": "2002",
+        "entity": "tumoraci\u00f3n submandibular",
+        "code": "445456006"
+    },
+    {
+        "filename": "es-S0210-48062005000800014-1",
+        "label": "SINTOMA",
+        "start_span": "317",
+        "end_span": "356",
+        "entity": "tumoraciones en valva anterior de ri\u00f1\u00f3n",
+        "code": "309088003"
+    },
+    {
+        "filename": "es-S0365-66912005001100008-1",
+        "label": "SINTOMA",
+        "start_span": "1162",
+        "end_span": "1181",
+        "entity": "tyndall de 4 cruces",
+        "code": "246999001"
+    },
+    {
+        "filename": "es-S0210-48062006000200017-1",
+        "label": "SINTOMA",
+        "start_span": "636",
+        "end_span": "655",
+        "entity": "Ur\u00e9teres permeables",
+        "code": "300449001"
+    },
+    {
+        "filename": "es-S0004-06142007000700015-1",
+        "label": "SINTOMA",
+        "start_span": "136",
+        "end_span": "144",
+        "entity": "urgencia",
+        "code": "87557004"
+    },
+    {
+        "filename": "es-S0004-06142007000700015-1",
+        "label": "SINTOMA",
+        "start_span": "170",
+        "end_span": "197",
+        "entity": "urocultivo result\u00f3 negativo",
+        "code": "167568007"
+    },
+    {
+        "filename": "es-S0004-06142009000500009-1",
+        "label": "SINTOMA",
+        "start_span": "1861",
+        "end_span": "1923",
+        "entity": "urocultivo se aislan m\u00e1s de 100.000 UFC/ml de Escherichia coli",
+        "code": "167570003"
+    },
+    {
+        "filename": "es-S0365-66912011000700004-1",
+        "label": "SINTOMA",
+        "start_span": "1635",
+        "end_span": "1682",
+        "entity": "vasos de suplencia en la periferia de la lesi\u00f3n",
+        "code": "708557009"
+    },
+    {
+        "filename": "es-S0212-71992004000600005-1",
+        "label": "SINTOMA",
+        "start_span": "224",
+        "end_span": "257",
+        "entity": "VCA IgG, VCA IgM y EBNA positivas",
+        "code": "445460009"
+    },
+    {
+        "filename": "es-S0365-66912008000700008-1",
+        "label": "SINTOMA",
+        "start_span": "74",
+        "end_span": "86",
+        "entity": "visi\u00f3n doble",
+        "code": "24982008"
+    },
+    {
+        "filename": "es-S0212-16112012000400060-1",
+        "label": "SINTOMA",
+        "start_span": "762",
+        "end_span": "778",
+        "entity": "v\u00f3mito provocado",
+        "code": "34923007"
+    },
+    {
+        "filename": "es-S0212-16112014000600030-2",
+        "label": "SINTOMA",
+        "start_span": "1290",
+        "end_span": "1297",
+        "entity": "v\u00f3mitos",
+        "code": "422400008"
+    },
+    {
+        "filename": "es-S0212-71992005000700008-1",
+        "label": "SINTOMA",
+        "start_span": "623",
+        "end_span": "630",
+        "entity": "v\u00f3mitos",
+        "code": "422400008"
+    },
+    {
+        "filename": "es-S0212-71992006000100008-1",
+        "label": "SINTOMA",
+        "start_span": "1110",
+        "end_span": "1117",
+        "entity": "v\u00f3mitos",
+        "code": "422400008"
+    },
+    {
+        "filename": "es-S0365-66912007001200012-1",
+        "label": "SINTOMA",
+        "start_span": "1238",
+        "end_span": "1245",
+        "entity": "v\u00f3mitos",
+        "code": "422400008"
+    },
+    {
+        "filename": "es-S1130-01082009000500015-1",
+        "label": "SINTOMA",
+        "start_span": "214",
+        "end_span": "238",
+        "entity": "v\u00f3mitos en posos de caf\u00e9",
+        "code": "40835002"
+    }
+]

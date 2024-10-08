@@ -4,7 +4,7 @@ import random
 import pandas as pd
 
 
-mode = 'final-model'  # ['hyperparameter-search', 'final-model']
+mode = 'hyperparameter-search'  # ['hyperparameter-search', 'final-model']
 languages = ['es', 'en', 'it', 'fr', 'pt']
 paths_per_language = {
     lang: {
@@ -27,7 +27,7 @@ def build_training_file(training_file_path, output_dir, lang, mode):
     # file. (this function only builds the training file tho). Else, use all the training data for the training file
     with open(training_file_path, 'r') as f:
         if mode == "hyperparameter-search":
-            random.seed(0)  
+            random.seed(0)
             lines = f.readlines()
             num_lines = len(lines)
             num_lines_to_select = int(num_lines * 0.8)
@@ -71,7 +71,7 @@ def build_test_file(test_file_path, output_dir, lang, mode):
     # file. (this function only builds the validation file tho). Else, use all the test data for the test file
     with open(test_file_path, 'r') as f:
         if mode == "hyperparameter-search":
-            random.seed(0)  
+            random.seed(0)
             lines = f.readlines()
             num_lines = len(lines)
             num_lines_to_select = int(num_lines * 0.8)

@@ -35,7 +35,7 @@ with open('../config', 'r') as f:
         key, value = line.strip().split('=')
         config[key] = value
     hf_username, hf_token = config.get('hf_username'), config.get('hf_token')
-    if hf_username == "<USERNAME>" or hf_token == "<TOKEN>":
+    if hf_username == "<HF_USERNAME>" or hf_token == "<HF_TOKEN>":
         raise ValueError("Invalid credentials: hf_username and/or hf_token are placeholders.")
 
 # Set the token for authentication

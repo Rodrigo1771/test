@@ -1,0 +1,695 @@
+64882008||febre
+131148009||hemorragia
+563001||nistagmo
+170728008||diminuição da acuidade visual
+NO_CODE||a mobilidade facial foi preservada
+84387000||assintomático
+399122003||disfagia progressiva
+84387000||assintomático
+53298000||hematúria anémica total
+49650001||disúria
+419099009||morte
+13791008||astenia
+275723000||deterioração clínica
+197941005||hematúria macroscópica
+84387000||assintomático
+422400008||vómitos
+267038008||edema
+39575007||colúria
+237783006||massa adrenal
+78341006||neutrofilia
+62476001||desorientação
+15253005||assimetria facial
+300848003||massa radiolúcida com trabeculações
+300848003||massa
+89362005||perda de peso
+64882008||febre
+13791008||astenia
+14140009||hipercalemia
+285384003||deterioração do estado geral
+422587007||náuseas
+64882008||febre
+84387000||assintomático
+64882008||febre
+87548005||dispepsia
+64882008||febre
+84387000||assintomático
+300848003||massa
+45007003||hipotenso
+422587007||náuseas
+419099009||morreu
+64882008||febre
+271591004||consciente
+389026000||ascite
+409668002||fotofobia
+49233005||dispneia
+419099009||morreu
+48661000||irritação peritoneal
+64882008||febril
+300848003||massa
+15253005||assimetria facial
+84387000||assintomático
+53298000||hematúria
+48661000||irritação peritoneal
+84387000||assintomático
+22253000||dor
+409668002||fotofobia
+414478003||leucocitose
+389026000||ascite
+131148009||hemorragia
+89362005||perda de peso
+64882008||febre
+22253000||doloroso
+64882008||febre
+271591004||consciente
+64882008||febre
+422400008||vómitos
+64882008||febre
+22253000||dor
+389026000||ascite
+422587007||náuseas
+112638000||efeito de massa
+64882008||febre
+232209000||obstrução nasal
+53298000||hematúria
+399406009||marcadores testiculares negativos
+89362005||perda de trinta quilos de peso
+5291005||hipocalcemia
+31462008||pollakiuria
+197941005||hematúria macroscópica
+274769005||albuminúria
+300848003||massa
+233703007||padrão intersticial
+24982008||diplopia
+13791008||astenia
+84387000||assintomático
+64882008||febre
+91175000||convulsões
+300848003||tumor assintomático
+89362005||perda de cerca de 15 kg de peso
+422400008||vómitos
+300848003||massas
+22253000||dor
+389026000||líquido ascítico
+419099009||morte
+422587007||náuseas
+29738008||proteinúria
+249545003||defesa
+29738008||proteinúria
+162053006||dor hipogástrica
+84387000||assintomático
+27925004||nódulo
+35013009||material purulento
+443371007||diminuição do nível de consciência
+83128009||oligúria
+84387000||assintomático
+419099009||morreu
+91175000||convulsões
+422400008||vómitos
+419099009||morreu
+64882008||febre
+64882008||febre
+64882008||febre
+64882008||síndrome febril
+414478003||leucocitose
+64882008||febre
+84387000||assintomático
+79922009||epigastralgia
+64882008||febre
+369757002||massa sólida com áreas hemorrágicas
+84387000||assintomático
+300401007||aumento do perímetro abdominal
+84387000||assintomático
+64882008||febre
+89362005||perda de peso
+233703007||padrão intersticial bilateral
+64882008||febre
+79922009||epigastralgia
+197941005||hematúria franca
+271591004||consciente
+79890006||anorexia
+110279003||livre de doenças
+248279007||fraqueza
+79922009||epigastralgia
+419099009||morreu
+NO_CODE||metanefrinas plasmáticas, que eram normais
+414478003||leucocitose
+419099009||morreu
+13791008||astenia
+422587007||náuseas
+72352009||válvula aórtica bicúspide
+48661000||irritação peritoneal
+48348007||murmúrio vesicular preservado
+31462008||pollakiuria
+11092001||taquicardia sinusal
+301459008||estabilidade hemodinâmica
+22253000||dor
+49233005||dificuldade respiratória
+301459008||hemodinamicamente estável
+64882008||febre
+84387000||assintomático
+399122003||disfagia
+419099009||morreu
+83128009||oligoanúria
+64882008||febre
+62476001||desorientação
+89362005||perda de peso de 15 kg
+64882008||febre alta
+399122003||disfagia
+79890006||anorexia
+91175000||convulsões
+29738008||proteinúria
+389026000||líquido ascítico
+49233005||dispneia
+35013009||material purulento
+282050000||plastrão localizado no jejuno
+69559004||massa retroperitoneal
+59455009||acidose metabólica
+49233005||dispneia
+84387000||assintomático
+300855001||tumor intraluminal
+84387000||assintomático
+13791008||astenia
+64882008||febre
+53298000||hematúria
+64882008||febre
+31462008||pollakiuria
+37125009||midríase
+131148009||hemorragia
+64882008||febre
+22253000||doloroso
+300848003||massa
+83128009||oligúria
+135815002||bom estado geral
+563001||nistagmo
+418290006||comichão
+79890006||anorexia
+285384003||deterioração progressiva do estado geral
+84387000||assintomático
+64882008||febre
+285384003||deterioração progressiva do estado geral
+52613005||diaforese
+367391008||mal-estar geral
+64882008||febre
+49727002||tosse
+274643008||palidez cutânea
+81756001||nistagmo horizontal
+274769005||albuminúria
+64882008||febre
+27925004||nódulo subcapsular
+94147001||massa mediastinal
+22253000||dor
+69559004||massa retroperitoneal
+563001||nistagmo
+300848003||massa
+11092001||taquicardia sinusal
+274643008||palidez
+64882008||febre
+NO_CODE||exame físico normal
+414478003||leucocitose
+414478003||leucocitose
+419045004||perda de consciência
+301459008||hemodinamicamente estável
+35013009||descarga purulenta
+309088003||nódulos sólidos em ambos os rins
+300848003||massa
+22253000||dor
+29738008||proteinúria
+53298000||hematúria
+13791008||astenia
+422773005||desestabilização hemodinâmica
+170728008||diminuição da acuidade visual
+64882008||febre
+25064002||dores de cabeça
+419099009||morte
+31515003||hipoventilação
+91175000||convulsões
+84387000||assintomático
+300848003||massas
+135815002||bom estado geral
+81141003||função renal bilateral normal
+389026000||ascite
+29738008||proteinúria
+91175000||episódio convulsivo
+301855007||gânglios linfáticos
+249545003||defesa à palpação
+248503005||edema epitelial microcístico
+29738008||proteinúria
+170728008||diminuição da acuidade visual
+64882008||febre
+300848003||massas
+60728008||distensão abdominal
+53298000||hematúria
+303011007||neutropenia
+64882008||febre
+29738008||proteinúria
+419099009||morreu
+422773005||compromisso hemodinâmico
+53298000||hematúria
+49727002||tosse
+201051000||esclerodactilia
+27925004||nódulo hiperecóico
+233703007||proeminência intersticial
+135815002||bom estado geral
+75823008||exsudado
+271591004||consciente
+303011007||neutropenia
+314138001||nitritos negativos
+25064002||dores de cabeça
+64882008||febre
+300848003||massa
+64882008||febre
+64882008||febre
+64882008||síndrome febril
+422587007||náuseas
+300401007||aumento gradual da circunferência abdominal
+84387000||assintomático
+300848003||massa
+707724006||transaminases elevadas
+87557004||urgência
+91175000||convulsões
+367391008||mal-estar geral
+22253000||dor
+422773005||compromisso hemodinâmico
+24982008||visão dupla
+110279003||livre de doenças
+309088003||massas renais
+271591004||consciente
+409668002||fotofobia
+74474003||hemorragia gastrointestinal maciça
+707724006||aumento progressivo das transaminases
+79922009||dor epigástrica
+300848003||massa
+300848003||massa
+708118007||as culturas de sangue eram estéreis
+64882008||febre alta
+25064002||dores de cabeça
+84387000||assintomático
+414478003||leucocitose
+79890006||perda de apetite
+419099009||morte
+300848003||massa
+300848003||massas
+22253000||dor
+301459008||hemodinamicamente estável
+64882008||síndrome febril
+90708001||envolvimento renal
+64882008||aumento da temperatura
+22253000||dor
+414478003||leucocitose
+300848003||massa
+29738008||proteinúria
+27925004||nódulo
+49233005||dispneia
+64882008||febre
+309088003||massa renal
+68600005||hemoglobinúria macroscópica
+89362005||perda de peso de 7 kg
+275723000||agravamento do estado geral
+79890006||anorexia
+135815002||bom estado geral
+5291005||hipocalcemia
+81141003||função renal estável
+NO_CODE||pregas edematosas e congestivas
+75823008||secreção
+64882008||febre
+131148009||sangue
+64882008||febre
+87548005||dispepsia flatulenta
+89362005||perda de peso
+25064002||dor de cabeça
+89362005||perda de peso
+443371007||deterioração progressiva do nível de consciência
+84387000||assintomático
+69559004||massa retroperitoneal de cerca de 8 cm, com ecogenicidade heterogénea e vascularização marcada
+69559004||massas retroperitoneais
+301459008||estabilidade hemodinâmica
+301855007||gânglios linfáticos
+300848003||massa
+29738008||proteinúria
+64882008||febre
+300848003||massa
+79890006||anorexia
+414478003||leucocitose
+414478003||leucocitose
+22253000||dor
+NO_CODE||ecogenicidade heterogénea
+90708001||retenção no pólo superior esquerdo
+24982008||diplopia
+53298000||hematúria
+13791008||astenia
+NO_CODE||pt3b
+300848003||massa
+67307004||circulação colateral
+301459008||estabilidade hemodinâmica
+89362005||perda de peso
+64882008||febre
+62476001||desorientação
+29738008||proteinúria
+89362005||perda de peso
+64882008||febre
+197941005||hematúria macroscópica
+91175000||episódios convulsivos
+422587007||náuseas
+64882008||febre
+170728008||diminuição da acuidade visual
+275723000||deterioração clínica
+131148009||hemorragia
+274640006||tremor
+131148009||hemorragia
+84387000||assintomático
+64882008||febre
+79890006||anorexia
+369757002||massa sólida
+300848003||massas
+246636008||visão turva
+22253000||dor persistente
+75229002||hifema que ocupa metade da câmara anterior
+79890006||anorexia
+64882008||febre
+300848003||massa
+13791008||astenia
+300441003||hipointensidade de sinal no córtex renal
+79890006||anorexia moderada
+398637008||espessura macular normal
+91175000||convulsões
+300848003||massa
+103251002||motilidade ocular extrínseca e intrínseca
+13791008||astenia
+64882008||febre
+64882008||febre ocasional
+64882008||febre
+24982008||diplopia binocular horizontal
+135815002||bom estado geral
+399406009||marcadores tumorais normais
+11092001||taquicardia
+300848003||massa hipoecogénica
+45007003||hipotensão
+27925004||nódulo
+246636008||visão turva
+22253000||dor
+707724006||enzimas hepáticas elevadas
+64882008||febre
+84387000||assintomático
+53298000||hematúria
+81141003||boa função renal bilateral
+14140009||hipercalemia
+64882008||febre
+300848003||massa
+422587007||náuseas
+131148009||hemorragia
+64882008||febre
+563001||nistagmo
+NO_CODE||lactato normal
+64882008||febre
+27925004||nódulo
+399122003||disfagia
+29738008||proteinúria
+419099009||morreu
+64882008||febre
+422400008||vómitos
+64882008||febre
+300848003||massas
+13791008||astenia
+64882008||febre
+64882008||febre
+13791008||astenia moderada
+49727002||tosse
+274769005||albuminúria
+13791008||astenia
+414478003||leucocitose
+64882008||febre
+69559004||massa sólida de 12 cm atrás do rim
+52613005||suado
+170728008||diminuição da acuidade visual
+422400008||vómitos
+64882008||febre
+422587007||náuseas
+267038008||edema
+110279003||livre de doenças
+300848003||massa
+300848003||massa
+29738008||proteinúria
+422400008||vómitos
+249545003||peritonismo
+64882008||febre
+300848003||massa
+13791008||astenia
+59455009||acidose metabólica
+422400008||vómitos
+91175000||convulsões
+13791008||astenia
+249545003||defesa abdominal
+419099009||morreu
+79890006||anorexia
+78341006||neutrofilia
+13791008||astenia
+419099009||morreu
+84387000||assintomático
+300848003||massa
+300848003||massa
+NO_CODE||débito de ileostomia superior
+84387000||assintomático
+81141003||boa função renal
+27925004||formação nodular
+60728008||distensão abdominal
+135815002||bom estado geral
+170728008||diminuição da acuidade visual
+271591004||consciente
+29738008||proteinúria
+300848003||massa
+62315008||diarreia
+48661000||irritação peritoneal
+11092001||taquicardia sinusal
+NO_CODE||prótese aórtica normofuncionante
+91175000||convulsões
+34095006||desidratação
+267038008||edema
+22253000||dor
+369757002||massa sólida
+409609008||infiltrado alveolar-intersticial bilateral
+197941005||hematúria macroscópica
+49233005||dispneia
+29738008||proteinúria
+84387000||assintomático
+27925004||nódulo
+64882008||febre
+197941005||hematúria macroscópica
+52613005||suado
+81141003||função renal normal
+84387000||assintomático
+422773005||hemodinamicamente instável
+29738008||proteinúria
+78341006||neutrofilia
+22253000||dor
+69559004||massa retroperitoneal
+285384003||deterioração do estado geral
+89362005||perda de peso
+48661000||irritação peritoneal
+233703007||padrão intersticial
+68600005||hemoglobinúria
+11092001||taquicardia sinusal
+13791008||fraqueza generalizada
+22253000||dor
+79890006||anorexia
+64882008||febre
+49233005||sensação de dispneia
+102568007||fraqueza dos membros inferiores
+49233005||dispneia de intensidade progressiva
+300848003||massa
+285384003||deterioração do estado geral
+15253005||desvio da linha média facial
+170728008||diminuição da acuidade visual
+422773005||instabilidade hemodinâmica
+60728008||distensão abdominal
+13791008||astenia
+53298000||hematúria
+300848003||massas
+309088003||massa sólida no pólo superior do rim
+24982008||diplopia
+27925004||nódulo
+89362005||perda de peso
+419099009||morreu
+404640003||tonturas
+32566006||dismetria
+64882008||febre
+300848003||massa
+91175000||convulsões
+300441003||parênquima renal esquerdo preservado
+300848003||tumores
+64882008||febril
+409668002||fotofobia
+53298000||hematúria
+419099009||morreu
+64882008||febre
+84387000||assintomático
+443371007||diminuição do nível de consciência
+27925004||nódulo
+422587007||náuseas
+422587007||náuseas
+131148009||hemorragia
+24982008||diplopia
+422400008||vómitos
+438949009||vivo
+409668002||fotofobia intensa
+64882008||febre
+29738008||proteinúria
+300848003||massa
+422773005||instabilidade hemodinâmica
+89362005||perda de peso
+285384003||deterioração do estado geral
+300848003||massa
+22253000||dor
+707724006||transaminases ligeiramente elevadas
+105593004||distúrbios electrolíticos
+29738008||proteinúria
+29738008||proteinúria
+27925004||nódulo
+62315008||diarreia
+285384003||deterioração do estado geral
+563001||nistagmo
+75823008||secreção
+84387000||assintomático
+13791008||astenia
+102614006||dor abdominal generalizada
+NO_CODE||imagem linear acima da cicatriz umbilical
+422587007||náuseas
+24982008||diplopia
+131148009||hemorragia
+301459008||hemodinamicamente estável
+64882008||febre
+49233005||dispneia
+422400008||vómitos
+22253000||dor
+64882008||febril
+13791008||astenia
+300449001||ureter normal
+49727002||tosse
+60728008||distensão abdominal
+62315008||diarreia
+422400008||vómitos
+89362005||perda de 23% do seu peso habitual
+13791008||astenia
+91175000||episódio convulsivo
+13791008||fraqueza generalizada
+422400008||vómitos
+422400008||vómitos
+414478003||leucocitose
+389026000||ascite
+300848003||massa
+60728008||o abdómen era globular
+49233005||dispneia
+275723000||deterioração clínica
+438949009||vivo
+84387000||assintomático
+170728008||diminuição da acuidade visual
+40709005||dor lombar
+13791008||astenia
+278683009||boa oclusão dentária
+440299000||massa extrínseca retrocardíaca
+419099009||sucesso
+300848003||massa
+89362005||perda de peso
+84387000||assintomático
+232209000||obstrução nasal
+197941005||hematúria macroscópica
+29738008||proteinúria
+62315008||diarreia
+170728008||perda de acuidade visual no olho esquerdo
+89362005||perda de peso
+89362005||perda de peso de 5 kg
+300848003||massa
+131148009||hemorragia
+170728008||perda progressiva da acuidade visual
+34095006||desidratação
+422400008||vómitos
+5291005||hipocalcemia
+64882008||febre
+110279003||livre de doenças
+64882008||episódios febris
+389026000||ascite
+78341006||neutrofilia
+300848003||tumores
+22253000||dor
+64882008||febre
+87548005||dispepsia
+79922009||epigastralgia
+84387000||assintomático
+267038008||edema
+84387000||assintomático
+64882008||febre
+275723000||agravamento do estado geral
+301459008||estabilidade hemodinâmica
+829991004||tremor distal
+170728008||défice de acuidade visual
+64882008||febre
+389026000||ascite
+NO_CODE||integridade dentária
+300848003||massa
+64882008||febre
+13791008||astenia
+385494008||hematoma
+48661000||irritação peritoneal
+22253000||dor
+267038008||edema
+409668002||fotofobia
+40709005||dor lombar
+84387000||assintomático
+271591004||consciente
+301459008||hemodinamicamente estável
+79890006||hiporexia
+89362005||perda de peso
+300848003||massa
+300848003||massa
+414478003||leucocitose
+443371007||diminuição do nível de consciência
+37125009||midríase
+NO_CODE||nódulo peritoneal no mesentério do íleo distal
+78341006||neutrofilia
+271591004||consciente
+201051000||esclerodactilia
+52613005||diaforese
+24982008||diplopia
+25064002||dor de cabeça
+707724006||enzimas hepáticas elevadas
+13791008||astenia
+414478003||leucocitose
+75229002||hifema
+367391008||mal-estar geral
+249545003||defesa
+300848003||massa
+34095006||desidratação
+60728008||distensão abdominal
+49650001||disúria
+300848003||massa
+300848003||massa
+31515003||hipoventilação
+53298000||hematúria
+237783006||tumor adrenal
+81141003||função renal normal
+301459008||hemodinamicamente estável
+34095006||desidratação
+22253000||dor
+78341006||leucócitos polimorfonucleares e muco abundante
+419099009||morreu
+300848003||massa
+105593004||distúrbios electrolíticos
+64882008||febre
+34095006||desidratado
+59455009||acidose metabólica
+285384003||deterioração do estado geral
+84387000||assintomático
+64882008||síndrome febril
+45007003||hipotensão arterial
+110279003||livre de doenças
+11092001||taquicárdico
+31515003||hipoventilação
+165406005||parâmetros normais das três séries hematológicas
+62315008||diarreia
+404640003||tonturas
+27925004||nódulo
+53298000||hematúria
+13791008||astenia
+39575007||colúria
+419099009||sucesso
+443371007||obnubilação

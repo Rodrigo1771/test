@@ -1,0 +1,2787 @@
+422400008||vómitos
+64882008||fiebre
+56018004||sibilantes
+53298000||hematuria
+246878000||ampolla grande en sector nasal de la conjuntiva bulba
+21522001||dolor abdominal
+65605001||leve edema medular
+2307008||infiltración de la grasa peripancreática
+81141003||función renal estable
+274765004||tacto rectal resultó anodino
+246999001||tyndall
+816190002||edemas pretibiales con fóvea en los mmii
+253883006||imágenes quísticas parapiélicas
+274682005||exudado purulento obtenido intraoperatoriamente del tejido testicular
+82020005||mg por debajo de la normalidad
+303470008||dificultad para utilizar su prótesis inferior
+87361006||leucocitos con desviación izquierda
+33688009||colestasis
+22253000||dolorosa
+33688009||colestasis
+309306009||serología para echinococcos granulosis y multilocularis negativas
+118241009||auscultación negativa
+786838002||nódulo en el lóbulo superior pulmonar
+301936006||tinción negativa con fluoresceína
+22253000||dolor
+1197182004||manchas melánicas en paladar y bordes gingivales
+NO_CODE||pt3b
+302215000||trombopenia
+232209000||narina izquierda por disminución de la permeabilidad
+85804007||congestión moderada
+168276008||elisa captura g: positivo
+443371007||bajo nivel de consciencia
+271587009||rigidez
+84387000||asintomático
+165879008||positividad al crmp-5-igg
+346991000119107||escotoma central bilateral
+125132005||imagen de aspecto nodular
+309088003||masa hiperecoica en la cortical del riñón
+365855009||biopsia inicial se hizo aspirado produciendo un líquido citrino
+163586006||exploración neurológica completa normal
+74474003||hemorragia digestiva masiva
+70819003||enrojecimiento
+303011007||neutropenia
+102594003||onda j prominente en v1-v2
+275723000||deterioro clínico
+301030002||masa de bordes más nítidos con áreas hipodensas en su interior localizada en mediastino anterior
+275728009||impedanciometría normal
+275739007||hiperamilasemia
+93457003||líquido libre en abdomen
+21522001||dolor abdominal
+470757009||ascitis a tensión
+11833005||tos seca
+237783006||masa adrenal
+87273009||afebril
+707724006||aumento progresivo de transaminasas
+405729008||rectorragias
+164734008||fondo del od era normal
+271795006||quebrantamiento
+300855001||tumoración intraluminal
+11092001||taquicardia sinusal
+89362005||pérdida de peso
+125215000||normalidad absoluta de la anastomosis
+126825008||a nivel del cardias masa mamelonada y ulcerada
+81756001||nistagmo horizontal
+365996006||interacción con el ambiente
+445456006||tumoración submandibular
+399861008||espesor retiniano de unos espacios de baja intensidad
+60728008||distensión abdominal
+63463003||riñón derecho de cortical fina y desestructurada
+400202001||eritematosas, sobre zonas induradas, pruriginosas y dolorosas, en dorso del pie derecho y cara interna de los muslos
+276444007||prurito generalizado
+52985009||ascitis quilosa
+167649004||deposiciones al día con aspecto algo graso
+309088003||masa renal derecha en polo inferior
+24982008||diplopía
+49233005||disnea
+70070008||tortícolis
+414772003||componente monoclonal de igm
+830011000||tórax normal
+300848003||masa
+14140009||hiperpotasemia
+3855007||aumento del tamaño de la cabeza del páncreas
+13791008||astenia
+386789004||eosinofilia en sangre
+414478003||leucocitosis
+298160000||inflamación articular
+301936006||buena profundidad de cámara anterior
+118435004||edemas en asas de intestino delgado
+409769002||masa de 5'2x4'5 cms parcialmente calcificada
+169254007||ecografía renal fue normal
+52099006||pulso paradójico
+73757007||cierre de los vasos nutricios
+300848003||masa
+221360009||espasticidad como respuesta a estímulos
+300848003||tumoración
+103017008||mareos rotatorios
+314526000||detección del antígeno de chlamydia fue también negativa
+422400008||vómitos
+422587007||nauseas
+300848003||masa
+37125009||midriasis reactiva
+704997005||e-st inferior
+248487006||hiperemia de la papila de od
+276331001||aumento del tamaño del hemiescroto
+413254002||mucosa sana y eritematosa
+880068004||tibia vara
+64882008||fiebre
+444827008||enrojecimiento generalizado
+69559004||masas retroperitoneales
+167755001||disociación albúmino-citológica
+169254007||ecografía de abdomen que no evidenció patología
+249545003||defensa abdominal
+95433000||deformación del tabique intersinuso nasal
+309532004||tumoración en espalda
+76114004||déficit funcional de la unidad renal
+19829001||alteraciones bilaterales y difusas del parénquima pulmonar
+3327002||nistagmus en sacudida hacia abajo de frecuencia alta y amplitud media
+91019004||parestesias
+21522001||dolor abdominal
+16779801000119101||imágenes ocupantes de espacio en seno piriforme izquierdo
+84387000||asintomático
+246920008||aumento del diámetro del globo ocular del od
+193821003||pliegues en descemet
+56018004||sibilantes
+63459005||clínica infecciosa
+271591004||consciente
+717159009||alternaria sp en el cultivo
+13791008||astenia
+29738008||proteinuria
+300848003||masa
+111953009||posición antiálgica
+64882008||fiebre
+33809001||β-hcg normal
+13937002||localización subretiniana de esta hemorragia,
+53430007||dolor mamario
+93457003||líquido libre intraabdominal, fundamentalmente en región periesplénica, gotiera paracólica izquierda, perihepático y también en pelvis
+300848003||tumoración
+443371007||disminución del nivel de conciencia
+62315008||diarrea febril
+31462008||polaquiuria
+301939004||miosis
+53298000||hematuria
+2901004||melenas
+1119218004||dolor lumboabdominal izquierdo
+707724006||hipertransaminemia
+NO_CODE||integridad dental
+5467003||patrón ventilatorio normal
+164922005||ondas r altas afectando la parte inicial del complejo qrs
+61135002||proteinuria residual
+165772007||test de coombs directo negativo
+39832008||exudado algodonoso en reabsorción inferior a fóvea
+13791008||astenia
+8034008||erección levemente dolorosa
+307134002||tumoración en pared abdominal, a nivel de fosa ilíaca
+429382003||captación en la línea media abdominal
+409609008||infiltrado alveolar basal
+37125009||midriasis
+443371007||obnubilación progresiva
+359746009||estable
+249585009||deplazamiento de la vejiga
+87548005||dispepsia flatulenta
+87273009||afebril
+302233006||riñón izquierdo con estenosis
+79922009||dolor epigástrico cólico
+363090004||catabolismo proteico
+11934000||ptosis
+24982008||diplopia
+64882008||febrícula
+438457000||teste derecho aumentado de consistencia
+168289002||cultivo del raspado corneal negativo
+459055004||vegetaciones
+708118007||hemocultivos fueron estériles
+389026000||ascitis
+95802009||vitritis moderada en ambos ojos
+12063002||tacto rectal con restos hemáticos frescos
+40917007||confuso
+29738008||proteinuria
+49233005||dificultad respiratoria
+28290006||ánimo inapropiado
+300848003||masas
+16110005||oftalmoplejia
+268375009||mantoux negativo
+708670007||narinas antevertidas
+35678005||poliartralgias de medianas articulaciones, de predominio en carpos y tarsos
+84387000||asintomático
+274769005||albuminuria
+251726002||cierre angular en ambos ojos
+301924000||ojo adelfo era normal
+237840007||déficits electrolíticos
+440109001||negativización de los anticuerpos antitransglutaminasa
+63129006||material mucoide
+25064002||cefalea
+300848003||tumoración asintomática
+249607009||aumento del tamaño de la glándula prostática
+80449002||fatiga muscular
+28928000||caquexia
+422773005||alteraciones hemodinámicas
+422587007||náuseas
+90708001||afectación renal
+170728008||descenso de la agudeza visual
+170728008||déficit de agudeza visual
+NO_CODE||realzaba de forma intensa tras la inyección de contraste intravenoso en fase arterial
+251726002||cierre angular
+165232002||incontinencia leve-moderada
+13028004||deterioro neurológico
+1144814003||retardo psicomotor muy severo
+389026000||ascitis
+31462008||polaquiuria
+83312008||aftas orales
+300848003||masa
+165453008||hemoconcentración
+432525007||nódulo paramandibular
+166315009||bioquímica normal
+21522001||dolor abdominal
+84387000||asintomático
+24982008||diplopia
+84387000||asintomático
+39575007||orina oscura
+424372002||edemas distales
+166602006||exploración física como los exámenes de laboratorio, incluyendo un perfil hepático, fueron normales
+213261000||hemorragia transoperatoria
+249937002||debilidad muscular torácica
+274640006||tiritona
+282768006||lesión eritematosa y caliente en la región paraesternal
+165815009||hiv negativo
+387742006||amblíope
+249585009||mucosa vesical delustrada
+166315009||bioquímica con parámetros estrictamente normales
+441124000||tumoración de 5-6 cm. de diámetro en el manubrio esternal
+49727002||tos
+235594008||desordenes intestinales
+89164003||tumoración en la mama
+247156002||exudado subretiniano
+300848003||tumoración
+248214007||ictérico
+369757002||masa solida
+167568007||cultivo de orina: estéril
+168833002||tránsito normal
+312397004||perfil tiroideo fue normal
+307370008||detectándose helicobacter pylori
+7358000||síndrome miccional irritativo
+16217341000119101||áreas quísticas
+19058002||tejido esplénico restante era de aspecto congestivo
+247427007||piel inestable
+88458008||crecimiento de staphylococcus aureus
+54200006||crisis tónico-clónica
+309303001||estudio microbiológico se observan dudosos bacilos ácido alcohol resistentes
+56681004||mala diferenciación córtico-medular
+422400008||vómitos
+365775007||catecolaminas y metanefrinas en orina negativas
+419099009||muerte
+95694000||hiper e hipopigmentación donde la retina
+225581002||pérdida de la visión por ojo
+442635007||cultivos microbiológicos del tejido de granulación subyacente fueron positivos para pseudomonas aeruginosa multirresistente
+87486003||afasia
+312895004||íleon terminal una mucosa extremadamente irregular
+301936006||polo anterior estaba dentro de la normalidad
+445718006||ganglios de las cadenas linfáticas enviadas a analizar son reactivos
+69559004||masa retroperitoneal de unos 8 cm, de ecogenicidad heterogénea y marcada vascularización
+414478003||leucocitosis
+275723000||empeoramiento de su estado general
+274643008||palidez cutánea
+75823008||exudado
+64882008||fiebre
+429783005||parestesias en miembros inferiores
+22253000||dolor
+91175000||convulsiones
+300848003||masa homogénea
+21173002||próstata de tamaño ii/v, adenomatosa
+123561001||adelgazamiento femoral bilateral
+89627008||hiponatremia
+8573003||sangrado activo
+13791008||astenia
+359746009||estable
+131148009||sangrado
+13045009||anisocoria
+301927007||tinción positiva de fluoresceína
+279093005||dolores cólicos
+75753009||coágulos
+60845006||disnea de esfuerzo
+257552002||signos inflamatorios
+23290009||incremento glandular sin signos de malignidad
+NO_CODE||exploración física fue normal
+78341006||neutrofilia
+442635007||e. cloacae, c. sedlakii, k pneumoniae blee (β-lactamasa de espectro extendido) positiva
+80306002||peristaltismo elevado
+112630007||facies triangular
+49650001||molestias en el tracto urinario inferior
+30233002||odinofagia leve
+74285003||nódulo que infiltra en profundidad la grasa subcutánea y el músculo iliopsoas
+64779008||coagulación alterada
+240266004||radiolucencias periprotésicas
+422400008||vómitos
+64882008||fiebre
+168188001||secuenciación del 16srrna, identificándose la cepa como corynebacterium thomsseni
+167261002||glucosuria negativa
+80313002||palpitaciones
+13791008||astenia
+249543005||abdomen blando
+408859005||mucosa depapilada del duodeno
+35064005||deposiciones melénicas
+29738008||proteinuria
+301459008||estabilidad hemodinámica
+48409008||crepitantes
+60845006||disnea de esfuerzo
+50446000||diplopía monocular
+703630003||ojo rojo severo
+14140009||hiperpotasemia
+64882008||fiebre
+105972009||velamiento en el seno maxilar izquierdo
+249545003||peritonismo
+69559004||masa retroperitoneal
+42984000||sudoración nocturna
+5413009||alteración en la potencia sexual
+409668002||fotofobia
+45004005||prueba de sudor que no recogió sudor
+300464001||vaciado vesical a expensas de maniobra de credé y valsalva sin residuo posterior
+385494008||hematoma
+267062003||síntomas urológicos
+89362005||perder peso
+37125009||pupilas ligeramente midriáticas
+79890006||anorexia
+271594007||cuadro sincopal
+300577008||hiperfluorescencia precoz de la lesión
+15253005||asimetría facial
+21522001||dolor abdominal
+268375009||prueba de mantoux fue negativa
+722998005||cortejo vegetativo
+771115008||hipernatremia
+135818000||mal estado del paciente
+440027000||infiltrado corneal
+441766009||masa intranasal
+422587007||náuseas
+309306009||serología hepática vírica negativa
+64882008||alza térmica
+111975006||intervalo qtc prolongado
+43724002||escalofrios
+84800009||empeoramiento progresivo de su chorro miccional
+28055006||hipsarritmia asimétrica
+79890006||anorexia
+45647009||granulomas
+4039009||déficit severo de vitaminas liposolubles
+127199000||masa adenopática inguinal
+30233002||odinofagia
+13791008||astenia
+414563008||respiración de kussmaul
+249274008||clínica miccional
+87273009||afebril
+409668002||fotofobia
+NO_CODE||pliegues edematosos y congestivos
+NO_CODE||haptoglobina normal
+246636008||visión borrosa en ambos ojos
+60728008||abdomen era globuloso
+62315008||diarrea
+87273009||afebril
+128139000||reacción inflamatoria
+162290004||sequedad ocular
+102614006||abdomen doloroso de forma difusa
+64882008||picos febriles
+135818000||mal estado general
+563001||nistagmus
+61373006||bacteriuria
+70908000||depleción de volumen
+25064002||cefalea
+346481000119100||neovascularización corneal bilateral
+274643008||palidez cutánea
+1611000119108||deshidratación cutáneo-mucosa leve
+102572006||edemas en mmii
+63901009||dolor testicular agudo
+307133008||proliferación y dilatación, incluso quística, de los ductos biliares
+232121005||defecto pupilar aferente
+112081000119108||biomicroscopía es normal
+302285008||imágenes hipodensas en parénquima hepático
+253151003||focos de heterotopía nodular
+301309000||normoconstituido
+13791008||astenia
+90708001||afectación renal
+40709005||dolor lumbar bajo
+119247004||hipoalbuminemia
+28928000||caquexia
+21522001||dolor abdominal
+165562007||coagulación sin alteraciones
+79359001||parálisis facial
+235993005||líquido encapsulado con nivel hidroaéreo en el flanco derecho
+52613005||sudoración
+247663003||orientado
+419099009||exitus
+298721005||captación de gadolinio en la articulación del manubrio con el cuerpo esternal
+91175000||convulsiones
+71884009||dolor precordial
+15188001||afectación de sus niveles auditivos
+167221003||analítica de orina no patológica
+165850001||ana positivos
+314983004||deterioro de la función renal
+301936006||polo anterior era normal en ambos ojos
+21522001||dolor abdominal
+125144008||masa exofítica de aspecto nodular
+85919009||engrosamiento de pared de asas intestinales
+419099009||falleció
+95576001||sistemas ureteropielocaliciales, que aparecían discretamente ectásicos
+167221003||analítica de orina negativa
+167221003||sedimento de orina normal
+268376005||prueba de la tuberculina cutánea positiva
+708118007||negativo, así como tres hemocultivos
+398963001||paresia de iv par craneal
+5242004||sinequias
+707209001||queratoeritema
+247663003||orientada
+89031001||hipopigmentación
+102594003||onda j marcada en derivaciones v1-v2
+21454007||hemorragia subaracnoidea mínima en región suprasilviana izquierda
+64882008||febrícula
+399406009||marcadores tumorales son negativos
+249939004||debilidad en musculatura proximal
+285384003||deterioro del estado general
+64882008||fiebre
+300848003||tumoración
+300852003||tumoración vascular
+364874005||actividad irritativa temporal izquierda
+30281009||colecciones
+19730000||consistencia firme
+274667000||dolor hemimandíbular
+61281005||esputos hemoptoico
+249585009||estanqueidad de la sutura vesical
+419099009||falleció
+25173007||recidiva tumoral
+301708006||ausculatación pulmonar sin alteraciones aparentes
+14760008||estreñimiento
+309306009||tinción de zn negativo
+105593004||alteraciones electrolíticas
+442082004||análisis de laboratorio normales
+45326000||dolor en hombro de súbita aparición y severa intensidad
+286933003||cuadro confusional
+300848003||tumoración de rápido crecimiento, indolora
+422400008||vómitos
+NO_CODE||ecogenicidad heterogénea
+419099009||fallece
+16237004||fluctuación
+7358000||síndrome miccional
+43922008||claudicación mandibular
+267038008||edema
+47186006||captación de contraste moderada
+9589009||imposibilita la deambulación
+765157005||riñón derecho de dimensiones algo reducidas
+60845006||disnea de esfuerzo
+79890006||anorexia
+707724006||elevación de las transaminasas
+26544005||debilidad muscular
+19504001||líquido sero-fibrinoso de color amarillento
+76114004||retraso funcional de riñón
+84387000||asintomático
+102572006||edemas leves en miembros inferiores
+427924001||fuga del contraste fuera de la vía urinaria
+251979003||escapes urinario
+193967004||edema palpebral
+58972000||goteo
+278683009||buena oclusión dental
+166612004||bilirrubina persistía ligeramente elevada
+300855001||masa intestinal
+129853007||incontinencia urinaria total
+NO_CODE||imagen lineal superior a la cicatriz umbilical
+301459008||estable hemodinámicamente
+NO_CODE||estudios microbiológicos en sangre, orina, esputo, brocoaspirado y punción ganglionar fueron negativos para bacterias, micobacterias y hongos
+11833005||tos seca
+306921000119100||tobillo derecho con líquido de características inflamatorias
+87557004||urgencia
+315332001||proteinuria de bence-jones negativa
+48661000||irritación peritoneal
+708118007||hemocultivos negativos
+234467004||alteraciones protrombóticas
+102572006||edemas en extremidades inferiores
+359746009||estable
+251150006||ritmo sinusal
+60280003||presión intraocular (pio) eran normales
+249244000||cordón longitudinal indurado en la base del pene
+18695008||cuerpos coloides
+301316004||normocéfalo
+74285003||masa pélvica situada a la derecha de la vejiga
+68235000||sensación de taponamiento nasal
+83128009||oliguria
+276331001||aumento de tamaño de hemiescroto
+84387000||asintomática
+1162387003||atracones
+34095006||deshidratación
+24982008||diplopía
+300493001||testes se presentaban normales
+163352001||vejiga sin lesiones
+195675009||acinesia inferobasal y apical
+NO_CODE||baja carga viral
+167182002||filtrado glomerular normal
+309529002||masa en lóbulo superior
+389026000||líquido ascítico
+NO_CODE||ecografía abdominal, renal y de vías urinarias: normal
+14140009||hiperpotasemia
+409609008||infiltrados en la radiografía de tórax
+197940006||microhematuria
+168733007||radiografía de tórax resultó normal
+309306009||tinciones de muestras respiratorias fueron negativas para p. carinii (p. jiroveci
+9589009||dificultad en la marcha
+197941005||hematuria macroscópica
+13791008||astenia
+198029003||falta de vascularidad hasta la base del pene
+57534004||difusión de los vasos retinianos
+116290004||dolor abdominal agudo
+197940006||microhematuria
+251150006||ritmo sinusal
+131148009||hemorragia
+398212009||deposiciones líquidas
+168174000||test del sudor en el paciente fue asimismo negativo
+120670006||serología para schistosoma que fue positiva
+42658009||síntomas periféricos
+442082004||pruebas complementarias básicas normales
+111378004||alcalosis respiratoria
+40709005||lumbalgia
+4996001||hipo-fosfatemia severa
+249339005||pirámide nasal estrecha
+55930002||desplazamiento del segmento st
+257552002||signos inflamatorios
+386137000||irregularidades en descendente anterior proximal media
+164734008||fondo de ojo no mostraron alteraciones
+87860000||tumoración dura en teste
+285384003||deterioro del estado general
+251237002||onda t positiva en las derivaciones v2 a v4
+300463007||sensación de vacuidad completa
+62315008||diarreas
+27925004||nódulos hipoecoicos
+95677002||trastornos visuales
+135815002||buen aspecto general
+34095006||deshidratación
+89627008||hiponatremia grave
+64882008||fiebre
+419099009||falleciendo
+300848003||masa
+72970002||constantes vitales fueron normales
+170577003||buen control tensional
+299703001||tumoración latero-cervical
+409609008||infiltrados
+271591004||consciente
+102031000119109||masa paratesticular
+81141003||función renal normal
+83128009||oliguria
+31462008||polaquiuria
+197941005||hematuria macroscópica
+93457003||líquido libre abdominal
+59931005||inversión inferior de la onda t
+40700009||retraso mental severo
+91175000||episodio convulsivo
+48661000||irritación peritoneal
+48661000||irritación peritoneal
+45089002||ojo derecho era normal
+267727004||pérdida de visión bilateral
+1231221007||desplazamiento inferior del globo ocular
+300848003||masa
+78341006||neutrofilia
+168833002||transito gastroduodenal fue normal
+289700000||actividad uterina
+89474008||estudio de extensión fue normal
+11934000||ptosis palpebral
+8009008||enúresis nocturna
+79922009||epigastralgia
+105593004||alteraciones electrolíticas
+40709005||lumbalgia
+405729008||rectorragias
+21522001||dolor abdominal
+422400008||nauseas
+193523008||corectopia nasal superior
+64882008||fiebre
+42134006||metamorfopsia
+27194006||edema corneal
+61086009||pulso arritmico
+165772007||test de coombs directo negativo
+84387000||asintomática
+300561007||riñones y uréteres normales
+82971005||limitación funcional
+276412008||teste izquierdo se encuentra aumentado de tamaño
+8148005||quemosis conjuntival
+399122003||disfagia
+64882008||síndrome febril
+167221003||sin alteraciones en el sedimento
+267038008||edemas
+87273009||afebril
+271587009||rigidez
+418290006||escozor
+284520004||crepitantes bilaterales difusos
+271591004||consciente
+95665007||parestesia del nervio mentoniano
+43339004||hipopotasemia
+64882008||febrícula
+165507003||leucocitos normales
+64882008||fiebre
+20573003||mala mecánica respiratoria
+NO_CODE||ldh normal
+64779008||alteraciones de la coagulación
+9872007||transiluminación negativa
+300401007||aumento del perímetro abdominal
+203041005||síndrome de inmovilidad
+48813009||linfopenia
+309576006||muslo derecho se visualiza una masa
+84387000||asintomático
+708118007||hemocultivos fueron estériles
+314983004||deterioro de la función renal
+169254007||ecografía abdominal no había hallazgos significativos
+298721005||manubrio esternal con destrucción cortical
+58083006||multiloculaciones
+271840007||heces acintadas
+64910008||induración de la vaginal testicular
+11092001||taquicárdico
+8644006||sensación de plenitud
+75229002||microhifema
+85670002||disminución de las vitaminas liposolubles
+445925008||afectación linfomatosa
+95673003||parestesias en ambos miembros superiores
+111512005||sinequias posteriores
+766960007||defecto de repleción intracava infrarrenal
+84384007||signos de sobreproducción hormonal
+414478003||leucocitosis
+369757002||masa sólida
+274279008||dolor a nivel del injerto renal
+302215000||trombopenia
+84387000||asintomática
+473083009||vegetaciones sobre el catéter
+43478001||dolor abdominal difuso a la palpación profunda
+26237000||edemas maleolares simétricos
+168699003||gammagrafía ósea normal
+64882008||fiebre
+64882008||fiebre
+406105002||vhc (elisa-g: negativo
+118948005||cuadro abdominal
+197811007||reflujo vésico-ureteral, con alta presión
+239551005||citolisis
+49233005||disnea
+704998000||e-st cóncava
+301459008||estabilidad hemodinámica
+300307005||apéndice sin signos inflamatorios
+22325002||alteraciones en la marcha
+58439005||incoordinación motora
+418290006||prurito
+301322008||coloración violácea en falange distal del segundo, tercer y cuarto dedo de ambas manos
+271653008||ingurgitación yugular
+422400008||vómitos
+13791008||astenia
+NO_CODE||t1c
+766960007||contenido ecógeno en cava inferior
+399406009||exploración física y los marcadores tumorales son normales
+165141001||gastroscopia era normal
+105593004||alteraciones electrolíticas
+81756001||nistagmo horizontal
+31515003||hipoventilación
+64882008||fiebre
+87807004||hipopion
+79890006||anorexia
+830286009||tinción de ziehl-nielsen se observaban escasos bacilos
+445459004||igm a citomegalovirus que fue positiva
+29738008||proteinuria
+737201004||afectación grave de la mucosa desde el margen anal
+105593004||alteración hidroelectrolítica severa
+79740000||muguet oral
+27925004||nódulo
+71269007||coagulación fue siempre normal
+443371007||obnubilación
+64882008||episodios febriles
+135815002||buen estado general
+300297002||masa afectando al cuerpo y antro gástrico
+271823003||taquipnea
+422017005||excavación coroidea
+165397008||descenso de la concentración de hemoglobina
+64882008||fiebre
+128295000||inflamación ocular
+18333008||cabello amarillento, al igual que cejas y pestañas
+1092791000119103||ascenso de los umbrales en oído
+163133003||tac abdominal, que no reveló hallazgos patológicos
+300493001||teste normal
+166744008||niveles de mg dentro de la normalidad
+235993005||ocupación del hemiabdomen izquierdo
+63305008||estenosis parcial de la luz esofágica,
+301411008||palpación dolorosa a nivel de la fosa iliaca izquierda
+70819003||rubor
+253330006||porta permeable
+76917005||nódulo tiroideo
+423341008||edema de papila
+718546008||cistoscopia realizada no se observaban alteraciones endovesicales
+64882008||fiebre
+15930101000119109||edema bilateral de párpados superiores
+73230009||sensibilidad se consideró normal
+330007||cefalea intensa en región occipital
+8573003||sangrado activo
+301189006||deformación de la pirámide nasal
+29555009||alteraciones retinianas
+64882008||fiebre
+76849009||hiperemia conjuntival
+64882008||febrícula
+408568004||tac craneal no demostró ningún hallazgo patológico
+249250005||hipocromía en el glande
+234104002||exudación linfática
+126544009||ocupación de las celdillas etmoidales
+84387000||asintomático
+251722000||ángulo era abierto
+68790008||amiloide con tinción de rojo congo
+47351003||infiltración parietal
+21522001||dolor abdominal
+11833005||tos seca
+167710008||líquido cefalorraquídeo turbio-amarillento
+89362005||pérdida de peso
+271823003||taquipneico
+432525007||masa temporal
+235595009||reflujo gastroesofágico
+170728008||disminución de av en su od
+373124004||ventrículo izquierdo de dimensiones normales
+77775007||normocoloreado
+271636001||pulsaciones por minuto, rítmicas
+238772004||lívido reticularis
+53298000||hematuria
+414478003||leucocitosis
+251471009||electroencefalograma presentando una discreta lentificación difusa
+444702007||cambio del ritmo intestinal
+300260007||conducto era permeable
+8730001000004107||hemocultivos crece un e. coli
+722223000||masa quística renal
+53298000||hematuria
+250067008||ataxia truncal invalidante
+170728008||reducción de av
+714180007||grave afectación del ostium del ramo diagonal
+707724006||valores elevados de transaminasas
+166611006||bilirrubina normal
+170577003||tensiones bien controladas
+246958007||córnea con algunos depósitos estromales blanquecinos centrales y anteriores bien circunscritos
+88111009||alteración del hábito intestinal
+771115008||hipernatremia
+45626005||hemoperitoneo
+NO_CODE||haptoglobina disminuida
+166603001||alteración de los test hepáticos
+23798003||iris claro con transiluminación
+30704002||eritema en heliotropo en párpados
+247348008||dolor a la palpación
+13791008||astenia
+NO_CODE||exploración física normal
+84387000||asintomático
+87860000||tumoración carnosa mamelonada adherida al polo superior del testículo
+36976004||supresión excesiva de la ipth
+170728008||alteración de la agudeza visual
+82248001||eutímica
+419099009||éxitus
+102568007||debilidad de miembros inferiores
+289700000||actividad uterina
+170728008||disminución de la agudeza visual
+419099009||falleció
+274572000||pérdida de visión por el ojo derecho (od
+300493001||teste izquierdo de tamaño, movilidad y consistencia normal
+90415008||comportamiento infantil
+61373006||sedimento de orina positivo a bacilos gramnegativos
+286933003||síndrome confusional
+386806002||deterioro cognitivo
+233703007||patrón intersticial
+58415000||chorro aceptable
+59455009||acidosis metabólica
+73099002||sangrado en sábana
+82470000||fasciculaciones de la musculatura periférica y del diafragma
+82132006||agudeza visual de la unidad
+422587007||náuseas
+64379006||disminución de la ingesta
+309569001||complemento c3 y c4 normal
+110359009||déficit intelectual
+5291005||hipocalcemia
+129760005||calcificaciones irregulares
+422400008||vómitos
+89458003||estuporosa
+21522001||dolor abdominal
+827114001||tumoración dura en hipocondrio izquierdo que llegaba hasta el mesogastrio y fosa iliaca
+248234008||alerta
+285384003||deterioro del estado general
+419099009||falleciendo
+64730000||ritmo sinusal normal
+141701000119101||imagen hipervascular en el polo anterior del bazo
+267038008||edema
+442635007||positivo en las cuatro que se realizan para leuconostoc spp.
+422840005||masa de pared gruesa y centro hipodenso de 4 cm de diámetro en encrucijada témporo-parieto-occipital derecha
+301924000||ojo izquierdo era normal
+43724002||escalofríos
+53929009||tumoración escrotal
+301946008||motilidad pupilar era normal en ambos ojos
+52613005||sudoración
+299810004||botón corneal se mantiene transparente
+15241006||manifestaciones muscarínicas
+367649002||membrana epirretiniana premacular
+707724006||elevación de las transaminasas
+248503005||córnea deslustrada de predominio central con leve edema
+64882008||fiebre
+422400008||vómitos
+18829008||cifras bajas de electrolitos en sangre
+24982008||diplopia horizontal
+82297005||engrosamiento mucoso del seno maxilar
+414478003||leucocitosis
+87548005||dispepsia
+193745007||disminución indolora de la visión en el ojo
+719786007||pcr negativa para vhs
+46595003||sedimento activo
+102855007||sedimento se encuentran cristales de fosfato amónico magnésico
+53298000||hematuria
+5552004||anomalías en ovarios
+36649002||clonus
+238096001||mutación previamente no descrita en el gen de la apolipoproteína ai (apo ai)
+409609008||afectación parenquimatosa basal
+81141003||riñón derecho se mostraba funcionalmente normal
+13791008||astenia
+84387000||asintomático
+359746009||clínicamente estable
+53298000||hematuria
+267038008||edemas
+127001008||masa coroidea
+300357002||halo peripancreático hipodenso
+309569001||complemento fue normal
+35580009||mordida abierta
+197941005||hematuria franca
+445088006||edema en hemicara
+703630003||ojo rojo
+164177002||exploración otorrinolaringológica normal
+7847004||quelitis del labio inferior
+22253000||dolor
+76849009||hiperemia conjuntival mixta
+78195007||ocupación intraluminal por un gran un coágulo
+248185005||fascies tosca
+301961009||papila y la mácula eran normales
+170728008||mala agudeza visual
+247103004||áreas hipopigmentadas coriorretinales
+64882008||fiebre
+8943002||ganancia ponderal
+239055005||acropaquias
+166602006||perfil hepático, fueron normales
+300503008||epidídimo de características normales
+89511000119106||higromas subdurales
+275723000||deterioro clínico
+64882008||febrícula
+89362005||pérdida de peso
+249604002||próstata estaba bien delimitada
+300401007||aumento del perímetro abdominal
+5006002||déficit de perfusión
+81141003||buena función renal bilateral
+41652007||dolor ocular leve
+48638002||calcificaciones groseras parietales y centrales, ocupando los dos tercios superiores del riñón
+300287006||masa esofágica
+301132007||tonos rítmicos
+91175000||convulsiones
+80394007||hiperglucemia
+253330006||vena porta permeable
+301830001||orina muestra un ph alcalino
+53298000||hematuria
+131148009||hemorragia
+274682005||cultivos de semen: e. coli (1o), s. sprophiticus (2o), p. mirabilis
+22253000||dolor
+119247004||hipoalbuminemia grave
+89474008||estudio de extensión libre de enfermedad
+423084001||líquido subretiniano en el área macular
+167568007||urocultivo estéril
+248690009||extratonos
+405946002||hiporreflexia tendinosa
+278683009||oclusión estable y repetible
+414786004||soplos
+707724006||aumento de las transaminasas
+267084003||inestabilidad
+275723000||deterioro clínico
+27194006||edema corneal
+249543005||abdomen blando y depresible
+167735002||hiperproteinorraquia
+237783006||nódulo hipercaptante en la suprarrenal
+22994000||hiporreflexia
+33994004||acinesia
+49233005||dificultad respiratoria
+700339006||edema en párpado superior
+84229001||cansancio
+2004005||normotensa
+87860000||testículos están englobados por la fibrosis y la masa tumoral
+300848003||masa
+78341006||neutrofilia
+29738008||proteinuria
+53298000||hematuria total anemizante
+312895004||íleon por engrosamiento parietal
+396697000||aumento leve de ldh en sangre
+24612001||roncus
+66255005||disminución de la erección
+300848003||masa
+81141003||función renal normal
+10000006||dolor torácico, irradiado a espalda
+717159009||positivas con las técnicas de pas y plata metanamina para hongos
+164730004||tonometría normal
+267096005||cefalea frontoparietal
+41652007||dolor en oi
+423902002||púrpura palpable en ambas extremidades inferiores
+246658005||«manchas» en el campo visual
+879977008||región supracardial, una mucosa irregular,
+164734008||fondo de ojo no se apreciaron alteraciones
+40709005||lumbalgias
+422990005||menisco lagrimal de ambos ojos marcadamente reducido
+102957003||focalidad neurológica
+166165005||serologías normales
+166315009||bioquímica, los iones y transaminasas eran normales
+89362005||pérdida ponderal
+24982008||visión doble
+247348008||dolorosa a la palpación
+165879008||descenso en el título de los anticuerpos antitiroideos
+204676004||mucosa gástrica heterotópica
+707218004||aumento de densidad ósea a nivel mandibular en región parasinfisiaria
+168733007||radiografía de tórax fueron normales
+89362005||pérdida de peso
+162051008||dolor abdominal en fid
+164717000||electroencefalograma que resulta ser un trazado sin hallazgos patológicos
+40492006||maniobra de credé para vaciar vejiga
+734871004||estudio cromosómico fue masculino 46 xy con cariotipo normal
+118434000||cavidad gástrica sin restos hemáticos
+3545003||mala relajación ventricular
+22253000||dolor
+816053001||cuadrante ínfero-interno de mama izquierda una tumoración sólida
+84387000||asintomática
+249607009||gran próstata
+449171008||valores reducidos de saturación de oxígeno de oxihemoglobina
+22253000||dolorosa
+167709003||líquido cefaloraquídeo tenía un aspecto ligeramente xantocrómico
+300449001||coágulo filiforme que asomaba por el meato ureteral
+300848003||masas
+131148009||sangrado
+13028004||deterioro neurológico
+367391008||malestar general
+111975006||prolongación de qt
+301855007||ganglios negativos
+300848003||masa
+247108008||fuga peripapilar bilateral desde tiempos precoces
+71884009||dolor precordial
+236591007||ectasia del tracto urinario superior
+26079004||temblor
+18963009||oscilaciones del estado de ánimo
+425363002||sonrisa social
+235957008||colección peri-pancreática
+247195001||coroides con límites precisos que abarca todo el área macular
+95442007||cianosis periférica
+86925001||cefalea frontal y retro-ocular
+64882008||fiebre
+409668002||fotofobia
+35580009||mordida abierta
+63049000||hueso sano
+33688009||colestasis
+438949009||vivo
+445088006||edema facial
+163586006||exploración neurológica es rigurosamente normal
+165140000||imagen endoscópica de la región perianastomótica resultó normal
+31574009||soplo sistólico ii/vi polifocal
+9589009||dificultad para la deambulación
+170728008||pérdida de agudeza visual en ojo izquierdo
+445249002||infiltrados nodulares pulmonares
+167717006||lcr acelular
+168733007||radiografía de tórax no mostró alteraciones
+125217008||integridad y funcionalidad de la anastomosis
+251150006||ritmo sinusal
+30098003||hiperemia
+267038008||edemas
+415520000||componente monoclonal en proteinograma
+246992005||reacción inflamatoria en cámara anterior
+165879008||anticuerpos antitransglutaminasa tisular iga positivos
+95545007||diarrea sanguinolenta
+122449004||aire en la fosa renal
+370950002||opacidad de medios
+125130002||técnica de supresión grasa demostró una discreta hiperintensidad
+64882008||fiebre
+60862001||acúfenos de instauración súbita
+34887006||madarosis
+84387000||asintomática
+112099006||signo de trosseau
+44647001||flujo sanguíneo activo en la ahp
+59455009||acidosis metabólica
+419099009||fallecidos
+102512003||sanos
+262907000||rotura vesical póstero-lateral izquierda extraperitoneal
+249543005||abdomen es blando, depresible
+1003721002||dolor en rodilla
+260296003||percepción de luz
+10325006||disfasia nominal
+102867009||color morado de la orina
+300848003||masas
+399647000||t3bn0
+27731006||deposiciones blandas
+711376006||normalidad de la glándula suprarrenal
+87763006||hemorragia digestiva baja
+301151001||pulsos distales se hallaban conservados
+438949009||vivo
+29738008||proteinuria
+167318003||cultivo de bacilo de koch en orina con tinción de kinyoun negativa
+301417007||puño percusión renal izquierda positiva
+247342009||sensación de cuerpo extraño
+21454007||hemorragia subaracnoidea frontoparietal derecha
+301926003||conjuntiva normal
+31390008||hiperplasia de criptas
+301175001||congestión venosa
+788918005||llanto inconsolable
+70819003||enrojecimiento
+310438004||citologías de orina fueron negativas
+443371007||deterioro del nivel de conciencia
+238922006||pérdida de cuero cabelludo
+30098003||hiperemia
+8955008||expectoración mucopurulenta
+64882008||fiebre
+8730001000004107||hemocultivos seriados en los que se aisló de forma persistente neisseria sicca
+166165005||inmunología negativa
+64882008||fiebre
+398637008||retina in situ en la ecografia modo b
+441935006||desdentada completa superior e inferior
+79231000||hidrotórax
+275723000||deterioro clínico
+445328000||micropápulas pruriginosas
+79890006||anorexia
+64882008||fiebre
+430909002||alteraciones de conducta
+262285001||disminución de peso
+300357002||páncreas aumentado de tamaño
+126705004||tumoración endobronquial
+419099009||fallecimiento
+300532006||área hiperecogénica en el lóbulo prostático
+442635007||cultivo positivo para pseudomona aureaginosa
+309557009||disminución de la sensibilidad en la hemicara
+102564009||edema discreto de la mano
+300848003||tumoración
+166787006||leve incremento de la gammaglobulina
+22253000||doloroso
+163586006||exploración general y neurológica fue normal
+165141001||gastroscopia era normal
+72196001||reflejo hepatoyugular positivo
+2472002||anuria
+419326002||limitación en todas las posiciones de de la mirada
+300848003||tumoración profunda
+16632002||hemoneumotórax derecho espontáneo
+233703007||patrón intersticial bilateral
+24743004||hipocomplementemia
+128295000||inflamación intraocular
+27355003||dolor a nivel del tercer molar inferior
+34095006||signos de depleción hidrosalina
+409587002||diarrea intensa
+135815002||estado general conservado
+49218002||dolor en cadera derecha de varias semanas de evolución, irradiado por cara ántero-lateral del muslo hasta rodilla
+710779007||reflujo pasivo derecho y activo
+300995000||angina a pequeños esfuerzos
+445201008||antígeno carcinoembrionario (cea) se encontró elevado
+840672002||cristalino transparente
+162984005||exploración cardiopulmonar no reveló ninguna anomalía
+314138001||nitritos negativos
+72352009||válvula aórtica bicúspide
+89362005||pérdida de peso
+102867009||color morado de la orina
+15253005||asimetría facial
+301459008||hemodinámicamente estable
+24982008||diplopía
+79688008||signos de compresión de vía aérea
+309088003||masa encapsulada con respecto al parénquima renal
+300442005||riñones de tamaño normal
+5291005||hipocalcemia
+NO_CODE||depósito focal hipermetabólico
+63049000||estructura ósea normal
+76917005||bocio multinodular con presencia de un nódulo sólido
+396700001||aumento de la beta-hcg
+386789004||eosinofilia
+271594007||episodio sincopal
+399406009||marcadores testiculares negativos
+1141007||hipoestesia labio - mentoniana
+32861005||eritema nodoso
+301973009||secreción lacrimal
+166642001||alt y ast menos de 3 veces el valor normal
+93457003||líquido libre intraperitoneal
+251723005||ángulo abierto
+48500005||delirio de interpretación no sistematizado
+82470000||fasciculaciones
+300861003||tumoración de aproximadamente 5x5cm de diámetro medial al tercio inferior del músculo esternocleidomastoideo
+314983004||deterioro importante de la función renal
+237783006||tumoración adrenal
+72970002||examen clínico y sus signos vitales eran normales
+191296000||déficit relativo de factores de síntesis hepática (factor v 36,63%, vii
+128073008||desplazamiento del segmento lumbo-ilíaco del uréter
+22253000||dolor
+300848003||tumoraciones
+111512005||sinequia posterior
+304344002||limitación para los movimientos laterales de la zona cervical
+64882008||fiebre
+419099009||murió
+300449001||indemnidad del uréter distal
+408573005||estudios radiológicos normales
+60845006||disnea de esfuerzo
+406116009||tpha: positivo
+164722000||electromiograma normal
+300332007||masa de 8 x 7 x 5 cm en lóbulo hepático derecho
+84387000||asintomático
+90256008||actividad osteogénica intensamente aumentada a nivel de la articulación esternal
+563001||nistagmo
+59931005||inversión de la onda t en derivaciones iii y avf
+31892009||hemotórax
+79890006||anorexia
+249250005||glande hipocrómico, hipotérmico
+29738008||proteinuria
+43339004||hipopotasemia
+75229002||hifema
+82385007||cava intrahepática disminuida de calibre
+300848003||tumoración
+7262008||niveles más elevados de ipth
+161941007||disnea de reposo
+422400008||vómitos
+91175000||convulsiones
+166921001||glucemia en valores normales
+271594007||síncopes
+300329009||hígado heteroecoico, superficie irregular
+442523003||aspecto cicatricial
+708118007||hemocultivos negativos
+440299000||masa extrínseca retrocardiaca
+249244000||flaccidez peneana
+414786004||soplos
+21779006||testículo derecho en ascensor
+22253000||dolor
+48348007||murmullo vesicular conservado
+33940009||necrosis caseosa
+5559008||citología fue negativo para células malignas
+282360001||dolor progresivo del testículo
+408568004||tac craneal en el que no se aprecian anormalidades
+386789004||eosinofilia
+21454007||hemorragia subaracnoidea
+118953000||buen llenado óseo
+69559004||masa en reteroperitoneo
+838411007||doloroso a la palpación en hemiabdomen derecho
+300848003||masa
+249562008||desplazamiento de las asas intestinales
+15930301000119107||edema de papila en od
+65124004||hinchazón generalizada
+110279003||libre de enfermedad
+102594003||onda j en las derivaciones inferiores y anteriores
+399406009||marcadores tumorales fueron negativos
+301367001||dolor abdominal de predominio en hipocondrio derecho
+102588006||dolor intermitente localizado a nivel del hemotórax
+718403007||disminución de la diuresis
+87273009||afebril
+25064002||cefalea
+251858002||balances hídricos negativos
+708118007||cultivo negativo
+131148009||sangrado
+22253000||dolor
+9589009||dificultad para la deambulación
+186193001||mycobacterium tuberculosis, aislada de una muestra de esputo
+166862006||niveles de phe fueron normales
+276444007||prurito generalizado
+419326002||limitación a la levosupraversión del oi
+301459008||hemodinámicamente estable
+82385007||pérdida de la intensidad de señal de las suprahepáticas
+330007||cefalea occipital
+37125009||midriática
+443607001||masas no móviles ni dolorosas
+405729008||rectorragia
+251150006||ritmo sinusal
+271812002||facies febril
+302215000||plaquetopenia
+300848003||masa
+22253000||dolorosa
+24982008||diplopía
+408568004||tac craneal normal
+251508002||asimetría interhemisférica del trazado
+196393007||lingual, la expansión de la tabla es solo en zona de canino y bicúspides inferiores derechos
+707724006||elevación de las enzimas hepáticas
+43724002||escalofríos
+238131007||sobrepeso
+64882008||febril
+165232002||incontinencia urinaria
+300260007||drenaje de la glándula parótida izquierda es normal
+708118007||cultivo fue negativo
+249604002||colección líquida multitabicada, localizada caudalmente
+87273009||afebril
+300527005||pene sin hallazgos de interés
+422400008||vómitos
+68191002||escapes de orina son escasos y nocturnos
+419099009||falleció
+122449004||aire en el riñón izquierdo y tejidos perirrenales, que infiltra la pared abdominal
+73099002||sangrado en sábana de la pared
+102957003||focalidad neurológica
+91175000||convulsiones
+55930002||d-st marcada en derivaciones v1 a v5
+84828003||leucopenia
+84387000||asintomático
+734444009||cocos gram positivos en pares y cadenas
+285384003||deterioro de su estado general
+170728008||pérdida progresiva de agudeza visual
+428090004||ocupación vesical por una imagen que sugería coágulo
+443371007||disminución del nivel de conciencia
+23924001||sensación de nudo retroesternal
+248314009||disminución de masa magra y masa grasa
+309088003||masa sólida en polo superior de riñón
+830010004||exploración genital es normal
+52613005||sudoroso
+247078006||reabsorción del hemovítreo
+284260004||buena fuerza prensil
+442635007||aislamientos previos de staphylococcus epidermidis
+89757007||máculas
+42538001||restos auditivos en frecuencias graves
+128139000||inflamación
+103251002||motilidad extrínseca e intrínseca fue normal
+707724006||elevación de transaminasas
+1202017008||adelgazamiento por desgrasamiento de los colgajos
+1148582006||mejoría de la función renal
+237557003||masa en el lóbulo tiroideo
+445548006||muerte fetal
+300438007||intestino delgado y colon normales
+22220005||incontinencia urinaria de esfuerzo
+300848003||masa
+63305008||engrosamiento de la unión esófago-gástrica
+13791008||astenia
+308923001||síntomas oculares
+300848003||masa radiolúcida homogénea unilocular
+64882008||síndrome febril
+60280003||valores de presión intraocular fueron normales
+109771000||enrojecimiento bucal
+163352001||ecografía renal, vesical y prostática no se encontraron alteraciones
+303011007||neutropenia
+118435004||asa ileal de calibre normal con pliegues conservados
+285384003||deterioro del estado general
+47461006||portador de la mutación causal de la enfermedad de vhl
+119522002||engrosamiento difuso de asas de intestino delgado a nivel de yeyuno distal e íleon
+300848003||tumoración
+860970003||estudios biomicroscópicos anterior y posterior fueron normales
+301354004||otodinia
+162024005||disfagia moderada a sólidos
+164965006||test intradérmico de tiamina. este resultó negativo
+89458003||estupor
+840671009||cristalino íntegro
+164854000||electrocardiograma fue normal
+87273009||afebril
+44647001||extremo anterior de la ahp con contenido hemático
+404640003||mareo
+235878005||arteria hepática prominente
+711384005||reducción del volumen del pie
+309551005||síntomas b
+400019007||afectas a la piel del pubis, escroto y periné
+9826008||inflamación, en el sector nasal superior de su ojo
+389026000||ascitis
+724858005||tejidos periféricos estaban edematizados
+161941007||disnea de reposo
+39659002||anhidrosis
+428090004||vejiga resecándose una masa
+162024005||disfagia a sólidos y líquidos progresiva
+43724002||escalofríos
+166814000||niveles séricos de lípidos fueron normales
+15926941000119108||tercio externo del párpado superior izquierdo había una masa de 4 ¥ 3,5 cm, dolorosa
+276362002||eupneica
+197941005||hematuria macroscópica
+427867005||colaboradora
+62315008||diarreas
+282752000||hiperpresión masiva que comprimió el globo ocular
+168733007||radiografia de tórax sin alteraciones significativas
+89362005||pérdida de de peso
+422400008||vómitos
+275723000||empeoramiento del estado general
+309532004||masa paravertebral bilateral, que infiltraba la vértebra a nivel c7-d1
+441687008||escasa captación isotópica del riñón
+698594003||signos de icc
+64882008||fiebre
+168733007||radiografía de tórax siendo igualmente negativa
+274744005||ganglios aumentados en número a nivel paraórtico
+297974009||dolor al roce y a la movilización
+268375009||mantoux (prueba de tuberculina) negativa
+301103009||normalidad de la válvula mitral
+40788000||hiposfagma generalizado
+166315009||analítica (incluyendo ldh) no se apreciaron valores anormales
+65956007||ceguera
+8943002||ganancia ponderal
+64882008||fiebre
+271860004||masa referida, en íntimo contacto con la pared de vena cava inferior
+249543005||abdomen era blando, depresible
+247188005||lagunas coriorretinianas
+30281009||colecciones
+49727002||tos
+78341006||neutrofilia
+13791008||astenia
+129139009||esclerosis a nivel de l4
+49233005||disnea
+55930002||d-st descendente en las derivaciones v1-v2
+49650001||disuria
+782392005||pápulas en codos y brazos
+167576009||cultivo de lowestein positivo en la orina
+303011007||neutropenia
+89362005||pérdida del 23% de su peso habitual
+8730001000004107||hemocultivos positivos a staphylococcus (st.) aureus
+285243004||bradipsiquia
+82020005||hipomagnesemia leve
+271591004||consciente
+719725008||amplificación genómica (pcr) para m.tuberculosis fue negativa
+89757007||rash maculoso y eritematoso que afecta a tronco y cuello
+168733007||radiografía de tórax rigurosamente normal
+79692001||paso de suero desde la aurícula derecha a la izquierda
+274769005||albuminuria
+38671000119103||alteraciones en la micción
+118166004||iridofacodonesis bilateral
+237783006||tumoración en el área suprarrenal
+307490000||exudado seroso
+267038008||edema
+284137004||conservación de la motilidad en extremidades
+89627008||hiponatremia
+416721005||disminución del parpadeo
+414478003||leucocitosis
+423716004||extremidades inferiores, asociadas nuevamente a petequias
+246636008||visión borrosa
+81141003||función renal conservada
+35013009||secreción purulenta
+53430007||dolor en mama
+300339003||integridad de la vía biliar intra- y extrahepática
+7520000||fiebre de origen desconocido
+64882008||síndrome febril
+392437005||embriotoxon posterior
+225581002||mala visión
+269833008||eber(veb) fue positivo
+18165001||ictericia
+102594003||alteraciones electrocardiográficas
+102613000||dolor abdominal en el hipogastrio, de moderada intensidad y tipo opresivo, irradiado al glande
+262898000||masa dentro de la luz ureteral
+429783005||hipoestesia parcheada en las extremidades inferiores
+102801008||niveles elevados de renina
+25064002||cefalea
+62330004||función del músculo elevador izquierdo se encontraba limitada
+422840005||proceso expansivo frontoparietal, extendido al lóbulo frontal derecho y al cuerpo calloso
+781682005||inyección muy severa de la vascularización conjuntival, ciliar y epiescleral
+166165005||anticardiolipina igg en valores normales
+106150003||pares craneales normales
+40709005||dolor lumbar
+23168003||alteraciones del habl
+162049009||dolor a nivel de flanco izquierdo
+NO_CODE||signo de vincent (-)
+197811007||reflujo vesicoureteral pasivo grado iii derecho y activo
+55446002||mutación (q154r) en el exón 5 del gen xlrs
+399406009||marcadores tumorales normales
+64882008||fiebre
+829991004||temblor distal
+168265009||negativos los marcadores virales para hepatitis
+73707004||nivel hidroaéreo
+201051000||esclerodactilia
+87548005||dispepsia
+472763005||masa de 4 x 5 cm dependiente de la aurícula izquierda
+65814009||cristalino prolapsado
+54200006||convulsión tónico-clónica generalizada
+27942005||preshock
+247233000||microhemorragia por encima de papila
+302200001||palidez de ambas papilas
+251237002||ondas t acuminadas en derivaciones v2-v3
+89458003||estuporosa
+419099009||fallecimiento
+91019004||parestesias
+164727006||ortotropia
+91175000||episodios convulsivos
+300848003||masa era indolora
+8148005||quemosis intensa generalizada
+196417006||terceros molares incluídos, en posición mesioangular, con sendos sacos foliculares,
+446394004||cultivo del líquido pericárdico fue negativo
+5112009||vejiga hiperrefléxica
+300848003||tumoración
+225566008||angina
+442768008||material mucoide infiltrando toda la cavidad peritoneal
+399406009||cifras normales de marcadores tumorales germinales
+165622003||estudio del hierro sin alteraciones
+15625571000119102||actividad paroxística
+309088003||masa renal
+21522001||dolor abdominal
+102568007||déficit motor en miembro inferior
+84387000||asintomático
+197941005||hematuria macroscópica
+125138009||nódulos tumorales
+168289002||cultivos cornéales fueron negativos
+708118007||cultivo del broncoaspirado no mostró crecimiento para bacterias, hongos ni mycobacterias
+277117000||asimetría en la morfología de las respuestas a la estimulación de ambos ojos
+702756006||correcta hidratación y perfusión muco-cutánea
+135815002||buenas condiciones generales
+782393000||lesiones eritematosas dolorosas limitadas a las extremidades inferiores
+45676007||masa intraoral pediculada en la encía superior
+28998008||hemorragia macular
+371030007||dolor dorsal opresivo
+271823003||taquipnea
+838412000||doloroso a la palpación en área lumbar bilateral
+87273009||afebril
+301459008||hemodinámicamente estable
+298478001||dolor y dificultad para movilizar el cuello
+89362005||pérdida de 5 kg de peso
+710325001||enterobacter cloacae, también aislado en sangre y muestra de paaf
+165879008||estudio inmunológico fue positivo para el anticuerpo anti gq-1b
+880055007||monorrena
+247663003||orientada
+39575007||coluria
+473195006||aceptable función del injerto renal
+167985001||zn de esputo negativo
+165772007||coombs directo eritrocitario poliespecífico negativo
+49901000119105||masa dolorosa en el tercio externo del párpado superior
+131148009||sangrante
+386689009||hipotermia
+399406009||marcadores tumorales fueron negativos
+165141001||gastroscopia que resultó normal
+170728008||disminución de agudeza visual
+87273009||afebril
+79890006||pérdida apetito
+440653007||crecimiento polimicrobiano en el catéter con la vegetación
+165414004||descenso de hto
+NO_CODE||exploración normal
+275403002||irregularidad en el patrón vellositario
+285384003||afectación del estado general
+2004005||normotensa
+254831005||tumoración grasa
+40709005||dolor lumbar
+142261000119100||déficit de atención
+131148009||resangrado
+249944006||paraparesia en msi
+414786004||soplos
+91019004||parestesias
+22006008||hipertelorismo
+6660000||biopsia de la pieza de reducción una hiperplasia ductal con atipias
+85670002||déficit vitamínico
+64882008||cuadro febril
+70784009||meningismo
+84387000||asintomática
+24612001||roncus
+257552002||flogosis
+162053006||dolor hipogástrico
+110341006||dolor a la palpación de los tejidos pericoronarios del tercer molar inferior
+28998008||hemorragias retinianas
+161980004||extremidades no había edemas
+43724002||escalofríos
+302215000||trombopenia
+166717003||elevación de la creatinina sérica
+236116005||pérdidas por ileostomía
+300848003||tumoración
+300441003||adecuada diferenciación cortico-medular
+710592007||niveles serológicos de igm frente a b. henselae por elisa fueron positivos
+15253005||desviación de la línea media facial
+164734008||fondo de ojo muestra una apariencia prácticamente normal
+274771005||proteínas de bence-jones
+13937002||hemorragia subretiniana
+64882008||fiebre
+373408007||alteraciones tróficas en extremidades inferiores
+95255005||hipotonía extrema del globo ocular
+300357002||páncreas aumentado globalmente de tamaño, hipodenso
+168856006||cistografía que fué normal
+404684003||síntomas
+69559004||masa quística polilobulada retroperitoneal derecha
+82132006||agudeza visual (av) era de la unidad en ambos ojos
+164717000||registro electroencefalográfico de 24 horas de duración en el que no se evidencian alteraciones
+247078006||imagen lineal hiperecogénica respecto al vítreo
+300492006||microcalcificaciones en testículo
+398637008||retina aplicada
+84387000||asintomática
+128078004||afectación polirradicular sensitivo-motora de predominio axonal severa de extremidades inferiores (eeii) y leve de extremidades superiores (eess)
+166642001||transaminasas y enzimas de colestasis dentro de la normalidad
+247348008||dolorosa a la palpación
+131148009||hemorragia
+88458008||cultivos aeróbicos se recuperó l. monocytogenes
+91369002||débito de la fístula, en ocasiones con aspecto hemático
+23268009||simulación
+102594003||alteraciones electrocardiográficas
+253208007||ausencia de cejas
+39832008||exudados algodonosos en polo posterior
+14720231000119109||apéndice epiploico
+275302008||tacto rectal volumen i adenomatosa, ligeramente doloroso
+314138001||nitritos negativos
+300848003||tumoración
+406010001||vhb (aghbs: negativo
+67023009||linfocitosis
+45007003||hipotenso
+53298000||hematuria
+197941005||hematuria macroscópica
+285462004||imposibilidad para la apertura bucal
+NO_CODE||"imagen en ""pseudoriñón o sandwich"""
+2901004||melenas
+197940006||microhematuria
+422773005||desestabilización hemodinámica
+95820000||hipoacusia bilateral
+52985009||ascitis quilosa
+166159005||negativo para antígeno prostático específico
+64882008||fiebre
+363646005||ensanchamiento mediastínico
+235993005||colección peri-injerto
+300848003||tumoración sólida
+300848003||tumoración
+84387000||asintomático
+424372002||edema distal de la extremidad
+422400008||vómito
+249321001||raiz nasal ancha
+131148009||hemorragia
+168733007||radiografía de tórax fue normal
+21522001||dolor abdominal
+19829001||alteración de los hilios pulmonares
+246874003||queratinización conjuntival.
+102594003||onda j en las derivaciones v1-v2
+249274008||síntomas miccionales
+84387000||asintomática
+24743004||hipocomplementemia
+49233005||disnea de intensidad progresiva
+29738008||proteinuria
+249266007||epidídimo engrosado, hipoecoico y con vascularización periférica
+300848003||masa
+64882008||fiebre
+421561005||reducciones campimétricas concéntricas severas en ambos ojos
+24199005||agitación
+419099009||falleció
+830010004||genitales normales
+309306009||tinción de ziehl neelsen modificada fue negativa
+441837004||signo de nikolsky positivo
+49483002||leve engrosamiento del hilio pulmonar
+225565007||dolor perineal
+249504006||evacuando el gas
+64882008||febrícula
+66857006||expectoración hemoptoica
+399861008||engrosamiento foveal
+9908006||desarrollo sicomotor acorde para su edad
+716292004||imagen radiolúcida de 10 cm de longitud, multiloculada, localizada desde distal del diente 46 hasta mesial del 33
+276331001||aumento del hemiescroto
+708118007||cultivo negativo
+309088003||formación ocupante de espacio, sólida, en sector interpolar y polo inferior del riñón izquierdo de 65mm de diámetro, hipovascularizada
+126821004||masa tumoral en tercio superior esofágico
+61618002||función sistólica normal
+442184000||análisis de orina resultó positivo para cocaína y sus metabolitos y benzodiazepinas
+11131000119108||zona hiperfluorescente yuxtafoveolar inferior en tiempos tardíos
+698594003||signos de insuficiencia cardiaca
+300882009||aumento de tamaño de los genitales
+418290006||prurito
+18265008||proptosis de un año de evolución en ambos ojos
+6631009||trombocitosis
+33958003||induración dolorosa de la base peneana
+423902002||púrpura palpable en las extremidades inferiores
+167667006||sangre oculta en heces era negativa
+300493001||testículo derecho tenía un tamaño y consistencia normales
+405729008||rectorragias
+NO_CODE||lavado broncoalveolar evidenció una moderada cantidad de linfocitos
+300493001||teste derecho de características normales
+43922008||claudicación mandibular
+21522001||dolor abdominal
+269846003||hormonas tiroideas normales
+170728008||disminución de agudeza visual
+24743004||hipocomplementemia
+13791008||astenia
+64882008||fiebre
+394679006||hipertonía de extremidades
+399122003||disfagia
+41652007||dolor ocular
+312902008||pseudoagujero macular
+285384003||afectación del estado general
+286933003||síndrome confusional
+33958003||induración del tercio distal del cuerpo del pene
+298354005||aumento de volumen óseo
+5559008||paaf: celulariad epitelial sin malignidad
+21522001||dolor abdominal
+1217489007||masa de aspecto neurofibromatoso en la región del reborde alveolar inferior, lingualmente a los incisivos
+249301002||uretrorragia
+64882008||fiebre
+299236004||coxa valga
+52613005||sudoroso
+260296003||percepción de luz
+708291009||se detectó mediante técnica de pcr la presencia del virus herpes humano tipo 8
+366291000||ausencia total de flujos al 100% del pene
+262852001||equimosis en duodeno, yeyuno, íleon y ciego
+369757002||masa sólida con áreas hemorrágicas
+445201008||leve elevación de cea
+56681004||obliteración de iv ventrículo
+25064002||cefalea
+81141003||función renal permaneció normal
+170728008||disminución de av
+309088003||masas renales
+300848003||masa
+NO_CODE||exploración sistémica, resultando todos los estudios normales
+840458000||cuerpos coloides en ambos ojos
+300441003||hipointensidad de señal en la corteza renal
+43724002||escalofríos
+84387000||asintomática
+49233005||disnea
+64882008||fiebre
+22253000||dolor persistente
+707724006||alt y ast mayores de 20 veces el valor normal
+162053006||dolor hipogástrico
+442756004||niveles de arp y ap estaban elevados
+301855007||ganglios linfáticos
+10679351000119109||zona anterior izquierda mandibular se apreció una masa
+708118007||cultivo líquido pericárdico fue estéril
+9209005||abdomen agudo
+81141003||función renal se mantuvo normal
+64882008||fiebre
+31462008||polaquiuria
+310286009||anticuerpos anti-yo que fueron positivos a títulos altos en suero y en lcr
+62315008||diarrea
+112638000||efecto masa
+129759000||cv en las arterias radiales e interdigitale
+218951000119100||limitación en la abducción de ao
+102031000119109||masa adyacente al polo superior de teste
+88458008||cultivo bacteriológico, identificando streptococo pyogenes
+445328000||pápula eritematosa, levemente dolorosa a la presión
+699433000||portador de vih
+267084003||inestabilidad
+NO_CODE||débito por ileostomía superior
+93457003||líquido peritoneal
+80612004||hemoparásitos del género leishmania
+27925004||nódulo hiperecoico
+95539004||asas de íleon pélvico de calibre disminuido
+1144674006||normohidratada
+6548007||tenesmo rectal
+271591004||adecuado nivel de consciencia
+300561007||uretra bulbar normal
+43724002||sensación distérmica
+49901000119105||nódulo indurado en párpado superior
+300848003||masa
+87860000||masa de 8 cm en teste
+66931009||hipercalcemia
+398152000||hipotonía generalizada
+106106004||se visualizó la vesícula seminal izquierda
+404640003||mareo
+285384003||deterioro del estado general
+91175000||episodio convulsivo
+409674002||alteración en el tiempo de protromina
+161925006||expectoración mucosa
+251150006||ritmo sinusal
+30233002||odinofagia
+4210003||tono ocular digital aumentado
+197476001||malabsorción leve
+300848003||masa hipoecoica
+235771005||nódulo de consistencia dura en la punta del apéndice
+29738008||proteinuria
+164734008||fondo de ojo (fo) no relevante
+262912004||extravasado en uretra peneana proximal
+8644006||pesadez posprandial
+13791008||debilidad generalizada
+237883001||síndrome de hueso hambriento
+299704007||tumoración de crecimiento progresivo de hemimaxilar
+422587007||náuseas
+274769005||albuminuria
+59540003||dilatación de los ventrículos laterales
+248279007||debilidad
+102572006||edemas en miembros inferiores
+302870006||hipertrigliceridemia
+52613005||sudoración profusa
+164955000||intervalo qtc normal
+167973009||citología del líquido pleural fue positiva para células tumorales malignas
+359746009||estable
+91175000||convulsiones
+279040009||dolores lumbares de tipo mecánico
+84454003||hemiabdomen derecho, masa dolorosa
+409668002||fotofobia
+16617009||disfonía
+166159005||psa dentro del rango de la normalidad
+80515008||aumento del hígado
+278995006||puntos dolorosos en la percusión de senos paranasales
+15188001||hipoacusia
+76917005||nódulo tiroideo sólido, con calcio
+165406005||parámetros normales de las tres series hematológicas
+67023009||leucocitosis de predominio linfocítico
+22631008||inestabilidad de la marcha
+422773005||alteración hemodinámica severa
+82020005||hipomagnesemia leve
+8573003||sangrado activo
+389026000||ascitis
+118247008||administración de gadolinio se observó una discreta captación del mismo
+31819001||cultivos y la patología confirman infección por mucor
+274535006||acúmulo patológico de radiotrazador a dicho nivel, así como en región supraorbitaria izquierda
+302065000||imagen seudonodular hiperecogénica en la zona posteromedial del lóbulo tiroideo
+131148009||resangrado
+11092001||taquicardia
+105597003||pérdida de visión
+248161002||vestimenta extravagante
+59455009||acidosis metabólica
+91175000||crisis
+282145008||imposibilidad para la marcha
+247109000||flujo sanguíneo normal de la arteria central de la retina y de las arterias ciliares posteriores
+394717006||orina con leucocitos negativos
+64882008||febrícula ocasional
+13937002||hemorragia subretiniana
+419099009||exitus
+28543008||organomegalias
+18165001||ictericia
+399406009||marcadores tumorales séricos estaban en niveles normales
+68600005||hemoglobinuria
+787182003||aislamiento de trichophyton mentagrophytes en el cultivo
+162050009||dolor en flanco/fosa renal derecha que le irradia hasta teste ipsilateral
+423341008||papiledema
+235107001||desplazamiento anterior de los cóndilos mandibulares
+80394007||hiperglucemia
+102967008||potenciales evocados fueron normales en od
+68600005||hemoglobinuria macroscópica
+447931005||clínica séptica
+87273009||afebril
+110279003||intervalo libre de enfermedad
+21522001||dolor abdominal
+79890006||anorexia
+249274008||sintomatología urinaria
+130951007||globo vesical
+309306009||pruebas complementarias incluyendo microbiológicas fueron negativas
+246975001||ictericia mucocutánea indolora
+26544005||debilidad muscular
+79890006||anorexia
+443371007||disminución del nivel de conciencia
+300848003||masas
+70784009||meningismo
+46575009||limitación a la función de flexión
+87194000||engrosamiento de la capa de fibras en el ojo
+409668002||fotofobia intensa
+210814008||compresión de los vasos ilíacos
+734045002||afectación de la grasa peripancreática
+35158001||oftalmoparesia
+70759006||piosis cutánea
+NO_CODE||keratinas de amplio espectro, citoqueratina 7, ema, actina, enolasa, s-100, cromogranina y p53 negativas
+25136009||marcha atáxica
+40709005||dolor lumbar
+18265008||exoftalmos bilateral
+84387000||asintomático
+413231006||suprahepáticas con mínima captación de flujo, aplanado
+29738008||proteinuria
+64882008||fiebre
+13791008||astenia
+300449001||uréter normal
+53881005||nuligesta
+25064002||cefalea intensa
+313170008||en la colonoscopia, no se observaron alteraciones
+64882008||cuadro febril
+423459005||adelgazamiento corneal sobre la zona de perforación
+300863000||masa axilar
+31341008||hemovítreo
+63049000||estructura ósea normal
+65404009||desnutrición severa
+43339004||hipopotasemia
+404675003||cámara anterior era estrecha
+267096005||cefalea bifrontoparietal
+247194002||lesión hiperfluorescente con difusión tardía en el oi
+1144523008||vida normal
+74474003||hemorragia digestiva
+75581001||atrofia de vellosidades en duodeno
+64882008||registros febriles
+87860000||nódulo hipoecoico en testículo
+87070002||calcificaciones puntiformes en la pared quística
+13791008||astenia
+300561007||normalidad de los estudios urológicos
+170728008||disminución de la av
+128145008||defecto de repleción con pérdida de pliegues mucosos
+22253000||dolorosa
+300848003||tumoración endofítica
+102594003||depresión pronunciada del punto j
+22253000||dolorosa
+64882008||fiebre
+77853002||peristaltismo débil
+13791008||astenia
+NO_CODE||ecografía urinaria: normal
+249543005||abdomen era blando y depresible
+412730000||estudios citogenéticos negativos
+6273006||priapismo
+267727004||pérdida de visión bilateral, progresiva e indolora
+163285006||fosa iliaca derecha un nódulo de un centímetro de diámetro hipervascularizado
+271823003||aumento de la frecuencia respiratoria
+84387000||asintomático
+90708001||retención en polo superior izquierdo
+110279003||intervalo libre de enfermedad
+282050000||yeyuno proximal una tumoración, friable y ulcerada
+300938001||crisis sudorales
+21522001||dolor abdominal
+167221003||sedimento urinario no mostraba alteraciones
+87361006||leucocitosis de 26.500/mm3 con desviación a la izquierda
+47295007||agitación psicomotriz
+408573005||pruebas de imagen resultaron negativas
+445895003||árbol bronquial no presentaba alteraciones
+53772007||dpv prepapilar denso
+276888009||respiración espontánea
+75694006||inflamación pancreática difusa con exudados
+167754002||lcr no detectándose bandas oligoclonales
+102031000119109||masa paratesticular
+301459008||estable hemodinámicamente
+77957000||fiebre intermitente
+61294007||delgadez
+300441003||parénquima renal izquierdo conservado
+784285002||tenesmo vesical
+77981007||deterioró el perfil hepático
+300848003||masas
+247348008||dolorosas a la palpación
+444905003||masa de partes blandas
+298378000||cuello era negativo
+246975001||ictericia muco-cutánea
+110292000||tolerancia dificultada a la nutrición enteral
+218951000119100||limitación de la abducción bilateral
+NO_CODE||prótesis mitral normofuncionante
+302200001||palidez papilar en oi
+81141003||buena función renal
+1003722009||dolor en el hueco poplíteo
+62476001||desorientación
+830011000||tórax no muestra datos patológicos
+69559004||masa retroperitoneal
+301354004||otalgia
+300265002||saliva limpia y fluida
+15280003||escasos ruidos intestinales
+14140009||hiperpotasemia
+102594003||onda j en v1-v2
+27925004||nódulo
+271823003||taquipnea persistente
+50673007||células atípicas
+76849009||inyección conjuntival
+162089003||deposición normal
+419045004||pérdida de conciencia
+34095006||deshidratación
+2004005||normotensa
+340421000119101||hipopión en oi
+161939006||disnea de moderados esfuerzos
+257552002||signos inflamatorios
+169254007||ecografía hepática que fue normal
+698247007||alteraciones del ritmo cardíaco
+2004005||cifras tensionales son normales
+251384004||reflujo biliar duodeno-gástrico
+301367001||dolor abdominal ubicado en hipocondrio derecho, de leve
+4249000||déficit de perfusión en extremidades
+301777002||tumefacción en la región cervical
+300493001||teste normoecógeno y de tamaño normal
+5291005||hipocalcemia
+724233009||sensación de frialdad
+300848003||tumoración
+49233005||disnea
+25064002||cefalea
+734045002||colección retroperitoneal
+11092001||taquicardia sinusal
+309530007||imagen de 3 cm en hilio
+167734003||punción lumbar únicamente mostró una discreta elevación de las proteínas
+164735009||fondo en piel de naranja
+415116008||descenso de las plaquetas
+233776003||engrosamiento de la carina en su separación con el bronquio lobar superior
+155876003||anulación renal
+162052001||dolor en fii
+418035005||lagrimeo
+84387000||asintomático
+75823008||exudado
+422587007||náuseas
+NO_CODE||zona nodular en su polo superior de mayor intensidad de señal y que se corresponde con el área de menor intensidad en la secuencia t1 y de mayor intensidad en la supresión grasa
+64882008||fiebre
+441781003||título elevado de anticuerpos antitransglutaminasa
+419099009||falleció
+302893000||desestructuración de la banda hiperreflectiva epr-coriocapilar en ao
+1179406007||pseudomonas aeruginosa multirresistente, que previamente el paciente había presentado también en orina
+18265008||proptosis ocular
+169038004||tc torácico fue rigurosamente normal
+170728008||disminución de la agudeza visual
+300461009||vejiga normal
+170728008||disminución de la agudeza visual
+233703007||patrón intersticial retículo nodular septal y centro lobulillar
+1162387003||atracones de comida
+168289002||cultivo del raspado corneal negativo
+127086001||ganglios en ambas zonas laterocervicales
+314983004||deterioro de la función renal
+28543008||megalias
+27194006||edema corneal moderado
+64379006||reducción en la ingesta
+64882008||fiebre
+22253000||dolor
+371083004||área edéntula del segundo molar superior
+249545003||defensa abdominal
+708118007||cultivo para bacterias habituales, incluidas neiserias y haemophilus, fueron negativos
+84387000||asintomático
+77157004||engrosamiento de las vainas de ambos no
+246874003||hiperqueratinización conjuntival
+64882008||fiebre
+58840004||disminución generalizada del murmullo vesicular
+125142007||masa deforme, blanda, fungosa, ulcerada
+21522001||dolor abdominal
+64882008||fiebre
+282145008||imposibilidad para la deambulación
+257552002||signos inflamatorios
+5559008||citología negativa para malignidad
+441684001||imagen lítica de patrón apolillado a nivel de cuello y cabeza femoral derecha
+409609008||infiltrado alveolo-intersticial bilateral
+276470008||marcas del mallado de la piel
+268375009||mantoux fue negativo
+35013009||material purulento
+110279003||libre de enfermedad
+47125007||ensanchamiento de la carina
+447547000||mal oliente
+6077001||pie caído
+298578004||dolor muy importante a la palpación de la columna dorsal
+45647009||granulomas
+87273009||afebril
+165938006||estudio de las inmunoglobulinas (igg, iga, igm y beta 2 microglobulina) normal
+3006004||deterioro de conciencia
+428090004||coágulo vesical
+52985009||líquido ascítico extraído presentaba características de exudado y aspecto quiloso
+419099009||fallecimiento
+285243004||bradipsíquico
+422587007||nauseas
+717978008||infiltrados alveolares bilaterales
+84387000||asintomática
+2472002||anúrica
+414478003||elevación de la cifra de leucocitos
+15749961000119105||debilidad facial bilateral
+13791008||astenia
+300848003||masa radiolúcida con trabeculaciones
+300848003||tumoración
+164854000||ecg fue normal
+48661000||irritación peritoneal
+84454003||masas abdominales
+88111009||alteraciones recientes en el tránsito intestinal
+418638008||infiltrado corneal periférico en semiluna
+27925004||nódulo
+162010006||exploración intraoral fue normal
+28543008||organomegalias
+111512005||sinequias posteriores
+3391005||negativo para células malignas
+52613005||diaforético
+274279008||dolor intenso súbito en fosa renal
+400202001||livideces en miembros inferiores
+127388009||hipergammaglobulinemia
+84387000||asintomático
+309551005||síntomas b
+78341006||neutrofilia
+168265009||marcadores virales hepáticos negativos
+13791008||astenia
+84229001||cansancio
+422400008||vómitos
+233703007||prominencia intersticial
+48661000||irritación peritoneal
+49650001||disuria
+64882008||fiebre alta
+275723000||empeoramiento del estado general
+NO_CODE||falta de colaboración para realizar balance
+422773005||compromiso hemodinámico
+309305008||marcadores negativos
+442635007||cultivo bacteriológico fue positivo para bacteroides caccae, proteus mirabilis y estafilococus aureus
+110279003||libre de enfermedad
+230638003||masa desplaza posteriormente el nervio ciático
+246636008||visión borrosa
+161920001||clínica respiratoria
+13791008||astenia
+300848003||masa
+416420005||engrosamiento de las partes blandas
+11092001||taquicárdica
+128123007||cuadro vegetativo
+102588006||dolor en el hemitórax
+277239007||tumoración maxilar derecha con infiltración hacia antro y cavidad nasal
+75229002||microhifema
+7358000||síndrome miccional
+84229001||fatiga
+302215000||trombopenia
+225565007||dolor perineal
+91175000||convulsión
+829991004||temblor distal
+125144008||tumoración es friable, con crecimiento vegetante
+442635007||cultivo positivo a listeria monocytogenes
+231849002||descenso de la órbita ipsilateral
+46800005||orina adquiere un color normal
+285808008||inflamación de la grasa adyacente al colon descendente
+91175000||convulsiones
+110352000||deterioro cognitivo leve
+58424009||ingerido gran cantidad de alimentos
+79890006||anorexia
+408573005||estudio ecográfico abdominal fue normal
+400957009||hendiduras parpebrales mongoloides
+301961009||papilas eran normales
+249543005||abdomen era blando depresible
+422015002||sensibilidad corneal es normal en ambos ojos
+274718005||inflamación testicular
+823013008||tumoración inguinoescrotal derecha muy dolorosa
+28543008||megalias
+428616007||impotencia funcional en miembro inferior
+129680003||gammagrafía con 99mtecnecio fue positiva en el campo quirúrgico
+289119003||expectoración
+246545002||episodios convulsivos generalizados
+66857006||expectoración leve hemoptoica
+251435008||movilidad de los dedos pulgar e índice era adecuada
+301961009||papilas de características conservadas
+79922009||epigastralgias
+102572006||edemas en extremidades inferiores
+21522001||dolor abdominal
+29738008||proteinuria
+56018004||sibilantes
+89362005||pérdida de 7 kg de peso
+762417006||pérdida de tejido iridiano
+707724006||elevación de las enzimas hepáticas
+61448007||atelectasia basal derecha en la rx de tórax
+17450006||mioclonías generalizadas
+102834005||anamnesis urológica es normal
+126874009||afecta grasa perirrenal
+769070007||abundantes levaduras
+274643008||palidez cutánea
+45007003||hipotensión arterial
+6096002||presentación de nalgas
+271653008||venas yugulares ingurgitadas
+248690009||crepitación a la auscultación cardíaca
+2472002||anuria
+15160007||estigmas de virilización
+399122003||disfagia progresiva
+35240004||deficiencia de hierro
+NO_CODE||ecografía urológica los riñones son normales
+253154006||expandía y adelgazaba las corticales
+NO_CODE||rpr: 1/64 positivo
+225550006||secreción purulenta a través de la herida
+60728008||distensión abdominal
+83128009||oliguria
+15280003||rha disminuido
+44647001||trayecto de la ahp se pudo seguir desde el nervio óptico hasta la cristaloides posterior
+NO_CODE||"imagen en ""diana, ojo de buey o donnuts"""
+271813007||petequias subcorticales
+135818000||mal estado general
+4996001||hipofosfatemia grave
+70190001||adherida a peritoneo parietal y parietocólico
+79922009||epigastralgia
+32230006||síndrome malabsortivo
+64882008||fiebre
+6273006||priapismo
+112638000||efecto masa
+246659002||escotoma periférico temporal superior
+248445009||fiebre vespertina
+301199001||dificultad respiratoria nasal
+NO_CODE||nódulo peritoneal en el mesenterio del ileon distal
+90420008||estudio hormonal normal
+165509000||desviación de fórmula leucocitaria
+56731001||hipertonía generalizada
+414478003||leucocitosis
+249781002||volumen exuberante de la pierna
+64882008||fiebre elevada
+50765007||descamación
+NO_CODE||metanefrinas plasmáticas, que fueron normales
+422400008||vómitos
+68600005||hemoglobinuria
+300848003||tumoración
+249244000||flaccidez
+10682871000119105||anfractuosidades en el tejido cutáneo-adiposo del dorso del pie derecho
+64882008||febril
+346651000119109||edema conjuntival bilateral
+419099009||falleciendo
+708118007||cultivo (aerobio y anaerobio) fue negativo para bacterias
+734871004||cariotipo femenino normal
+301404009||dolor a la presión profunda en hipocondrio derecho
+32566006||dismetría
+285384003||afectación del estado general
+37125009||midriasis
+168276008||elisa (2ª técnica): positivo
+736687002||anti-hbs cuantitativo: >1000 mui/ml -positivo
+251150006||ritmo sinusal
+299308007||dolor a la rotación posterior en las dos cabezas femorales
+57534004||distorsión de los vasos retinianos
+254831005||tumoración adiposa
+394717006||reacción de nitritos es negativa
+231953004||desgarro de la raíz de iris
+27925004||formación nodular
+52613005||sudoración
+4996001||hipo-fosfatemia severa
+74474003||sangrado digestivo
+365309002||tendencia a fabular
+118933004||signos de hiperparatiroidismo en los huesos de ambas manos y muñecas
+445460009||igg anti vca igg e igg antiebna positivas
+300848003||tumoraciones
+118948005||efecto masa en hipocondrio izquierdo
+74285003||tumoración junto a fibras del oblicuo menor, músculo transverso y músculo iliopsoas
+438949009||vivo
+445368001||silueta cardiaca normal
+164734008||exploración fundoscópica en el od fue normal
+49233005||disnea
+302893000||ojo derecho, con una papila óptica normal, dos pequeñas lagunas coriorretinianas hipopigmentadas
+77420001||habla escandida
+63833001||reflejo cutáneo plantar extensor
+18165001||ictericia
+26436007||anomalías del equilibrio ácido-base
+64882008||fiebre
+42134006||metamorfopsia
+8148005||quemosis conjuntival
+49650001||síntomas urinarios irritativos
+168733007||radiografía de tórax estuvo dentro de los límites normales
+300848003||tumoración
+713514005||debilidad muscular en las cuatro extremidades
+276388004||próstata volumen ii/iv, de consistencia pétrea
+64882008||fiebre
+55019002||hábito intestinal normal
+166558007||alfafetoproteina normal
+398637008||espesor macular normal
+84387000||asintomático
+60280003||normalización de la pio
+4568003||dolor retroesternal
+366215005||permeabilidad de eje celíaco, arteria renal izquierda, mesentérica superior
+249543005||abdomen es blando, depresible
+80515008||hepatomegalia dolorosa
+249757009||desviación cubital de la mano
+11679003||dolor radicular en la pierna
+26237000||edemas bimaleolares
+300848003||masa
+276362002||eupneico
+2472002||anuria
+53298000||hematuria
+301367001||dolor sordo en hipocondrio derecho
+48661000||irritación peritoneal
+442635007||cultivo fue también positivo para s. aureus
+79890006||anorexia
+439577000||estudio virológico para hepatitis negativo
+399406009||marcadores tumorales negativos
+285652003||oi una lesión cupuliforme densa
+784285002||tenesmo vesical
+22253000||dolor
+55446002||mutación en el gen de la cadena afib
+444955006||riñón derecho normal
+45154002||glucosuria
+163133003||abdomen sin alteraciones
+105975006||ocupación del seno esfenoidal
+5291005||hipocalcemia severa
+264867001||proteinuria nefrótica
+302215000||trombopenia
+12063002||tacto rectal positivo para restos hemáticos
+309088003||polo inferior de riñón izquierdo formación nodular
+442082004||controles analíticos normales
+309088003||masa renal
+314983004||deterioro progresivo de la función renal
+131148009||hemorragia
+249545003||defensa a la palpación
+87860000||polo superior de teste izquierdo, sugestivo de masa sólida
+84387000||asintomático
+879976004||zonas de hipercaptación en la rama ascendente mandibular izquierda, cuerpo vertebral izquierdo a nivel de t12, 8ª costilla derecha y en unión costocondral de 6ª costilla
+1141974008||miembros inferiores sin edemas
+166662009||biomarcadores cardiacos fueron negativos
+414478003||leucocitosis
+315284009||tumoración circunscripta en la región parotídea
+8573003||sangrado activo
+39575007||coluria
+301416003||sucusión renal derecha positiva
+442185004||elevación de catecolaminas y metanefrinas en orina
+299718000||asimetría hemisférica a favor del lado izquierdo
+249562008||asas intestinales con pequeña cantidad de líquido libre
+248218005||despierta
+713514005||debilidad de miembros
+22253000||dolor
+300848003||masas
+441457006||masa quística
+300848003||masa
+165878000||negativos los anticuerpos antifosfolipídicos
+61267008||neovascularización retiniana en el cuadrante nasal inferior
+75229002||hifema
+282050000||plastrón localizado en yeyuno
+235993005||colecciones líquidas
+18265008||proptosis ocular
+62476001||desorientación
+276382003||ruidos muy aumentados
+445548006||muerte fetal
+442635007||exudado prostático y del pus fueron positivos a e. coli
+102957003||focalidad neurológica
+112222000||ascenso gradual de la pio
+414786004||soplos
+64882008||fiebre
+365700001||cultivo mostró crecimiento de candida albicans
+300849006||masa subconjuntival nasal superior
+21850008||plagiocefalia
+167570003||cultivo de orina positivo para e.coli
+444905003||masa de tejidos blandos
+301459008||estabilidad hemodinámica
+284078000||manchas purpúreas en zona lateral del pie
+42538001||restos auditivos en graves en el oído
+414478003||leve aumento del número de leucocitos
+NO_CODE||ojo izquierdo era posible distinguir una línea de demarcación temporal a la mácula
+49233005||sensación disneica
+170728008||disminución de la agudeza visual
+4800001||piuria
+18283000||elevación del piso nasal
+135815002||buenas condiciones generales
+62476001||desorientación
+22253000||dolor
+NO_CODE||estudio sistémico por aparatos no era significativo
+14310000||secreción nasal purulenta que alguna vez ha sido sanguinolenta
+365707003||carga viral indetectable
+1148758003||microcefalia
+22061001||homocigoto para una nueva mutación c.1182del (delección de un solo nucleótido) en el exón 7 del gen alfa-gla a
+166315009||a nivel analítico no presentaba alteración
+NO_CODE||exploración física era normal
+443371007||disminución del nivel de consciencia
+300439004||leve del cuadro digestivo
+233726000||tracto fibroso de aspecto residual en lóbulo inferior
+55446002||cambios mutacionales en el gen pah: c.165delt (p.phe55fs) / c.q62g > a (p.val388met)
+165816005||vih (inmunoblot: positivo
+61026006||g3
+89164003||tumoración no dolorosa en la mama
+300848003||masa
+64882008||fiebre
+309551005||sintomatología b
+87118001||clínica vertiginosa
+788917000||signos de destrucción ósea
+1137685003||normoperfundido
+10679431000119109||aumento de volumen paravertebral
+129680003||área fría
+163586006||exploración somática y neurológica fueron normales
+300325003||hígado pequeño
+399153001||vértigo rotatorio
+734871004||cariotipo femenino normal
+422773005||inestable hemodinámicamente
+249543005||abdomen estaba blando
+366265001||vejiga de contorno festoneado
+408573005||gammagrafía con 67galio fue negativa
+33624008||irritable
+37125009||leve midriasis bilateral
+309088003||masa de 5cm de diámetro en riñón izquierdo
+NO_CODE||prótesis aórtica normofuncionante
+8730001000004107||staphylococcus epidermidis en varios hemocultivos
+89362005||pérdida de peso
+165850001||ana positivos
+168733007||radiografía de tórax (que es informada como normal)
+165649003||metabolitos del ácido fólico normales
+91618008||erosión de la cortical mandibular a nivel parasinfisario
+64882008||pico febril
+201281002||manchas café con leche estaban presentes en tronco y miembros superiores
+285384003||deterioro del estado general
+422587007||náuseas
+285375003||dolor en glande
+166315009||ldh y la beta-2-microglobulina, así como el resto de los parámetros bioquímicos se mantenían en el rango de la normalidad
+298349001||tumefacción de partes blandas
+53298000||hematuria
+448772000||masa en flanco derecho
+448772000||masa en flanco izquierdo
+87860000||tumoración sólida de 37x21 mm, hipoecoica en teste
+366216006||prueba de allen negativa
+NO_CODE||nódulo mesentérico
+135815002||buen estado general
+300858004||estructura adyacente a teste derecho en su polo superior
+246998009||precipitados queráticos
+83128009||oligoanuria
+2901004||melenas
+271594007||síncope
+169254007||ecografía renal no evidenció anomalías
+53298000||hematuria
+131148009||hemorragia
+442635007||cultivo de líquido sinovial positivo para staphylococcus aureus
+419045004||pérdida de conciencia
+84387000||asintomática
+64882008||febril
+21522001||dolor abdominal
+66999008||valores séricos de la hormona paratiroidea intacta (ipth) fueron altos
+73707004||líquido en cavidad libre
+165865000||anticuerpos anti-cápsulas suprarrenales en suero por imnufluorescencia indirecta fue positiva
+70363001||exudado blanquecino
+431468008||colapso ventricular
+246984001||adelgazamiento estromal
+131148009||sangrado
+22994000||hiporreflexia generalizada
+61294007||delgadez
+64882008||fiebre
+309082002||masa a nivel epigástrico
+48409008||crepitantes
+22220005||incontinencia urinaria de esfuerzo
+405729008||rectorragias
+422773005||inestabilidad hemodinámica
+41446000||inflamación, hiperemia y tumefacción palpebral superior e inferior
+87860000||nódulo en testículo
+442147002||incremento de la captación en la región del tumor esternal y ambas articulaciones esternoclaviculares
+365706007||antígeno criptocócico fue negativo
+304370001||engrosamiento de las válvulas conniventes a nivel de yeyuno
+30746006||masa adenopática
+268471004||sangrado transvaginal
+43364001||disconfort abdominal
+443371007||disminución del nivel de conciencia
+168733007||radiografía de tórax no mostró alteraciones
+36955009||disgeusia
+40709005||dolor lumbar
+69559004||masa retroperitoneal
+427944007||asimetría frontal
+89362005||pérdida de 12 kilogramos de peso
+29738008||proteinuria
+284523002||tos persistente
+310293008||ama (anticuerpos antimitocondriales) negativos
+419099009||fallece
+414478003||leucocitosis
+386689009||hipotermia sistémica
+716292004||imagen radiolúcida de gran tamaño en torno a la corona del cordal inferior
+267045008||síntomas gastrointestinales
+251726002||cierre angular
+67967009||hábito cushingoide
+27157002||fases precoces de la angiografía fluoresceínica se observaba un retraso en el llenado de la coriocapilar
+414478003||leucocitosis
+74474003||hemorragia digestiva
+15986191000119105||disco óptico colobomatoso
+300848003||masa
+309528005||tumoración en flanco izquierdo
+6631009||trombocitosis
+300294009||esófago normal
+128331005||calcificaciones en el filete óptico
+398212009||diarrea acuosa
+27925004||nódulos
+67307004||circulación colateral abdominal anormal
+167571004||urocultivo se aisla proteus vulgaris
+301855007||ganglios negativos
+26079004||temblor
+NO_CODE||ldh normal
+48348007||murmullo vesicular conservado
+110279003||libre de enfermedad
+249939004||debilidad muscular proximal en brazos y piernas
+300848003||tumoración
+278286009||hemiparesia derecha
+62744007||ortopnea
+418362005||muerte súbita
+64730000||auscultación cardíaca es rítmica
+167221003||sedimento normal
+271807003||erupción cutánea
+300849006||masa con hipofluorescencia en fases precoces, hiperfluorescencia tardía y patrón ligeramente moteado
+253978002||rasgos dismórficos
+282877008||imposibilidad para la bipe-destación
+425598000||pulsos periféricos estaban conservados
+131148009||hemorrágicas
+283170002||cuerpos extraños intraabdominales radio-opacos
+4800001||piuria
+846676008||disminución de temperatura
+120081000119104||sensación de cuerpo extraño en cuello
+271782001||somnolencia
+52475004||sequedad cutánea generalizada
+80313002||palpitaciones
+298000004||ausencia de pelo en el cuero cabelludo
+13791008||astenia moderada
+408573005||gammagrafía tiroidea fue normal
+197941005||hematuria macroscópica
+442635007||cultivo de secreción fue escherichia coli
+300339003||vía biliar normal
+871000119100||retracción completa del cuero cabelludo
+165232002||incontinencia urinaria
+300861003||tumoración localizada en la unión de los segmentos iv y v
+299956006||sensibilidad esta conservada
+9957009||secreción purulenta a través de meato uretral
+288441000119106||dificultad en la integración con sus compañeros
+84387000||asintomático
+404640003||mareo
+301403003||doloroso a la palpación en epigastrio
+135815002||buen estado general
+35013009||leve secreción purulenta y fétida
+167425009||excreción fraccional de fosfato normal
+15203004||pérdida de visión brusca e indolora en el ojo
+60728008||distensión abdominal
+23149001||crepitación
+NO_CODE||exploración física es estrictamente normal
+422065006||baja estatura
+131148009||hemorrágicas
+386789004||eosinofilia periférica
+NO_CODE||proteína s y proteína c fueron normales
+164734008||fondo de ojo fue normal
+29738008||proteinuria
+87860000||tumoración en ambos testes
+248503005||edema epitelial microquístico
+2472002||anuria
+444905003||masa de partes blandas
+64882008||fiebre
+89362005||pérdida de peso
+246636008||visión borrosa
+367391008||malestar general
+563001||nistagmo
+29738008||proteinuria
+237840007||déficit electrolíticos
+389026000||líquido ascítico
+167221003||sedimento normal
+419099009||fallecimiento
+169254007||ecografía renal es normal
+9589009||dificultades para la marcha
+29738008||proteinuria
+111533001||nistagmus vertical leve
+11934000||ptosis total
+30098003||hiperemia grave
+125281004||linfangiectasias puntiformes
+609626005||área hiperactiva focal en fosa iliaca derecha adyacente a la arteria iliaca derecha
+429783005||parestesias en las extremidades inferiores
+89362005||pérdida ponderal
+718403007||disminución de la diuresis
+268926000||lavado bronquial fue negativo
+300849006||masa en temporal inferior
+309576006||tumoración en muslo
+300848003||tumoración
+165623008||leve descenso del hierro
+55930002||desviaciones del segmento st
+88936002||elevación de los dos hemidiafragmas
+15930381000119104||edema de ambos discos ópticos
+166478001||reserva adrenal normal
+14140009||hipokalemia
+268926000||lavado broncoalveolar (negativa
+166802008||proteinograma normal
+249543005||abdomen blando, depresible, no doloroso
+84387000||asintomático
+136791000119103||dolor dorsal
+60728008||distensión abdominal
+422400008||vómitos
+413210008||mucosa edematosa en bulbo duodenal
+414478003||leucocitosis
+285387005||dolor en hemiabdomen izquierdo, intenso, continuo, de instauración súbita
+445456006||tumoración en región basal mandibular a nivel parasinfisario
+131148009||sangrado
+64882008||fiebre
+102594003||onda j (r') manifiesta en derivaciones v1-v2
+274783007||presencia de metilcetona en orina
+301939004||miosis
+827038004||pene, testes y epidídimos de tamaño y consistencia normales
+13018008||neovasos
+300848003||masa
+262285001||adelgazamiento
+25064002||cefalea
+300848003||masa
+45007003||hipotenso
+282050000||masa en yeyuno proximal
+84387000||asintomático
+20022000||pérdida de fuerza en hemicuerpo
+257552002||signos inflamatorios
+7358000||síndrome miccional
+267038008||edemas
+422400008||vómitos
+135815002||buenas condiciones generales
+82971005||limitación funcional
+249990003||inestabilidad en bipedestación
+237783006||masa hipodensa suprarrenal
+43339004||hipopotasemia
+NO_CODE||edema de pliegues
+419099009||falleciendo
+422587007||náuseas
+131148009||hemorragia
+419099009||falleciendo
+169029001||cortes orbitarios fue normal
+249250005||respetaba el glande
+271782001||somnolencia
+285387005||dolor agudo en hemiabdomen izquierdo
+8573003||sangrado activo
+60032008||dificultad para concentrarse
+89362005||pérdida de peso
+NO_CODE||movilidad restringida igm kappa
+88936002||elevación diafragmática condicionada por el gran tamaño de los riñones
+103251002||motilidad ocular extrínseca e intrínseca fueron normales
+61152003||retraso mental leve-moderado
+84387000||asintomática
+722223000||masa quistica renal
+64882008||fiebre
+64634000||opacidad corneal
+46799006||diarrea con moco y sangre
+53298000||hematuria
+87273009||afebril
+431468008||colapso del tercer ventrículo
+301030002||masa mediastínica anterior
+53298000||hematuria
+80449002||fatiga muscular
+418290006||escozor
+404630001||configuración en iris plateau
+195382003||spiders localizados en el tórax
+422400008||vómitos
+422400008||vómitos autolimitados de duración variable
+827066007||test de colores farnsworth era normal
+389026000||líquido ascítico peritoneal,
+59455009||acidosis metabólica
+93457003||líquido libre retrohepático
+22253000||dolor
+249585009||gas bordeando la pared vesical
+5559008||citología no se observaron células malignas
+440027000||infiltrado corneal
+84387000||asintomático
+249545003||irritación peritoneal principalmente en hipogastrio y fosa iliaca izquierda
+237783006||masa suprarrenal
+300848003||masa hipoecogénica
+404625000||alteraciones de la posición palpebral
+102608004||mucho apetito
+166165005||anticuerpos antitiroglobulina y antiperoxidasa normales
+234467004||alteraciones protrombóticas
+15253005||asimetría facial
+79740000||muguet
+87273009||afebril
+166701009||calcemia en rango
+16331000||pirosis
+79890006||anorexia
+39575007||orina en bolsa recolectora de color morada
+11092001||taquicárdico
+248239003||respondía a órdenes
+440299000||masa retroesofágica
+27925004||nódulos irregulares
+11483009||dificultades ventilatorias
+168289002||cultivos corneales negativos para bacterias, hongos, virus y parásitos
+237836003||talla corta
+131148009||hemorragia
+166602006||función hepática normal
+268376005||mantoux positivo con ulceracion
+11092001||taquicardia sinusal
+233703007||patrón intersticial nodular
+246924004||córnea transparente
+24411000119104||edematización submandibular
+300848003||masa
+249603008||formación rectal a 2-3 cm de ano ulcerada
+168288005||análisis microbiológico confirmó positividad para hvs
+135818000||mal estado general
+249232003||escrotal anecoico con contenido ecogénico móvil
+248514008||nódulo palpebral
+55930002||d-st horizontal en v3 a v5
+267981009||dolores dorsales
+249339005||narinas estrechas
+13791008||astenia
+251471009||actividad de base rápida de bajo voltaje
+19829001||afectación pulmonar parenquimatosa
+6266001||inflamación granulomatosa epitelioide
+445460009||serología positiva para veb
+248324001||parámetros nutricionales normales
+37283009||desplazamiento anterior de ambos cristalinos dentro de la cámara posterior
+18165001||ictérica
+166717003||elevación de la concentración de creatinina en plasma
+89362005||pérdida de unos 8 kg de peso
+309551005||oligosintomática
+414377007||signo de hamman
+165851002||anti-adn negativos
+309309002||citología negativa
+447112000||secreción serosa de la herida inguinal
+24005006||tracción vitreorretiniana
+62315008||diarreas
+310439007||orina con atipias
+166558007||afp: normal
+52613005||sudoración profusa
+269846003||cifras normales de hormonas tiroideas
+165562007||coagulación no presentaron alteraciones
+89362005||pérdida de peso
+384675002||bloqueo angular
+80306002||peristaltismo discretamente aumentado
+352818000||episodios convulsivos de crisis tónico-clónicas
+164734008||exploración del fondo de ojo era normal
+73595000||estrés
+22253000||dolor
+56478004||reacción leucocitaria
+442082004||total normalidad de las pruebas analíticas
+7520000||fiebre de origen desconocido
+237783006||nódulos hipodensos suprarrenales bilaterales
+135815002||buena situación clínica
+9589009||marcha se observaba claudicación
+247663003||orientada
+84387000||asintomático
+250226006||test de enfermedad de células falciformes fue negativo
+135817005||aceptable estado general
+168733007||radiografía de tórax es normal
+75229002||microhifema
+48409008||crepitantes
+285384003||deterioro progresivo del estado general
+314983004||empeoramiento de la función renal
+197941005||hematuria macroscópica
+419326002||dificultad para el resto de los movimientos oculares
+118940003||cuadro neurológico
+13791008||astenia
+64882008||fiebre
+110015006||colección de 3 cm entre uretra y cuerpos cavernosos
+165840002||factor reumatoideo negativo
+40709005||lumbalgia
+25064002||dolor de cabeza
+87290003||occipucio prominente
+8117002||deambulación normal
+6631009||trombocitosis
+52613005||diaforesis
+204676004||mucosa gástrica ectópica
+708118007||cultivo para virus herpes simple fue negativo
+167667006||sangre oculta en heces fue negativa
+33958003||pene afectaba a la piel, dartos, fascia de buck y albugínea, invadía el interior de los cuerpos cavernosos, destruía la uretra y su esponjosa
+386789004||eosinofilia
+271591004||consciente
+79922009||dolor epigástrico
+248567008||intenso trabajo respiratorio
+83514008||bacilo gram(+)
+225587003||reflujo activo
+52985009||líquido ascítico de características quilosas
+16596007||esotropía del ojo
+300848003||tumoración
+NO_CODE||pt2c
+247143009||disminuyendo el grosor macular
+64882008||fiebre
+6273006||priapismo
+165562007||coagulación normal
+712831003||cefaleas de intensidad leve
+24982008||diplopía binocular horizontal
+60728008||distensión abdominal
+309529002||masa necrótica de 8 cm en lsi
+29555009||moteado difuso hiperautofluorescente
+135815002||buen estado general
+75823008||secreción
+120816007||serología de anticuerpos echinococcus/hemag que es positivo
+89362005||pérdida de 16 kilogramos (kg) de peso
+419099009||falleció
+80744008||edema de berlin
+165543009||leucocitosis con presencia de formas jóvenes (cayados
+89362005||pérdida de treinta libras de peso
+27925004||nodulo
+366073001||ausencia de fijación en ojo
+274667000||dolor lancinante en el cuerpo mandibular
+44717005||signo de chovstek
+308921004||síntomas neurológicos
+419099009||óbito
+69559004||masa bien circunscripta por detrás del riñón
+41652007||dolor ocular bilateral
+89474008||estudio de extensión negativo
+414478003||leucocitosis
+135815002||buena situación clínica
+300461009||vejiga normal
+8011004||disartria
+78341006||leucocitos polimorfonucleares y abundante moco
+79922009||epigastralgia
+236714000||clínica urológica
+285243004||bradipsiquia
+26036001||signos obstructivos
+130951007||globo vesical
+300848003||masa
+87860000||tumoración testicular
+423341008||edema del disco óptico
+95255005||hipotonía del oi
+276412008||teste derecho horinzontalizado, aumentado de tamaño
+251738006||buena fijación y seguimiento de la luz
+429268001||catéter, que se cultiva, creciendo ax, junto con st. aureus y enterococcus faecalis
+167568007||cultivos de orina (multiples muestras) en médio de lowenstein negativas
+87273009||afebril
+27925004||nódulo subcapsular
+836474000||líquido de aspecto mucopurulento
+87860000||masa no dolorosa en testículo derecho
+27925004||formación nodular
+37657006||efecto masa en tercio superior esofágico
+736687002||anti-hbc: positivo
+301855007||ganglios
+299342003||rodilla izquierda tenía el movimiento de flexión reducido
+125139001||tumoración grisácea de consistencia blanda y no engrosado
+62476001||desorientación
+127564008||polisegmentación de neutrófilos
+1148582006||mejoría de la función renal
+29738008||proteinuria
+27550009||anomalías vasculares
+823013008||hemiescroto derecho aumentado de tamaño
+8900005||hipoproteinemia
+102614006||dolor abdominal difuso
+8730001000004107||hemocultivos seriados que resultaron ser positivos para staphylococcus aureus
+823014002||transiluminación positiva bilateral
+274664007||dolor centrotorácico intermitente, que aumentaba con la tos y los movimientos respiratorios
+267045008||sintomatología gastrointestinal
+338101000119103||ojo izquierdo hemorragias retinianas redondeadas ecuatoriales
+165142008||broncoscopia en la que no se encontraron anomalías
+404640003||mareos
+40709005||dolor lumbar
+389026000||ascitis
+405740000||elevación de marcadores cardíacos
+279093005||cólicos
+399122003||disfagia
+285384003||deterioro del estado general
+18718003||conducto dentario inferior se encuentra rechazado
+131148009||sangrado
+309306009||muestras microbiológicas negativas
+118928003||déficit de tejido abdominal
+389026000||ascitis
+419099009||falleció
+60046008||derrame pleural
+84387000||asintomático
+302073009||dolor a la presión sobre la región tiroidea
+34095006||deshidratado
+269834002||igm antivca negativa
+247663003||orientado
+79915001||fatigabilidad
+268519009||mal control glucémico
+312397004||función tiroidea dentro de la normalidad
+64379006||menos apetito
+22218007||síndrome miccional obstructivo
+102614006||dolor abdominal generalizado
+48867003||bradicárdico
+299233007||hundimiento en la cadera
+714254003||visceromegalias
+67307004||circulación colateral
+102568007||disminución de la fuerza en ambos miembros inferiores
+155876003||anulación funcional de la unidad renal
+22114000||ausencia de peristaltismo
+64882008||febrícula
+47186006||discreta captación heterogénea del contraste
+95319004||nódulos cutáneos por todo el cuerpo incluyendo cara y cuello
+76069003||hipercaptación que afectan a región cigomática derecha y orbital interna derecha, ambas parrillas costales, columna dorsolumbar, pala ilíaca, región acetabular e isquiopubiana derechas, espina iliaca y región acetabular izquierdas y tercio medio de diáfisis femoral izquierda
+307541003||quejas urinarias bajas
+300854002||nódulo de 1,5 cm de diámetro, en el fondo del vestíbulo, a la altura del 45
+39539005||función renal alterada
+29647006||murmullo vesicular estaba disminuido en la base
+445456006||masa de partes balndas en la celda submaxilar
+61539000||ruidos intestinales y resto de la exploración eran normales
+422587007||náuseas
+389026000||ascitis
+69559004||masa retroperitoneal, con intenso componente hemorrágico
+166783005||normoalbuminemia
+129761009||calcificaciones lineales
+129734009||zonas nodulares
+42952007||hematopoyesis extramedular
+285243004||bradipsiquia
+396697000||aumento de la ldh
+427924001||fuga de contraste' hacia la cavidad abdominal
+277455002||tercer ruido
+301459008||estable hemodinámicamente
+63725005||defecto corneal
+49233005||disnea
+304370001||engrosamiento de la pared intestinal en yeyuno
+2901004||melenas
+40917007||confuso
+286402008||hablaba normal
+87361006||leucocitosis con desviación a la izquierda
+300365004||vómitos pospandriales
+22994000||hiporreflexia
+300848003||tumoración
+31515003||hipoventilación
+119247004||hipoalbuminemia
+87273009||afebril
+64882008||fiebre
+102569004||cadera que además presentaba una rotación interna limitada
+309530007||masa de bordes irregulares que borraba el contorno del hilio pulmonar
+395132000||líquido quiloso
+359746009||estable
+76114004||escasa funcionalidad del riñón
+139394000||nocturia
+16617009||disfonía
+45089002||ojo derecho fue normal
+246636008||visión borrosa
+246924004||córnea íntegra y transparente
+449707004||edemas maleolares y pretibiales
+64882008||fiebre
+89362005||pérdida de peso
+28998008||sangre en el ámbito macular
+76314005||alteraciones hidroelectrolíticas
+32819004||aumento de tamaño en la cara posterior del muslo
+166336006||tirotropina normal
+108571000119102||aumento de volumen por vestibular que compromete el cuerpo y la sínfisis
+131148009||sangre
+445088006||edema de maxilar superior
+131114008||cifras disminuidas de 25-oh-d
+284520004||crepitantes bibasales
+21522001||dolor abdominal
+170728008||disminución de la agudeza visual (av) indolora
+274730004||múltiples defectos de repleción intravesicales
+343331000119104||pérdida de visión súbita bilateral
+49727002||tos
+249545003||defensa
+29738008||proteinuria
+45850009||continente
+419099009||exitus
+461398008||normal distribución de la salida de los troncos supraaórticos
+69559004||masa sólida de 12 cm por detrás del riñón
+300848003||masas
+404200001||masa abdominal localizada en mesogastrio
+164717000||registros electroencefalográficos (eeg) fueron normales
+300848003||masas
+NO_CODE||exploración física era normal
+708118007||cultivos reiterados negativos
+274770006||hiper-fa
+271350002||sedimento urinario con 15-20 leucocitos/campo y moco abundante
+49233005||disnea
+268375009||mantoux: negativo
+48348007||auscultación pulmonar normal
+14140009||hiperpotasemia
+422061002||condensación vítrea temporal inferior en el ojo
+40969002||pulsos arteriales simétricos
+248228001||lipotimias
+55930002||depresión del segmento st en las derivaciones i, ii, avl y v2 a v6
+84387000||asintomático
+225565007||dolor perineal
+125220000||colostomía permeable
+1003721002||artralgias en ambas rodillas
+79890006||anorexia
+313170008||mucosa colónica normal
+301404009||palpación abdominal discretamente dolorosa en hipocondrio derecho
+440662009||quantiferon), que fue positivo
+5559008||citología negativa para células malignas
+300365004||vómitos alimenticios
+167221003||sedimento de orina era normal
+94147001||masa mediastínica
+225581002||disminución de la visión
+422587007||náuseas
+43724002||escalofríos
+197942003||emisión de coágulos
+6548007||tenesmo rectal
+300445007||murphy renal bilateral negativo
+232209000||obstrucción nasal
+69559004||masa reniforme, posterior a vena cava inferior y anclada en retroperitoneo al ligamento vertebral anterior
+29738008||proteinuria
+53298000||hematuria
+162050009||dolor en flanco derecho con irradiación hacia testículo ipsilateral
+65814009||cristalino prolapsado
+24982008||diplopía en todas las posiciones,
+449741007||punto de fuga posterior sellado
+70819003||piel rojiza
+87860000||tumoración testicular bilateral
+249578005||captación de contraste en el riñón
+23268009||simulación
+21522001||dolor abdominal
+419099009||falleciendo
+57534004||distorsión de los vasos sanguíneos retinianos alrededor de la mácula
+72128008||defectos refractivos
+314983004||deterioro de la función renal
+414786004||soplos
+49701002||dos estructuras en hemiescroto derecho de similar aspecto
+82470000||fasciculación perceptible en ambos muslos
+95666008||paresia de los músculos peribucales
+87361006||leucocitosis con importante desviación izquierda
+419099009||fallece
+724773004||mioclonías faciales
+29738008||proteinuria
+170578008||mal control tensional
+563001||nistagmus en abducción en ambos ojos
+386789004||eosinofilia
+4611000119106||déficit de perfusión del polo inferior del riñón
+60600009||hipercaptación de fluoroglucosa a nivel faringolaríngeo
+386789004||eosinofilia periférica
+314983004||deterioro importante de la función renal
+45850009||continencia diurna
+247398009||dolor neuropático
+64882008||fiebre
+363162000||artrocentesis dio salida a un fluido purulento
+44882003||dos tercios anteriores del glande se encuentras tumefactos, endurecidos
+846676008||disminución de temperatura
+10678791000119106||lesiones rojizas y dolorosas en los pulpejos de los dedos de ambas manos
+298354005||aumento de volumen óseo
+35013009||material purulento
+64882008||fiebre
+22253000||dolor
+247973004||moria
+51387008||acidosis
+62222003||anastomosis un buen pulso
+300474003||diuresis mantenida

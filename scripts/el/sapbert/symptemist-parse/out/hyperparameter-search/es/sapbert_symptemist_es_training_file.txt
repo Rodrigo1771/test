@@ -1,0 +1,1704 @@
+422400008||vómito||vómitos
+422400008||vómito||vómitos autolimitados de duración variable
+422400008||vómito||nauseas
+422400008||vómitos||vómitos autolimitados de duración variable
+422400008||vómitos||nauseas
+422400008||vómitos autolimitados de duración variable||nauseas
+64882008||pico febril||febrícula ocasional
+64882008||pico febril||fiebre
+64882008||pico febril||registros febriles
+64882008||pico febril||febril
+64882008||pico febril||picos febriles
+64882008||pico febril||febrícula
+64882008||pico febril||alza térmica
+64882008||pico febril||cuadro febril
+64882008||pico febril||fiebre alta
+64882008||pico febril||fiebre elevada
+64882008||pico febril||episodios febriles
+64882008||pico febril||síndrome febril
+64882008||febrícula ocasional||fiebre
+64882008||febrícula ocasional||registros febriles
+64882008||febrícula ocasional||febril
+64882008||febrícula ocasional||picos febriles
+64882008||febrícula ocasional||febrícula
+64882008||febrícula ocasional||alza térmica
+64882008||febrícula ocasional||cuadro febril
+64882008||febrícula ocasional||fiebre alta
+64882008||febrícula ocasional||fiebre elevada
+64882008||febrícula ocasional||episodios febriles
+64882008||febrícula ocasional||síndrome febril
+64882008||fiebre||registros febriles
+64882008||fiebre||febril
+64882008||fiebre||picos febriles
+64882008||fiebre||febrícula
+64882008||fiebre||alza térmica
+64882008||fiebre||cuadro febril
+64882008||fiebre||fiebre alta
+64882008||fiebre||fiebre elevada
+64882008||fiebre||episodios febriles
+64882008||fiebre||síndrome febril
+64882008||registros febriles||febril
+64882008||registros febriles||picos febriles
+64882008||registros febriles||febrícula
+64882008||registros febriles||alza térmica
+64882008||registros febriles||cuadro febril
+64882008||registros febriles||fiebre alta
+64882008||registros febriles||fiebre elevada
+64882008||registros febriles||episodios febriles
+64882008||registros febriles||síndrome febril
+64882008||febril||picos febriles
+64882008||febril||febrícula
+64882008||febril||alza térmica
+64882008||febril||cuadro febril
+64882008||febril||fiebre alta
+64882008||febril||fiebre elevada
+64882008||febril||episodios febriles
+64882008||febril||síndrome febril
+64882008||picos febriles||febrícula
+64882008||picos febriles||alza térmica
+64882008||picos febriles||cuadro febril
+64882008||picos febriles||fiebre alta
+64882008||picos febriles||fiebre elevada
+64882008||picos febriles||episodios febriles
+64882008||picos febriles||síndrome febril
+64882008||febrícula||alza térmica
+64882008||febrícula||cuadro febril
+64882008||febrícula||fiebre alta
+64882008||febrícula||fiebre elevada
+64882008||febrícula||episodios febriles
+64882008||febrícula||síndrome febril
+64882008||alza térmica||cuadro febril
+64882008||alza térmica||fiebre alta
+64882008||alza térmica||fiebre elevada
+64882008||alza térmica||episodios febriles
+64882008||alza térmica||síndrome febril
+64882008||cuadro febril||fiebre alta
+64882008||cuadro febril||fiebre elevada
+64882008||cuadro febril||episodios febriles
+64882008||cuadro febril||síndrome febril
+64882008||fiebre alta||fiebre elevada
+64882008||fiebre alta||episodios febriles
+64882008||fiebre alta||síndrome febril
+64882008||fiebre elevada||episodios febriles
+64882008||fiebre elevada||síndrome febril
+64882008||episodios febriles||síndrome febril
+53298000||hematuria total anemizante||hematuria
+81141003||función renal conservada||buena función renal
+81141003||función renal conservada||buena función renal bilateral
+81141003||función renal conservada||función renal normal
+81141003||función renal conservada||función renal se mantuvo normal
+81141003||función renal conservada||función renal permaneció normal
+81141003||función renal conservada||riñón derecho se mostraba funcionalmente normal
+81141003||función renal conservada||función renal estable
+81141003||buena función renal||buena función renal bilateral
+81141003||buena función renal||función renal normal
+81141003||buena función renal||función renal se mantuvo normal
+81141003||buena función renal||función renal permaneció normal
+81141003||buena función renal||riñón derecho se mostraba funcionalmente normal
+81141003||buena función renal||función renal estable
+81141003||buena función renal bilateral||función renal normal
+81141003||buena función renal bilateral||función renal se mantuvo normal
+81141003||buena función renal bilateral||función renal permaneció normal
+81141003||buena función renal bilateral||riñón derecho se mostraba funcionalmente normal
+81141003||buena función renal bilateral||función renal estable
+81141003||función renal normal||función renal se mantuvo normal
+81141003||función renal normal||función renal permaneció normal
+81141003||función renal normal||riñón derecho se mostraba funcionalmente normal
+81141003||función renal normal||función renal estable
+81141003||función renal se mantuvo normal||función renal permaneció normal
+81141003||función renal se mantuvo normal||riñón derecho se mostraba funcionalmente normal
+81141003||función renal se mantuvo normal||función renal estable
+81141003||función renal permaneció normal||riñón derecho se mostraba funcionalmente normal
+81141003||función renal permaneció normal||función renal estable
+81141003||riñón derecho se mostraba funcionalmente normal||función renal estable
+274682005||cultivos de semen: e. coli (1o), s. sprophiticus (2o), p. mirabilis||exudado purulento obtenido intraoperatoriamente del tejido testicular
+82020005||mg por debajo de la normalidad||hipomagnesemia leve
+87361006||leucocitosis con importante desviación izquierda||leucocitos con desviación izquierda
+87361006||leucocitosis con importante desviación izquierda||leucocitosis con desviación a la izquierda
+87361006||leucocitosis con importante desviación izquierda||leucocitosis de 26.500/mm3 con desviación a la izquierda
+87361006||leucocitos con desviación izquierda||leucocitosis con desviación a la izquierda
+87361006||leucocitos con desviación izquierda||leucocitosis de 26.500/mm3 con desviación a la izquierda
+87361006||leucocitosis con desviación a la izquierda||leucocitosis de 26.500/mm3 con desviación a la izquierda
+22253000||doloroso||dolor
+22253000||doloroso||dolorosa
+22253000||doloroso||dolor persistente
+22253000||dolor||dolorosa
+22253000||dolor||dolor persistente
+22253000||dolorosa||dolor persistente
+309306009||tinciones de muestras respiratorias fueron negativas para p. carinii (p. jiroveci||tinción de zn negativo
+309306009||tinciones de muestras respiratorias fueron negativas para p. carinii (p. jiroveci||serología para echinococcos granulosis y multilocularis negativas
+309306009||tinciones de muestras respiratorias fueron negativas para p. carinii (p. jiroveci||tinción de ziehl neelsen modificada fue negativa
+309306009||tinciones de muestras respiratorias fueron negativas para p. carinii (p. jiroveci||pruebas complementarias incluyendo microbiológicas fueron negativas
+309306009||tinciones de muestras respiratorias fueron negativas para p. carinii (p. jiroveci||serología hepática vírica negativa
+309306009||tinciones de muestras respiratorias fueron negativas para p. carinii (p. jiroveci||muestras microbiológicas negativas
+309306009||tinción de zn negativo||serología para echinococcos granulosis y multilocularis negativas
+309306009||tinción de zn negativo||tinción de ziehl neelsen modificada fue negativa
+309306009||tinción de zn negativo||pruebas complementarias incluyendo microbiológicas fueron negativas
+309306009||tinción de zn negativo||serología hepática vírica negativa
+309306009||tinción de zn negativo||muestras microbiológicas negativas
+309306009||serología para echinococcos granulosis y multilocularis negativas||tinción de ziehl neelsen modificada fue negativa
+309306009||serología para echinococcos granulosis y multilocularis negativas||pruebas complementarias incluyendo microbiológicas fueron negativas
+309306009||serología para echinococcos granulosis y multilocularis negativas||serología hepática vírica negativa
+309306009||serología para echinococcos granulosis y multilocularis negativas||muestras microbiológicas negativas
+309306009||tinción de ziehl neelsen modificada fue negativa||pruebas complementarias incluyendo microbiológicas fueron negativas
+309306009||tinción de ziehl neelsen modificada fue negativa||serología hepática vírica negativa
+309306009||tinción de ziehl neelsen modificada fue negativa||muestras microbiológicas negativas
+309306009||pruebas complementarias incluyendo microbiológicas fueron negativas||serología hepática vírica negativa
+309306009||pruebas complementarias incluyendo microbiológicas fueron negativas||muestras microbiológicas negativas
+309306009||serología hepática vírica negativa||muestras microbiológicas negativas
+301936006||tinción negativa con fluoresceína||polo anterior estaba dentro de la normalidad
+301936006||tinción negativa con fluoresceína||buena profundidad de cámara anterior
+301936006||tinción negativa con fluoresceína||polo anterior era normal en ambos ojos
+301936006||polo anterior estaba dentro de la normalidad||buena profundidad de cámara anterior
+301936006||polo anterior estaba dentro de la normalidad||polo anterior era normal en ambos ojos
+301936006||buena profundidad de cámara anterior||polo anterior era normal en ambos ojos
+302215000||plaquetopenia||trombopenia
+232209000||obstrucción nasal||narina izquierda por disminución de la permeabilidad
+168276008||elisa captura g: positivo||elisa (2ª técnica): positivo
+443371007||bajo nivel de consciencia||obnubilación progresiva
+443371007||bajo nivel de consciencia||disminución del nivel de consciencia
+443371007||bajo nivel de consciencia||deterioro del nivel de conciencia
+443371007||bajo nivel de consciencia||disminución del nivel de conciencia
+443371007||bajo nivel de consciencia||obnubilación
+443371007||obnubilación progresiva||disminución del nivel de consciencia
+443371007||obnubilación progresiva||deterioro del nivel de conciencia
+443371007||obnubilación progresiva||disminución del nivel de conciencia
+443371007||obnubilación progresiva||obnubilación
+443371007||disminución del nivel de consciencia||deterioro del nivel de conciencia
+443371007||disminución del nivel de consciencia||disminución del nivel de conciencia
+443371007||disminución del nivel de consciencia||obnubilación
+443371007||deterioro del nivel de conciencia||disminución del nivel de conciencia
+443371007||deterioro del nivel de conciencia||obnubilación
+443371007||disminución del nivel de conciencia||obnubilación
+84387000||asintomático||asintomática
+165879008||descenso en el título de los anticuerpos antitiroideos||anticuerpos antitransglutaminasa tisular iga positivos
+165879008||descenso en el título de los anticuerpos antitiroideos||positividad al crmp-5-igg
+165879008||descenso en el título de los anticuerpos antitiroideos||estudio inmunológico fue positivo para el anticuerpo anti gq-1b
+165879008||anticuerpos antitransglutaminasa tisular iga positivos||positividad al crmp-5-igg
+165879008||anticuerpos antitransglutaminasa tisular iga positivos||estudio inmunológico fue positivo para el anticuerpo anti gq-1b
+165879008||positividad al crmp-5-igg||estudio inmunológico fue positivo para el anticuerpo anti gq-1b
+309088003||masa renal derecha en polo inferior||formación ocupante de espacio, sólida, en sector interpolar y polo inferior del riñón izquierdo de 65mm de diámetro, hipovascularizada
+309088003||masa renal derecha en polo inferior||masa renal
+309088003||masa renal derecha en polo inferior||masa sólida en polo superior de riñón
+309088003||masa renal derecha en polo inferior||masas renales
+309088003||masa renal derecha en polo inferior||polo inferior de riñón izquierdo formación nodular
+309088003||masa renal derecha en polo inferior||masa de 5cm de diámetro en riñón izquierdo
+309088003||masa renal derecha en polo inferior||masa encapsulada con respecto al parénquima renal
+309088003||masa renal derecha en polo inferior||masa hiperecoica en la cortical del riñón
+309088003||formación ocupante de espacio, sólida, en sector interpolar y polo inferior del riñón izquierdo de 65mm de diámetro, hipovascularizada||masa renal
+309088003||formación ocupante de espacio, sólida, en sector interpolar y polo inferior del riñón izquierdo de 65mm de diámetro, hipovascularizada||masa sólida en polo superior de riñón
+309088003||formación ocupante de espacio, sólida, en sector interpolar y polo inferior del riñón izquierdo de 65mm de diámetro, hipovascularizada||masas renales
+309088003||formación ocupante de espacio, sólida, en sector interpolar y polo inferior del riñón izquierdo de 65mm de diámetro, hipovascularizada||polo inferior de riñón izquierdo formación nodular
+309088003||formación ocupante de espacio, sólida, en sector interpolar y polo inferior del riñón izquierdo de 65mm de diámetro, hipovascularizada||masa de 5cm de diámetro en riñón izquierdo
+309088003||formación ocupante de espacio, sólida, en sector interpolar y polo inferior del riñón izquierdo de 65mm de diámetro, hipovascularizada||masa encapsulada con respecto al parénquima renal
+309088003||formación ocupante de espacio, sólida, en sector interpolar y polo inferior del riñón izquierdo de 65mm de diámetro, hipovascularizada||masa hiperecoica en la cortical del riñón
+309088003||masa renal||masa sólida en polo superior de riñón
+309088003||masa renal||masas renales
+309088003||masa renal||polo inferior de riñón izquierdo formación nodular
+309088003||masa renal||masa de 5cm de diámetro en riñón izquierdo
+309088003||masa renal||masa encapsulada con respecto al parénquima renal
+309088003||masa renal||masa hiperecoica en la cortical del riñón
+309088003||masa sólida en polo superior de riñón||masas renales
+309088003||masa sólida en polo superior de riñón||polo inferior de riñón izquierdo formación nodular
+309088003||masa sólida en polo superior de riñón||masa de 5cm de diámetro en riñón izquierdo
+309088003||masa sólida en polo superior de riñón||masa encapsulada con respecto al parénquima renal
+309088003||masa sólida en polo superior de riñón||masa hiperecoica en la cortical del riñón
+309088003||masas renales||polo inferior de riñón izquierdo formación nodular
+309088003||masas renales||masa de 5cm de diámetro en riñón izquierdo
+309088003||masas renales||masa encapsulada con respecto al parénquima renal
+309088003||masas renales||masa hiperecoica en la cortical del riñón
+309088003||polo inferior de riñón izquierdo formación nodular||masa de 5cm de diámetro en riñón izquierdo
+309088003||polo inferior de riñón izquierdo formación nodular||masa encapsulada con respecto al parénquima renal
+309088003||polo inferior de riñón izquierdo formación nodular||masa hiperecoica en la cortical del riñón
+309088003||masa de 5cm de diámetro en riñón izquierdo||masa encapsulada con respecto al parénquima renal
+309088003||masa de 5cm de diámetro en riñón izquierdo||masa hiperecoica en la cortical del riñón
+309088003||masa encapsulada con respecto al parénquima renal||masa hiperecoica en la cortical del riñón
+163586006||exploración neurológica completa normal||exploración neurológica es rigurosamente normal
+163586006||exploración neurológica completa normal||exploración somática y neurológica fueron normales
+163586006||exploración neurológica completa normal||exploración general y neurológica fue normal
+163586006||exploración neurológica es rigurosamente normal||exploración somática y neurológica fueron normales
+163586006||exploración neurológica es rigurosamente normal||exploración general y neurológica fue normal
+163586006||exploración somática y neurológica fueron normales||exploración general y neurológica fue normal
+74474003||hemorragia digestiva masiva||sangrado digestivo
+74474003||hemorragia digestiva masiva||hemorragia digestiva
+74474003||sangrado digestivo||hemorragia digestiva
+70819003||enrojecimiento||rubor
+70819003||enrojecimiento||piel rojiza
+70819003||rubor||piel rojiza
+102594003||onda j en v1-v2||onda j en las derivaciones v1-v2
+102594003||onda j en v1-v2||onda j marcada en derivaciones v1-v2
+102594003||onda j en v1-v2||onda j en las derivaciones inferiores y anteriores
+102594003||onda j en v1-v2||depresión pronunciada del punto j
+102594003||onda j en v1-v2||alteraciones electrocardiográficas
+102594003||onda j en v1-v2||onda j (r') manifiesta en derivaciones v1-v2
+102594003||onda j en v1-v2||onda j prominente en v1-v2
+102594003||onda j en las derivaciones v1-v2||onda j marcada en derivaciones v1-v2
+102594003||onda j en las derivaciones v1-v2||onda j en las derivaciones inferiores y anteriores
+102594003||onda j en las derivaciones v1-v2||depresión pronunciada del punto j
+102594003||onda j en las derivaciones v1-v2||alteraciones electrocardiográficas
+102594003||onda j en las derivaciones v1-v2||onda j (r') manifiesta en derivaciones v1-v2
+102594003||onda j en las derivaciones v1-v2||onda j prominente en v1-v2
+102594003||onda j marcada en derivaciones v1-v2||onda j en las derivaciones inferiores y anteriores
+102594003||onda j marcada en derivaciones v1-v2||depresión pronunciada del punto j
+102594003||onda j marcada en derivaciones v1-v2||alteraciones electrocardiográficas
+102594003||onda j marcada en derivaciones v1-v2||onda j (r') manifiesta en derivaciones v1-v2
+102594003||onda j marcada en derivaciones v1-v2||onda j prominente en v1-v2
+102594003||onda j en las derivaciones inferiores y anteriores||depresión pronunciada del punto j
+102594003||onda j en las derivaciones inferiores y anteriores||alteraciones electrocardiográficas
+102594003||onda j en las derivaciones inferiores y anteriores||onda j (r') manifiesta en derivaciones v1-v2
+102594003||onda j en las derivaciones inferiores y anteriores||onda j prominente en v1-v2
+102594003||depresión pronunciada del punto j||alteraciones electrocardiográficas
+102594003||depresión pronunciada del punto j||onda j (r') manifiesta en derivaciones v1-v2
+102594003||depresión pronunciada del punto j||onda j prominente en v1-v2
+102594003||alteraciones electrocardiográficas||onda j (r') manifiesta en derivaciones v1-v2
+102594003||alteraciones electrocardiográficas||onda j prominente en v1-v2
+102594003||onda j (r') manifiesta en derivaciones v1-v2||onda j prominente en v1-v2
+275723000||empeoramiento del estado general||empeoramiento de su estado general
+275723000||empeoramiento del estado general||deterioro clínico
+275723000||empeoramiento de su estado general||deterioro clínico
+301030002||masa mediastínica anterior||masa de bordes más nítidos con áreas hipodensas en su interior localizada en mediastino anterior
+93457003||líquido libre retrohepático||líquido libre abdominal
+93457003||líquido libre retrohepático||líquido libre intraperitoneal
+93457003||líquido libre retrohepático||líquido libre intraabdominal, fundamentalmente en región periesplénica, gotiera paracólica izquierda, perihepático y también en pelvis
+93457003||líquido libre retrohepático||líquido peritoneal
+93457003||líquido libre retrohepático||líquido libre en abdomen
+93457003||líquido libre abdominal||líquido libre intraperitoneal
+93457003||líquido libre abdominal||líquido libre intraabdominal, fundamentalmente en región periesplénica, gotiera paracólica izquierda, perihepático y también en pelvis
+93457003||líquido libre abdominal||líquido peritoneal
+93457003||líquido libre abdominal||líquido libre en abdomen
+93457003||líquido libre intraperitoneal||líquido libre intraabdominal, fundamentalmente en región periesplénica, gotiera paracólica izquierda, perihepático y también en pelvis
+93457003||líquido libre intraperitoneal||líquido peritoneal
+93457003||líquido libre intraperitoneal||líquido libre en abdomen
+93457003||líquido libre intraabdominal, fundamentalmente en región periesplénica, gotiera paracólica izquierda, perihepático y también en pelvis||líquido peritoneal
+93457003||líquido libre intraabdominal, fundamentalmente en región periesplénica, gotiera paracólica izquierda, perihepático y también en pelvis||líquido libre en abdomen
+93457003||líquido peritoneal||líquido libre en abdomen
+237783006||tumoración en el área suprarrenal||nódulos hipodensos suprarrenales bilaterales
+237783006||tumoración en el área suprarrenal||masa hipodensa suprarrenal
+237783006||tumoración en el área suprarrenal||tumoración adrenal
+237783006||tumoración en el área suprarrenal||masa suprarrenal
+237783006||tumoración en el área suprarrenal||masa adrenal
+237783006||tumoración en el área suprarrenal||nódulo hipercaptante en la suprarrenal
+237783006||nódulos hipodensos suprarrenales bilaterales||masa hipodensa suprarrenal
+237783006||nódulos hipodensos suprarrenales bilaterales||tumoración adrenal
+237783006||nódulos hipodensos suprarrenales bilaterales||masa suprarrenal
+237783006||nódulos hipodensos suprarrenales bilaterales||masa adrenal
+237783006||nódulos hipodensos suprarrenales bilaterales||nódulo hipercaptante en la suprarrenal
+237783006||masa hipodensa suprarrenal||tumoración adrenal
+237783006||masa hipodensa suprarrenal||masa suprarrenal
+237783006||masa hipodensa suprarrenal||masa adrenal
+237783006||masa hipodensa suprarrenal||nódulo hipercaptante en la suprarrenal
+237783006||tumoración adrenal||masa suprarrenal
+237783006||tumoración adrenal||masa adrenal
+237783006||tumoración adrenal||nódulo hipercaptante en la suprarrenal
+237783006||masa suprarrenal||masa adrenal
+237783006||masa suprarrenal||nódulo hipercaptante en la suprarrenal
+237783006||masa adrenal||nódulo hipercaptante en la suprarrenal
+707724006||elevación de las enzimas hepáticas||aumento de las transaminasas
+707724006||elevación de las enzimas hepáticas||elevación de las transaminasas
+707724006||elevación de las enzimas hepáticas||elevación de transaminasas
+707724006||elevación de las enzimas hepáticas||alt y ast mayores de 20 veces el valor normal
+707724006||elevación de las enzimas hepáticas||hipertransaminemia
+707724006||elevación de las enzimas hepáticas||aumento progresivo de transaminasas
+707724006||elevación de las enzimas hepáticas||valores elevados de transaminasas
+707724006||aumento de las transaminasas||elevación de las transaminasas
+707724006||aumento de las transaminasas||elevación de transaminasas
+707724006||aumento de las transaminasas||alt y ast mayores de 20 veces el valor normal
+707724006||aumento de las transaminasas||hipertransaminemia
+707724006||aumento de las transaminasas||aumento progresivo de transaminasas
+707724006||aumento de las transaminasas||valores elevados de transaminasas
+707724006||elevación de las transaminasas||elevación de transaminasas
+707724006||elevación de las transaminasas||alt y ast mayores de 20 veces el valor normal
+707724006||elevación de las transaminasas||hipertransaminemia
+707724006||elevación de las transaminasas||aumento progresivo de transaminasas
+707724006||elevación de las transaminasas||valores elevados de transaminasas
+707724006||elevación de transaminasas||alt y ast mayores de 20 veces el valor normal
+707724006||elevación de transaminasas||hipertransaminemia
+707724006||elevación de transaminasas||aumento progresivo de transaminasas
+707724006||elevación de transaminasas||valores elevados de transaminasas
+707724006||alt y ast mayores de 20 veces el valor normal||hipertransaminemia
+707724006||alt y ast mayores de 20 veces el valor normal||aumento progresivo de transaminasas
+707724006||alt y ast mayores de 20 veces el valor normal||valores elevados de transaminasas
+707724006||hipertransaminemia||aumento progresivo de transaminasas
+707724006||hipertransaminemia||valores elevados de transaminasas
+707724006||aumento progresivo de transaminasas||valores elevados de transaminasas
+405729008||rectorragias||rectorragia
+164734008||fondo del od era normal||fondo de ojo muestra una apariencia prácticamente normal
+164734008||fondo del od era normal||fondo de ojo (fo) no relevante
+164734008||fondo del od era normal||exploración fundoscópica en el od fue normal
+164734008||fondo del od era normal||exploración del fondo de ojo era normal
+164734008||fondo del od era normal||fondo de ojo no se apreciaron alteraciones
+164734008||fondo del od era normal||fondo de ojo no mostraron alteraciones
+164734008||fondo del od era normal||fondo de ojo fue normal
+164734008||fondo de ojo muestra una apariencia prácticamente normal||fondo de ojo (fo) no relevante
+164734008||fondo de ojo muestra una apariencia prácticamente normal||exploración fundoscópica en el od fue normal
+164734008||fondo de ojo muestra una apariencia prácticamente normal||exploración del fondo de ojo era normal
+164734008||fondo de ojo muestra una apariencia prácticamente normal||fondo de ojo no se apreciaron alteraciones
+164734008||fondo de ojo muestra una apariencia prácticamente normal||fondo de ojo no mostraron alteraciones
+164734008||fondo de ojo muestra una apariencia prácticamente normal||fondo de ojo fue normal
+164734008||fondo de ojo (fo) no relevante||exploración fundoscópica en el od fue normal
+164734008||fondo de ojo (fo) no relevante||exploración del fondo de ojo era normal
+164734008||fondo de ojo (fo) no relevante||fondo de ojo no se apreciaron alteraciones
+164734008||fondo de ojo (fo) no relevante||fondo de ojo no mostraron alteraciones
+164734008||fondo de ojo (fo) no relevante||fondo de ojo fue normal
+164734008||exploración fundoscópica en el od fue normal||exploración del fondo de ojo era normal
+164734008||exploración fundoscópica en el od fue normal||fondo de ojo no se apreciaron alteraciones
+164734008||exploración fundoscópica en el od fue normal||fondo de ojo no mostraron alteraciones
+164734008||exploración fundoscópica en el od fue normal||fondo de ojo fue normal
+164734008||exploración del fondo de ojo era normal||fondo de ojo no se apreciaron alteraciones
+164734008||exploración del fondo de ojo era normal||fondo de ojo no mostraron alteraciones
+164734008||exploración del fondo de ojo era normal||fondo de ojo fue normal
+164734008||fondo de ojo no se apreciaron alteraciones||fondo de ojo no mostraron alteraciones
+164734008||fondo de ojo no se apreciaron alteraciones||fondo de ojo fue normal
+164734008||fondo de ojo no mostraron alteraciones||fondo de ojo fue normal
+300855001||tumoración intraluminal||masa intestinal
+11092001||taquicárdico||taquicárdica
+11092001||taquicárdico||taquicardia
+11092001||taquicárdico||taquicardia sinusal
+11092001||taquicárdica||taquicardia
+11092001||taquicárdica||taquicardia sinusal
+11092001||taquicardia||taquicardia sinusal
+89362005||perder peso||pérdida ponderal
+89362005||perder peso||pérdida de unos 8 kg de peso
+89362005||perder peso||pérdida de de peso
+89362005||perder peso||pérdida de 12 kilogramos de peso
+89362005||perder peso||pérdida de peso
+89362005||perder peso||pérdida de treinta libras de peso
+89362005||perder peso||pérdida de 7 kg de peso
+89362005||perder peso||pérdida de 16 kilogramos (kg) de peso
+89362005||perder peso||pérdida de 5 kg de peso
+89362005||perder peso||pérdida del 23% de su peso habitual
+89362005||pérdida ponderal||pérdida de unos 8 kg de peso
+89362005||pérdida ponderal||pérdida de de peso
+89362005||pérdida ponderal||pérdida de 12 kilogramos de peso
+89362005||pérdida ponderal||pérdida de peso
+89362005||pérdida ponderal||pérdida de treinta libras de peso
+89362005||pérdida ponderal||pérdida de 7 kg de peso
+89362005||pérdida ponderal||pérdida de 16 kilogramos (kg) de peso
+89362005||pérdida ponderal||pérdida de 5 kg de peso
+89362005||pérdida ponderal||pérdida del 23% de su peso habitual
+89362005||pérdida de unos 8 kg de peso||pérdida de de peso
+89362005||pérdida de unos 8 kg de peso||pérdida de 12 kilogramos de peso
+89362005||pérdida de unos 8 kg de peso||pérdida de peso
+89362005||pérdida de unos 8 kg de peso||pérdida de treinta libras de peso
+89362005||pérdida de unos 8 kg de peso||pérdida de 7 kg de peso
+89362005||pérdida de unos 8 kg de peso||pérdida de 16 kilogramos (kg) de peso
+89362005||pérdida de unos 8 kg de peso||pérdida de 5 kg de peso
+89362005||pérdida de unos 8 kg de peso||pérdida del 23% de su peso habitual
+89362005||pérdida de de peso||pérdida de 12 kilogramos de peso
+89362005||pérdida de de peso||pérdida de peso
+89362005||pérdida de de peso||pérdida de treinta libras de peso
+89362005||pérdida de de peso||pérdida de 7 kg de peso
+89362005||pérdida de de peso||pérdida de 16 kilogramos (kg) de peso
+89362005||pérdida de de peso||pérdida de 5 kg de peso
+89362005||pérdida de de peso||pérdida del 23% de su peso habitual
+89362005||pérdida de 12 kilogramos de peso||pérdida de peso
+89362005||pérdida de 12 kilogramos de peso||pérdida de treinta libras de peso
+89362005||pérdida de 12 kilogramos de peso||pérdida de 7 kg de peso
+89362005||pérdida de 12 kilogramos de peso||pérdida de 16 kilogramos (kg) de peso
+89362005||pérdida de 12 kilogramos de peso||pérdida de 5 kg de peso
+89362005||pérdida de 12 kilogramos de peso||pérdida del 23% de su peso habitual
+89362005||pérdida de peso||pérdida de treinta libras de peso
+89362005||pérdida de peso||pérdida de 7 kg de peso
+89362005||pérdida de peso||pérdida de 16 kilogramos (kg) de peso
+89362005||pérdida de peso||pérdida de 5 kg de peso
+89362005||pérdida de peso||pérdida del 23% de su peso habitual
+89362005||pérdida de treinta libras de peso||pérdida de 7 kg de peso
+89362005||pérdida de treinta libras de peso||pérdida de 16 kilogramos (kg) de peso
+89362005||pérdida de treinta libras de peso||pérdida de 5 kg de peso
+89362005||pérdida de treinta libras de peso||pérdida del 23% de su peso habitual
+89362005||pérdida de 7 kg de peso||pérdida de 16 kilogramos (kg) de peso
+89362005||pérdida de 7 kg de peso||pérdida de 5 kg de peso
+89362005||pérdida de 7 kg de peso||pérdida del 23% de su peso habitual
+89362005||pérdida de 16 kilogramos (kg) de peso||pérdida de 5 kg de peso
+89362005||pérdida de 16 kilogramos (kg) de peso||pérdida del 23% de su peso habitual
+89362005||pérdida de 5 kg de peso||pérdida del 23% de su peso habitual
+445456006||masa de partes balndas en la celda submaxilar||tumoración en región basal mandibular a nivel parasinfisario
+445456006||masa de partes balndas en la celda submaxilar||tumoración submandibular
+445456006||tumoración en región basal mandibular a nivel parasinfisario||tumoración submandibular
+399861008||espesor retiniano de unos espacios de baja intensidad||engrosamiento foveal
+60728008||abdomen era globuloso||distensión abdominal
+400202001||eritematosas, sobre zonas induradas, pruriginosas y dolorosas, en dorso del pie derecho y cara interna de los muslos||livideces en miembros inferiores
+52985009||líquido ascítico de características quilosas||ascitis quilosa
+52985009||líquido ascítico de características quilosas||líquido ascítico extraído presentaba características de exudado y aspecto quiloso
+52985009||ascitis quilosa||líquido ascítico extraído presentaba características de exudado y aspecto quiloso
+24982008||diplopía en todas las posiciones,||diplopia
+24982008||diplopía en todas las posiciones,||visión doble
+24982008||diplopía en todas las posiciones,||diplopía binocular horizontal
+24982008||diplopía en todas las posiciones,||diplopia horizontal
+24982008||diplopía en todas las posiciones,||diplopía
+24982008||diplopia||visión doble
+24982008||diplopia||diplopía binocular horizontal
+24982008||diplopia||diplopia horizontal
+24982008||diplopia||diplopía
+24982008||visión doble||diplopía binocular horizontal
+24982008||visión doble||diplopia horizontal
+24982008||visión doble||diplopía
+24982008||diplopía binocular horizontal||diplopia horizontal
+24982008||diplopía binocular horizontal||diplopía
+24982008||diplopia horizontal||diplopía
+49233005||sensación disneica||disnea de intensidad progresiva
+49233005||sensación disneica||disnea
+49233005||sensación disneica||dificultad respiratoria
+49233005||disnea de intensidad progresiva||disnea
+49233005||disnea de intensidad progresiva||dificultad respiratoria
+49233005||disnea||dificultad respiratoria
+830011000||tórax no muestra datos patológicos||tórax normal
+300848003||masas||masa radiolúcida con trabeculaciones
+300848003||masas||masa hipoecoica
+300848003||masas||masa hipoecogénica
+300848003||masas||tumoración de rápido crecimiento, indolora
+300848003||masas||tumoraciones
+300848003||masas||masa radiolúcida homogénea unilocular
+300848003||masas||masa era indolora
+300848003||masas||tumoración profunda
+300848003||masas||tumoración sólida
+300848003||masas||masa homogénea
+300848003||masas||tumoración endofítica
+300848003||masas||masa
+300848003||masas||tumoración asintomática
+300848003||masas||tumoración
+300848003||masa radiolúcida con trabeculaciones||masa hipoecoica
+300848003||masa radiolúcida con trabeculaciones||masa hipoecogénica
+300848003||masa radiolúcida con trabeculaciones||tumoración de rápido crecimiento, indolora
+300848003||masa radiolúcida con trabeculaciones||tumoraciones
+300848003||masa radiolúcida con trabeculaciones||masa radiolúcida homogénea unilocular
+300848003||masa radiolúcida con trabeculaciones||masa era indolora
+300848003||masa radiolúcida con trabeculaciones||tumoración profunda
+300848003||masa radiolúcida con trabeculaciones||tumoración sólida
+300848003||masa radiolúcida con trabeculaciones||masa homogénea
+300848003||masa radiolúcida con trabeculaciones||tumoración endofítica
+300848003||masa radiolúcida con trabeculaciones||masa
+300848003||masa radiolúcida con trabeculaciones||tumoración asintomática
+300848003||masa radiolúcida con trabeculaciones||tumoración
+300848003||masa hipoecoica||masa hipoecogénica
+300848003||masa hipoecoica||tumoración de rápido crecimiento, indolora
+300848003||masa hipoecoica||tumoraciones
+300848003||masa hipoecoica||masa radiolúcida homogénea unilocular
+300848003||masa hipoecoica||masa era indolora
+300848003||masa hipoecoica||tumoración profunda
+300848003||masa hipoecoica||tumoración sólida
+300848003||masa hipoecoica||masa homogénea
+300848003||masa hipoecoica||tumoración endofítica
+300848003||masa hipoecoica||masa
+300848003||masa hipoecoica||tumoración asintomática
+300848003||masa hipoecoica||tumoración
+300848003||masa hipoecogénica||tumoración de rápido crecimiento, indolora
+300848003||masa hipoecogénica||tumoraciones
+300848003||masa hipoecogénica||masa radiolúcida homogénea unilocular
+300848003||masa hipoecogénica||masa era indolora
+300848003||masa hipoecogénica||tumoración profunda
+300848003||masa hipoecogénica||tumoración sólida
+300848003||masa hipoecogénica||masa homogénea
+300848003||masa hipoecogénica||tumoración endofítica
+300848003||masa hipoecogénica||masa
+300848003||masa hipoecogénica||tumoración asintomática
+300848003||masa hipoecogénica||tumoración
+300848003||tumoración de rápido crecimiento, indolora||tumoraciones
+300848003||tumoración de rápido crecimiento, indolora||masa radiolúcida homogénea unilocular
+300848003||tumoración de rápido crecimiento, indolora||masa era indolora
+300848003||tumoración de rápido crecimiento, indolora||tumoración profunda
+300848003||tumoración de rápido crecimiento, indolora||tumoración sólida
+300848003||tumoración de rápido crecimiento, indolora||masa homogénea
+300848003||tumoración de rápido crecimiento, indolora||tumoración endofítica
+300848003||tumoración de rápido crecimiento, indolora||masa
+300848003||tumoración de rápido crecimiento, indolora||tumoración asintomática
+300848003||tumoración de rápido crecimiento, indolora||tumoración
+300848003||tumoraciones||masa radiolúcida homogénea unilocular
+300848003||tumoraciones||masa era indolora
+300848003||tumoraciones||tumoración profunda
+300848003||tumoraciones||tumoración sólida
+300848003||tumoraciones||masa homogénea
+300848003||tumoraciones||tumoración endofítica
+300848003||tumoraciones||masa
+300848003||tumoraciones||tumoración asintomática
+300848003||tumoraciones||tumoración
+300848003||masa radiolúcida homogénea unilocular||masa era indolora
+300848003||masa radiolúcida homogénea unilocular||tumoración profunda
+300848003||masa radiolúcida homogénea unilocular||tumoración sólida
+300848003||masa radiolúcida homogénea unilocular||masa homogénea
+300848003||masa radiolúcida homogénea unilocular||tumoración endofítica
+300848003||masa radiolúcida homogénea unilocular||masa
+300848003||masa radiolúcida homogénea unilocular||tumoración asintomática
+300848003||masa radiolúcida homogénea unilocular||tumoración
+300848003||masa era indolora||tumoración profunda
+300848003||masa era indolora||tumoración sólida
+300848003||masa era indolora||masa homogénea
+300848003||masa era indolora||tumoración endofítica
+300848003||masa era indolora||masa
+300848003||masa era indolora||tumoración asintomática
+300848003||masa era indolora||tumoración
+300848003||tumoración profunda||tumoración sólida
+300848003||tumoración profunda||masa homogénea
+300848003||tumoración profunda||tumoración endofítica
+300848003||tumoración profunda||masa
+300848003||tumoración profunda||tumoración asintomática
+300848003||tumoración profunda||tumoración
+300848003||tumoración sólida||masa homogénea
+300848003||tumoración sólida||tumoración endofítica
+300848003||tumoración sólida||masa
+300848003||tumoración sólida||tumoración asintomática
+300848003||tumoración sólida||tumoración
+300848003||masa homogénea||tumoración endofítica
+300848003||masa homogénea||masa
+300848003||masa homogénea||tumoración asintomática
+300848003||masa homogénea||tumoración
+300848003||tumoración endofítica||masa
+300848003||tumoración endofítica||tumoración asintomática
+300848003||tumoración endofítica||tumoración
+300848003||masa||tumoración asintomática
+300848003||masa||tumoración
+300848003||tumoración asintomática||tumoración
+14140009||hipokalemia||hiperpotasemia
+13791008||astenia||astenia moderada
+13791008||astenia||debilidad generalizada
+13791008||astenia moderada||debilidad generalizada
+386789004||eosinofilia en sangre||eosinofilia periférica
+386789004||eosinofilia en sangre||eosinofilia
+386789004||eosinofilia periférica||eosinofilia
+414478003||elevación de la cifra de leucocitos||leucocitosis
+414478003||elevación de la cifra de leucocitos||leve aumento del número de leucocitos
+414478003||leucocitosis||leve aumento del número de leucocitos
+118435004||edemas en asas de intestino delgado||asa ileal de calibre normal con pliegues conservados
+169254007||ecografía de abdomen que no evidenció patología||ecografía renal es normal
+169254007||ecografía de abdomen que no evidenció patología||ecografía abdominal no había hallazgos significativos
+169254007||ecografía de abdomen que no evidenció patología||ecografía renal fue normal
+169254007||ecografía de abdomen que no evidenció patología||ecografía renal no evidenció anomalías
+169254007||ecografía de abdomen que no evidenció patología||ecografía hepática que fue normal
+169254007||ecografía renal es normal||ecografía abdominal no había hallazgos significativos
+169254007||ecografía renal es normal||ecografía renal fue normal
+169254007||ecografía renal es normal||ecografía renal no evidenció anomalías
+169254007||ecografía renal es normal||ecografía hepática que fue normal
+169254007||ecografía abdominal no había hallazgos significativos||ecografía renal fue normal
+169254007||ecografía abdominal no había hallazgos significativos||ecografía renal no evidenció anomalías
+169254007||ecografía abdominal no había hallazgos significativos||ecografía hepática que fue normal
+169254007||ecografía renal fue normal||ecografía renal no evidenció anomalías
+169254007||ecografía renal fue normal||ecografía hepática que fue normal
+169254007||ecografía renal no evidenció anomalías||ecografía hepática que fue normal
+422587007||náuseas||nauseas
+37125009||midriasis||leve midriasis bilateral
+37125009||midriasis||midriasis reactiva
+37125009||midriasis||midriática
+37125009||midriasis||pupilas ligeramente midriáticas
+37125009||leve midriasis bilateral||midriasis reactiva
+37125009||leve midriasis bilateral||midriática
+37125009||leve midriasis bilateral||pupilas ligeramente midriáticas
+37125009||midriasis reactiva||midriática
+37125009||midriasis reactiva||pupilas ligeramente midriáticas
+37125009||midriática||pupilas ligeramente midriáticas
+276331001||aumento de tamaño de hemiescroto||aumento del tamaño del hemiescroto
+276331001||aumento de tamaño de hemiescroto||aumento del hemiescroto
+276331001||aumento del tamaño del hemiescroto||aumento del hemiescroto
+69559004||masa bien circunscripta por detrás del riñón||masa quística polilobulada retroperitoneal derecha
+69559004||masa bien circunscripta por detrás del riñón||masa retroperitoneal de unos 8 cm, de ecogenicidad heterogénea y marcada vascularización
+69559004||masa bien circunscripta por detrás del riñón||masa en reteroperitoneo
+69559004||masa bien circunscripta por detrás del riñón||masa retroperitoneal
+69559004||masa bien circunscripta por detrás del riñón||masa sólida de 12 cm por detrás del riñón
+69559004||masa bien circunscripta por detrás del riñón||masa retroperitoneal, con intenso componente hemorrágico
+69559004||masa bien circunscripta por detrás del riñón||masas retroperitoneales
+69559004||masa bien circunscripta por detrás del riñón||masa reniforme, posterior a vena cava inferior y anclada en retroperitoneo al ligamento vertebral anterior
+69559004||masa quística polilobulada retroperitoneal derecha||masa retroperitoneal de unos 8 cm, de ecogenicidad heterogénea y marcada vascularización
+69559004||masa quística polilobulada retroperitoneal derecha||masa en reteroperitoneo
+69559004||masa quística polilobulada retroperitoneal derecha||masa retroperitoneal
+69559004||masa quística polilobulada retroperitoneal derecha||masa sólida de 12 cm por detrás del riñón
+69559004||masa quística polilobulada retroperitoneal derecha||masa retroperitoneal, con intenso componente hemorrágico
+69559004||masa quística polilobulada retroperitoneal derecha||masas retroperitoneales
+69559004||masa quística polilobulada retroperitoneal derecha||masa reniforme, posterior a vena cava inferior y anclada en retroperitoneo al ligamento vertebral anterior
+69559004||masa retroperitoneal de unos 8 cm, de ecogenicidad heterogénea y marcada vascularización||masa en reteroperitoneo
+69559004||masa retroperitoneal de unos 8 cm, de ecogenicidad heterogénea y marcada vascularización||masa retroperitoneal
+69559004||masa retroperitoneal de unos 8 cm, de ecogenicidad heterogénea y marcada vascularización||masa sólida de 12 cm por detrás del riñón
+69559004||masa retroperitoneal de unos 8 cm, de ecogenicidad heterogénea y marcada vascularización||masa retroperitoneal, con intenso componente hemorrágico
+69559004||masa retroperitoneal de unos 8 cm, de ecogenicidad heterogénea y marcada vascularización||masas retroperitoneales
+69559004||masa retroperitoneal de unos 8 cm, de ecogenicidad heterogénea y marcada vascularización||masa reniforme, posterior a vena cava inferior y anclada en retroperitoneo al ligamento vertebral anterior
+69559004||masa en reteroperitoneo||masa retroperitoneal
+69559004||masa en reteroperitoneo||masa sólida de 12 cm por detrás del riñón
+69559004||masa en reteroperitoneo||masa retroperitoneal, con intenso componente hemorrágico
+69559004||masa en reteroperitoneo||masas retroperitoneales
+69559004||masa en reteroperitoneo||masa reniforme, posterior a vena cava inferior y anclada en retroperitoneo al ligamento vertebral anterior
+69559004||masa retroperitoneal||masa sólida de 12 cm por detrás del riñón
+69559004||masa retroperitoneal||masa retroperitoneal, con intenso componente hemorrágico
+69559004||masa retroperitoneal||masas retroperitoneales
+69559004||masa retroperitoneal||masa reniforme, posterior a vena cava inferior y anclada en retroperitoneo al ligamento vertebral anterior
+69559004||masa sólida de 12 cm por detrás del riñón||masa retroperitoneal, con intenso componente hemorrágico
+69559004||masa sólida de 12 cm por detrás del riñón||masas retroperitoneales
+69559004||masa sólida de 12 cm por detrás del riñón||masa reniforme, posterior a vena cava inferior y anclada en retroperitoneo al ligamento vertebral anterior
+69559004||masa retroperitoneal, con intenso componente hemorrágico||masas retroperitoneales
+69559004||masa retroperitoneal, con intenso componente hemorrágico||masa reniforme, posterior a vena cava inferior y anclada en retroperitoneo al ligamento vertebral anterior
+69559004||masas retroperitoneales||masa reniforme, posterior a vena cava inferior y anclada en retroperitoneo al ligamento vertebral anterior
+249545003||peritonismo||defensa
+249545003||peritonismo||defensa abdominal
+249545003||peritonismo||irritación peritoneal principalmente en hipogastrio y fosa iliaca izquierda
+249545003||peritonismo||defensa a la palpación
+249545003||defensa||defensa abdominal
+249545003||defensa||irritación peritoneal principalmente en hipogastrio y fosa iliaca izquierda
+249545003||defensa||defensa a la palpación
+249545003||defensa abdominal||irritación peritoneal principalmente en hipogastrio y fosa iliaca izquierda
+249545003||defensa abdominal||defensa a la palpación
+249545003||irritación peritoneal principalmente en hipogastrio y fosa iliaca izquierda||defensa a la palpación
+309532004||tumoración en espalda||masa paravertebral bilateral, que infiltraba la vértebra a nivel c7-d1
+76114004||déficit funcional de la unidad renal||retraso funcional de riñón
+76114004||déficit funcional de la unidad renal||escasa funcionalidad del riñón
+76114004||retraso funcional de riñón||escasa funcionalidad del riñón
+19829001||alteración de los hilios pulmonares||alteraciones bilaterales y difusas del parénquima pulmonar
+19829001||alteración de los hilios pulmonares||afectación pulmonar parenquimatosa
+19829001||alteraciones bilaterales y difusas del parénquima pulmonar||afectación pulmonar parenquimatosa
+271591004||consciente||adecuado nivel de consciencia
+717159009||alternaria sp en el cultivo||positivas con las técnicas de pas y plata metanamina para hongos
+13937002||hemorragia subretiniana||localización subretiniana de esta hemorragia,
+53430007||dolor mamario||dolor en mama
+62315008||diarreas||diarrea febril
+62315008||diarreas||diarrea
+62315008||diarrea febril||diarrea
+165772007||test de coombs directo negativo||coombs directo eritrocitario poliespecífico negativo
+39832008||exudados algodonosos en polo posterior||exudado algodonoso en reabsorción inferior a fóvea
+409609008||infiltrados en la radiografía de tórax||infiltrado alveolo-intersticial bilateral
+409609008||infiltrados en la radiografía de tórax||afectación parenquimatosa basal
+409609008||infiltrados en la radiografía de tórax||infiltrados
+409609008||infiltrados en la radiografía de tórax||infiltrado alveolar basal
+409609008||infiltrado alveolo-intersticial bilateral||afectación parenquimatosa basal
+409609008||infiltrado alveolo-intersticial bilateral||infiltrados
+409609008||infiltrado alveolo-intersticial bilateral||infiltrado alveolar basal
+409609008||afectación parenquimatosa basal||infiltrados
+409609008||afectación parenquimatosa basal||infiltrado alveolar basal
+409609008||infiltrados||infiltrado alveolar basal
+359746009||clínicamente estable||estable
+249585009||deplazamiento de la vejiga||gas bordeando la pared vesical
+249585009||deplazamiento de la vejiga||estanqueidad de la sutura vesical
+249585009||deplazamiento de la vejiga||mucosa vesical delustrada
+249585009||gas bordeando la pared vesical||estanqueidad de la sutura vesical
+249585009||gas bordeando la pared vesical||mucosa vesical delustrada
+249585009||estanqueidad de la sutura vesical||mucosa vesical delustrada
+87548005||dispepsia flatulenta||dispepsia
+79922009||epigastralgias||epigastralgia
+79922009||epigastralgias||dolor epigástrico
+79922009||epigastralgias||dolor epigástrico cólico
+79922009||epigastralgia||dolor epigástrico
+79922009||epigastralgia||dolor epigástrico cólico
+79922009||dolor epigástrico||dolor epigástrico cólico
+11934000||ptosis||ptosis total
+11934000||ptosis||ptosis palpebral
+11934000||ptosis total||ptosis palpebral
+168289002||cultivo del raspado corneal negativo||cultivos cornéales fueron negativos
+168289002||cultivo del raspado corneal negativo||cultivos corneales negativos para bacterias, hongos, virus y parásitos
+168289002||cultivos cornéales fueron negativos||cultivos corneales negativos para bacterias, hongos, virus y parásitos
+708118007||cultivo fue negativo||cultivos reiterados negativos
+708118007||cultivo fue negativo||hemocultivos fueron estériles
+708118007||cultivo fue negativo||cultivo para bacterias habituales, incluidas neiserias y haemophilus, fueron negativos
+708118007||cultivo fue negativo||cultivo negativo
+708118007||cultivo fue negativo||cultivo para virus herpes simple fue negativo
+708118007||cultivo fue negativo||hemocultivos negativos
+708118007||cultivo fue negativo||cultivo (aerobio y anaerobio) fue negativo para bacterias
+708118007||cultivo fue negativo||cultivo del broncoaspirado no mostró crecimiento para bacterias, hongos ni mycobacterias
+708118007||cultivo fue negativo||cultivo líquido pericárdico fue estéril
+708118007||cultivo fue negativo||negativo, así como tres hemocultivos
+708118007||cultivos reiterados negativos||hemocultivos fueron estériles
+708118007||cultivos reiterados negativos||cultivo para bacterias habituales, incluidas neiserias y haemophilus, fueron negativos
+708118007||cultivos reiterados negativos||cultivo negativo
+708118007||cultivos reiterados negativos||cultivo para virus herpes simple fue negativo
+708118007||cultivos reiterados negativos||hemocultivos negativos
+708118007||cultivos reiterados negativos||cultivo (aerobio y anaerobio) fue negativo para bacterias
+708118007||cultivos reiterados negativos||cultivo del broncoaspirado no mostró crecimiento para bacterias, hongos ni mycobacterias
+708118007||cultivos reiterados negativos||cultivo líquido pericárdico fue estéril
+708118007||cultivos reiterados negativos||negativo, así como tres hemocultivos
+708118007||hemocultivos fueron estériles||cultivo para bacterias habituales, incluidas neiserias y haemophilus, fueron negativos
+708118007||hemocultivos fueron estériles||cultivo negativo
+708118007||hemocultivos fueron estériles||cultivo para virus herpes simple fue negativo
+708118007||hemocultivos fueron estériles||hemocultivos negativos
+708118007||hemocultivos fueron estériles||cultivo (aerobio y anaerobio) fue negativo para bacterias
+708118007||hemocultivos fueron estériles||cultivo del broncoaspirado no mostró crecimiento para bacterias, hongos ni mycobacterias
+708118007||hemocultivos fueron estériles||cultivo líquido pericárdico fue estéril
+708118007||hemocultivos fueron estériles||negativo, así como tres hemocultivos
+708118007||cultivo para bacterias habituales, incluidas neiserias y haemophilus, fueron negativos||cultivo negativo
+708118007||cultivo para bacterias habituales, incluidas neiserias y haemophilus, fueron negativos||cultivo para virus herpes simple fue negativo
+708118007||cultivo para bacterias habituales, incluidas neiserias y haemophilus, fueron negativos||hemocultivos negativos
+708118007||cultivo para bacterias habituales, incluidas neiserias y haemophilus, fueron negativos||cultivo (aerobio y anaerobio) fue negativo para bacterias
+708118007||cultivo para bacterias habituales, incluidas neiserias y haemophilus, fueron negativos||cultivo del broncoaspirado no mostró crecimiento para bacterias, hongos ni mycobacterias
+708118007||cultivo para bacterias habituales, incluidas neiserias y haemophilus, fueron negativos||cultivo líquido pericárdico fue estéril
+708118007||cultivo para bacterias habituales, incluidas neiserias y haemophilus, fueron negativos||negativo, así como tres hemocultivos
+708118007||cultivo negativo||cultivo para virus herpes simple fue negativo
+708118007||cultivo negativo||hemocultivos negativos
+708118007||cultivo negativo||cultivo (aerobio y anaerobio) fue negativo para bacterias
+708118007||cultivo negativo||cultivo del broncoaspirado no mostró crecimiento para bacterias, hongos ni mycobacterias
+708118007||cultivo negativo||cultivo líquido pericárdico fue estéril
+708118007||cultivo negativo||negativo, así como tres hemocultivos
+708118007||cultivo para virus herpes simple fue negativo||hemocultivos negativos
+708118007||cultivo para virus herpes simple fue negativo||cultivo (aerobio y anaerobio) fue negativo para bacterias
+708118007||cultivo para virus herpes simple fue negativo||cultivo del broncoaspirado no mostró crecimiento para bacterias, hongos ni mycobacterias
+708118007||cultivo para virus herpes simple fue negativo||cultivo líquido pericárdico fue estéril
+708118007||cultivo para virus herpes simple fue negativo||negativo, así como tres hemocultivos
+708118007||hemocultivos negativos||cultivo (aerobio y anaerobio) fue negativo para bacterias
+708118007||hemocultivos negativos||cultivo del broncoaspirado no mostró crecimiento para bacterias, hongos ni mycobacterias
+708118007||hemocultivos negativos||cultivo líquido pericárdico fue estéril
+708118007||hemocultivos negativos||negativo, así como tres hemocultivos
+708118007||cultivo (aerobio y anaerobio) fue negativo para bacterias||cultivo del broncoaspirado no mostró crecimiento para bacterias, hongos ni mycobacterias
+708118007||cultivo (aerobio y anaerobio) fue negativo para bacterias||cultivo líquido pericárdico fue estéril
+708118007||cultivo (aerobio y anaerobio) fue negativo para bacterias||negativo, así como tres hemocultivos
+708118007||cultivo del broncoaspirado no mostró crecimiento para bacterias, hongos ni mycobacterias||cultivo líquido pericárdico fue estéril
+708118007||cultivo del broncoaspirado no mostró crecimiento para bacterias, hongos ni mycobacterias||negativo, así como tres hemocultivos
+708118007||cultivo líquido pericárdico fue estéril||negativo, así como tres hemocultivos
+389026000||líquido ascítico peritoneal,||líquido ascítico
+389026000||líquido ascítico peritoneal,||ascitis
+389026000||líquido ascítico||ascitis
+12063002||tacto rectal positivo para restos hemáticos||tacto rectal con restos hemáticos frescos
+268375009||prueba de mantoux fue negativa||mantoux negativo
+268375009||prueba de mantoux fue negativa||mantoux fue negativo
+268375009||prueba de mantoux fue negativa||mantoux (prueba de tuberculina) negativa
+268375009||prueba de mantoux fue negativa||mantoux: negativo
+268375009||mantoux negativo||mantoux fue negativo
+268375009||mantoux negativo||mantoux (prueba de tuberculina) negativa
+268375009||mantoux negativo||mantoux: negativo
+268375009||mantoux fue negativo||mantoux (prueba de tuberculina) negativa
+268375009||mantoux fue negativo||mantoux: negativo
+268375009||mantoux (prueba de tuberculina) negativa||mantoux: negativo
+251726002||cierre angular en ambos ojos||cierre angular
+301924000||ojo adelfo era normal||ojo izquierdo era normal
+237840007||déficit electrolíticos||déficits electrolíticos
+25064002||dolor de cabeza||cefalea
+25064002||dolor de cabeza||cefalea intensa
+25064002||cefalea||cefalea intensa
+249607009||gran próstata||aumento del tamaño de la glándula prostática
+422773005||alteración hemodinámica severa||alteraciones hemodinámicas
+422773005||alteración hemodinámica severa||compromiso hemodinámico
+422773005||alteración hemodinámica severa||desestabilización hemodinámica
+422773005||alteración hemodinámica severa||inestabilidad hemodinámica
+422773005||alteración hemodinámica severa||inestable hemodinámicamente
+422773005||alteraciones hemodinámicas||compromiso hemodinámico
+422773005||alteraciones hemodinámicas||desestabilización hemodinámica
+422773005||alteraciones hemodinámicas||inestabilidad hemodinámica
+422773005||alteraciones hemodinámicas||inestable hemodinámicamente
+422773005||compromiso hemodinámico||desestabilización hemodinámica
+422773005||compromiso hemodinámico||inestabilidad hemodinámica
+422773005||compromiso hemodinámico||inestable hemodinámicamente
+422773005||desestabilización hemodinámica||inestabilidad hemodinámica
+422773005||desestabilización hemodinámica||inestable hemodinámicamente
+422773005||inestabilidad hemodinámica||inestable hemodinámicamente
+90708001||afectación renal||retención en polo superior izquierdo
+170728008||mala agudeza visual||pérdida progresiva de agudeza visual
+170728008||mala agudeza visual||disminución de la agudeza visual (av) indolora
+170728008||mala agudeza visual||disminución de agudeza visual
+170728008||mala agudeza visual||disminución de av en su od
+170728008||mala agudeza visual||disminución de av
+170728008||mala agudeza visual||alteración de la agudeza visual
+170728008||mala agudeza visual||reducción de av
+170728008||mala agudeza visual||disminución de la agudeza visual
+170728008||mala agudeza visual||pérdida de agudeza visual en ojo izquierdo
+170728008||mala agudeza visual||disminución de la av
+170728008||mala agudeza visual||déficit de agudeza visual
+170728008||mala agudeza visual||descenso de la agudeza visual
+170728008||pérdida progresiva de agudeza visual||disminución de la agudeza visual (av) indolora
+170728008||pérdida progresiva de agudeza visual||disminución de agudeza visual
+170728008||pérdida progresiva de agudeza visual||disminución de av en su od
+170728008||pérdida progresiva de agudeza visual||disminución de av
+170728008||pérdida progresiva de agudeza visual||alteración de la agudeza visual
+170728008||pérdida progresiva de agudeza visual||reducción de av
+170728008||pérdida progresiva de agudeza visual||disminución de la agudeza visual
+170728008||pérdida progresiva de agudeza visual||pérdida de agudeza visual en ojo izquierdo
+170728008||pérdida progresiva de agudeza visual||disminución de la av
+170728008||pérdida progresiva de agudeza visual||déficit de agudeza visual
+170728008||pérdida progresiva de agudeza visual||descenso de la agudeza visual
+170728008||disminución de la agudeza visual (av) indolora||disminución de agudeza visual
+170728008||disminución de la agudeza visual (av) indolora||disminución de av en su od
+170728008||disminución de la agudeza visual (av) indolora||disminución de av
+170728008||disminución de la agudeza visual (av) indolora||alteración de la agudeza visual
+170728008||disminución de la agudeza visual (av) indolora||reducción de av
+170728008||disminución de la agudeza visual (av) indolora||disminución de la agudeza visual
+170728008||disminución de la agudeza visual (av) indolora||pérdida de agudeza visual en ojo izquierdo
+170728008||disminución de la agudeza visual (av) indolora||disminución de la av
+170728008||disminución de la agudeza visual (av) indolora||déficit de agudeza visual
+170728008||disminución de la agudeza visual (av) indolora||descenso de la agudeza visual
+170728008||disminución de agudeza visual||disminución de av en su od
+170728008||disminución de agudeza visual||disminución de av
+170728008||disminución de agudeza visual||alteración de la agudeza visual
+170728008||disminución de agudeza visual||reducción de av
+170728008||disminución de agudeza visual||disminución de la agudeza visual
+170728008||disminución de agudeza visual||pérdida de agudeza visual en ojo izquierdo
+170728008||disminución de agudeza visual||disminución de la av
+170728008||disminución de agudeza visual||déficit de agudeza visual
+170728008||disminución de agudeza visual||descenso de la agudeza visual
+170728008||disminución de av en su od||disminución de av
+170728008||disminución de av en su od||alteración de la agudeza visual
+170728008||disminución de av en su od||reducción de av
+170728008||disminución de av en su od||disminución de la agudeza visual
+170728008||disminución de av en su od||pérdida de agudeza visual en ojo izquierdo
+170728008||disminución de av en su od||disminución de la av
+170728008||disminución de av en su od||déficit de agudeza visual
+170728008||disminución de av en su od||descenso de la agudeza visual
+170728008||disminución de av||alteración de la agudeza visual
+170728008||disminución de av||reducción de av
+170728008||disminución de av||disminución de la agudeza visual
+170728008||disminución de av||pérdida de agudeza visual en ojo izquierdo
+170728008||disminución de av||disminución de la av
+170728008||disminución de av||déficit de agudeza visual
+170728008||disminución de av||descenso de la agudeza visual
+170728008||alteración de la agudeza visual||reducción de av
+170728008||alteración de la agudeza visual||disminución de la agudeza visual
+170728008||alteración de la agudeza visual||pérdida de agudeza visual en ojo izquierdo
+170728008||alteración de la agudeza visual||disminución de la av
+170728008||alteración de la agudeza visual||déficit de agudeza visual
+170728008||alteración de la agudeza visual||descenso de la agudeza visual
+170728008||reducción de av||disminución de la agudeza visual
+170728008||reducción de av||pérdida de agudeza visual en ojo izquierdo
+170728008||reducción de av||disminución de la av
+170728008||reducción de av||déficit de agudeza visual
+170728008||reducción de av||descenso de la agudeza visual
+170728008||disminución de la agudeza visual||pérdida de agudeza visual en ojo izquierdo
+170728008||disminución de la agudeza visual||disminución de la av
+170728008||disminución de la agudeza visual||déficit de agudeza visual
+170728008||disminución de la agudeza visual||descenso de la agudeza visual
+170728008||pérdida de agudeza visual en ojo izquierdo||disminución de la av
+170728008||pérdida de agudeza visual en ojo izquierdo||déficit de agudeza visual
+170728008||pérdida de agudeza visual en ojo izquierdo||descenso de la agudeza visual
+170728008||disminución de la av||déficit de agudeza visual
+170728008||disminución de la av||descenso de la agudeza visual
+170728008||déficit de agudeza visual||descenso de la agudeza visual
+165232002||incontinencia urinaria||incontinencia leve-moderada
+432525007||nódulo paramandibular||masa temporal
+166315009||a nivel analítico no presentaba alteración||ldh y la beta-2-microglobulina, así como el resto de los parámetros bioquímicos se mantenían en el rango de la normalidad
+166315009||a nivel analítico no presentaba alteración||bioquímica, los iones y transaminasas eran normales
+166315009||a nivel analítico no presentaba alteración||analítica (incluyendo ldh) no se apreciaron valores anormales
+166315009||a nivel analítico no presentaba alteración||bioquímica normal
+166315009||a nivel analítico no presentaba alteración||bioquímica con parámetros estrictamente normales
+166315009||ldh y la beta-2-microglobulina, así como el resto de los parámetros bioquímicos se mantenían en el rango de la normalidad||bioquímica, los iones y transaminasas eran normales
+166315009||ldh y la beta-2-microglobulina, así como el resto de los parámetros bioquímicos se mantenían en el rango de la normalidad||analítica (incluyendo ldh) no se apreciaron valores anormales
+166315009||ldh y la beta-2-microglobulina, así como el resto de los parámetros bioquímicos se mantenían en el rango de la normalidad||bioquímica normal
+166315009||ldh y la beta-2-microglobulina, así como el resto de los parámetros bioquímicos se mantenían en el rango de la normalidad||bioquímica con parámetros estrictamente normales
+166315009||bioquímica, los iones y transaminasas eran normales||analítica (incluyendo ldh) no se apreciaron valores anormales
+166315009||bioquímica, los iones y transaminasas eran normales||bioquímica normal
+166315009||bioquímica, los iones y transaminasas eran normales||bioquímica con parámetros estrictamente normales
+166315009||analítica (incluyendo ldh) no se apreciaron valores anormales||bioquímica normal
+166315009||analítica (incluyendo ldh) no se apreciaron valores anormales||bioquímica con parámetros estrictamente normales
+166315009||bioquímica normal||bioquímica con parámetros estrictamente normales
+39575007||orina oscura||orina en bolsa recolectora de color morada
+39575007||orina oscura||coluria
+39575007||orina en bolsa recolectora de color morada||coluria
+424372002||edema distal de la extremidad||edemas distales
+166602006||función hepática normal||perfil hepático, fueron normales
+166602006||función hepática normal||exploración física como los exámenes de laboratorio, incluyendo un perfil hepático, fueron normales
+166602006||perfil hepático, fueron normales||exploración física como los exámenes de laboratorio, incluyendo un perfil hepático, fueron normales
+89164003||tumoración en la mama||tumoración no dolorosa en la mama
+369757002||masa sólida con áreas hemorrágicas||masa solida
+369757002||masa sólida con áreas hemorrágicas||masa sólida
+369757002||masa solida||masa sólida
+167568007||cultivo de orina: estéril||urocultivo estéril
+167568007||cultivo de orina: estéril||cultivos de orina (multiples muestras) en médio de lowenstein negativas
+167568007||urocultivo estéril||cultivos de orina (multiples muestras) en médio de lowenstein negativas
+168833002||transito gastroduodenal fue normal||tránsito normal
+312397004||función tiroidea dentro de la normalidad||perfil tiroideo fue normal
+7358000||síndrome miccional||síndrome miccional irritativo
+88458008||crecimiento de staphylococcus aureus||cultivo bacteriológico, identificando streptococo pyogenes
+88458008||crecimiento de staphylococcus aureus||cultivos aeróbicos se recuperó l. monocytogenes
+88458008||cultivo bacteriológico, identificando streptococo pyogenes||cultivos aeróbicos se recuperó l. monocytogenes
+54200006||crisis tónico-clónica||convulsión tónico-clónica generalizada
+56681004||obliteración de iv ventrículo||mala diferenciación córtico-medular
+419099009||exitus||óbito
+419099009||exitus||fallecidos
+419099009||exitus||muerte
+419099009||exitus||murió
+419099009||exitus||éxitus
+419099009||exitus||fallece
+419099009||exitus||falleció
+419099009||exitus||falleciendo
+419099009||exitus||fallecimiento
+419099009||óbito||fallecidos
+419099009||óbito||muerte
+419099009||óbito||murió
+419099009||óbito||éxitus
+419099009||óbito||fallece
+419099009||óbito||falleció
+419099009||óbito||falleciendo
+419099009||óbito||fallecimiento
+419099009||fallecidos||muerte
+419099009||fallecidos||murió
+419099009||fallecidos||éxitus
+419099009||fallecidos||fallece
+419099009||fallecidos||falleció
+419099009||fallecidos||falleciendo
+419099009||fallecidos||fallecimiento
+419099009||muerte||murió
+419099009||muerte||éxitus
+419099009||muerte||fallece
+419099009||muerte||falleció
+419099009||muerte||falleciendo
+419099009||muerte||fallecimiento
+419099009||murió||éxitus
+419099009||murió||fallece
+419099009||murió||falleció
+419099009||murió||falleciendo
+419099009||murió||fallecimiento
+419099009||éxitus||fallece
+419099009||éxitus||falleció
+419099009||éxitus||falleciendo
+419099009||éxitus||fallecimiento
+419099009||fallece||falleció
+419099009||fallece||falleciendo
+419099009||fallece||fallecimiento
+419099009||falleció||falleciendo
+419099009||falleció||fallecimiento
+419099009||falleciendo||fallecimiento
+225581002||disminución de la visión||pérdida de la visión por ojo
+225581002||disminución de la visión||mala visión
+225581002||pérdida de la visión por ojo||mala visión
+442635007||aislamientos previos de staphylococcus epidermidis||cultivo positivo a listeria monocytogenes
+442635007||aislamientos previos de staphylococcus epidermidis||cultivo de secreción fue escherichia coli
+442635007||aislamientos previos de staphylococcus epidermidis||cultivos microbiológicos del tejido de granulación subyacente fueron positivos para pseudomonas aeruginosa multirresistente
+442635007||aislamientos previos de staphylococcus epidermidis||positivo en las cuatro que se realizan para leuconostoc spp.
+442635007||aislamientos previos de staphylococcus epidermidis||cultivo fue también positivo para s. aureus
+442635007||aislamientos previos de staphylococcus epidermidis||exudado prostático y del pus fueron positivos a e. coli
+442635007||aislamientos previos de staphylococcus epidermidis||cultivo de líquido sinovial positivo para staphylococcus aureus
+442635007||aislamientos previos de staphylococcus epidermidis||cultivo positivo para pseudomona aureaginosa
+442635007||aislamientos previos de staphylococcus epidermidis||e. cloacae, c. sedlakii, k pneumoniae blee (β-lactamasa de espectro extendido) positiva
+442635007||aislamientos previos de staphylococcus epidermidis||cultivo bacteriológico fue positivo para bacteroides caccae, proteus mirabilis y estafilococus aureus
+442635007||cultivo positivo a listeria monocytogenes||cultivo de secreción fue escherichia coli
+442635007||cultivo positivo a listeria monocytogenes||cultivos microbiológicos del tejido de granulación subyacente fueron positivos para pseudomonas aeruginosa multirresistente
+442635007||cultivo positivo a listeria monocytogenes||positivo en las cuatro que se realizan para leuconostoc spp.
+442635007||cultivo positivo a listeria monocytogenes||cultivo fue también positivo para s. aureus
+442635007||cultivo positivo a listeria monocytogenes||exudado prostático y del pus fueron positivos a e. coli
+442635007||cultivo positivo a listeria monocytogenes||cultivo de líquido sinovial positivo para staphylococcus aureus
+442635007||cultivo positivo a listeria monocytogenes||cultivo positivo para pseudomona aureaginosa
+442635007||cultivo positivo a listeria monocytogenes||e. cloacae, c. sedlakii, k pneumoniae blee (β-lactamasa de espectro extendido) positiva
+442635007||cultivo positivo a listeria monocytogenes||cultivo bacteriológico fue positivo para bacteroides caccae, proteus mirabilis y estafilococus aureus
+442635007||cultivo de secreción fue escherichia coli||cultivos microbiológicos del tejido de granulación subyacente fueron positivos para pseudomonas aeruginosa multirresistente
+442635007||cultivo de secreción fue escherichia coli||positivo en las cuatro que se realizan para leuconostoc spp.
+442635007||cultivo de secreción fue escherichia coli||cultivo fue también positivo para s. aureus
+442635007||cultivo de secreción fue escherichia coli||exudado prostático y del pus fueron positivos a e. coli
+442635007||cultivo de secreción fue escherichia coli||cultivo de líquido sinovial positivo para staphylococcus aureus
+442635007||cultivo de secreción fue escherichia coli||cultivo positivo para pseudomona aureaginosa
+442635007||cultivo de secreción fue escherichia coli||e. cloacae, c. sedlakii, k pneumoniae blee (β-lactamasa de espectro extendido) positiva
+442635007||cultivo de secreción fue escherichia coli||cultivo bacteriológico fue positivo para bacteroides caccae, proteus mirabilis y estafilococus aureus
+442635007||cultivos microbiológicos del tejido de granulación subyacente fueron positivos para pseudomonas aeruginosa multirresistente||positivo en las cuatro que se realizan para leuconostoc spp.
+442635007||cultivos microbiológicos del tejido de granulación subyacente fueron positivos para pseudomonas aeruginosa multirresistente||cultivo fue también positivo para s. aureus
+442635007||cultivos microbiológicos del tejido de granulación subyacente fueron positivos para pseudomonas aeruginosa multirresistente||exudado prostático y del pus fueron positivos a e. coli
+442635007||cultivos microbiológicos del tejido de granulación subyacente fueron positivos para pseudomonas aeruginosa multirresistente||cultivo de líquido sinovial positivo para staphylococcus aureus
+442635007||cultivos microbiológicos del tejido de granulación subyacente fueron positivos para pseudomonas aeruginosa multirresistente||cultivo positivo para pseudomona aureaginosa
+442635007||cultivos microbiológicos del tejido de granulación subyacente fueron positivos para pseudomonas aeruginosa multirresistente||e. cloacae, c. sedlakii, k pneumoniae blee (β-lactamasa de espectro extendido) positiva
+442635007||cultivos microbiológicos del tejido de granulación subyacente fueron positivos para pseudomonas aeruginosa multirresistente||cultivo bacteriológico fue positivo para bacteroides caccae, proteus mirabilis y estafilococus aureus
+442635007||positivo en las cuatro que se realizan para leuconostoc spp.||cultivo fue también positivo para s. aureus
+442635007||positivo en las cuatro que se realizan para leuconostoc spp.||exudado prostático y del pus fueron positivos a e. coli
+442635007||positivo en las cuatro que se realizan para leuconostoc spp.||cultivo de líquido sinovial positivo para staphylococcus aureus
+442635007||positivo en las cuatro que se realizan para leuconostoc spp.||cultivo positivo para pseudomona aureaginosa
+442635007||positivo en las cuatro que se realizan para leuconostoc spp.||e. cloacae, c. sedlakii, k pneumoniae blee (β-lactamasa de espectro extendido) positiva
+442635007||positivo en las cuatro que se realizan para leuconostoc spp.||cultivo bacteriológico fue positivo para bacteroides caccae, proteus mirabilis y estafilococus aureus
+442635007||cultivo fue también positivo para s. aureus||exudado prostático y del pus fueron positivos a e. coli
+442635007||cultivo fue también positivo para s. aureus||cultivo de líquido sinovial positivo para staphylococcus aureus
+442635007||cultivo fue también positivo para s. aureus||cultivo positivo para pseudomona aureaginosa
+442635007||cultivo fue también positivo para s. aureus||e. cloacae, c. sedlakii, k pneumoniae blee (β-lactamasa de espectro extendido) positiva
+442635007||cultivo fue también positivo para s. aureus||cultivo bacteriológico fue positivo para bacteroides caccae, proteus mirabilis y estafilococus aureus
+442635007||exudado prostático y del pus fueron positivos a e. coli||cultivo de líquido sinovial positivo para staphylococcus aureus
+442635007||exudado prostático y del pus fueron positivos a e. coli||cultivo positivo para pseudomona aureaginosa
+442635007||exudado prostático y del pus fueron positivos a e. coli||e. cloacae, c. sedlakii, k pneumoniae blee (β-lactamasa de espectro extendido) positiva
+442635007||exudado prostático y del pus fueron positivos a e. coli||cultivo bacteriológico fue positivo para bacteroides caccae, proteus mirabilis y estafilococus aureus
+442635007||cultivo de líquido sinovial positivo para staphylococcus aureus||cultivo positivo para pseudomona aureaginosa
+442635007||cultivo de líquido sinovial positivo para staphylococcus aureus||e. cloacae, c. sedlakii, k pneumoniae blee (β-lactamasa de espectro extendido) positiva
+442635007||cultivo de líquido sinovial positivo para staphylococcus aureus||cultivo bacteriológico fue positivo para bacteroides caccae, proteus mirabilis y estafilococus aureus
+442635007||cultivo positivo para pseudomona aureaginosa||e. cloacae, c. sedlakii, k pneumoniae blee (β-lactamasa de espectro extendido) positiva
+442635007||cultivo positivo para pseudomona aureaginosa||cultivo bacteriológico fue positivo para bacteroides caccae, proteus mirabilis y estafilococus aureus
+442635007||e. cloacae, c. sedlakii, k pneumoniae blee (β-lactamasa de espectro extendido) positiva||cultivo bacteriológico fue positivo para bacteroides caccae, proteus mirabilis y estafilococus aureus
+312895004||íleon por engrosamiento parietal||íleon terminal una mucosa extremadamente irregular
+75823008||secreción||exudado
+429783005||parestesias en las extremidades inferiores||parestesias en miembros inferiores
+429783005||parestesias en las extremidades inferiores||hipoestesia parcheada en las extremidades inferiores
+429783005||parestesias en miembros inferiores||hipoestesia parcheada en las extremidades inferiores
+91175000||episodios convulsivos||episodio convulsivo
+91175000||episodios convulsivos||convulsión
+91175000||episodios convulsivos||convulsiones
+91175000||episodios convulsivos||crisis
+91175000||episodio convulsivo||convulsión
+91175000||episodio convulsivo||convulsiones
+91175000||episodio convulsivo||crisis
+91175000||convulsión||convulsiones
+91175000||convulsión||crisis
+91175000||convulsiones||crisis
+89627008||hiponatremia||hiponatremia grave
+131148009||hemorragia||sangrante
+131148009||hemorragia||hemorrágicas
+131148009||hemorragia||resangrado
+131148009||hemorragia||sangre
+131148009||hemorragia||sangrado
+131148009||sangrante||hemorrágicas
+131148009||sangrante||resangrado
+131148009||sangrante||sangre
+131148009||sangrante||sangrado
+131148009||hemorrágicas||resangrado
+131148009||hemorrágicas||sangre
+131148009||hemorrágicas||sangrado
+131148009||resangrado||sangre
+131148009||resangrado||sangrado
+131148009||sangre||sangrado
+279093005||cólicos||dolores cólicos
+257552002||signos inflamatorios||flogosis
+78341006||leucocitos polimorfonucleares y abundante moco||neutrofilia
+80306002||peristaltismo discretamente aumentado||peristaltismo elevado
+49650001||molestias en el tracto urinario inferior||disuria
+49650001||molestias en el tracto urinario inferior||síntomas urinarios irritativos
+49650001||disuria||síntomas urinarios irritativos
+30233002||odinofagia||odinofagia leve
+74285003||nódulo que infiltra en profundidad la grasa subcutánea y el músculo iliopsoas||masa pélvica situada a la derecha de la vejiga
+74285003||nódulo que infiltra en profundidad la grasa subcutánea y el músculo iliopsoas||tumoración junto a fibras del oblicuo menor, músculo transverso y músculo iliopsoas
+74285003||masa pélvica situada a la derecha de la vejiga||tumoración junto a fibras del oblicuo menor, músculo transverso y músculo iliopsoas
+64779008||alteraciones de la coagulación||coagulación alterada
+249543005||abdomen era blando depresible||abdomen es blando, depresible
+249543005||abdomen era blando depresible||abdomen blando y depresible
+249543005||abdomen era blando depresible||abdomen era blando y depresible
+249543005||abdomen era blando depresible||abdomen blando, depresible, no doloroso
+249543005||abdomen era blando depresible||abdomen era blando, depresible
+249543005||abdomen era blando depresible||abdomen estaba blando
+249543005||abdomen era blando depresible||abdomen blando
+249543005||abdomen es blando, depresible||abdomen blando y depresible
+249543005||abdomen es blando, depresible||abdomen era blando y depresible
+249543005||abdomen es blando, depresible||abdomen blando, depresible, no doloroso
+249543005||abdomen es blando, depresible||abdomen era blando, depresible
+249543005||abdomen es blando, depresible||abdomen estaba blando
+249543005||abdomen es blando, depresible||abdomen blando
+249543005||abdomen blando y depresible||abdomen era blando y depresible
+249543005||abdomen blando y depresible||abdomen blando, depresible, no doloroso
+249543005||abdomen blando y depresible||abdomen era blando, depresible
+249543005||abdomen blando y depresible||abdomen estaba blando
+249543005||abdomen blando y depresible||abdomen blando
+249543005||abdomen era blando y depresible||abdomen blando, depresible, no doloroso
+249543005||abdomen era blando y depresible||abdomen era blando, depresible
+249543005||abdomen era blando y depresible||abdomen estaba blando
+249543005||abdomen era blando y depresible||abdomen blando
+249543005||abdomen blando, depresible, no doloroso||abdomen era blando, depresible
+249543005||abdomen blando, depresible, no doloroso||abdomen estaba blando
+249543005||abdomen blando, depresible, no doloroso||abdomen blando
+249543005||abdomen era blando, depresible||abdomen estaba blando
+249543005||abdomen era blando, depresible||abdomen blando
+249543005||abdomen estaba blando||abdomen blando
+301459008||estable hemodinámicamente||estabilidad hemodinámica
+301459008||estable hemodinámicamente||hemodinámicamente estable
+301459008||estabilidad hemodinámica||hemodinámicamente estable
+703630003||ojo rojo severo||ojo rojo
+409668002||fotofobia||fotofobia intensa
+79890006||pérdida apetito||anorexia
+271594007||cuadro sincopal||síncope
+271594007||cuadro sincopal||episodio sincopal
+271594007||cuadro sincopal||síncopes
+271594007||síncope||episodio sincopal
+271594007||síncope||síncopes
+271594007||episodio sincopal||síncopes
+15253005||asimetría facial||desviación de la línea media facial
+135818000||mal estado general||mal estado del paciente
+111975006||intervalo qtc prolongado||prolongación de qt
+43724002||escalofríos||sensación distérmica
+43724002||escalofríos||escalofrios
+43724002||sensación distérmica||escalofrios
+249274008||clínica miccional||síntomas miccionales
+249274008||clínica miccional||sintomatología urinaria
+249274008||síntomas miccionales||sintomatología urinaria
+246636008||visión borrosa||visión borrosa en ambos ojos
+128139000||inflamación||reacción inflamatoria
+102614006||abdomen doloroso de forma difusa||dolor abdominal generalizado
+102614006||abdomen doloroso de forma difusa||dolor abdominal difuso
+102614006||dolor abdominal generalizado||dolor abdominal difuso
+563001||nistagmus||nistagmo
+563001||nistagmus||nistagmus en abducción en ambos ojos
+563001||nistagmo||nistagmus en abducción en ambos ojos
+61373006||sedimento de orina positivo a bacilos gramnegativos||bacteriuria
+102572006||edemas en miembros inferiores||edemas leves en miembros inferiores
+102572006||edemas en miembros inferiores||edemas en extremidades inferiores
+102572006||edemas en miembros inferiores||edemas en mmii
+102572006||edemas leves en miembros inferiores||edemas en extremidades inferiores
+102572006||edemas leves en miembros inferiores||edemas en mmii
+102572006||edemas en extremidades inferiores||edemas en mmii
+40709005||lumbalgia||dolor lumbar bajo
+40709005||lumbalgia||dolor lumbar
+40709005||lumbalgia||lumbalgias
+40709005||dolor lumbar bajo||dolor lumbar
+40709005||dolor lumbar bajo||lumbalgias
+40709005||dolor lumbar||lumbalgias
+119247004||hipoalbuminemia grave||hipoalbuminemia
+165562007||coagulación sin alteraciones||coagulación normal
+165562007||coagulación sin alteraciones||coagulación no presentaron alteraciones
+165562007||coagulación normal||coagulación no presentaron alteraciones
+235993005||colecciones líquidas||colección peri-injerto
+235993005||colecciones líquidas||líquido encapsulado con nivel hidroaéreo en el flanco derecho
+235993005||colecciones líquidas||ocupación del hemiabdomen izquierdo
+235993005||colección peri-injerto||líquido encapsulado con nivel hidroaéreo en el flanco derecho
+235993005||colección peri-injerto||ocupación del hemiabdomen izquierdo
+235993005||líquido encapsulado con nivel hidroaéreo en el flanco derecho||ocupación del hemiabdomen izquierdo
+52613005||diaforético||sudoración profusa
+52613005||diaforético||sudoroso
+52613005||diaforético||sudoración
+52613005||diaforético||diaforesis
+52613005||sudoración profusa||sudoroso
+52613005||sudoración profusa||sudoración
+52613005||sudoración profusa||diaforesis
+52613005||sudoroso||sudoración
+52613005||sudoroso||diaforesis
+52613005||sudoración||diaforesis
+247663003||orientado||orientada
+298721005||captación de gadolinio en la articulación del manubrio con el cuerpo esternal||manubrio esternal con destrucción cortical
+15188001||hipoacusia||afectación de sus niveles auditivos
+167221003||analítica de orina negativa||sedimento urinario no mostraba alteraciones
+167221003||analítica de orina negativa||sedimento de orina era normal
+167221003||analítica de orina negativa||sedimento normal
+167221003||analítica de orina negativa||analítica de orina no patológica
+167221003||analítica de orina negativa||sedimento de orina normal
+167221003||analítica de orina negativa||sin alteraciones en el sedimento
+167221003||sedimento urinario no mostraba alteraciones||sedimento de orina era normal
+167221003||sedimento urinario no mostraba alteraciones||sedimento normal
+167221003||sedimento urinario no mostraba alteraciones||analítica de orina no patológica
+167221003||sedimento urinario no mostraba alteraciones||sedimento de orina normal
+167221003||sedimento urinario no mostraba alteraciones||sin alteraciones en el sedimento
+167221003||sedimento de orina era normal||sedimento normal
+167221003||sedimento de orina era normal||analítica de orina no patológica
+167221003||sedimento de orina era normal||sedimento de orina normal
+167221003||sedimento de orina era normal||sin alteraciones en el sedimento
+167221003||sedimento normal||analítica de orina no patológica
+167221003||sedimento normal||sedimento de orina normal
+167221003||sedimento normal||sin alteraciones en el sedimento
+167221003||analítica de orina no patológica||sedimento de orina normal
+167221003||analítica de orina no patológica||sin alteraciones en el sedimento
+167221003||sedimento de orina normal||sin alteraciones en el sedimento
+314983004||deterioro importante de la función renal||deterioro progresivo de la función renal
+314983004||deterioro importante de la función renal||empeoramiento de la función renal
+314983004||deterioro importante de la función renal||deterioro de la función renal
+314983004||deterioro progresivo de la función renal||empeoramiento de la función renal
+314983004||deterioro progresivo de la función renal||deterioro de la función renal
+314983004||empeoramiento de la función renal||deterioro de la función renal
+125144008||tumoración es friable, con crecimiento vegetante||masa exofítica de aspecto nodular
+268376005||prueba de la tuberculina cutánea positiva||mantoux positivo con ulceracion
+21454007||hemorragia subaracnoidea frontoparietal derecha||hemorragia subaracnoidea
+21454007||hemorragia subaracnoidea frontoparietal derecha||hemorragia subaracnoidea mínima en región suprasilviana izquierda
+21454007||hemorragia subaracnoidea||hemorragia subaracnoidea mínima en región suprasilviana izquierda
+399406009||marcadores tumorales fueron negativos||exploración física y los marcadores tumorales son normales
+399406009||marcadores tumorales fueron negativos||marcadores testiculares negativos
+399406009||marcadores tumorales fueron negativos||marcadores tumorales son negativos
+399406009||marcadores tumorales fueron negativos||marcadores tumorales séricos estaban en niveles normales
+399406009||marcadores tumorales fueron negativos||cifras normales de marcadores tumorales germinales
+399406009||marcadores tumorales fueron negativos||marcadores tumorales negativos
+399406009||marcadores tumorales fueron negativos||marcadores tumorales normales
+399406009||exploración física y los marcadores tumorales son normales||marcadores testiculares negativos
+399406009||exploración física y los marcadores tumorales son normales||marcadores tumorales son negativos
+399406009||exploración física y los marcadores tumorales son normales||marcadores tumorales séricos estaban en niveles normales
+399406009||exploración física y los marcadores tumorales son normales||cifras normales de marcadores tumorales germinales
+399406009||exploración física y los marcadores tumorales son normales||marcadores tumorales negativos
+399406009||exploración física y los marcadores tumorales son normales||marcadores tumorales normales
+399406009||marcadores testiculares negativos||marcadores tumorales son negativos
+399406009||marcadores testiculares negativos||marcadores tumorales séricos estaban en niveles normales
+399406009||marcadores testiculares negativos||cifras normales de marcadores tumorales germinales
+399406009||marcadores testiculares negativos||marcadores tumorales negativos
+399406009||marcadores testiculares negativos||marcadores tumorales normales
+399406009||marcadores tumorales son negativos||marcadores tumorales séricos estaban en niveles normales
+399406009||marcadores tumorales son negativos||cifras normales de marcadores tumorales germinales
+399406009||marcadores tumorales son negativos||marcadores tumorales negativos
+399406009||marcadores tumorales son negativos||marcadores tumorales normales
+399406009||marcadores tumorales séricos estaban en niveles normales||cifras normales de marcadores tumorales germinales
+399406009||marcadores tumorales séricos estaban en niveles normales||marcadores tumorales negativos
+399406009||marcadores tumorales séricos estaban en niveles normales||marcadores tumorales normales
+399406009||cifras normales de marcadores tumorales germinales||marcadores tumorales negativos
+399406009||cifras normales de marcadores tumorales germinales||marcadores tumorales normales
+399406009||marcadores tumorales negativos||marcadores tumorales normales
+249939004||debilidad muscular proximal en brazos y piernas||debilidad en musculatura proximal
+285384003||deterioro de su estado general||afectación del estado general
+285384003||deterioro de su estado general||deterioro del estado general
+285384003||deterioro de su estado general||deterioro progresivo del estado general
+285384003||afectación del estado general||deterioro del estado general
+285384003||afectación del estado general||deterioro progresivo del estado general
+285384003||deterioro del estado general||deterioro progresivo del estado general
+274667000||dolor lancinante en el cuerpo mandibular||dolor hemimandíbular
+105593004||alteración hidroelectrolítica severa||alteraciones electrolíticas
+442082004||pruebas complementarias básicas normales||total normalidad de las pruebas analíticas
+442082004||pruebas complementarias básicas normales||análisis de laboratorio normales
+442082004||pruebas complementarias básicas normales||controles analíticos normales
+442082004||total normalidad de las pruebas analíticas||análisis de laboratorio normales
+442082004||total normalidad de las pruebas analíticas||controles analíticos normales
+442082004||análisis de laboratorio normales||controles analíticos normales
+286933003||cuadro confusional||síndrome confusional
+267038008||edemas||edema
+47186006||captación de contraste moderada||discreta captación heterogénea del contraste
+9589009||dificultades para la marcha||dificultad en la marcha
+9589009||dificultades para la marcha||imposibilita la deambulación
+9589009||dificultades para la marcha||dificultad para la deambulación
+9589009||dificultades para la marcha||marcha se observaba claudicación
+9589009||dificultad en la marcha||imposibilita la deambulación
+9589009||dificultad en la marcha||dificultad para la deambulación
+9589009||dificultad en la marcha||marcha se observaba claudicación
+9589009||imposibilita la deambulación||dificultad para la deambulación
+9589009||imposibilita la deambulación||marcha se observaba claudicación
+9589009||dificultad para la deambulación||marcha se observaba claudicación
+427924001||fuga de contraste' hacia la cavidad abdominal||fuga del contraste fuera de la vía urinaria
+278683009||buena oclusión dental||oclusión estable y repetible
+60280003||valores de presión intraocular fueron normales||normalización de la pio
+60280003||valores de presión intraocular fueron normales||presión intraocular (pio) eran normales
+60280003||normalización de la pio||presión intraocular (pio) eran normales
+249244000||flaccidez peneana||cordón longitudinal indurado en la base del pene
+249244000||flaccidez peneana||flaccidez
+249244000||cordón longitudinal indurado en la base del pene||flaccidez
+83128009||oliguria||oligoanuria
+1162387003||atracones||atracones de comida
+34095006||deshidratación||signos de depleción hidrosalina
+34095006||deshidratación||deshidratado
+34095006||signos de depleción hidrosalina||deshidratado
+300493001||teste normoecógeno y de tamaño normal||teste normal
+300493001||teste normoecógeno y de tamaño normal||teste derecho de características normales
+300493001||teste normoecógeno y de tamaño normal||teste izquierdo de tamaño, movilidad y consistencia normal
+300493001||teste normoecógeno y de tamaño normal||testes se presentaban normales
+300493001||teste normoecógeno y de tamaño normal||testículo derecho tenía un tamaño y consistencia normales
+300493001||teste normal||teste derecho de características normales
+300493001||teste normal||teste izquierdo de tamaño, movilidad y consistencia normal
+300493001||teste normal||testes se presentaban normales
+300493001||teste normal||testículo derecho tenía un tamaño y consistencia normales
+300493001||teste derecho de características normales||teste izquierdo de tamaño, movilidad y consistencia normal
+300493001||teste derecho de características normales||testes se presentaban normales
+300493001||teste derecho de características normales||testículo derecho tenía un tamaño y consistencia normales
+300493001||teste izquierdo de tamaño, movilidad y consistencia normal||testes se presentaban normales
+300493001||teste izquierdo de tamaño, movilidad y consistencia normal||testículo derecho tenía un tamaño y consistencia normales
+300493001||testes se presentaban normales||testículo derecho tenía un tamaño y consistencia normales
+163352001||vejiga sin lesiones||ecografía renal, vesical y prostática no se encontraron alteraciones
+309529002||masa en lóbulo superior||masa necrótica de 8 cm en lsi
+168733007||radiografía de tórax siendo igualmente negativa||radiografía de tórax (que es informada como normal)
+168733007||radiografía de tórax siendo igualmente negativa||radiografía de tórax es normal
+168733007||radiografía de tórax siendo igualmente negativa||radiografia de tórax sin alteraciones significativas
+168733007||radiografía de tórax siendo igualmente negativa||radiografía de tórax fueron normales
+168733007||radiografía de tórax siendo igualmente negativa||radiografía de tórax resultó normal
+168733007||radiografía de tórax siendo igualmente negativa||radiografía de tórax estuvo dentro de los límites normales
+168733007||radiografía de tórax siendo igualmente negativa||radiografía de tórax fue normal
+168733007||radiografía de tórax siendo igualmente negativa||radiografía de tórax no mostró alteraciones
+168733007||radiografía de tórax siendo igualmente negativa||radiografía de tórax rigurosamente normal
+168733007||radiografía de tórax (que es informada como normal)||radiografía de tórax es normal
+168733007||radiografía de tórax (que es informada como normal)||radiografia de tórax sin alteraciones significativas
+168733007||radiografía de tórax (que es informada como normal)||radiografía de tórax fueron normales
+168733007||radiografía de tórax (que es informada como normal)||radiografía de tórax resultó normal
+168733007||radiografía de tórax (que es informada como normal)||radiografía de tórax estuvo dentro de los límites normales
+168733007||radiografía de tórax (que es informada como normal)||radiografía de tórax fue normal
+168733007||radiografía de tórax (que es informada como normal)||radiografía de tórax no mostró alteraciones
+168733007||radiografía de tórax (que es informada como normal)||radiografía de tórax rigurosamente normal
+168733007||radiografía de tórax es normal||radiografia de tórax sin alteraciones significativas
+168733007||radiografía de tórax es normal||radiografía de tórax fueron normales
+168733007||radiografía de tórax es normal||radiografía de tórax resultó normal
+168733007||radiografía de tórax es normal||radiografía de tórax estuvo dentro de los límites normales
+168733007||radiografía de tórax es normal||radiografía de tórax fue normal
+168733007||radiografía de tórax es normal||radiografía de tórax no mostró alteraciones
+168733007||radiografía de tórax es normal||radiografía de tórax rigurosamente normal
+168733007||radiografia de tórax sin alteraciones significativas||radiografía de tórax fueron normales
+168733007||radiografia de tórax sin alteraciones significativas||radiografía de tórax resultó normal
+168733007||radiografia de tórax sin alteraciones significativas||radiografía de tórax estuvo dentro de los límites normales
+168733007||radiografia de tórax sin alteraciones significativas||radiografía de tórax fue normal
+168733007||radiografia de tórax sin alteraciones significativas||radiografía de tórax no mostró alteraciones
+168733007||radiografia de tórax sin alteraciones significativas||radiografía de tórax rigurosamente normal
+168733007||radiografía de tórax fueron normales||radiografía de tórax resultó normal
+168733007||radiografía de tórax fueron normales||radiografía de tórax estuvo dentro de los límites normales
+168733007||radiografía de tórax fueron normales||radiografía de tórax fue normal
+168733007||radiografía de tórax fueron normales||radiografía de tórax no mostró alteraciones
+168733007||radiografía de tórax fueron normales||radiografía de tórax rigurosamente normal
+168733007||radiografía de tórax resultó normal||radiografía de tórax estuvo dentro de los límites normales
+168733007||radiografía de tórax resultó normal||radiografía de tórax fue normal
+168733007||radiografía de tórax resultó normal||radiografía de tórax no mostró alteraciones
+168733007||radiografía de tórax resultó normal||radiografía de tórax rigurosamente normal
+168733007||radiografía de tórax estuvo dentro de los límites normales||radiografía de tórax fue normal
+168733007||radiografía de tórax estuvo dentro de los límites normales||radiografía de tórax no mostró alteraciones
+168733007||radiografía de tórax estuvo dentro de los límites normales||radiografía de tórax rigurosamente normal
+168733007||radiografía de tórax fue normal||radiografía de tórax no mostró alteraciones
+168733007||radiografía de tórax fue normal||radiografía de tórax rigurosamente normal
+168733007||radiografía de tórax no mostró alteraciones||radiografía de tórax rigurosamente normal
+197941005||hematuria macroscópica||hematuria franca
+57534004||difusión de los vasos retinianos||distorsión de los vasos retinianos
+57534004||difusión de los vasos retinianos||distorsión de los vasos sanguíneos retinianos alrededor de la mácula
+57534004||distorsión de los vasos retinianos||distorsión de los vasos sanguíneos retinianos alrededor de la mácula
+398212009||deposiciones líquidas||diarrea acuosa
+4996001||hipo-fosfatemia severa||hipofosfatemia grave
+249339005||pirámide nasal estrecha||narinas estrechas
+55930002||desviaciones del segmento st||d-st descendente en las derivaciones v1-v2
+55930002||desviaciones del segmento st||desplazamiento del segmento st
+55930002||desviaciones del segmento st||d-st horizontal en v3 a v5
+55930002||desviaciones del segmento st||depresión del segmento st en las derivaciones i, ii, avl y v2 a v6
+55930002||desviaciones del segmento st||d-st marcada en derivaciones v1 a v5
+55930002||d-st descendente en las derivaciones v1-v2||desplazamiento del segmento st
+55930002||d-st descendente en las derivaciones v1-v2||d-st horizontal en v3 a v5
+55930002||d-st descendente en las derivaciones v1-v2||depresión del segmento st en las derivaciones i, ii, avl y v2 a v6
+55930002||d-st descendente en las derivaciones v1-v2||d-st marcada en derivaciones v1 a v5
+55930002||desplazamiento del segmento st||d-st horizontal en v3 a v5
+55930002||desplazamiento del segmento st||depresión del segmento st en las derivaciones i, ii, avl y v2 a v6
+55930002||desplazamiento del segmento st||d-st marcada en derivaciones v1 a v5
+55930002||d-st horizontal en v3 a v5||depresión del segmento st en las derivaciones i, ii, avl y v2 a v6
+55930002||d-st horizontal en v3 a v5||d-st marcada en derivaciones v1 a v5
+55930002||depresión del segmento st en las derivaciones i, ii, avl y v2 a v6||d-st marcada en derivaciones v1 a v5
+87860000||tumoración sólida de 37x21 mm, hipoecoica en teste||tumoración carnosa mamelonada adherida al polo superior del testículo
+87860000||tumoración sólida de 37x21 mm, hipoecoica en teste||nódulo hipoecoico en testículo
+87860000||tumoración sólida de 37x21 mm, hipoecoica en teste||tumoración testicular bilateral
+87860000||tumoración sólida de 37x21 mm, hipoecoica en teste||polo superior de teste izquierdo, sugestivo de masa sólida
+87860000||tumoración sólida de 37x21 mm, hipoecoica en teste||tumoración dura en teste
+87860000||tumoración sólida de 37x21 mm, hipoecoica en teste||nódulo en testículo
+87860000||tumoración sólida de 37x21 mm, hipoecoica en teste||tumoración testicular
+87860000||tumoración sólida de 37x21 mm, hipoecoica en teste||masa de 8 cm en teste
+87860000||tumoración sólida de 37x21 mm, hipoecoica en teste||tumoración en ambos testes
+87860000||tumoración sólida de 37x21 mm, hipoecoica en teste||masa no dolorosa en testículo derecho
+87860000||tumoración sólida de 37x21 mm, hipoecoica en teste||testículos están englobados por la fibrosis y la masa tumoral
+87860000||tumoración carnosa mamelonada adherida al polo superior del testículo||nódulo hipoecoico en testículo
+87860000||tumoración carnosa mamelonada adherida al polo superior del testículo||tumoración testicular bilateral
+87860000||tumoración carnosa mamelonada adherida al polo superior del testículo||polo superior de teste izquierdo, sugestivo de masa sólida
+87860000||tumoración carnosa mamelonada adherida al polo superior del testículo||tumoración dura en teste
+87860000||tumoración carnosa mamelonada adherida al polo superior del testículo||nódulo en testículo
+87860000||tumoración carnosa mamelonada adherida al polo superior del testículo||tumoración testicular
+87860000||tumoración carnosa mamelonada adherida al polo superior del testículo||masa de 8 cm en teste
+87860000||tumoración carnosa mamelonada adherida al polo superior del testículo||tumoración en ambos testes
+87860000||tumoración carnosa mamelonada adherida al polo superior del testículo||masa no dolorosa en testículo derecho
+87860000||tumoración carnosa mamelonada adherida al polo superior del testículo||testículos están englobados por la fibrosis y la masa tumoral
+87860000||nódulo hipoecoico en testículo||tumoración testicular bilateral
+87860000||nódulo hipoecoico en testículo||polo superior de teste izquierdo, sugestivo de masa sólida
+87860000||nódulo hipoecoico en testículo||tumoración dura en teste
+87860000||nódulo hipoecoico en testículo||nódulo en testículo
+87860000||nódulo hipoecoico en testículo||tumoración testicular
+87860000||nódulo hipoecoico en testículo||masa de 8 cm en teste
+87860000||nódulo hipoecoico en testículo||tumoración en ambos testes
+87860000||nódulo hipoecoico en testículo||masa no dolorosa en testículo derecho
+87860000||nódulo hipoecoico en testículo||testículos están englobados por la fibrosis y la masa tumoral
+87860000||tumoración testicular bilateral||polo superior de teste izquierdo, sugestivo de masa sólida
+87860000||tumoración testicular bilateral||tumoración dura en teste
+87860000||tumoración testicular bilateral||nódulo en testículo
+87860000||tumoración testicular bilateral||tumoración testicular
+87860000||tumoración testicular bilateral||masa de 8 cm en teste
+87860000||tumoración testicular bilateral||tumoración en ambos testes
+87860000||tumoración testicular bilateral||masa no dolorosa en testículo derecho
+87860000||tumoración testicular bilateral||testículos están englobados por la fibrosis y la masa tumoral
+87860000||polo superior de teste izquierdo, sugestivo de masa sólida||tumoración dura en teste
+87860000||polo superior de teste izquierdo, sugestivo de masa sólida||nódulo en testículo
+87860000||polo superior de teste izquierdo, sugestivo de masa sólida||tumoración testicular
+87860000||polo superior de teste izquierdo, sugestivo de masa sólida||masa de 8 cm en teste
+87860000||polo superior de teste izquierdo, sugestivo de masa sólida||tumoración en ambos testes
+87860000||polo superior de teste izquierdo, sugestivo de masa sólida||masa no dolorosa en testículo derecho
+87860000||polo superior de teste izquierdo, sugestivo de masa sólida||testículos están englobados por la fibrosis y la masa tumoral
+87860000||tumoración dura en teste||nódulo en testículo
+87860000||tumoración dura en teste||tumoración testicular
+87860000||tumoración dura en teste||masa de 8 cm en teste
+87860000||tumoración dura en teste||tumoración en ambos testes
+87860000||tumoración dura en teste||masa no dolorosa en testículo derecho
+87860000||tumoración dura en teste||testículos están englobados por la fibrosis y la masa tumoral
+87860000||nódulo en testículo||tumoración testicular
+87860000||nódulo en testículo||masa de 8 cm en teste
+87860000||nódulo en testículo||tumoración en ambos testes
+87860000||nódulo en testículo||masa no dolorosa en testículo derecho
+87860000||nódulo en testículo||testículos están englobados por la fibrosis y la masa tumoral
+87860000||tumoración testicular||masa de 8 cm en teste
+87860000||tumoración testicular||tumoración en ambos testes
+87860000||tumoración testicular||masa no dolorosa en testículo derecho
+87860000||tumoración testicular||testículos están englobados por la fibrosis y la masa tumoral
+87860000||masa de 8 cm en teste||tumoración en ambos testes
+87860000||masa de 8 cm en teste||masa no dolorosa en testículo derecho
+87860000||masa de 8 cm en teste||testículos están englobados por la fibrosis y la masa tumoral
+87860000||tumoración en ambos testes||masa no dolorosa en testículo derecho
+87860000||tumoración en ambos testes||testículos están englobados por la fibrosis y la masa tumoral
+87860000||masa no dolorosa en testículo derecho||testículos están englobados por la fibrosis y la masa tumoral
+251237002||onda t positiva en las derivaciones v2 a v4||ondas t acuminadas en derivaciones v2-v3
+27925004||formación nodular||nódulo hiperecoico
+27925004||formación nodular||nódulos
+27925004||formación nodular||nódulos hipoecoicos
+27925004||formación nodular||nódulos irregulares
+27925004||formación nodular||nodulo
+27925004||formación nodular||nódulo
+27925004||formación nodular||nódulo subcapsular
+27925004||nódulo hiperecoico||nódulos
+27925004||nódulo hiperecoico||nódulos hipoecoicos
+27925004||nódulo hiperecoico||nódulos irregulares
+27925004||nódulo hiperecoico||nodulo
+27925004||nódulo hiperecoico||nódulo
+27925004||nódulo hiperecoico||nódulo subcapsular
+27925004||nódulos||nódulos hipoecoicos
+27925004||nódulos||nódulos irregulares
+27925004||nódulos||nodulo
+27925004||nódulos||nódulo
+27925004||nódulos||nódulo subcapsular
+27925004||nódulos hipoecoicos||nódulos irregulares
+27925004||nódulos hipoecoicos||nodulo
+27925004||nódulos hipoecoicos||nódulo
+27925004||nódulos hipoecoicos||nódulo subcapsular
+27925004||nódulos irregulares||nodulo
+27925004||nódulos irregulares||nódulo
+27925004||nódulos irregulares||nódulo subcapsular
+27925004||nodulo||nódulo
+27925004||nodulo||nódulo subcapsular
+27925004||nódulo||nódulo subcapsular
+135815002||buen estado general||buen aspecto general
+135815002||buen estado general||buena situación clínica
+135815002||buen estado general||estado general conservado
+135815002||buen estado general||buenas condiciones generales
+135815002||buen aspecto general||buena situación clínica
+135815002||buen aspecto general||estado general conservado
+135815002||buen aspecto general||buenas condiciones generales
+135815002||buena situación clínica||estado general conservado
+135815002||buena situación clínica||buenas condiciones generales
+135815002||estado general conservado||buenas condiciones generales
+72970002||examen clínico y sus signos vitales eran normales||constantes vitales fueron normales
+170577003||tensiones bien controladas||buen control tensional
+102031000119109||masa paratesticular||masa adyacente al polo superior de teste
+59931005||inversión inferior de la onda t||inversión de la onda t en derivaciones iii y avf
+45089002||ojo derecho fue normal||ojo derecho era normal
+267727004||pérdida de visión bilateral, progresiva e indolora||pérdida de visión bilateral
+89474008||estudio de extensión fue normal||estudio de extensión libre de enfermedad
+89474008||estudio de extensión fue normal||estudio de extensión negativo
+89474008||estudio de extensión libre de enfermedad||estudio de extensión negativo
+27194006||edema corneal||edema corneal moderado
+300561007||normalidad de los estudios urológicos||uretra bulbar normal
+300561007||normalidad de los estudios urológicos||riñones y uréteres normales
+300561007||uretra bulbar normal||riñones y uréteres normales
+276412008||teste izquierdo se encuentra aumentado de tamaño||teste derecho horinzontalizado, aumentado de tamaño
+8148005||quemosis intensa generalizada||quemosis conjuntival
+399122003||disfagia progresiva||disfagia
+418290006||escozor||prurito
+284520004||crepitantes bibasales||crepitantes bilaterales difusos
+309576006||muslo derecho se visualiza una masa||tumoración en muslo
+8644006||pesadez posprandial||sensación de plenitud
+75229002||hifema||microhifema
+85670002||déficit vitamínico||disminución de las vitaminas liposolubles
+111512005||sinequias posteriores||sinequia posterior
+766960007||contenido ecógeno en cava inferior||defecto de repleción intracava infrarrenal
+274279008||dolor a nivel del injerto renal||dolor intenso súbito en fosa renal
+26237000||edemas maleolares simétricos||edemas bimaleolares
+118948005||efecto masa en hipocondrio izquierdo||cuadro abdominal
+197811007||reflujo vesicoureteral pasivo grado iii derecho y activo||reflujo vésico-ureteral, con alta presión
+271653008||ingurgitación yugular||venas yugulares ingurgitadas
+165141001||gastroscopia era normal||gastroscopia que resultó normal
+79740000||muguet||muguet oral
+271823003||taquipnea||taquipnea persistente
+271823003||taquipnea||taquipneico
+271823003||taquipnea||aumento de la frecuencia respiratoria
+271823003||taquipnea persistente||taquipneico
+271823003||taquipnea persistente||aumento de la frecuencia respiratoria
+271823003||taquipneico||aumento de la frecuencia respiratoria
+128295000||inflamación intraocular||inflamación ocular
+163133003||tac abdominal, que no reveló hallazgos patológicos||abdomen sin alteraciones
+63305008||engrosamiento de la unión esófago-gástrica||estenosis parcial de la luz esofágica,
+253330006||vena porta permeable||porta permeable
+76917005||nódulo tiroideo||nódulo tiroideo sólido, con calcio
+76917005||nódulo tiroideo||bocio multinodular con presencia de un nódulo sólido
+76917005||nódulo tiroideo sólido, con calcio||bocio multinodular con presencia de un nódulo sólido
+423341008||papiledema||edema de papila
+423341008||papiledema||edema del disco óptico
+423341008||edema de papila||edema del disco óptico
+330007||cefalea intensa en región occipital||cefalea occipital
+29555009||alteraciones retinianas||moteado difuso hiperautofluorescente
+76849009||inyección conjuntival||hiperemia conjuntival mixta
+76849009||inyección conjuntival||hiperemia conjuntival
+76849009||hiperemia conjuntival mixta||hiperemia conjuntival
+408568004||tac craneal normal||tac craneal no demostró ningún hallazgo patológico
+408568004||tac craneal normal||tac craneal en el que no se aprecian anormalidades
+408568004||tac craneal no demostró ningún hallazgo patológico||tac craneal en el que no se aprecian anormalidades
+249250005||respetaba el glande||glande hipocrómico, hipotérmico
+249250005||respetaba el glande||hipocromía en el glande
+249250005||glande hipocrómico, hipotérmico||hipocromía en el glande
+251471009||electroencefalograma presentando una discreta lentificación difusa||actividad de base rápida de bajo voltaje
+300260007||drenaje de la glándula parótida izquierda es normal||conducto era permeable
+8730001000004107||hemocultivos crece un e. coli||hemocultivos seriados que resultaron ser positivos para staphylococcus aureus
+8730001000004107||hemocultivos crece un e. coli||hemocultivos seriados en los que se aisló de forma persistente neisseria sicca
+8730001000004107||hemocultivos crece un e. coli||staphylococcus epidermidis en varios hemocultivos
+8730001000004107||hemocultivos crece un e. coli||hemocultivos positivos a staphylococcus (st.) aureus
+8730001000004107||hemocultivos seriados que resultaron ser positivos para staphylococcus aureus||hemocultivos seriados en los que se aisló de forma persistente neisseria sicca
+8730001000004107||hemocultivos seriados que resultaron ser positivos para staphylococcus aureus||staphylococcus epidermidis en varios hemocultivos
+8730001000004107||hemocultivos seriados que resultaron ser positivos para staphylococcus aureus||hemocultivos positivos a staphylococcus (st.) aureus
+8730001000004107||hemocultivos seriados en los que se aisló de forma persistente neisseria sicca||staphylococcus epidermidis en varios hemocultivos
+8730001000004107||hemocultivos seriados en los que se aisló de forma persistente neisseria sicca||hemocultivos positivos a staphylococcus (st.) aureus
+8730001000004107||staphylococcus epidermidis en varios hemocultivos||hemocultivos positivos a staphylococcus (st.) aureus
+722223000||masa quistica renal||masa quística renal
+88111009||alteraciones recientes en el tránsito intestinal||alteración del hábito intestinal
+247348008||dolorosa a la palpación||dolorosas a la palpación
+247348008||dolorosa a la palpación||dolor a la palpación
+247348008||dolorosas a la palpación||dolor a la palpación
+102568007||disminución de la fuerza en ambos miembros inferiores||déficit motor en miembro inferior
+102568007||disminución de la fuerza en ambos miembros inferiores||debilidad de miembros inferiores
+102568007||déficit motor en miembro inferior||debilidad de miembros inferiores
+233703007||prominencia intersticial||patrón intersticial nodular
+233703007||prominencia intersticial||patrón intersticial bilateral
+233703007||prominencia intersticial||patrón intersticial
+233703007||prominencia intersticial||patrón intersticial retículo nodular septal y centro lobulillar
+233703007||patrón intersticial nodular||patrón intersticial bilateral
+233703007||patrón intersticial nodular||patrón intersticial
+233703007||patrón intersticial nodular||patrón intersticial retículo nodular septal y centro lobulillar
+233703007||patrón intersticial bilateral||patrón intersticial
+233703007||patrón intersticial bilateral||patrón intersticial retículo nodular septal y centro lobulillar
+233703007||patrón intersticial||patrón intersticial retículo nodular septal y centro lobulillar
+73099002||sangrado en sábana||sangrado en sábana de la pared
+82470000||fasciculaciones||fasciculación perceptible en ambos muslos
+82470000||fasciculaciones||fasciculaciones de la musculatura periférica y del diafragma
+82470000||fasciculación perceptible en ambos muslos||fasciculaciones de la musculatura periférica y del diafragma
+82132006||agudeza visual (av) era de la unidad en ambos ojos||agudeza visual de la unidad
+64379006||reducción en la ingesta||disminución de la ingesta
+64379006||reducción en la ingesta||menos apetito
+64379006||disminución de la ingesta||menos apetito
+309569001||complemento c3 y c4 normal||complemento fue normal
+5291005||hipocalcemia severa||hipocalcemia
+89458003||estupor||estuporosa
+64730000||ritmo sinusal normal||auscultación cardíaca es rítmica
+422840005||masa de pared gruesa y centro hipodenso de 4 cm de diámetro en encrucijada témporo-parieto-occipital derecha||proceso expansivo frontoparietal, extendido al lóbulo frontal derecho y al cuerpo calloso
+248503005||edema epitelial microquístico||córnea deslustrada de predominio central con leve edema
+300357002||páncreas aumentado de tamaño||halo peripancreático hipodenso
+300357002||páncreas aumentado de tamaño||páncreas aumentado globalmente de tamaño, hipodenso
+300357002||halo peripancreático hipodenso||páncreas aumentado globalmente de tamaño, hipodenso
+445088006||edema facial||edema de maxilar superior
+445088006||edema facial||edema en hemicara
+445088006||edema de maxilar superior||edema en hemicara
+301961009||papila y la mácula eran normales||papilas de características conservadas
+301961009||papila y la mácula eran normales||papilas eran normales
+301961009||papilas de características conservadas||papilas eran normales
+249604002||colección líquida multitabicada, localizada caudalmente||próstata estaba bien delimitada
+41652007||dolor ocular bilateral||dolor ocular
+41652007||dolor ocular bilateral||dolor ocular leve
+41652007||dolor ocular bilateral||dolor en oi
+41652007||dolor ocular||dolor ocular leve
+41652007||dolor ocular||dolor en oi
+41652007||dolor ocular leve||dolor en oi
+248690009||extratonos||crepitación a la auscultación cardíaca
+22994000||hiporreflexia generalizada||hiporreflexia
+84229001||fatiga||cansancio
+2004005||cifras tensionales son normales||normotensa
+396697000||aumento de la ldh||aumento leve de ldh en sangre
+267096005||cefalea frontoparietal||cefalea bifrontoparietal
+423902002||púrpura palpable en ambas extremidades inferiores||púrpura palpable en las extremidades inferiores
+166165005||serologías normales||anticuerpos antitiroglobulina y antiperoxidasa normales
+166165005||serologías normales||inmunología negativa
+166165005||serologías normales||anticardiolipina igg en valores normales
+166165005||anticuerpos antitiroglobulina y antiperoxidasa normales||inmunología negativa
+166165005||anticuerpos antitiroglobulina y antiperoxidasa normales||anticardiolipina igg en valores normales
+166165005||inmunología negativa||anticardiolipina igg en valores normales
+204676004||mucosa gástrica ectópica||mucosa gástrica heterotópica
+164717000||registro electroencefalográfico de 24 horas de duración en el que no se evidencian alteraciones||registros electroencefalográficos (eeg) fueron normales
+164717000||registro electroencefalográfico de 24 horas de duración en el que no se evidencian alteraciones||electroencefalograma que resulta ser un trazado sin hallazgos patológicos
+164717000||registros electroencefalográficos (eeg) fueron normales||electroencefalograma que resulta ser un trazado sin hallazgos patológicos
+734871004||cariotipo femenino normal||estudio cromosómico fue masculino 46 xy con cariotipo normal
+300449001||coágulo filiforme que asomaba por el meato ureteral||indemnidad del uréter distal
+300449001||coágulo filiforme que asomaba por el meato ureteral||uréter normal
+300449001||indemnidad del uréter distal||uréter normal
+301855007||ganglios||ganglios negativos
+301855007||ganglios||ganglios linfáticos
+301855007||ganglios negativos||ganglios linfáticos
+63049000||estructura ósea normal||hueso sano
+30098003||hiperemia||hiperemia grave
+122449004||aire en la fosa renal||aire en el riñón izquierdo y tejidos perirrenales, que infiltra la pared abdominal
+44647001||extremo anterior de la ahp con contenido hemático||trayecto de la ahp se pudo seguir desde el nervio óptico hasta la cristaloides posterior
+44647001||extremo anterior de la ahp con contenido hemático||flujo sanguíneo activo en la ahp
+44647001||trayecto de la ahp se pudo seguir desde el nervio óptico hasta la cristaloides posterior||flujo sanguíneo activo en la ahp
+1003721002||dolor en rodilla||artralgias en ambas rodillas
+398637008||retina in situ en la ecografia modo b||retina aplicada
+398637008||retina in situ en la ecografia modo b||espesor macular normal
+398637008||retina aplicada||espesor macular normal
+445328000||pápula eritematosa, levemente dolorosa a la presión||micropápulas pruriginosas
+262285001||disminución de peso||adelgazamiento
+2472002||anúrica||anuria
+419326002||limitación en todas las posiciones de de la mirada||limitación a la levosupraversión del oi
+419326002||limitación en todas las posiciones de de la mirada||dificultad para el resto de los movimientos oculares
+419326002||limitación a la levosupraversión del oi||dificultad para el resto de los movimientos oculares
+445201008||antígeno carcinoembrionario (cea) se encontró elevado||leve elevación de cea
+166642001||alt y ast menos de 3 veces el valor normal||transaminasas y enzimas de colestasis dentro de la normalidad
+300861003||tumoración localizada en la unión de los segmentos iv y v||tumoración de aproximadamente 5x5cm de diámetro medial al tercio inferior del músculo esternocleidomastoideo
+408573005||pruebas de imagen resultaron negativas||estudio ecográfico abdominal fue normal
+408573005||pruebas de imagen resultaron negativas||gammagrafía tiroidea fue normal
+408573005||pruebas de imagen resultaron negativas||gammagrafía con 67galio fue negativa
+408573005||pruebas de imagen resultaron negativas||estudios radiológicos normales
+408573005||estudio ecográfico abdominal fue normal||gammagrafía tiroidea fue normal
+408573005||estudio ecográfico abdominal fue normal||gammagrafía con 67galio fue negativa
+408573005||estudio ecográfico abdominal fue normal||estudios radiológicos normales
+408573005||gammagrafía tiroidea fue normal||gammagrafía con 67galio fue negativa
+408573005||gammagrafía tiroidea fue normal||estudios radiológicos normales
+408573005||gammagrafía con 67galio fue negativa||estudios radiológicos normales
+82385007||pérdida de la intensidad de señal de las suprahepáticas||cava intrahepática disminuida de calibre
+440299000||masa extrínseca retrocardiaca||masa retroesofágica
+48348007||murmullo vesicular conservado||auscultación pulmonar normal
+5559008||citología negativa para malignidad||citología no se observaron células malignas
+5559008||citología negativa para malignidad||paaf: celulariad epitelial sin malignidad
+5559008||citología negativa para malignidad||citología fue negativo para células malignas
+5559008||citología negativa para malignidad||citología negativa para células malignas
+5559008||citología no se observaron células malignas||paaf: celulariad epitelial sin malignidad
+5559008||citología no se observaron células malignas||citología fue negativo para células malignas
+5559008||citología no se observaron células malignas||citología negativa para células malignas
+5559008||paaf: celulariad epitelial sin malignidad||citología fue negativo para células malignas
+5559008||paaf: celulariad epitelial sin malignidad||citología negativa para células malignas
+5559008||citología fue negativo para células malignas||citología negativa para células malignas
+249562008||desplazamiento de las asas intestinales||asas intestinales con pequeña cantidad de líquido libre
+110279003||intervalo libre de enfermedad||libre de enfermedad
+301367001||dolor abdominal ubicado en hipocondrio derecho, de leve||dolor abdominal de predominio en hipocondrio derecho
+301367001||dolor abdominal ubicado en hipocondrio derecho, de leve||dolor sordo en hipocondrio derecho
+301367001||dolor abdominal de predominio en hipocondrio derecho||dolor sordo en hipocondrio derecho
+102588006||dolor intermitente localizado a nivel del hemotórax||dolor en el hemitórax
+428090004||ocupación vesical por una imagen que sugería coágulo||coágulo vesical
+428090004||ocupación vesical por una imagen que sugería coágulo||vejiga resecándose una masa
+428090004||coágulo vesical||vejiga resecándose una masa
+830010004||exploración genital es normal||genitales normales
+247078006||reabsorción del hemovítreo||imagen lineal hiperecogénica respecto al vítreo
+89757007||máculas||rash maculoso y eritematoso que afecta a tronco y cuello
+42538001||restos auditivos en graves en el oído||restos auditivos en frecuencias graves
+103251002||motilidad extrínseca e intrínseca fue normal||motilidad ocular extrínseca e intrínseca fueron normales
+301354004||otodinia||otalgia
+162024005||disfagia moderada a sólidos||disfagia a sólidos y líquidos progresiva
+164854000||electrocardiograma fue normal||ecg fue normal
+404640003||mareo||mareos
+309551005||síntomas b||oligosintomática
+309551005||síntomas b||sintomatología b
+309551005||oligosintomática||sintomatología b
+276362002||eupneica||eupneico
+698594003||signos de insuficiencia cardiaca||signos de icc
+285243004||bradipsiquia||bradipsíquico
+35013009||secreción purulenta||material purulento
+35013009||secreción purulenta||leve secreción purulenta y fétida
+35013009||material purulento||leve secreción purulenta y fétida
+300339003||integridad de la vía biliar intra- y extrahepática||vía biliar normal
+18165001||ictericia||ictérica
+55446002||cambios mutacionales en el gen pah: c.165delt (p.phe55fs) / c.q62g > a (p.val388met)||mutación en el gen de la cadena afib
+55446002||cambios mutacionales en el gen pah: c.165delt (p.phe55fs) / c.q62g > a (p.val388met)||mutación (q154r) en el exón 5 del gen xlrs
+55446002||mutación en el gen de la cadena afib||mutación (q154r) en el exón 5 del gen xlrs
+168265009||marcadores virales hepáticos negativos||negativos los marcadores virales para hepatitis
+73707004||líquido en cavidad libre||nivel hidroaéreo
+302200001||palidez de ambas papilas||palidez papilar en oi
+28998008||sangre en el ámbito macular||hemorragia macular
+28998008||sangre en el ámbito macular||hemorragias retinianas
+28998008||hemorragia macular||hemorragias retinianas
+49901000119105||nódulo indurado en párpado superior||masa dolorosa en el tercio externo del párpado superior
+386689009||hipotermia sistémica||hipotermia
+254831005||tumoración grasa||tumoración adiposa
+166717003||elevación de la creatinina sérica||elevación de la concentración de creatinina en plasma
+300441003||adecuada diferenciación cortico-medular||hipointensidad de señal en la corteza renal
+300441003||adecuada diferenciación cortico-medular||parénquima renal izquierdo conservado
+300441003||hipointensidad de señal en la corteza renal||parénquima renal izquierdo conservado
+95255005||hipotonía extrema del globo ocular||hipotonía del oi
+67023009||leucocitosis de predominio linfocítico||linfocitosis
+45007003||hipotenso||hipotensión arterial
+166159005||negativo para antígeno prostático específico||psa dentro del rango de la normalidad
+246874003||queratinización conjuntival.||hiperqueratinización conjuntival
+66857006||expectoración leve hemoptoica||expectoración hemoptoica
+716292004||imagen radiolúcida de gran tamaño en torno a la corona del cordal inferior||imagen radiolúcida de 10 cm de longitud, multiloculada, localizada desde distal del diente 46 hasta mesial del 33
+18265008||proptosis de un año de evolución en ambos ojos||exoftalmos bilateral
+18265008||proptosis de un año de evolución en ambos ojos||proptosis ocular
+18265008||exoftalmos bilateral||proptosis ocular
+33958003||induración del tercio distal del cuerpo del pene||induración dolorosa de la base peneana
+33958003||induración del tercio distal del cuerpo del pene||pene afectaba a la piel, dartos, fascia de buck y albugínea, invadía el interior de los cuerpos cavernosos, destruía la uretra y su esponjosa
+33958003||induración dolorosa de la base peneana||pene afectaba a la piel, dartos, fascia de buck y albugínea, invadía el interior de los cuerpos cavernosos, destruía la uretra y su esponjosa
+167667006||sangre oculta en heces era negativa||sangre oculta en heces fue negativa
+269846003||cifras normales de hormonas tiroideas||hormonas tiroideas normales
+218951000119100||limitación en la abducción de ao||limitación de la abducción bilateral
+84454003||hemiabdomen derecho, masa dolorosa||masas abdominales
+80515008||hepatomegalia dolorosa||aumento del hígado
+282145008||imposibilidad para la deambulación||imposibilidad para la marcha
+394717006||orina con leucocitos negativos||reacción de nitritos es negativa
+28543008||organomegalias||megalias
+68600005||hemoglobinuria||hemoglobinuria macroscópica
+162050009||dolor en flanco derecho con irradiación hacia testículo ipsilateral||dolor en flanco/fosa renal derecha que le irradia hasta teste ipsilateral
+246975001||ictericia muco-cutánea||ictericia mucocutánea indolora
+734045002||afectación de la grasa peripancreática||colección retroperitoneal
+313170008||en la colonoscopia, no se observaron alteraciones||mucosa colónica normal
+282050000||masa en yeyuno proximal||plastrón localizado en yeyuno
+282050000||masa en yeyuno proximal||yeyuno proximal una tumoración, friable y ulcerada
+282050000||plastrón localizado en yeyuno||yeyuno proximal una tumoración, friable y ulcerada
+444905003||masa de tejidos blandos||masa de partes blandas
+15280003||rha disminuido||escasos ruidos intestinales
+309530007||imagen de 3 cm en hilio||masa de bordes irregulares que borraba el contorno del hilio pulmonar
+155876003||anulación funcional de la unidad renal||anulación renal
+302893000||desestructuración de la banda hiperreflectiva epr-coriocapilar en ao||ojo derecho, con una papila óptica normal, dos pequeñas lagunas coriorretinianas hipopigmentadas
+823013008||tumoración inguinoescrotal derecha muy dolorosa||hemiescroto derecho aumentado de tamaño
+129680003||gammagrafía con 99mtecnecio fue positiva en el campo quirúrgico||área fría
+301404009||palpación abdominal discretamente dolorosa en hipocondrio derecho||dolor a la presión profunda en hipocondrio derecho
+736687002||anti-hbs cuantitativo: >1000 mui/ml -positivo||anti-hbc: positivo
+445460009||serología positiva para veb||igg anti vca igg e igg antiebna positivas
+713514005||debilidad de miembros||debilidad muscular en las cuatro extremidades
+166558007||alfafetoproteina normal||afp: normal
+300849006||masa subconjuntival nasal superior||masa en temporal inferior
+300849006||masa subconjuntival nasal superior||masa con hipofluorescencia en fases precoces, hiperfluorescencia tardía y patrón ligeramente moteado
+300849006||masa en temporal inferior||masa con hipofluorescencia en fases precoces, hiperfluorescencia tardía y patrón ligeramente moteado
+448772000||masa en flanco izquierdo||masa en flanco derecho
+431468008||colapso ventricular||colapso del tercer ventrículo
+304370001||engrosamiento de la pared intestinal en yeyuno||engrosamiento de las válvulas conniventes a nivel de yeyuno
+267045008||síntomas gastrointestinales||sintomatología gastrointestinal
+67307004||circulación colateral||circulación colateral abdominal anormal
+268926000||lavado bronquial fue negativo||lavado broncoalveolar (negativa
+88936002||elevación diafragmática condicionada por el gran tamaño de los riñones||elevación de los dos hemidiafragmas
+285387005||dolor en hemiabdomen izquierdo, intenso, continuo, de instauración súbita||dolor agudo en hemiabdomen izquierdo
+246924004||córnea íntegra y transparente||córnea transparente
+300365004||vómitos pospandriales||vómitos alimenticios
+45850009||continencia diurna||continente

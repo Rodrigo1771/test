@@ -1,0 +1,247 @@
+64882008||aumento da temperatura||episódios febris
+64882008||aumento da temperatura||febril
+64882008||aumento da temperatura||febre
+64882008||aumento da temperatura||febre ocasional
+64882008||aumento da temperatura||febre alta
+64882008||aumento da temperatura||síndrome febril
+64882008||episódios febris||febril
+64882008||episódios febris||febre
+64882008||episódios febris||febre ocasional
+64882008||episódios febris||febre alta
+64882008||episódios febris||síndrome febril
+64882008||febril||febre
+64882008||febril||febre ocasional
+64882008||febril||febre alta
+64882008||febril||síndrome febril
+64882008||febre||febre ocasional
+64882008||febre||febre alta
+64882008||febre||síndrome febril
+64882008||febre ocasional||febre alta
+64882008||febre ocasional||síndrome febril
+64882008||febre alta||síndrome febril
+131148009||sangue||hemorragia
+170728008||perda de acuidade visual no olho esquerdo||diminuição da acuidade visual
+170728008||perda de acuidade visual no olho esquerdo||perda progressiva da acuidade visual
+170728008||perda de acuidade visual no olho esquerdo||défice de acuidade visual
+170728008||diminuição da acuidade visual||perda progressiva da acuidade visual
+170728008||diminuição da acuidade visual||défice de acuidade visual
+170728008||perda progressiva da acuidade visual||défice de acuidade visual
+399122003||disfagia progressiva||disfagia
+53298000||hematúria||hematúria anémica total
+419099009||morreu||sucesso
+419099009||morreu||morte
+419099009||sucesso||morte
+13791008||astenia||fraqueza generalizada
+13791008||astenia||astenia moderada
+13791008||fraqueza generalizada||astenia moderada
+275723000||deterioração clínica||agravamento do estado geral
+197941005||hematúria macroscópica||hematúria franca
+237783006||massa adrenal||tumor adrenal
+78341006||leucócitos polimorfonucleares e muco abundante||neutrofilia
+15253005||desvio da linha média facial||assimetria facial
+300561007||rins e ureteres normais||estudos urológicos normais
+300561007||rins e ureteres normais||uretra bulbar normal
+300561007||estudos urológicos normais||uretra bulbar normal
+300848003||massa radiolúcida com trabeculações||tumor assintomático
+300848003||massa radiolúcida com trabeculações||massas
+300848003||massa radiolúcida com trabeculações||massa
+300848003||massa radiolúcida com trabeculações||massa hipoecogénica
+300848003||massa radiolúcida com trabeculações||tumores
+300848003||tumor assintomático||massas
+300848003||tumor assintomático||massa
+300848003||tumor assintomático||massa hipoecogénica
+300848003||tumor assintomático||tumores
+300848003||massas||massa
+300848003||massas||massa hipoecogénica
+300848003||massas||tumores
+300848003||massa||massa hipoecogénica
+300848003||massa||tumores
+300848003||massa hipoecogénica||tumores
+359746009||estável||clinicamente estável
+89362005||perda de 23% do seu peso habitual||perda de peso de 7 kg
+89362005||perda de 23% do seu peso habitual||perda de peso de 5 kg
+89362005||perda de 23% do seu peso habitual||perda de peso de 15 kg
+89362005||perda de 23% do seu peso habitual||perda de cerca de 15 kg de peso
+89362005||perda de 23% do seu peso habitual||perda de trinta quilos de peso
+89362005||perda de 23% do seu peso habitual||perda de peso
+89362005||perda de peso de 7 kg||perda de peso de 5 kg
+89362005||perda de peso de 7 kg||perda de peso de 15 kg
+89362005||perda de peso de 7 kg||perda de cerca de 15 kg de peso
+89362005||perda de peso de 7 kg||perda de trinta quilos de peso
+89362005||perda de peso de 7 kg||perda de peso
+89362005||perda de peso de 5 kg||perda de peso de 15 kg
+89362005||perda de peso de 5 kg||perda de cerca de 15 kg de peso
+89362005||perda de peso de 5 kg||perda de trinta quilos de peso
+89362005||perda de peso de 5 kg||perda de peso
+89362005||perda de peso de 15 kg||perda de cerca de 15 kg de peso
+89362005||perda de peso de 15 kg||perda de trinta quilos de peso
+89362005||perda de peso de 15 kg||perda de peso
+89362005||perda de cerca de 15 kg de peso||perda de trinta quilos de peso
+89362005||perda de cerca de 15 kg de peso||perda de peso
+89362005||perda de trinta quilos de peso||perda de peso
+24199005||agitado||agitação
+285384003||deterioração do estado geral||deterioração progressiva do estado geral
+64730000||ritmo sinusal normal||a auscultação cardíaca era rítmica
+87548005||dispepsia flatulenta||dispepsia
+45007003||hipotensão arterial||hipotenso
+45007003||hipotensão arterial||hipotensão
+45007003||hipotenso||hipotensão
+165232002||incontinência urinária||incontinência ligeira a moderada
+389026000||líquido ascítico||ascite
+301151001||os pulsos distais foram preservados||pulsos distais presentes
+409668002||fotofobia||fotofobia intensa
+49233005||sensação de dispneia||dificuldade respiratória
+49233005||sensação de dispneia||dispneia
+49233005||sensação de dispneia||dispneia de intensidade progressiva
+49233005||dificuldade respiratória||dispneia
+49233005||dificuldade respiratória||dispneia de intensidade progressiva
+49233005||dispneia||dispneia de intensidade progressiva
+301367001||dor abdominal predominantemente no hipocôndrio direito||dor no hipocôndrio direito
+301367001||dor abdominal predominantemente no hipocôndrio direito||dor abdominal no hipocôndrio direito
+301367001||dor no hipocôndrio direito||dor abdominal no hipocôndrio direito
+70819003||pele avermelhada||vermelhidão
+309530007||massa hilar||imagem de 3 cm no hilo
+22253000||doloroso||dor
+22253000||doloroso||dor persistente
+22253000||dor||dor persistente
+386789004||eosinofilia periférica||eosinofilia
+399406009||marcadores testiculares negativos||marcadores tumorais normais
+233703007||proeminência intersticial||padrão intersticial bilateral
+233703007||proeminência intersticial||padrão intersticial
+233703007||padrão intersticial bilateral||padrão intersticial
+24982008||diplopia||visão dupla
+24982008||diplopia||diplopia binocular horizontal
+24982008||visão dupla||diplopia binocular horizontal
+91175000||episódios convulsivos||episódio convulsivo
+91175000||episódios convulsivos||convulsões
+91175000||episódio convulsivo||convulsões
+64379006||diminuição da ingestão||menos apetite
+249545003||defesa abdominal||defesa à palpação
+249545003||defesa abdominal||peritonismo
+249545003||defesa abdominal||defesa
+249545003||defesa à palpação||peritonismo
+249545003||defesa à palpação||defesa
+249545003||peritonismo||defesa
+271594007||síncope||episódio sincopal
+27925004||nódulo||formação nodular
+27925004||nódulo||nódulo subcapsular
+27925004||nódulo||nódulo hiperecóico
+27925004||formação nodular||nódulo subcapsular
+27925004||formação nodular||nódulo hiperecóico
+27925004||nódulo subcapsular||nódulo hiperecóico
+35013009||descarga purulenta||material purulento
+443371007||diminuição do nível de consciência||deterioração progressiva do nível de consciência
+443371007||diminuição do nível de consciência||obnubilação
+443371007||deterioração progressiva do nível de consciência||obnubilação
+83128009||oligúria||oligoanúria
+79922009||dor epigástrica||epigastralgia
+369757002||massa sólida com áreas hemorrágicas||massa sólida
+300260007||a conduta era permeável||a drenagem da glândula parótida esquerda é normal
+45850009||continência diurna||continente
+300401007||aumento gradual da circunferência abdominal||aumento do perímetro abdominal
+314983004||deterioração progressiva da função renal||agravamento da função renal
+301936006||boa profundidade da câmara anterior||o pólo anterior era normal em ambos os olhos
+79890006||anorexia moderada||perda de apetite
+79890006||anorexia moderada||hiporexia
+79890006||anorexia moderada||anorexia
+79890006||perda de apetite||hiporexia
+79890006||perda de apetite||anorexia
+79890006||hiporexia||anorexia
+76849009||hiperemia conjuntival mista||hiperemia conjuntival
+52985009||líquido ascítico com características quilosas||ascite quilosa
+74285003||massa pélvica à direita da bexiga||massa pélvica subvesical
+74285003||massa pélvica à direita da bexiga||massa pélvica anterior à bexiga
+74285003||massa pélvica subvesical||massa pélvica anterior à bexiga
+30098003||hiperemia||hiperemia grave
+249250005||glande, bem como uma sensação de anestesia local||respeitou a glande
+386689009||hipotermia sistémica||hipotermia
+11092001||taquicárdico||taquicardia
+11092001||taquicárdico||taquicardia sinusal
+11092001||taquicardia||taquicardia sinusal
+301459008||estabilidade hemodinâmica||hemodinamicamente estável
+95255005||hipotonia extrema do globo ocular||hipotonia ocular
+69559004||massas retroperitoneais||massa retroperitoneal de cerca de 8 cm, com ecogenicidade heterogénea e vascularização marcada
+69559004||massas retroperitoneais||massa retroperitoneal
+69559004||massas retroperitoneais||massa sólida de 12 cm atrás do rim
+69559004||massa retroperitoneal de cerca de 8 cm, com ecogenicidade heterogénea e vascularização marcada||massa retroperitoneal
+69559004||massa retroperitoneal de cerca de 8 cm, com ecogenicidade heterogénea e vascularização marcada||massa sólida de 12 cm atrás do rim
+69559004||massa retroperitoneal||massa sólida de 12 cm atrás do rim
+445088006||edema facial||edema do maxilar superior
+445088006||edema facial||edema na hemicara
+445088006||edema do maxilar superior||edema na hemicara
+284520004||crepitações pulmonares basais bilaterais||crepitações bilaterais difusas
+271782001||sonolência||sonolento
+11934000||ptose||ptose total
+22994000||hiporreflexia generalizada||hiporreflexia
+52613005||diaforese||suado
+274643008||palidez cutânea||palidez
+204676004||mucosa gástrica ectópica||mucosa gástrica heterotópica
+309088003||massa renal||nódulos sólidos em ambos os rins
+309088003||massa renal||massas renais
+309088003||massa renal||massa sólida no pólo superior do rim
+309088003||nódulos sólidos em ambos os rins||massas renais
+309088003||nódulos sólidos em ambos os rins||massa sólida no pólo superior do rim
+309088003||massas renais||massa sólida no pólo superior do rim
+422773005||instabilidade hemodinâmica||desestabilização hemodinâmica
+422773005||instabilidade hemodinâmica||compromisso hemodinâmico
+422773005||instabilidade hemodinâmica||hemodinamicamente instável
+422773005||desestabilização hemodinâmica||compromisso hemodinâmico
+422773005||desestabilização hemodinâmica||hemodinamicamente instável
+422773005||compromisso hemodinâmico||hemodinamicamente instável
+25064002||dor de cabeça||dores de cabeça
+81141003||função renal bilateral normal||função renal normal
+81141003||função renal bilateral normal||boa função renal
+81141003||função renal bilateral normal||função renal estável
+81141003||função renal bilateral normal||boa função renal bilateral
+81141003||função renal normal||boa função renal
+81141003||função renal normal||função renal estável
+81141003||função renal normal||boa função renal bilateral
+81141003||boa função renal||função renal estável
+81141003||boa função renal||boa função renal bilateral
+81141003||função renal estável||boa função renal bilateral
+431468008||colapso ventricular||colapso do terceiro ventrículo
+75753009||coágulo||coágulos
+60728008||distensão abdominal||o abdómen era globular
+87860000||massa não dolorosa no testículo direito||massa de 8 cm no teste
+87860000||massa não dolorosa no testículo direito||tumor testicular bilateral
+87860000||massa não dolorosa no testículo direito||massa testicular
+87860000||massa de 8 cm no teste||tumor testicular bilateral
+87860000||massa de 8 cm no teste||massa testicular
+87860000||tumor testicular bilateral||massa testicular
+63049000||estrutura óssea normal||formação óssea longitudinal adequada
+63049000||estrutura óssea normal||osso saudável
+63049000||formação óssea longitudinal adequada||osso saudável
+57534004||distorção dos vasos da retina||difusão dos vasos da retina
+75823008||exsudado||secreção
+300474003||diurese espontânea||diurese preservada
+300474003||diurese espontânea||diurese mantida
+300474003||diurese preservada||diurese mantida
+15930381000119104||papiledema bilateral||edema de ambos os discos ópticos
+707724006||aumento progressivo das transaminases||enzimas hepáticas elevadas
+707724006||aumento progressivo das transaminases||transaminases elevadas
+707724006||aumento progressivo das transaminases||transaminases ligeiramente elevadas
+707724006||enzimas hepáticas elevadas||transaminases elevadas
+707724006||enzimas hepáticas elevadas||transaminases ligeiramente elevadas
+707724006||transaminases elevadas||transaminases ligeiramente elevadas
+28998008||hemorragia macular||hemorragias da retina
+249339005||pirâmide nasal estreita||narinas estreitas
+267045008||manifestações gastrointestinais||sintomas gastrointestinais
+445249002||imagens nodulares em ambos os campos pulmonares||imagens nodulares no lobo superior
+271823003||taquipneia persistente||taquipneia
+271823003||taquipneia persistente||aumento da frequência respiratória
+271823003||taquipneia||aumento da frequência respiratória
+72970002||o exame clínico e os sinais vitais eram normais||os sinais vitais estavam normais
+90708001||retenção no pólo superior esquerdo||envolvimento renal
+106150003||envolvimento do nervo alveolar inferior||nervos cranianos normais
+68600005||hemoglobinúria||hemoglobinúria macroscópica
+423341008||edema papilar||papiledema
+75229002||hifema que ocupa metade da câmara anterior||hifema
+300441003||hipointensidade de sinal no córtex renal||parênquima renal esquerdo preservado
+41652007||dor ocular ligeira||dor ocular bilateral
+9957009||descarga purulenta transuretral||descarga purulenta através do meato uretral
+111512005||sinéquia posterior||sinéquias posteriores
+703630003||olho vermelho||olho vermelho grave
+18265008||proptose ocular||proptose de um ano de evolução em ambos os olhos
+34095006||desidratado||desidratação
+713514005||fraqueza dos membros||fraqueza muscular nos quatro membros
+249939004||fraqueza muscular proximal||fraqueza muscular proximal nos braços e pernas

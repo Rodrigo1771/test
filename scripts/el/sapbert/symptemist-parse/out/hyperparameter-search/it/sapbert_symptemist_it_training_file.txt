@@ -1,0 +1,287 @@
+707724006||enzimi epatici elevati||valori elevati di transaminasi
+707724006||enzimi epatici elevati||aumento delle transaminasi
+707724006||enzimi epatici elevati||ipertransaminemia
+707724006||enzimi epatici elevati||aumento progressivo delle transaminasi
+707724006||valori elevati di transaminasi||aumento delle transaminasi
+707724006||valori elevati di transaminasi||ipertransaminemia
+707724006||valori elevati di transaminasi||aumento progressivo delle transaminasi
+707724006||aumento delle transaminasi||ipertransaminemia
+707724006||aumento delle transaminasi||aumento progressivo delle transaminasi
+707724006||ipertransaminemia||aumento progressivo delle transaminasi
+64882008||sindrome febbrile||febbre alta
+64882008||sindrome febbrile||febbre occasionale
+64882008||sindrome febbrile||febbre
+64882008||sindrome febbrile||febbricitante
+64882008||sindrome febbrile||aumento della temperatura
+64882008||sindrome febbrile||picchi febbrili
+64882008||febbre alta||febbre occasionale
+64882008||febbre alta||febbre
+64882008||febbre alta||febbricitante
+64882008||febbre alta||aumento della temperatura
+64882008||febbre alta||picchi febbrili
+64882008||febbre occasionale||febbre
+64882008||febbre occasionale||febbricitante
+64882008||febbre occasionale||aumento della temperatura
+64882008||febbre occasionale||picchi febbrili
+64882008||febbre||febbricitante
+64882008||febbre||aumento della temperatura
+64882008||febbre||picchi febbrili
+64882008||febbricitante||aumento della temperatura
+64882008||febbricitante||picchi febbrili
+64882008||aumento della temperatura||picchi febbrili
+386689009||ipotermia sistemica||ipotermia
+422773005||compromissione emodinamica||destabilizzazione emodinamica
+422773005||compromissione emodinamica||emodinamicamente instabile
+422773005||compromissione emodinamica||instabilità emodinamica
+422773005||destabilizzazione emodinamica||emodinamicamente instabile
+422773005||destabilizzazione emodinamica||instabilità emodinamica
+422773005||emodinamicamente instabile||instabilità emodinamica
+89362005||perdita di peso di 7 kg||perdita di peso di 5 kg
+89362005||perdita di peso di 7 kg||perdita di peso
+89362005||perdita di peso di 7 kg||perdita di peso di 15 kg
+89362005||perdita di peso di 7 kg||perdita di circa 15 kg di peso
+89362005||perdita di peso di 5 kg||perdita di peso
+89362005||perdita di peso di 5 kg||perdita di peso di 15 kg
+89362005||perdita di peso di 5 kg||perdita di circa 15 kg di peso
+89362005||perdita di peso||perdita di peso di 15 kg
+89362005||perdita di peso||perdita di circa 15 kg di peso
+89362005||perdita di peso di 15 kg||perdita di circa 15 kg di peso
+79890006||perdita di appetito||anoressia
+79740000||mughetto orale||mughetto
+50960005||raccolta di sangue||focolai emorragici
+300848003||masse||tumore endofitico
+300848003||masse||tumori
+300848003||masse||la massa era indolore
+300848003||masse||massa
+300848003||masse||massa ipoecogena
+300848003||masse||massa omogenea
+300848003||tumore endofitico||tumori
+300848003||tumore endofitico||la massa era indolore
+300848003||tumore endofitico||massa
+300848003||tumore endofitico||massa ipoecogena
+300848003||tumore endofitico||massa omogenea
+300848003||tumori||la massa era indolore
+300848003||tumori||massa
+300848003||tumori||massa ipoecogena
+300848003||tumori||massa omogenea
+300848003||la massa era indolore||massa
+300848003||la massa era indolore||massa ipoecogena
+300848003||la massa era indolore||massa omogenea
+300848003||massa||massa ipoecogena
+300848003||massa||massa omogenea
+300848003||massa ipoecogena||massa omogenea
+389026000||liquido ascitico||ascite
+27194006||edema corneale||edema corneale moderato
+440299000||massa retroesofagea||massa estrinseca retrocardiaca
+386789004||eosinofilia periferica||eosinofilia
+28998008||emorragia maculare||emorragie retiniche
+734045002||raccolta retroperitoneale||coinvolgimento del grasso peripancreatico
+49233005||dispnea||dispnea di intensità progressiva
+22253000||dolore persistente||dolore
+22253000||dolore persistente||doloroso
+22253000||dolore||doloroso
+267045008||sintomi gastrointestinali||manifestazioni gastrointestinali
+301459008||stabilità emodinamica||emodinamicamente stabile
+131148009||sanguinamento||emorragia
+285384003||progressivo deterioramento delle condizioni generali||deterioramento delle condizioni generali
+81141003||funzione renale normale||buona funzione renale bilaterale
+81141003||funzione renale normale||il rene destro era funzionalmente normale
+81141003||funzione renale normale||funzione renale stabile
+81141003||funzione renale normale||la funzione renale è rimasta normale
+81141003||funzione renale normale||buona funzione renale
+81141003||buona funzione renale bilaterale||il rene destro era funzionalmente normale
+81141003||buona funzione renale bilaterale||funzione renale stabile
+81141003||buona funzione renale bilaterale||la funzione renale è rimasta normale
+81141003||buona funzione renale bilaterale||buona funzione renale
+81141003||il rene destro era funzionalmente normale||funzione renale stabile
+81141003||il rene destro era funzionalmente normale||la funzione renale è rimasta normale
+81141003||il rene destro era funzionalmente normale||buona funzione renale
+81141003||funzione renale stabile||la funzione renale è rimasta normale
+81141003||funzione renale stabile||buona funzione renale
+81141003||la funzione renale è rimasta normale||buona funzione renale
+419099009||morte||successo
+419099009||morte||morto
+419099009||successo||morto
+37125009||midriasi reattiva||pupille leggermente midriatiche
+37125009||midriasi reattiva||midriasi
+37125009||midriasi reattiva||lieve midriasi bilaterale
+37125009||pupille leggermente midriatiche||midriasi
+37125009||pupille leggermente midriatiche||lieve midriasi bilaterale
+37125009||midriasi||lieve midriasi bilaterale
+75753009||coaguli||coagulo
+49650001||sintomi urinari irritativi||disuria
+87548005||dispepsia flatulenta||dispepsia
+359746009||stabile||clinicamente stabile
+103251002||la motilità oculare estrinseca e intrinseca era normale||motilità oculare estrinseca e intrinseca
+103251002||la motilità oculare estrinseca e intrinseca era normale||la motilità estrinseca e intrinseca era normale
+103251002||motilità oculare estrinseca e intrinseca||la motilità estrinseca e intrinseca era normale
+249543005||l'addome era morbido||addome morbido
+111512005||sinechie posteriori||sinechia posteriore
+53298000||ematuria anemica totale||ematuria
+11092001||tachicardia sinusale||tachicardia
+11092001||tachicardia sinusale||tachicardico
+11092001||tachicardia||tachicardico
+169254007||l'ecografia renale non ha mostrato anomalie||l'ecografia renale era normale
+39575007||urina scura||coluria
+257552002||segni infiammatori||flogosi
+135815002||buon aspetto generale||buone condizioni generali
+445088006||edema della mascella superiore||edema facciale
+62315008||diarrea||diarrea febbrile
+64379006||diminuzione dell'assunzione||meno appetito
+60728008||l'addome era globoso||distensione addominale
+88936002||elevazione diaframmatica condizionata dalle grandi dimensioni dei reni||elevazione dei due emidiaframmi
+119247004||grave ipoalbuminemia||ipoalbuminemia
+166602006||profilo epatico, erano normali||funzione epatica normale
+423341008||edema del disco ottico||edema papillare
+423341008||edema del disco ottico||papilledema
+423341008||edema papillare||papilledema
+87860000||nodulo ipoecogeno nel testicolo||massa testicolare
+87860000||nodulo ipoecogeno nel testicolo||massa non dolorosa nel testicolo destro
+87860000||nodulo ipoecogeno nel testicolo||tumore testicolare bilaterale
+87860000||massa testicolare||massa non dolorosa nel testicolo destro
+87860000||massa testicolare||tumore testicolare bilaterale
+87860000||massa non dolorosa nel testicolo destro||tumore testicolare bilaterale
+45007003||ipotensione arteriosa||ipotensivo
+45007003||ipotensione arteriosa||ipotensione
+45007003||ipotensivo||ipotensione
+15253005||deviazione della linea mediana del viso||asimmetria facciale
+11934000||ptosi palpebrale||ptosi totale
+11934000||ptosi palpebrale||ptosi
+11934000||ptosi totale||ptosi
+18265008||proptosi di un anno di evoluzione in entrambi gli occhi||esoftalmo bilaterale
+18265008||proptosi di un anno di evoluzione in entrambi gli occhi||proptosi oculare
+18265008||esoftalmo bilaterale||proptosi oculare
+249545003||difesa||peritonismo
+249545003||difesa||difesa addominale
+249545003||difesa||difesa alla palpazione
+249545003||peritonismo||difesa addominale
+249545003||peritonismo||difesa alla palpazione
+249545003||difesa addominale||difesa alla palpazione
+76849009||iperemia congiuntivale||iniezione congiuntivale
+19829001||alterazioni bilaterali e diffuse del parenchima polmonare||coinvolgimento parenchimale del polmone
+284520004||crepitii bilaterali diffusi||crepitii bibasali
+275723000||deterioramento clinico||peggioramento delle condizioni generali
+204676004||mucosa gastrica eterotopica||mucosa gastrica ectopica
+34095006||disidratato||disidratazione
+369757002||massa solida||massa solida con aree emorragiche
+75823008||secrezione||essudato
+9957009||scarico purulento attraverso il meato uretrale||scarico purulento transuretrale
+23149001||sensazione di crepitio a livello infraorbitale||crepitazione della corteccia vestibolare
+233703007||modello interstiziale nodulare||modello interstiziale
+233703007||modello interstiziale nodulare||prominenza interstiziale
+233703007||modello interstiziale nodulare||modello interstiziale bilaterale
+233703007||modello interstiziale||prominenza interstiziale
+233703007||modello interstiziale||modello interstiziale bilaterale
+233703007||prominenza interstiziale||modello interstiziale bilaterale
+52613005||sudorazione||sudato
+52613005||sudorazione||sudorazione profusa
+52613005||sudorazione||diaforesi
+52613005||sudorazione||diaforetico
+52613005||sudato||sudorazione profusa
+52613005||sudato||diaforesi
+52613005||sudato||diaforetico
+52613005||sudorazione profusa||diaforesi
+52613005||sudorazione profusa||diaforetico
+52613005||diaforesi||diaforetico
+271823003||tachipnea persistente||tachipnea
+267096005||cefalea frontoparietale||cefalea bifrontoparietale
+128295000||infiammazione intraoculare||infiammazione oculare
+443371007||obnubilamento||diminuzione del livello di coscienza
+443371007||obnubilamento||progressivo deterioramento del livello di coscienza
+443371007||diminuzione del livello di coscienza||progressivo deterioramento del livello di coscienza
+83128009||oliguria||oligoanuria
+93457003||liquido libero nella cavità peritoneale||liquido peritoneale
+300441003||distorsione renale||adeguata differenziazione cortico-midollare
+300441003||distorsione renale||reni di dimensioni ed ecostruttura normali
+300441003||adeguata differenziazione cortico-midollare||reni di dimensioni ed ecostruttura normali
+237783006||tumore surrenale||massa surrenale
+166558007||alfa-fetoproteina normale||lattato deidrogenasi e alfa-fetoproteina normali
+24982008||diplopia||visione doppia
+24982008||diplopia||diplopia binoculare orizzontale
+24982008||diplopia||diplopia orizzontale
+24982008||visione doppia||diplopia binoculare orizzontale
+24982008||visione doppia||diplopia orizzontale
+24982008||diplopia binoculare orizzontale||diplopia orizzontale
+102568007||debolezza degli arti inferiori||diminuzione della forza in entrambi gli arti inferiori
+563001||nistagmo||nistagmo da abduzione in entrambi gli occhi
+300855001||massa intestinale||tumore intraluminale
+309530007||immagine di 3 cm nell'ilo||massa ilare
+708118007||ripetute colture negative||la coltura del liquido pericardico era sterile
+60280003||pressione intraoculare adeguata||i valori della pressione intraoculare erano normali
+69559004||masse retroperitoneali||massa ben circoscritta dietro il rene
+69559004||masse retroperitoneali||tumore retroperitoneale
+69559004||masse retroperitoneali||massa retroperitoneale
+69559004||masse retroperitoneali||massa solida di 12 cm dietro il rene
+69559004||massa ben circoscritta dietro il rene||tumore retroperitoneale
+69559004||massa ben circoscritta dietro il rene||massa retroperitoneale
+69559004||massa ben circoscritta dietro il rene||massa solida di 12 cm dietro il rene
+69559004||tumore retroperitoneale||massa retroperitoneale
+69559004||tumore retroperitoneale||massa solida di 12 cm dietro il rene
+69559004||massa retroperitoneale||massa solida di 12 cm dietro il rene
+22994000||iporeflessia generalizzata||iporeflessia
+301367001||dolore addominale nell'ipocondrio destro||dolore all'ipocondrio destro
+30098003||iperemia||grave iperemia
+246874003||ipercheratinizzazione congiuntivale||cheratinizzazione congiuntivale
+271782001||sonnolento||sonnolenza
+165406005||parametri normali delle tre serie ematologiche||emogramma normale
+76114004||deficit funzionale dell'unità renale||ritardo funzionale del rene
+408573005||l'ecografia addominale era normale||studi radiologici normali
+166315009||biochimica, ioni e transaminasi erano normali||biochimica normale
+247348008||doloroso alla palpazione||dolore alla palpazione
+32566006||dismetria in tutti e quattro gli arti||dismetria
+309088003||massa solida nel polo superiore del rene||massa di 5 cm di diametro nel rene sinistro
+309088003||massa solida nel polo superiore del rene||masse renali
+309088003||massa solida nel polo superiore del rene||massa renale
+309088003||massa di 5 cm di diametro nel rene sinistro||masse renali
+309088003||massa di 5 cm di diametro nel rene sinistro||massa renale
+309088003||masse renali||massa renale
+35013009||scarico purulento||materiale purulento
+8148005||chemosi congiuntivale||intensa chemosi generalizzata
+89474008||lo studio di estensione era normale||studio di estensione negativo
+431468008||collasso del terzo ventricolo||collasso ventricolare
+79922009||dolore epigastrico||epigastralgia
+63049000||adeguata formazione di osso longitudinale||struttura ossea normale
+301855007||linfonodi||nodi negativi
+398637008||retina applicata||spessore maculare normale
+9589009||difficoltà a camminare||difficoltà di deambulazione
+102614006||dolore addominale generalizzato||dolore addominale diffuso
+399122003||disfagia progressiva||disfagia
+168733007||la radiografia del torace era normale||la radiografia del torace era nei limiti della norma
+168733007||la radiografia del torace era normale||radiografia del torace rigorosamente normale
+168733007||la radiografia del torace era normale||radiografia del torace senza alterazioni patologiche
+168733007||la radiografia del torace era nei limiti della norma||radiografia del torace rigorosamente normale
+168733007||la radiografia del torace era nei limiti della norma||radiografia del torace senza alterazioni patologiche
+168733007||radiografia del torace rigorosamente normale||radiografia del torace senza alterazioni patologiche
+271594007||episodio sincopale||sincope
+274643008||pallore della pelle||pallore
+409609008||coinvolgimento parenchimale basale||infiltrato alveolare basale
+409609008||coinvolgimento parenchimale basale||infiltrati
+409609008||infiltrato alveolare basale||infiltrati
+11833005||tosse secca||tosse irritativa
+246975001||ittero muco-cutaneo||ittero mucocutaneo indolore
+128139000||infiammazione||reazione infiammatoria
+80515008||ingrossamento del fegato||epatomegalia dolorosa
+314983004||progressivo deterioramento della funzione renale||peggioramento della funzione renale
+90708001||coinvolgimento renale||ritenzione nel polo superiore sinistro
+91175000||episodio convulsivo||crisi
+91175000||episodio convulsivo||episodi convulsivi
+91175000||crisi||episodi convulsivi
+301936006||il polo anteriore era normale in entrambi gli occhi||buona profondità della camera anteriore
+57534004||distorsione dei vasi retinici||diffusione dei vasi retinici
+27925004||formazione nodulare||nodulo
+249339005||narici strette||piramide nasale stretta
+399406009||marcatori testicolari negativi||marcatori tumorali negativi
+399406009||marcatori testicolari negativi||marcatori tumorali normali
+399406009||marcatori testicolari negativi||i marcatori tumorali erano negativi
+399406009||marcatori testicolari negativi||i marcatori tumorali sierici erano a livelli normali
+399406009||marcatori tumorali negativi||marcatori tumorali normali
+399406009||marcatori tumorali negativi||i marcatori tumorali erano negativi
+399406009||marcatori tumorali negativi||i marcatori tumorali sierici erano a livelli normali
+399406009||marcatori tumorali normali||i marcatori tumorali erano negativi
+399406009||marcatori tumorali normali||i marcatori tumorali sierici erano a livelli normali
+399406009||i marcatori tumorali erano negativi||i marcatori tumorali sierici erano a livelli normali
+52985009||liquido ascitico con caratteristiche chilose||ascite chilosa
+271653008||vene giugulari ingurgitate||ingurgito giugulare
+21454007||emorragia subaracnoidea||emorragia subaracnoidea frontoparietale destra
+74285003||massa pelvica a destra della vescica||massa pelvica anteriore alla vescica
+235771005||singolo nodulo di 1 x 1,5 cm situato nell'appendice||nodulo duro sulla punta dell'appendice
