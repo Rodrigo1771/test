@@ -51,7 +51,7 @@ def build_corpus(args):
             running_text = elem.text
             try:
                 running_text = clean_text(running_text)
-                sents = regex.split("([.?!])?[\n]+|[.?!] ", running_text)
+                sents = re.split("([.?!])?[\n]+|[.?!] ", running_text)
                 for sent in sents:
                     if sent is not None:
                         words = sent.split()
