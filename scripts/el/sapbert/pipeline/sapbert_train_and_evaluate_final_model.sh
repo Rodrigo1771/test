@@ -89,7 +89,7 @@ for IDX in "${!MODEL_IDS[@]}"; do
 
   # Upload the model to Hugging Face
   cd ../../../scripts/utils/ && python3 upload_model_to_huggingface.py \
-    --local_model_dir "../pipeline/out/${DATASET}/final-model/${LANG}/${MODEL_ID#*/}_${EPOCHS}_${BATCH_SIZE}_${LEARNING_RATE}"
+    --local_model_dir "../el/sapbert/pipeline/out/${DATASET}/final-model/${LANG}/${MODEL_ID#*/}_${EPOCHS}_${BATCH_SIZE}_${LEARNING_RATE}"
 
 
   echo ""
