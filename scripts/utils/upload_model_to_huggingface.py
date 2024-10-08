@@ -28,15 +28,15 @@ dataset = path_parts[-5] if args.augmented_dataset else path_parts[-4]
 aug = f"{args.augmented_dataset}-{path_parts[-1].split('_')[-1]}-" if args.augmented_dataset else ''
 hf_repo_id = f"{model_name}-{dataset}-{language}-{aug}el"
 
-# Read hf personal token
+# Read hf username and personal token
+config = {}
 with open('../config', 'r') as f:
     for line in f:
-        if 'hf_username' in line:
-            hf_username = line.split('=')[-1].strip()
-        elif 'hf_token' in line:
-            hf_token = line.split('=')[-1].strip()
-        else:
-            raise Exception("Missing hf_username or hf_token in config file")
+        key, value = line.strip().split('=')
+        config[key] = value
+    hf_username, hf_token = config.get('hf_username'), config.get('hf_token')
+    if hf_username == "<USERNAME>" or hf_token == "<TOKEN>":
+        raise ValueError("Invalid credentials: hf_username and/or hf_token are placeholders.")
 
 # Set the token for authentication
 HfFolder.save_token(hf_token)
