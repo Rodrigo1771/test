@@ -1,8 +1,8 @@
 #!/bin/bash
 # This script trains a model with the SapBERT pipeline for the SympTEMIST EL subtasks, and evaluates it on the official
-# evaluation library. It is easily extensible with other datasets, just parse the dataset in the way as SympTEMIST (with
-# the same file structures and names), and then pass the dataset name as input. Likewise, to test other models, add
-# their Hugging Face IDs to the MODEL_IDS variable.
+# evaluation library. It is easily extensible with other datasets, just parse the dataset in the same way as SympTEMIST
+# (with the same file structures and names), and then pass the dataset name as input. Likewise, to test other models,
+# add their Hugging Face IDs to the MODEL_IDS variable.
 
 DATASET=$1
 LANG=$2
@@ -120,8 +120,8 @@ for IDX in "${!MODEL_IDS[@]}"; do
   echo ""
 
   # Evaluate the model on the official evaluation library
-  cd "../../../datasets/${DATASET}/evaluation-library/" && python3 "${DATASET}_evaluation.py" \
-    -r "../../../datasets/${DATASET}/evaluation-library/el-test-file-reference-tsvs/out/${LANG}_test_file_reference.tsv" \
+  cd "../../../eval-libs/el/" && python3 "evaluate.py" \
+    -r "../../../eval-libs/el/test-file-reference-tsvs/${LANG}_test_file_reference.tsv" \
     -p "../../../scripts/el/sapbert/pipeline/out/${DATASET}/final-model/${LANG}/${MODEL_ID#*/}_${EPOCHS}_${BATCH_SIZE}_${LEARNING_RATE}_predictions.tsv" \
     -o "../../../scripts/el/sapbert/pipeline/out/${DATASET}/final-model/${LANG}/${MODEL_ID#*/}_${EPOCHS}_${BATCH_SIZE}_${LEARNING_RATE}_final_results.json"
 

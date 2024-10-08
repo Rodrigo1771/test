@@ -1,6 +1,6 @@
 #!/bin/bash
 # This script performs hyperparameter grid-search on a model for the SympTEMIST dataset, with the SapBERT pipeline. It
-# is easily extensible with other datasets, just parse the dataset in the way as SympTEMIST (with the same file
+# is easily extensible with other datasets, just parse the dataset in the same way as SympTEMIST (with the same file
 # structures and names), and then pass the dataset name as input. Likewise, to test other models, add their Hugging Face
 # IDs to the MODEL_IDS variable.
 
@@ -22,12 +22,9 @@ fi
 
 
 # Define hyperparameters and models
-# EPOCHS=20
-# BATCH_SIZES=(64 128 256 512)
-# LEARNING_RATES=(1e-4 5e-5 2e-5 1e-5)
-EPOCHS=3
-BATCH_SIZES=(64 128)
-LEARNING_RATES=(1e-4)
+EPOCHS=20
+BATCH_SIZES=(64 128 256 512)
+LEARNING_RATES=(1e-4 5e-5 2e-5 1e-5)
 case $LANG in
   "es")
     MODEL_IDS=("cambridgeltl/SapBERT-UMLS-2020AB-all-lang-from-XLMR" "PlanTL-GOB-ES/bsc-bio-ehr-es")
