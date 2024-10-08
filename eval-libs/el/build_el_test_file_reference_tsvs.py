@@ -25,3 +25,4 @@ def build_el_test_file_reference_tsv(dataset, language):
     df = df.rename(columns={'span_end': 'end_span'})
     os.makedirs(paths['output_file_path'], exist_ok=True)
     df.to_csv(paths['output_file_path'], sep='\t', index=False)
+    return df

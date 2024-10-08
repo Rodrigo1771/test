@@ -7,8 +7,8 @@ from build_el_test_file_reference_tsvs import build_el_test_file_reference_tsv
 def main(argv=None):
     # Parse options
     parser = ArgumentParser()
-    parser.add_argument("-d", "--reference", help="name of the dataset. OPTIONAL: only used to build the Gold Standard TSV when the path passed in `-r` is invalid (does not exist)")
-    parser.add_argument("-l", "--reference", help="language of the dataset. OPTIONAL: only used to build the Gold Standard TSV when the path passed in `-r` is invalid (does not exist)")
+    parser.add_argument("-d", "--dataset", help="name of the dataset. OPTIONAL: only used to build the Gold Standard TSV when the path passed in `-r` is invalid (does not exist)")
+    parser.add_argument("-l", "--language", help="language of the dataset. OPTIONAL: only used to build the Gold Standard TSV when the path passed in `-r` is invalid (does not exist)")
     parser.add_argument("-r", "--reference", help="TSV file with Gold Standard or reference annotations", required=True)
     parser.add_argument("-p", "--prediction", help="TSV file with your predictions", required=True)
     parser.add_argument("-o", "--output_file", help="Path to save the scoring results", required=True)

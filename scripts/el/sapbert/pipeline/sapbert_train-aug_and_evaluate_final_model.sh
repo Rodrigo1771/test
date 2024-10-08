@@ -134,6 +134,8 @@ for DISTANCE_THRESHOLD in "${DISTANCE_THRESHOLDS[@]}"; do
 
     # Evaluate the model on the official evaluation library
     cd "../../../eval-libs/el/" && python3 "evaluate.py" \
+      -d "${DATASET}" \
+      -l "${LANG}" \
       -r "../../../eval-libs/el/test-file-reference-tsvs/${LANG}_test_file_reference.tsv" \
       -p "../../../scripts/el/sapbert/pipeline/out/${DATASET}/final-model-aug/${MODEL_TYPE}/${LANG}/${MODEL_ID#*/}_${EPOCHS}_${BATCH_SIZE}_${LEARNING_RATE}_${DISTANCE_THRESHOLD}_predictions.tsv" \
       -o "../../../scripts/el/sapbert/pipeline/out/${DATASET}/final-model-aug/${MODEL_TYPE}/${LANG}/${MODEL_ID#*/}_${EPOCHS}_${BATCH_SIZE}_${LEARNING_RATE}_${DISTANCE_THRESHOLD}_final_results.json"

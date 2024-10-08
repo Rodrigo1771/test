@@ -121,6 +121,8 @@ for IDX in "${!MODEL_IDS[@]}"; do
 
   # Evaluate the model on the official evaluation library
   cd "../../../eval-libs/el/" && python3 "evaluate.py" \
+    -d "${DATASET}" \
+    -l "${LANG}" \
     -r "../../../eval-libs/el/test-file-reference-tsvs/${LANG}_test_file_reference.tsv" \
     -p "../../../scripts/el/sapbert/pipeline/out/${DATASET}/final-model/${LANG}/${MODEL_ID#*/}_${EPOCHS}_${BATCH_SIZE}_${LEARNING_RATE}_predictions.tsv" \
     -o "../../../scripts/el/sapbert/pipeline/out/${DATASET}/final-model/${LANG}/${MODEL_ID#*/}_${EPOCHS}_${BATCH_SIZE}_${LEARNING_RATE}_final_results.json"
