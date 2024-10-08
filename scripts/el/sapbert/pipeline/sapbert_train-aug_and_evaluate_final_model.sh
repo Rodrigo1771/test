@@ -116,7 +116,7 @@ for DISTANCE_THRESHOLD in "${DISTANCE_THRESHOLDS[@]}"; do
     echo ""
 
     # Get the full Hugging Face repository name
-    HF_USERNAME=$(grep 'hf_username' ../../config | cut -d'=' -f2)
+    HF_USERNAME=$(grep 'hf_username' ../config | cut -d'=' -f2)
     HF_REPO_NAME="${HF_USERNAME}/${MODEL_ID#*/}-${DATASET}-${LANG}-${MODEL_TYPE}-${DISTANCE_THRESHOLD}-el"
 
     # Obtain the predictions
