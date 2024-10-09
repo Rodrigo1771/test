@@ -25,28 +25,23 @@ fi
 case $LANG in
   "es")
     MODEL_IDS=("cambridgeltl/SapBERT-UMLS-2020AB-all-lang-from-XLMR" "PlanTL-GOB-ES/bsc-bio-ehr-es")
-    # HYPERPARAMETERS=("3 64 1e-5" "20 128 1e-4")
-    HYPERPARAMETERS=("2 64 1e-5" "2 128 1e-4")
+    HYPERPARAMETERS=("3 64 1e-5" "20 128 1e-4")
     ;;
   "en")
     MODEL_IDS=("cambridgeltl/SapBERT-UMLS-2020AB-all-lang-from-XLMR" "michiyasunaga/BioLinkBERT-base" "microsoft/BiomedNLP-BiomedBERT-base-uncased-abstract-fulltext" "emilyalsentzer/Bio_ClinicalBERT")
-    # HYPERPARAMETERS=("2 64 2e-5" "17 128 2e-5" "15 256 5e-5" "10 64 2e-5")
-    HYPERPARAMETERS=("2 64 2e-5" "2 128 2e-5" "2 256 5e-5" "2 64 2e-5")
+    HYPERPARAMETERS=("2 64 2e-5" "17 128 2e-5" "15 256 5e-5" "10 64 2e-5")
     ;;
   "fr")
     MODEL_IDS=("cambridgeltl/SapBERT-UMLS-2020AB-all-lang-from-XLMR" "almanach/camembert-bio-base" "quinten-datalab/AliBERT-7GB" "Dr-BERT/DrBERT-7GB")
-    # HYPERPARAMETERS=("3 64 5e-5" "20 64 1e-5" "2 64 1e-4" "2 64 1e-5")
-    HYPERPARAMETERS=("2 64 5e-5" "2 64 1e-5" "2 64 1e-4" "2 64 1e-5")
+    HYPERPARAMETERS=("3 64 5e-5" "20 64 1e-5" "2 64 1e-4" "2 64 1e-5")
     ;;
   "it")
     MODEL_IDS=("cambridgeltl/SapBERT-UMLS-2020AB-all-lang-from-XLMR" "IVN-RIN/bioBIT" "IVN-RIN/medBIT" "IVN-RIN/MedPsyNIT")
-    # HYPERPARAMETERS=("5 64 5e-5" "5 64 5e-5" "17 256 1e-4" "14 64 1e-4")
-    HYPERPARAMETERS=("2 64 5e-5" "2 64 5e-5" "2 256 1e-4" "2 64 1e-4")
+    HYPERPARAMETERS=("5 64 5e-5" "5 64 5e-5" "17 256 1e-4" "14 64 1e-4")
     ;;
   "pt")
     MODEL_IDS=("cambridgeltl/SapBERT-UMLS-2020AB-all-lang-from-XLMR" "neuralmind/bert-base-portuguese-cased" "PORTULAN/albertina-100m-portuguese-ptpt-encoder" "pucpr/biobertpt-all" "pucpr/biobertpt-clin")
-    # HYPERPARAMETERS=("1 128 1e-4" "3 64 5e-5" "14 64 2e-5" "8 64 5e-5" "13 256 2e-5")
-    HYPERPARAMETERS=("2 128 1e-4" "2 64 5e-5" "2 64 2e-5" "2 64 5e-5" "2 256 2e-5")
+    HYPERPARAMETERS=("1 128 1e-4" "3 64 5e-5" "14 64 2e-5" "8 64 5e-5" "13 256 2e-5")
     ;;
 esac
 
