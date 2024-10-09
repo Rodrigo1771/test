@@ -26,7 +26,21 @@ The trained model will be saved in `out/{LANG}/`.
 
 ### DI Cluster
 
-Run the pipeline from the DI Cluster by copying to the cluster the contents of the `dicluster` folder, plus the `config` file with your credentials, and executing the node allocator like:
+Run the pipeline from the DI Cluster by first copying the following files and folders to the cluster (put it all inside a folder of your choosing):
+- The contents of the `dicluster` folder.
+- The `config` file with your credentials.
+ 
+The structure of this new folder should look like:
+
+```
+─ your-new-folder
+    ├── config
+    ├── container_handler.sh
+    ├── Dockerfile
+    └── node_allocator.sh
+```
+
+Then, execute the node allocator like:
 
 ```commandline
 ./node_allocator.sh
