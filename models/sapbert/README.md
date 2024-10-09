@@ -7,4 +7,4 @@ This directory houses the SapBERT Training Pipeline. It is heavily adapted from 
 - Added code to structure the outputs in a way that aligns with our Entity Linking pipeline.
 - Just made the code more readable and concise throughout, by removing a lot of code we didn't use in the aforementioned files, and also deleting unused files completely.
 
-The key point is: **we did not alter the main logic of the training process in any way**.
+The key point is: **we did not alter the main logic of the training process in any way**. Check out the official repository for more information on the whole pipeline.
