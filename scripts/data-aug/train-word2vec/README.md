@@ -8,6 +8,8 @@ The pipeline (represented by the `training_pipeline.sh` file) encompasses the fo
 - Builds a corpus of every sentence from that data.
 - Trains a model on that corpus.
 
+NOTE: The pre-trained FastText models are available [here](https://fasttext.cc/docs/en/crawl-vectors.html#models) (dowload the `text` version - more info in the README file from the `scripts/data-aug/augment/` directory).
+
 ## Usage Instructions
 
 The pipeline can either be executed locally, or on the [DI Cluster](https://cluster.di.fct.unl.pt). 
@@ -20,7 +22,7 @@ Run the pipeline from the terminal using the following command, with LANG being 
 ./training_pipeline.sh LANG
 ```
 
-The trained model will be saved in `out/{LANG}`.
+The trained model will be saved in `out/{LANG}/`.
 
 ### DI Cluster
 
@@ -30,4 +32,4 @@ Run the pipeline from the DI Cluster by copying to the cluster the contents of t
 ./node_allocator.sh
 ```
 
-This script allocates as many cluster nodes as there are languages in `node_allocator.sh`'s LANG variable. It then passes to each node the `container_handler.sh` script with the respective language as attribute. The `container_handler.sh` script then launches a Docker container that executes the `training_pipeline.sh` script from earlier, again with the respective language as attribute. Finally, when the training is complete, the `container_handler.sh` script extracts the trained model from the Docker container and saves it in `out/{LANG}` (in the cluster, you can then copy it to your local machine).
+This script allocates as many cluster nodes as there are languages in `node_allocator.sh`'s LANG variable. It then passes to each node the `container_handler.sh` script with the respective language as attribute. The `container_handler.sh` script then launches a Docker container that executes the `training_pipeline.sh` script from earlier, again with the respective language as attribute. Finally, when the training is complete, the `container_handler.sh` script extracts the trained model from the Docker container and saves it in `out/{LANG}/` (in the cluster, you can then copy it to your local machine).
