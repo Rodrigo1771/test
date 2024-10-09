@@ -1,0 +1,115 @@
+300848003: tumeurs -> malignes
+300848003: tumeurs -> métastases
+300441003: parenchyme rénal gauche préservé -> parenchyme rénal droite préservé
+300441003: différenciation cortico-médullaire adéquate -> différenciation cortico-médullaire appropriée
+62315008: diarrhée fébrile -> diarrhées fébrile
+62315008: diarrhée -> diarrhées
+166315009: biochimie normale -> chimie normale
+284520004: crépitants bilatéraux diffus -> crépitants bilatéraux cosmologique
+76849009: hyperémie conjonctivale mixte -> hyperémie lymphadénopathie mixte
+76849009: hyperémie conjonctivale mixte -> hyperémie rectite mixte
+76849009: hyperémie conjonctivale mixte -> hyperémie rhinopharyngite mixte
+76849009: hyperémie conjonctivale mixte -> hyperémie suppurée mixte
+76849009: hyperémie conjonctivale mixte -> hyperémie hématémèse mixte
+76849009: hyperémie conjonctivale -> hyperémie lymphadénopathie
+76849009: hyperémie conjonctivale -> hyperémie rectite
+76849009: hyperémie conjonctivale -> hyperémie rhinopharyngite
+76849009: hyperémie conjonctivale -> hyperémie suppurée
+76849009: hyperémie conjonctivale -> hyperémie hématémèse
+76849009: injection conjonctivale -> injection lymphadénopathie
+76849009: injection conjonctivale -> injection rectite
+76849009: injection conjonctivale -> injection rhinopharyngite
+76849009: injection conjonctivale -> injection suppurée
+76849009: injection conjonctivale -> injection hématémèse
+83128009: oligurie -> anurie
+83128009: oligurie -> hypokaliémie
+83128009: oligurie -> polyurie
+83128009: oligurie -> hyperbilirubinémie
+83128009: oligurie -> hypoperfusion
+414478003: légère augmentation du nombre de leucocytes -> légère diminution du nombre de leucocytes
+414478003: légère augmentation du nombre de leucocytes -> légère baisse du nombre de leucocytes
+5291005: hypocalcémie sévère -> hypercalcémie sévère
+5291005: hypocalcémie sévère -> hypokaliémie sévère
+5291005: hypocalcémie -> hypercalcémie
+5291005: hypocalcémie -> hypokaliémie
+91019004: paresthésies -> myalgies
+225581002: baisse de la vision -> hausse de la vision
+225581002: baisse de la vision -> augmentation de la vision
+24982008: diplopie binoculaire horizontale -> diplopie binoculaire verticale
+24982008: diplopie horizontale -> diplopie verticale
+1003721002: arthralgies dans les deux genoux -> arthralgies dans les trois genoux
+1003721002: arthralgies dans les deux genoux -> arthralgies dans les quatre genoux
+309088003: nodules solides dans les deux reins -> nodules solides dans les trois reins
+309088003: nodules solides dans les deux reins -> nodules solides dans les quatre reins
+271823003: tachypnée -> polypnée
+271823003: tachypnée -> hyperréactivité
+271823003: tachypnée -> myalgies
+271823003: tachypnée -> anurie
+271823003: tachypnée -> hypoperfusion
+271823003: tachypnée persistante -> polypnée persistante
+271823003: tachypnée persistante -> hyperréactivité persistante
+271823003: tachypnée persistante -> myalgies persistante
+271823003: tachypnée persistante -> anurie persistante
+271823003: tachypnée persistante -> hypoperfusion persistante
+90708001: rétention dans le pôle supérieur gauche -> rétention dans le pôle supérieur droite
+95545007: diarrhée sanglante -> diarrhées sanglante
+165406005: paramètres normaux des trois séries hématologiques -> paramètres normaux des quatre séries hématologiques
+165406005: paramètres normaux des trois séries hématologiques -> paramètres normaux des deux séries hématologiques
+165406005: paramètres normaux des trois séries hématologiques -> paramètres normaux des cinq séries hématologiques
+165406005: paramètres normaux des trois séries hématologiques -> paramètres normaux des six séries hématologiques
+443371007: diminution de l'état de conscience -> augmentation de l'état de conscience
+21454007: hémorragie sous-arachnoïdienne frontopariétale droite -> hémorragie sous-arachnoïdienne frontopariétale gauche
+21454007: hémorragie sous-arachnoïdienne minime dans la région suprasylvienne gauche -> hémorragie sous-arachnoïdienne minime dans la région suprasylvienne droite
+14310000: rhinorrhée verdâtre -> hypersalivation verdâtre
+14310000: rhinorrhée verdâtre -> rhinorrhée jaunâtre
+14310000: rhinorrhée verdâtre -> rhinorrhée rougeâtre
+14310000: rhinorrhée verdâtre -> rhinorrhée grisâtre
+14310000: rhinorrhée verdâtre -> rhinorrhée blanchâtre
+14310000: rhinorrhée verdâtre -> rhinorrhée rosâtre
+14310000: rhinorrhée purulente -> hypersalivation purulente
+249939004: faiblesse musculaire proximale -> faiblesse musculaire distale
+170728008: diminution de l'acuité visuelle -> augmentation de l'acuité visuelle
+398212009: diarrhée aqueuse -> diarrhées aqueuse
+75229002: hyphéma occupant la moitié de la chambre antérieure -> hyphéma occupant la moitié de la chambre postérieure
+32566006: dysmétrie des quatre membres -> dysmétrie des trois membres
+32566006: dysmétrie des quatre membres -> dysmétrie des cinq membres
+32566006: dysmétrie des quatre membres -> dysmétrie des six membres
+32566006: dysmétrie des quatre membres -> dysmétrie des huit membres
+32566006: dysmétrie des quatre membres -> dysmétrie des deux membres
+60280003: une pression intraoculaire adéquate -> une pression intraoculaire appropriée
+49650001: dysurie -> pollakiurie
+167221003: le sédiment urinaire était normal -> le sédiments urinaire était normal
+167221003: sédiment normal -> sédiments normal
+707724006: une élévation des enzymes hépatiques -> une élévation des enzyme hépatiques
+707724006: une élévation des enzymes hépatiques -> une élévation des protéines hépatiques
+707724006: une élévation des enzymes hépatiques -> une élévation des protéases hépatiques
+707724006: augmentation progressive des transaminases -> diminution progressive des transaminases
+707724006: augmentation progressive des transaminases -> baisse progressive des transaminases
+707724006: augmentation des transaminases -> diminution des transaminases
+707724006: augmentation des transaminases -> baisse des transaminases
+45007003: hypotension -> orthostatique
+45007003: hypotension artérielle -> hypotension hypertension
+45007003: hypotension artérielle -> orthostatique artérielle
+431468008: effondrement du troisième ventricule -> effondrement du deuxième ventricule
+431468008: effondrement du troisième ventricule -> effondrement du quatrième ventricule
+431468008: effondrement du troisième ventricule -> effondrement du cinquième ventricule
+70819003: peau rougeâtre -> peau jaunâtre
+70819003: peau rougeâtre -> peau grisâtre
+70819003: peau rougeâtre -> peau verdâtre
+70819003: peau rougeâtre -> peau blanchâtre
+70819003: peau rougeâtre -> peau brunâtre
+398637008: épaisseur maculaire normale -> d'épaisseur maculaire normale
+246874003: kératinisation conjonctivale -> kératinisation lymphadénopathie
+246874003: kératinisation conjonctivale -> kératinisation rectite
+246874003: kératinisation conjonctivale -> kératinisation rhinopharyngite
+246874003: kératinisation conjonctivale -> kératinisation suppurée
+246874003: kératinisation conjonctivale -> kératinisation hématémèse
+246874003: hyperkératinisation conjonctivale -> hyperkératinisation lymphadénopathie
+246874003: hyperkératinisation conjonctivale -> hyperkératinisation rectite
+246874003: hyperkératinisation conjonctivale -> hyperkératinisation rhinopharyngite
+246874003: hyperkératinisation conjonctivale -> hyperkératinisation suppurée
+246874003: hyperkératinisation conjonctivale -> hyperkératinisation hématémèse
+282050000: plastron situé dans le jéjunum -> plastron situé dans le iléon
+282050000: masse dans le jéjunum proximal -> masse dans le iléon proximal
+300260007: le drainage de la glande parotide gauche est normal -> le drainage de la glandes parotide gauche est normal
+300260007: le drainage de la glande parotide gauche est normal -> le drainage de la glande parotide droite est normal

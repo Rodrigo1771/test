@@ -1,0 +1,1896 @@
+81141003||boa função renal||função renal normal
+81141003||boa função renal||função renal estável
+81141003||boa função renal||função renal bilateral normal
+81141003||boa função renal||boa função renal bilateral
+81141003||boa função renal||função renal preservada
+81141003||função renal normal||função renal estável
+81141003||função renal normal||função renal bilateral normal
+81141003||função renal normal||boa função renal bilateral
+81141003||função renal normal||função renal preservada
+81141003||função renal estável||função renal bilateral normal
+81141003||função renal estável||boa função renal bilateral
+81141003||função renal estável||função renal preservada
+81141003||função renal bilateral normal||boa função renal bilateral
+81141003||função renal bilateral normal||função renal preservada
+81141003||boa função renal bilateral||função renal preservada
+87548005||dispepsia flatulenta||dispepsia
+87548005||dispepsia flatulenta||gastrintestinais flatulenta
+87548005||dispepsia flatulenta||gastrintestinais
+87548005||dispepsia||gastrintestinais flatulenta
+87548005||dispepsia||gastrintestinais
+87548005||gastrintestinais flatulenta||gastrintestinais
+300441003||parênquima renal esquerdo preservado||hipointensidade de sinal no córtex renal
+300441003||parênquima renal esquerdo preservado||distorção renal
+300441003||hipointensidade de sinal no córtex renal||distorção renal
+69559004||massas retroperitoneais||massa retroperitoneal de cerca de 8 cm, com ecogenicidade heterogénea e vascularização marcada
+69559004||massas retroperitoneais||massa sólida de 12 cm atrás do rim
+69559004||massas retroperitoneais||massa bem circunscrita atrás do rim
+69559004||massas retroperitoneais||massa retroperitoneal
+69559004||massas retroperitoneais||tumor retroperitoneal
+69559004||massas retroperitoneais||massas peritónio
+69559004||massas retroperitoneais||massas vascularizados
+69559004||massas retroperitoneais||massas peritoneais
+69559004||massas retroperitoneais||massas durais
+69559004||massas retroperitoneais||massas uretrais
+69559004||massas retroperitoneais||massa retroperitoneal de aproximadamente de 8 cm, com ecogenicidade heterogénea e vascularização marcada
+69559004||massas retroperitoneais||massa pneumomediastino
+69559004||massas retroperitoneais||tumor pneumomediastino
+69559004||massa retroperitoneal de cerca de 8 cm, com ecogenicidade heterogénea e vascularização marcada||massa sólida de 12 cm atrás do rim
+69559004||massa retroperitoneal de cerca de 8 cm, com ecogenicidade heterogénea e vascularização marcada||massa bem circunscrita atrás do rim
+69559004||massa retroperitoneal de cerca de 8 cm, com ecogenicidade heterogénea e vascularização marcada||massa retroperitoneal
+69559004||massa retroperitoneal de cerca de 8 cm, com ecogenicidade heterogénea e vascularização marcada||tumor retroperitoneal
+69559004||massa retroperitoneal de cerca de 8 cm, com ecogenicidade heterogénea e vascularização marcada||massas peritónio
+69559004||massa retroperitoneal de cerca de 8 cm, com ecogenicidade heterogénea e vascularização marcada||massas vascularizados
+69559004||massa retroperitoneal de cerca de 8 cm, com ecogenicidade heterogénea e vascularização marcada||massas peritoneais
+69559004||massa retroperitoneal de cerca de 8 cm, com ecogenicidade heterogénea e vascularização marcada||massas durais
+69559004||massa retroperitoneal de cerca de 8 cm, com ecogenicidade heterogénea e vascularização marcada||massas uretrais
+69559004||massa retroperitoneal de cerca de 8 cm, com ecogenicidade heterogénea e vascularização marcada||massa retroperitoneal de aproximadamente de 8 cm, com ecogenicidade heterogénea e vascularização marcada
+69559004||massa retroperitoneal de cerca de 8 cm, com ecogenicidade heterogénea e vascularização marcada||massa pneumomediastino
+69559004||massa retroperitoneal de cerca de 8 cm, com ecogenicidade heterogénea e vascularização marcada||tumor pneumomediastino
+69559004||massa sólida de 12 cm atrás do rim||massa bem circunscrita atrás do rim
+69559004||massa sólida de 12 cm atrás do rim||massa retroperitoneal
+69559004||massa sólida de 12 cm atrás do rim||tumor retroperitoneal
+69559004||massa sólida de 12 cm atrás do rim||massas peritónio
+69559004||massa sólida de 12 cm atrás do rim||massas vascularizados
+69559004||massa sólida de 12 cm atrás do rim||massas peritoneais
+69559004||massa sólida de 12 cm atrás do rim||massas durais
+69559004||massa sólida de 12 cm atrás do rim||massas uretrais
+69559004||massa sólida de 12 cm atrás do rim||massa retroperitoneal de aproximadamente de 8 cm, com ecogenicidade heterogénea e vascularização marcada
+69559004||massa sólida de 12 cm atrás do rim||massa pneumomediastino
+69559004||massa sólida de 12 cm atrás do rim||tumor pneumomediastino
+69559004||massa bem circunscrita atrás do rim||massa retroperitoneal
+69559004||massa bem circunscrita atrás do rim||tumor retroperitoneal
+69559004||massa bem circunscrita atrás do rim||massas peritónio
+69559004||massa bem circunscrita atrás do rim||massas vascularizados
+69559004||massa bem circunscrita atrás do rim||massas peritoneais
+69559004||massa bem circunscrita atrás do rim||massas durais
+69559004||massa bem circunscrita atrás do rim||massas uretrais
+69559004||massa bem circunscrita atrás do rim||massa retroperitoneal de aproximadamente de 8 cm, com ecogenicidade heterogénea e vascularização marcada
+69559004||massa bem circunscrita atrás do rim||massa pneumomediastino
+69559004||massa bem circunscrita atrás do rim||tumor pneumomediastino
+69559004||massa retroperitoneal||tumor retroperitoneal
+69559004||massa retroperitoneal||massas peritónio
+69559004||massa retroperitoneal||massas vascularizados
+69559004||massa retroperitoneal||massas peritoneais
+69559004||massa retroperitoneal||massas durais
+69559004||massa retroperitoneal||massas uretrais
+69559004||massa retroperitoneal||massa retroperitoneal de aproximadamente de 8 cm, com ecogenicidade heterogénea e vascularização marcada
+69559004||massa retroperitoneal||massa pneumomediastino
+69559004||massa retroperitoneal||tumor pneumomediastino
+69559004||tumor retroperitoneal||massas peritónio
+69559004||tumor retroperitoneal||massas vascularizados
+69559004||tumor retroperitoneal||massas peritoneais
+69559004||tumor retroperitoneal||massas durais
+69559004||tumor retroperitoneal||massas uretrais
+69559004||tumor retroperitoneal||massa retroperitoneal de aproximadamente de 8 cm, com ecogenicidade heterogénea e vascularização marcada
+69559004||tumor retroperitoneal||massa pneumomediastino
+69559004||tumor retroperitoneal||tumor pneumomediastino
+69559004||massas peritónio||massas vascularizados
+69559004||massas peritónio||massas peritoneais
+69559004||massas peritónio||massas durais
+69559004||massas peritónio||massas uretrais
+69559004||massas peritónio||massa retroperitoneal de aproximadamente de 8 cm, com ecogenicidade heterogénea e vascularização marcada
+69559004||massas peritónio||massa pneumomediastino
+69559004||massas peritónio||tumor pneumomediastino
+69559004||massas vascularizados||massas peritoneais
+69559004||massas vascularizados||massas durais
+69559004||massas vascularizados||massas uretrais
+69559004||massas vascularizados||massa retroperitoneal de aproximadamente de 8 cm, com ecogenicidade heterogénea e vascularização marcada
+69559004||massas vascularizados||massa pneumomediastino
+69559004||massas vascularizados||tumor pneumomediastino
+69559004||massas peritoneais||massas durais
+69559004||massas peritoneais||massas uretrais
+69559004||massas peritoneais||massa retroperitoneal de aproximadamente de 8 cm, com ecogenicidade heterogénea e vascularização marcada
+69559004||massas peritoneais||massa pneumomediastino
+69559004||massas peritoneais||tumor pneumomediastino
+69559004||massas durais||massas uretrais
+69559004||massas durais||massa retroperitoneal de aproximadamente de 8 cm, com ecogenicidade heterogénea e vascularização marcada
+69559004||massas durais||massa pneumomediastino
+69559004||massas durais||tumor pneumomediastino
+69559004||massas uretrais||massa retroperitoneal de aproximadamente de 8 cm, com ecogenicidade heterogénea e vascularização marcada
+69559004||massas uretrais||massa pneumomediastino
+69559004||massas uretrais||tumor pneumomediastino
+69559004||massa retroperitoneal de aproximadamente de 8 cm, com ecogenicidade heterogénea e vascularização marcada||massa pneumomediastino
+69559004||massa retroperitoneal de aproximadamente de 8 cm, com ecogenicidade heterogénea e vascularização marcada||tumor pneumomediastino
+69559004||massa pneumomediastino||tumor pneumomediastino
+300848003||tumores||massa
+300848003||tumores||massa hipoecogénica
+300848003||tumores||massa radiolúcida com trabeculações
+300848003||tumores||tumor assintomático
+300848003||tumores||massa homogénea
+300848003||tumores||massas
+300848003||tumores||massa radiopaca com trabeculações
+300848003||tumores||massa radiograficamente com trabeculações
+300848003||tumores||massa supra-orbital com trabeculações
+300848003||massa||massa hipoecogénica
+300848003||massa||massa radiolúcida com trabeculações
+300848003||massa||tumor assintomático
+300848003||massa||massa homogénea
+300848003||massa||massas
+300848003||massa||massa radiopaca com trabeculações
+300848003||massa||massa radiograficamente com trabeculações
+300848003||massa||massa supra-orbital com trabeculações
+300848003||massa hipoecogénica||massa radiolúcida com trabeculações
+300848003||massa hipoecogénica||tumor assintomático
+300848003||massa hipoecogénica||massa homogénea
+300848003||massa hipoecogénica||massas
+300848003||massa hipoecogénica||massa radiopaca com trabeculações
+300848003||massa hipoecogénica||massa radiograficamente com trabeculações
+300848003||massa hipoecogénica||massa supra-orbital com trabeculações
+300848003||massa radiolúcida com trabeculações||tumor assintomático
+300848003||massa radiolúcida com trabeculações||massa homogénea
+300848003||massa radiolúcida com trabeculações||massas
+300848003||massa radiolúcida com trabeculações||massa radiopaca com trabeculações
+300848003||massa radiolúcida com trabeculações||massa radiograficamente com trabeculações
+300848003||massa radiolúcida com trabeculações||massa supra-orbital com trabeculações
+300848003||tumor assintomático||massa homogénea
+300848003||tumor assintomático||massas
+300848003||tumor assintomático||massa radiopaca com trabeculações
+300848003||tumor assintomático||massa radiograficamente com trabeculações
+300848003||tumor assintomático||massa supra-orbital com trabeculações
+300848003||massa homogénea||massas
+300848003||massa homogénea||massa radiopaca com trabeculações
+300848003||massa homogénea||massa radiograficamente com trabeculações
+300848003||massa homogénea||massa supra-orbital com trabeculações
+300848003||massas||massa radiopaca com trabeculações
+300848003||massas||massa radiograficamente com trabeculações
+300848003||massas||massa supra-orbital com trabeculações
+300848003||massa radiopaca com trabeculações||massa radiograficamente com trabeculações
+300848003||massa radiopaca com trabeculações||massa supra-orbital com trabeculações
+300848003||massa radiograficamente com trabeculações||massa supra-orbital com trabeculações
+301459008||hemodinamicamente estável||estabilidade hemodinâmica
+62315008||diarreia||diarreia febril
+25064002||dores de cabeça||dor de cabeça
+64882008||episódios febris||febril
+64882008||episódios febris||febre alta
+64882008||episódios febris||febre ocasional
+64882008||episódios febris||febre
+64882008||episódios febris||síndrome febril
+64882008||episódios febris||aumento da temperatura
+64882008||febril||febre alta
+64882008||febril||febre ocasional
+64882008||febril||febre
+64882008||febril||síndrome febril
+64882008||febril||aumento da temperatura
+64882008||febre alta||febre ocasional
+64882008||febre alta||febre
+64882008||febre alta||síndrome febril
+64882008||febre alta||aumento da temperatura
+64882008||febre ocasional||febre
+64882008||febre ocasional||síndrome febril
+64882008||febre ocasional||aumento da temperatura
+64882008||febre||síndrome febril
+64882008||febre||aumento da temperatura
+64882008||síndrome febril||aumento da temperatura
+233703007||padrão intersticial bilateral||padrão intersticial nodular
+233703007||padrão intersticial bilateral||proeminência intersticial
+233703007||padrão intersticial bilateral||padrão intersticial
+233703007||padrão intersticial nodular||proeminência intersticial
+233703007||padrão intersticial nodular||padrão intersticial
+233703007||proeminência intersticial||padrão intersticial
+49233005||sensação de dispneia||dispneia
+49233005||sensação de dispneia||dispneia de intensidade progressiva
+49233005||sensação de dispneia||dificuldade respiratória
+49233005||sensação de dispneia||sensação de dispnéia
+49233005||sensação de dispneia||dispnéia
+49233005||sensação de dispneia||dispnéia de intensidade progressiva
+49233005||dispneia||dispneia de intensidade progressiva
+49233005||dispneia||dificuldade respiratória
+49233005||dispneia||sensação de dispnéia
+49233005||dispneia||dispnéia
+49233005||dispneia||dispnéia de intensidade progressiva
+49233005||dispneia de intensidade progressiva||dificuldade respiratória
+49233005||dispneia de intensidade progressiva||sensação de dispnéia
+49233005||dispneia de intensidade progressiva||dispnéia
+49233005||dispneia de intensidade progressiva||dispnéia de intensidade progressiva
+49233005||dificuldade respiratória||sensação de dispnéia
+49233005||dificuldade respiratória||dispnéia
+49233005||dificuldade respiratória||dispnéia de intensidade progressiva
+49233005||sensação de dispnéia||dispnéia
+49233005||sensação de dispnéia||dispnéia de intensidade progressiva
+49233005||dispnéia||dispnéia de intensidade progressiva
+284520004||crepitações pulmonares basais bilaterais||crepitações bilaterais difusas
+284520004||crepitações pulmonares basais bilaterais||hidroaéreos bilaterais difusas
+284520004||crepitações pulmonares basais bilaterais||sibilância bilaterais difusas
+284520004||crepitações bilaterais difusas||hidroaéreos bilaterais difusas
+284520004||crepitações bilaterais difusas||sibilância bilaterais difusas
+284520004||hidroaéreos bilaterais difusas||sibilância bilaterais difusas
+75823008||exsudado||secreção
+75823008||exsudado||purulento
+75823008||secreção||purulento
+27925004||formação nodular||nódulo hiperecóico
+27925004||formação nodular||nódulos
+27925004||formação nodular||nódulos irregulares
+27925004||formação nodular||nódulo subcapsular
+27925004||formação nodular||nódulo
+27925004||nódulo hiperecóico||nódulos
+27925004||nódulo hiperecóico||nódulos irregulares
+27925004||nódulo hiperecóico||nódulo subcapsular
+27925004||nódulo hiperecóico||nódulo
+27925004||nódulos||nódulos irregulares
+27925004||nódulos||nódulo subcapsular
+27925004||nódulos||nódulo
+27925004||nódulos irregulares||nódulo subcapsular
+27925004||nódulos irregulares||nódulo
+27925004||nódulo subcapsular||nódulo
+197941005||hematúria macroscópica||hematúria franca
+87860000||massa de 8 cm no teste||tumor testicular bilateral
+87860000||massa de 8 cm no teste||massa não dolorosa no testículo direito
+87860000||massa de 8 cm no teste||massa testicular
+87860000||tumor testicular bilateral||massa não dolorosa no testículo direito
+87860000||tumor testicular bilateral||massa testicular
+87860000||massa não dolorosa no testículo direito||massa testicular
+399406009||os marcadores tumorais eram negativos||marcadores tumorais negativos
+399406009||os marcadores tumorais eram negativos||marcadores tumorais normais
+399406009||os marcadores tumorais eram negativos||marcadores testiculares negativos
+399406009||marcadores tumorais negativos||marcadores tumorais normais
+399406009||marcadores tumorais negativos||marcadores testiculares negativos
+399406009||marcadores tumorais normais||marcadores testiculares negativos
+170728008||diminuição da acuidade visual||défice de acuidade visual
+170728008||diminuição da acuidade visual||fraca acuidade visual
+170728008||diminuição da acuidade visual||perda progressiva da acuidade visual
+170728008||diminuição da acuidade visual||perda de acuidade visual no olho esquerdo
+170728008||défice de acuidade visual||fraca acuidade visual
+170728008||défice de acuidade visual||perda progressiva da acuidade visual
+170728008||défice de acuidade visual||perda de acuidade visual no olho esquerdo
+170728008||fraca acuidade visual||perda progressiva da acuidade visual
+170728008||fraca acuidade visual||perda de acuidade visual no olho esquerdo
+170728008||perda progressiva da acuidade visual||perda de acuidade visual no olho esquerdo
+76849009||hiperemia conjuntival||hiperemia conjuntival mista
+76849009||hiperemia conjuntival||epífora conjuntival
+76849009||hiperemia conjuntival||tumefacção conjuntival
+76849009||hiperemia conjuntival||retroesternal conjuntival
+76849009||hiperemia conjuntival||odinofagia conjuntival
+76849009||hiperemia conjuntival||epistaxe conjuntival
+76849009||hiperemia conjuntival||epífora conjuntival mista
+76849009||hiperemia conjuntival||tumefacção conjuntival mista
+76849009||hiperemia conjuntival||retroesternal conjuntival mista
+76849009||hiperemia conjuntival||odinofagia conjuntival mista
+76849009||hiperemia conjuntival||epistaxe conjuntival mista
+76849009||hiperemia conjuntival mista||epífora conjuntival
+76849009||hiperemia conjuntival mista||tumefacção conjuntival
+76849009||hiperemia conjuntival mista||retroesternal conjuntival
+76849009||hiperemia conjuntival mista||odinofagia conjuntival
+76849009||hiperemia conjuntival mista||epistaxe conjuntival
+76849009||hiperemia conjuntival mista||epífora conjuntival mista
+76849009||hiperemia conjuntival mista||tumefacção conjuntival mista
+76849009||hiperemia conjuntival mista||retroesternal conjuntival mista
+76849009||hiperemia conjuntival mista||odinofagia conjuntival mista
+76849009||hiperemia conjuntival mista||epistaxe conjuntival mista
+76849009||epífora conjuntival||tumefacção conjuntival
+76849009||epífora conjuntival||retroesternal conjuntival
+76849009||epífora conjuntival||odinofagia conjuntival
+76849009||epífora conjuntival||epistaxe conjuntival
+76849009||epífora conjuntival||epífora conjuntival mista
+76849009||epífora conjuntival||tumefacção conjuntival mista
+76849009||epífora conjuntival||retroesternal conjuntival mista
+76849009||epífora conjuntival||odinofagia conjuntival mista
+76849009||epífora conjuntival||epistaxe conjuntival mista
+76849009||tumefacção conjuntival||retroesternal conjuntival
+76849009||tumefacção conjuntival||odinofagia conjuntival
+76849009||tumefacção conjuntival||epistaxe conjuntival
+76849009||tumefacção conjuntival||epífora conjuntival mista
+76849009||tumefacção conjuntival||tumefacção conjuntival mista
+76849009||tumefacção conjuntival||retroesternal conjuntival mista
+76849009||tumefacção conjuntival||odinofagia conjuntival mista
+76849009||tumefacção conjuntival||epistaxe conjuntival mista
+76849009||retroesternal conjuntival||odinofagia conjuntival
+76849009||retroesternal conjuntival||epistaxe conjuntival
+76849009||retroesternal conjuntival||epífora conjuntival mista
+76849009||retroesternal conjuntival||tumefacção conjuntival mista
+76849009||retroesternal conjuntival||retroesternal conjuntival mista
+76849009||retroesternal conjuntival||odinofagia conjuntival mista
+76849009||retroesternal conjuntival||epistaxe conjuntival mista
+76849009||odinofagia conjuntival||epistaxe conjuntival
+76849009||odinofagia conjuntival||epífora conjuntival mista
+76849009||odinofagia conjuntival||tumefacção conjuntival mista
+76849009||odinofagia conjuntival||retroesternal conjuntival mista
+76849009||odinofagia conjuntival||odinofagia conjuntival mista
+76849009||odinofagia conjuntival||epistaxe conjuntival mista
+76849009||epistaxe conjuntival||epífora conjuntival mista
+76849009||epistaxe conjuntival||tumefacção conjuntival mista
+76849009||epistaxe conjuntival||retroesternal conjuntival mista
+76849009||epistaxe conjuntival||odinofagia conjuntival mista
+76849009||epistaxe conjuntival||epistaxe conjuntival mista
+76849009||epífora conjuntival mista||tumefacção conjuntival mista
+76849009||epífora conjuntival mista||retroesternal conjuntival mista
+76849009||epífora conjuntival mista||odinofagia conjuntival mista
+76849009||epífora conjuntival mista||epistaxe conjuntival mista
+76849009||tumefacção conjuntival mista||retroesternal conjuntival mista
+76849009||tumefacção conjuntival mista||odinofagia conjuntival mista
+76849009||tumefacção conjuntival mista||epistaxe conjuntival mista
+76849009||retroesternal conjuntival mista||odinofagia conjuntival mista
+76849009||retroesternal conjuntival mista||epistaxe conjuntival mista
+76849009||odinofagia conjuntival mista||epistaxe conjuntival mista
+79890006||hiporexia||perda de apetite
+79890006||hiporexia||anorexia
+79890006||hiporexia||anorexia moderada
+79890006||perda de apetite||anorexia
+79890006||perda de apetite||anorexia moderada
+79890006||anorexia||anorexia moderada
+422400008||vómito||vómitos
+422400008||vómito||diarréia
+422400008||vómitos||diarréia
+237783006||tumor adrenal||massa adrenal
+399122003||disfagia||disfagia progressiva
+267045008||manifestações gastrointestinais||sintomas gastrointestinais
+419099009||morreu||morte
+419099009||morreu||sucesso
+419099009||morreu||faleceu
+419099009||morte||sucesso
+419099009||morte||faleceu
+419099009||sucesso||faleceu
+74474003||hemorragia gastrointestinal maciça||hemorragia gastrointestinal
+275723000||agravamento do estado geral||deterioração clínica
+131148009||sangue||hemorragia
+45850009||continência diurna||continente
+22253000||dor||doloroso
+22253000||dor||dor persistente
+22253000||doloroso||dor persistente
+72970002||o exame clínico e os sinais vitais eram normais||os sinais vitais estavam normais
+13791008||astenia moderada||fraqueza generalizada
+13791008||astenia moderada||astenia
+13791008||astenia moderada||parestesias moderada
+13791008||astenia moderada||parestesia moderada
+13791008||astenia moderada||parestesias
+13791008||astenia moderada||parestesia
+13791008||fraqueza generalizada||astenia
+13791008||fraqueza generalizada||parestesias moderada
+13791008||fraqueza generalizada||parestesia moderada
+13791008||fraqueza generalizada||parestesias
+13791008||fraqueza generalizada||parestesia
+13791008||astenia||parestesias moderada
+13791008||astenia||parestesia moderada
+13791008||astenia||parestesias
+13791008||astenia||parestesia
+13791008||parestesias moderada||parestesia moderada
+13791008||parestesias moderada||parestesias
+13791008||parestesias moderada||parestesia
+13791008||parestesia moderada||parestesias
+13791008||parestesia moderada||parestesia
+13791008||parestesias||parestesia
+83128009||oligoanúria||oligúria
+83128009||oligoanúria||anúria
+83128009||oligoanúria||hipernatremia
+83128009||oligoanúria||azotemia
+83128009||oligoanúria||hiperfosfatemia
+83128009||oligoanúria||hipoalbuminemia
+83128009||oligúria||anúria
+83128009||oligúria||hipernatremia
+83128009||oligúria||azotemia
+83128009||oligúria||hiperfosfatemia
+83128009||oligúria||hipoalbuminemia
+83128009||anúria||hipernatremia
+83128009||anúria||azotemia
+83128009||anúria||hiperfosfatemia
+83128009||anúria||hipoalbuminemia
+83128009||hipernatremia||azotemia
+83128009||hipernatremia||hiperfosfatemia
+83128009||hipernatremia||hipoalbuminemia
+83128009||azotemia||hiperfosfatemia
+83128009||azotemia||hipoalbuminemia
+83128009||hiperfosfatemia||hipoalbuminemia
+422773005||instabilidade hemodinâmica||desestabilização hemodinâmica
+422773005||instabilidade hemodinâmica||compromisso hemodinâmico
+422773005||instabilidade hemodinâmica||alterações hemodinâmicas
+422773005||instabilidade hemodinâmica||hemodinamicamente instável
+422773005||instabilidade hemodinâmica||compromisso trombólise
+422773005||desestabilização hemodinâmica||compromisso hemodinâmico
+422773005||desestabilização hemodinâmica||alterações hemodinâmicas
+422773005||desestabilização hemodinâmica||hemodinamicamente instável
+422773005||desestabilização hemodinâmica||compromisso trombólise
+422773005||compromisso hemodinâmico||alterações hemodinâmicas
+422773005||compromisso hemodinâmico||hemodinamicamente instável
+422773005||compromisso hemodinâmico||compromisso trombólise
+422773005||alterações hemodinâmicas||hemodinamicamente instável
+422773005||alterações hemodinâmicas||compromisso trombólise
+422773005||hemodinamicamente instável||compromisso trombólise
+300474003||diurese espontânea||diurese mantida
+300474003||diurese espontânea||diurese preservada
+300474003||diurese mantida||diurese preservada
+314983004||agravamento da função renal||deterioração progressiva da função renal
+80515008||aumento do fígado||hepatomegalia dolorosa
+80515008||aumento do fígado||esplenomegalia dolorosa
+80515008||aumento do fígado||hepatoesplenomegalia dolorosa
+80515008||aumento do fígado||adenopatia dolorosa
+80515008||aumento do fígado||periostite dolorosa
+80515008||aumento do fígado||plaquetopenia dolorosa
+80515008||hepatomegalia dolorosa||esplenomegalia dolorosa
+80515008||hepatomegalia dolorosa||hepatoesplenomegalia dolorosa
+80515008||hepatomegalia dolorosa||adenopatia dolorosa
+80515008||hepatomegalia dolorosa||periostite dolorosa
+80515008||hepatomegalia dolorosa||plaquetopenia dolorosa
+80515008||esplenomegalia dolorosa||hepatoesplenomegalia dolorosa
+80515008||esplenomegalia dolorosa||adenopatia dolorosa
+80515008||esplenomegalia dolorosa||periostite dolorosa
+80515008||esplenomegalia dolorosa||plaquetopenia dolorosa
+80515008||hepatoesplenomegalia dolorosa||adenopatia dolorosa
+80515008||hepatoesplenomegalia dolorosa||periostite dolorosa
+80515008||hepatoesplenomegalia dolorosa||plaquetopenia dolorosa
+80515008||adenopatia dolorosa||periostite dolorosa
+80515008||adenopatia dolorosa||plaquetopenia dolorosa
+80515008||periostite dolorosa||plaquetopenia dolorosa
+78341006||leucócitos polimorfonucleares e muco abundante||neutrofilia
+78341006||leucócitos polimorfonucleares e muco abundante||leucócitos histiócito e muco abundante
+78341006||leucócitos polimorfonucleares e muco abundante||leucócitos histiócitos e muco abundante
+78341006||leucócitos polimorfonucleares e muco abundante||leucócitos agranulócitos e muco abundante
+78341006||leucócitos polimorfonucleares e muco abundante||leucócitos tiroglobulina e muco abundante
+78341006||leucócitos polimorfonucleares e muco abundante||leucócitos glicocerebrosídeos e muco abundante
+78341006||leucócitos polimorfonucleares e muco abundante||neutrófilos polimorfonucleares e muco abundante
+78341006||leucócitos polimorfonucleares e muco abundante||leucocitose
+78341006||leucócitos polimorfonucleares e muco abundante||plaquetopenia
+78341006||leucócitos polimorfonucleares e muco abundante||nefrítica
+78341006||leucócitos polimorfonucleares e muco abundante||hiperesplenismo
+78341006||leucócitos polimorfonucleares e muco abundante||linfocitose
+78341006||neutrofilia||leucócitos histiócito e muco abundante
+78341006||neutrofilia||leucócitos histiócitos e muco abundante
+78341006||neutrofilia||leucócitos agranulócitos e muco abundante
+78341006||neutrofilia||leucócitos tiroglobulina e muco abundante
+78341006||neutrofilia||leucócitos glicocerebrosídeos e muco abundante
+78341006||neutrofilia||neutrófilos polimorfonucleares e muco abundante
+78341006||neutrofilia||leucocitose
+78341006||neutrofilia||plaquetopenia
+78341006||neutrofilia||nefrítica
+78341006||neutrofilia||hiperesplenismo
+78341006||neutrofilia||linfocitose
+78341006||leucócitos histiócito e muco abundante||leucócitos histiócitos e muco abundante
+78341006||leucócitos histiócito e muco abundante||leucócitos agranulócitos e muco abundante
+78341006||leucócitos histiócito e muco abundante||leucócitos tiroglobulina e muco abundante
+78341006||leucócitos histiócito e muco abundante||leucócitos glicocerebrosídeos e muco abundante
+78341006||leucócitos histiócito e muco abundante||neutrófilos polimorfonucleares e muco abundante
+78341006||leucócitos histiócito e muco abundante||leucocitose
+78341006||leucócitos histiócito e muco abundante||plaquetopenia
+78341006||leucócitos histiócito e muco abundante||nefrítica
+78341006||leucócitos histiócito e muco abundante||hiperesplenismo
+78341006||leucócitos histiócito e muco abundante||linfocitose
+78341006||leucócitos histiócitos e muco abundante||leucócitos agranulócitos e muco abundante
+78341006||leucócitos histiócitos e muco abundante||leucócitos tiroglobulina e muco abundante
+78341006||leucócitos histiócitos e muco abundante||leucócitos glicocerebrosídeos e muco abundante
+78341006||leucócitos histiócitos e muco abundante||neutrófilos polimorfonucleares e muco abundante
+78341006||leucócitos histiócitos e muco abundante||leucocitose
+78341006||leucócitos histiócitos e muco abundante||plaquetopenia
+78341006||leucócitos histiócitos e muco abundante||nefrítica
+78341006||leucócitos histiócitos e muco abundante||hiperesplenismo
+78341006||leucócitos histiócitos e muco abundante||linfocitose
+78341006||leucócitos agranulócitos e muco abundante||leucócitos tiroglobulina e muco abundante
+78341006||leucócitos agranulócitos e muco abundante||leucócitos glicocerebrosídeos e muco abundante
+78341006||leucócitos agranulócitos e muco abundante||neutrófilos polimorfonucleares e muco abundante
+78341006||leucócitos agranulócitos e muco abundante||leucocitose
+78341006||leucócitos agranulócitos e muco abundante||plaquetopenia
+78341006||leucócitos agranulócitos e muco abundante||nefrítica
+78341006||leucócitos agranulócitos e muco abundante||hiperesplenismo
+78341006||leucócitos agranulócitos e muco abundante||linfocitose
+78341006||leucócitos tiroglobulina e muco abundante||leucócitos glicocerebrosídeos e muco abundante
+78341006||leucócitos tiroglobulina e muco abundante||neutrófilos polimorfonucleares e muco abundante
+78341006||leucócitos tiroglobulina e muco abundante||leucocitose
+78341006||leucócitos tiroglobulina e muco abundante||plaquetopenia
+78341006||leucócitos tiroglobulina e muco abundante||nefrítica
+78341006||leucócitos tiroglobulina e muco abundante||hiperesplenismo
+78341006||leucócitos tiroglobulina e muco abundante||linfocitose
+78341006||leucócitos glicocerebrosídeos e muco abundante||neutrófilos polimorfonucleares e muco abundante
+78341006||leucócitos glicocerebrosídeos e muco abundante||leucocitose
+78341006||leucócitos glicocerebrosídeos e muco abundante||plaquetopenia
+78341006||leucócitos glicocerebrosídeos e muco abundante||nefrítica
+78341006||leucócitos glicocerebrosídeos e muco abundante||hiperesplenismo
+78341006||leucócitos glicocerebrosídeos e muco abundante||linfocitose
+78341006||neutrófilos polimorfonucleares e muco abundante||leucocitose
+78341006||neutrófilos polimorfonucleares e muco abundante||plaquetopenia
+78341006||neutrófilos polimorfonucleares e muco abundante||nefrítica
+78341006||neutrófilos polimorfonucleares e muco abundante||hiperesplenismo
+78341006||neutrófilos polimorfonucleares e muco abundante||linfocitose
+78341006||leucocitose||plaquetopenia
+78341006||leucocitose||nefrítica
+78341006||leucocitose||hiperesplenismo
+78341006||leucocitose||linfocitose
+78341006||plaquetopenia||nefrítica
+78341006||plaquetopenia||hiperesplenismo
+78341006||plaquetopenia||linfocitose
+78341006||nefrítica||hiperesplenismo
+78341006||nefrítica||linfocitose
+78341006||hiperesplenismo||linfocitose
+52985009||ascite quilosa||líquido ascítico com características quilosas
+52985009||ascite quilosa||líquido paracentese com características quilosas
+52985009||ascite quilosa||líquido céfalo-raquidiano com características quilosas
+52985009||líquido ascítico com características quilosas||líquido paracentese com características quilosas
+52985009||líquido ascítico com características quilosas||líquido céfalo-raquidiano com características quilosas
+52985009||líquido paracentese com características quilosas||líquido céfalo-raquidiano com características quilosas
+389026000||líquido ascítico||ascite
+389026000||líquido ascítico||líquido paracentese
+389026000||líquido ascítico||líquido céfalo-raquidiano
+389026000||ascite||líquido paracentese
+389026000||ascite||líquido céfalo-raquidiano
+389026000||líquido paracentese||líquido céfalo-raquidiano
+5291005||hipocalcemia||hipocalcemia grave
+5291005||hipocalcemia||hipertrigliceridemia
+5291005||hipocalcemia||hipercalcemia
+5291005||hipocalcemia||hiperfosfatemia
+5291005||hipocalcemia||hipoparatireoidismo
+5291005||hipocalcemia||hipomagnesemia
+5291005||hipocalcemia||hipertrigliceridemia grave
+5291005||hipocalcemia||hipercalcemia grave
+5291005||hipocalcemia||hiperfosfatemia grave
+5291005||hipocalcemia||hipoparatireoidismo grave
+5291005||hipocalcemia||hipomagnesemia grave
+5291005||hipocalcemia grave||hipertrigliceridemia
+5291005||hipocalcemia grave||hipercalcemia
+5291005||hipocalcemia grave||hiperfosfatemia
+5291005||hipocalcemia grave||hipoparatireoidismo
+5291005||hipocalcemia grave||hipomagnesemia
+5291005||hipocalcemia grave||hipertrigliceridemia grave
+5291005||hipocalcemia grave||hipercalcemia grave
+5291005||hipocalcemia grave||hiperfosfatemia grave
+5291005||hipocalcemia grave||hipoparatireoidismo grave
+5291005||hipocalcemia grave||hipomagnesemia grave
+5291005||hipertrigliceridemia||hipercalcemia
+5291005||hipertrigliceridemia||hiperfosfatemia
+5291005||hipertrigliceridemia||hipoparatireoidismo
+5291005||hipertrigliceridemia||hipomagnesemia
+5291005||hipertrigliceridemia||hipertrigliceridemia grave
+5291005||hipertrigliceridemia||hipercalcemia grave
+5291005||hipertrigliceridemia||hiperfosfatemia grave
+5291005||hipertrigliceridemia||hipoparatireoidismo grave
+5291005||hipertrigliceridemia||hipomagnesemia grave
+5291005||hipercalcemia||hiperfosfatemia
+5291005||hipercalcemia||hipoparatireoidismo
+5291005||hipercalcemia||hipomagnesemia
+5291005||hipercalcemia||hipertrigliceridemia grave
+5291005||hipercalcemia||hipercalcemia grave
+5291005||hipercalcemia||hiperfosfatemia grave
+5291005||hipercalcemia||hipoparatireoidismo grave
+5291005||hipercalcemia||hipomagnesemia grave
+5291005||hiperfosfatemia||hipoparatireoidismo
+5291005||hiperfosfatemia||hipomagnesemia
+5291005||hiperfosfatemia||hipertrigliceridemia grave
+5291005||hiperfosfatemia||hipercalcemia grave
+5291005||hiperfosfatemia||hiperfosfatemia grave
+5291005||hiperfosfatemia||hipoparatireoidismo grave
+5291005||hiperfosfatemia||hipomagnesemia grave
+5291005||hipoparatireoidismo||hipomagnesemia
+5291005||hipoparatireoidismo||hipertrigliceridemia grave
+5291005||hipoparatireoidismo||hipercalcemia grave
+5291005||hipoparatireoidismo||hiperfosfatemia grave
+5291005||hipoparatireoidismo||hipoparatireoidismo grave
+5291005||hipoparatireoidismo||hipomagnesemia grave
+5291005||hipomagnesemia||hipertrigliceridemia grave
+5291005||hipomagnesemia||hipercalcemia grave
+5291005||hipomagnesemia||hiperfosfatemia grave
+5291005||hipomagnesemia||hipoparatireoidismo grave
+5291005||hipomagnesemia||hipomagnesemia grave
+5291005||hipertrigliceridemia grave||hipercalcemia grave
+5291005||hipertrigliceridemia grave||hiperfosfatemia grave
+5291005||hipertrigliceridemia grave||hipoparatireoidismo grave
+5291005||hipertrigliceridemia grave||hipomagnesemia grave
+5291005||hipercalcemia grave||hiperfosfatemia grave
+5291005||hipercalcemia grave||hipoparatireoidismo grave
+5291005||hipercalcemia grave||hipomagnesemia grave
+5291005||hiperfosfatemia grave||hipoparatireoidismo grave
+5291005||hiperfosfatemia grave||hipomagnesemia grave
+5291005||hipoparatireoidismo grave||hipomagnesemia grave
+386789004||eosinofilia||eosinofilia periférica
+386789004||eosinofilia||leucocitose
+386789004||eosinofilia||lúpica
+386789004||eosinofilia||neutrofilia
+386789004||eosinofilia||esplenomegalia
+386789004||eosinofilia||hiperesplenismo
+386789004||eosinofilia||leucocitose periférica
+386789004||eosinofilia||lúpica periférica
+386789004||eosinofilia||neutrofilia periférica
+386789004||eosinofilia||esplenomegalia periférica
+386789004||eosinofilia||hiperesplenismo periférica
+386789004||eosinofilia periférica||leucocitose
+386789004||eosinofilia periférica||lúpica
+386789004||eosinofilia periférica||neutrofilia
+386789004||eosinofilia periférica||esplenomegalia
+386789004||eosinofilia periférica||hiperesplenismo
+386789004||eosinofilia periférica||leucocitose periférica
+386789004||eosinofilia periférica||lúpica periférica
+386789004||eosinofilia periférica||neutrofilia periférica
+386789004||eosinofilia periférica||esplenomegalia periférica
+386789004||eosinofilia periférica||hiperesplenismo periférica
+386789004||leucocitose||lúpica
+386789004||leucocitose||neutrofilia
+386789004||leucocitose||esplenomegalia
+386789004||leucocitose||hiperesplenismo
+386789004||leucocitose||leucocitose periférica
+386789004||leucocitose||lúpica periférica
+386789004||leucocitose||neutrofilia periférica
+386789004||leucocitose||esplenomegalia periférica
+386789004||leucocitose||hiperesplenismo periférica
+386789004||lúpica||neutrofilia
+386789004||lúpica||esplenomegalia
+386789004||lúpica||hiperesplenismo
+386789004||lúpica||leucocitose periférica
+386789004||lúpica||lúpica periférica
+386789004||lúpica||neutrofilia periférica
+386789004||lúpica||esplenomegalia periférica
+386789004||lúpica||hiperesplenismo periférica
+386789004||neutrofilia||esplenomegalia
+386789004||neutrofilia||hiperesplenismo
+386789004||neutrofilia||leucocitose periférica
+386789004||neutrofilia||lúpica periférica
+386789004||neutrofilia||neutrofilia periférica
+386789004||neutrofilia||esplenomegalia periférica
+386789004||neutrofilia||hiperesplenismo periférica
+386789004||esplenomegalia||hiperesplenismo
+386789004||esplenomegalia||leucocitose periférica
+386789004||esplenomegalia||lúpica periférica
+386789004||esplenomegalia||neutrofilia periférica
+386789004||esplenomegalia||esplenomegalia periférica
+386789004||esplenomegalia||hiperesplenismo periférica
+386789004||hiperesplenismo||leucocitose periférica
+386789004||hiperesplenismo||lúpica periférica
+386789004||hiperesplenismo||neutrofilia periférica
+386789004||hiperesplenismo||esplenomegalia periférica
+386789004||hiperesplenismo||hiperesplenismo periférica
+386789004||leucocitose periférica||lúpica periférica
+386789004||leucocitose periférica||neutrofilia periférica
+386789004||leucocitose periférica||esplenomegalia periférica
+386789004||leucocitose periférica||hiperesplenismo periférica
+386789004||lúpica periférica||neutrofilia periférica
+386789004||lúpica periférica||esplenomegalia periférica
+386789004||lúpica periférica||hiperesplenismo periférica
+386789004||neutrofilia periférica||esplenomegalia periférica
+386789004||neutrofilia periférica||hiperesplenismo periférica
+386789004||esplenomegalia periférica||hiperesplenismo periférica
+278683009||oclusão estável e repetível||boa oclusão dentária
+301936006||o pólo anterior era normal em ambos os olhos||boa profundidade da câmara anterior
+103251002||a motilidade extrínseca e intrínseca era normal||motilidade ocular extrínseca e intrínseca
+103251002||a motilidade extrínseca e intrínseca era normal||a motilidade ocular extrínseca e intrínseca era normal
+103251002||motilidade ocular extrínseca e intrínseca||a motilidade ocular extrínseca e intrínseca era normal
+24982008||diplopia||diplopia horizontal
+24982008||diplopia||visão dupla
+24982008||diplopia||diplopia binocular horizontal
+24982008||diplopia||midríase
+24982008||diplopia||cicloplegia
+24982008||diplopia||miose
+24982008||diplopia||midríase horizontal
+24982008||diplopia||cicloplegia horizontal
+24982008||diplopia||miose horizontal
+24982008||diplopia||midríase binocular horizontal
+24982008||diplopia||cicloplegia binocular horizontal
+24982008||diplopia||miose binocular horizontal
+24982008||diplopia horizontal||visão dupla
+24982008||diplopia horizontal||diplopia binocular horizontal
+24982008||diplopia horizontal||midríase
+24982008||diplopia horizontal||cicloplegia
+24982008||diplopia horizontal||miose
+24982008||diplopia horizontal||midríase horizontal
+24982008||diplopia horizontal||cicloplegia horizontal
+24982008||diplopia horizontal||miose horizontal
+24982008||diplopia horizontal||midríase binocular horizontal
+24982008||diplopia horizontal||cicloplegia binocular horizontal
+24982008||diplopia horizontal||miose binocular horizontal
+24982008||visão dupla||diplopia binocular horizontal
+24982008||visão dupla||midríase
+24982008||visão dupla||cicloplegia
+24982008||visão dupla||miose
+24982008||visão dupla||midríase horizontal
+24982008||visão dupla||cicloplegia horizontal
+24982008||visão dupla||miose horizontal
+24982008||visão dupla||midríase binocular horizontal
+24982008||visão dupla||cicloplegia binocular horizontal
+24982008||visão dupla||miose binocular horizontal
+24982008||diplopia binocular horizontal||midríase
+24982008||diplopia binocular horizontal||cicloplegia
+24982008||diplopia binocular horizontal||miose
+24982008||diplopia binocular horizontal||midríase horizontal
+24982008||diplopia binocular horizontal||cicloplegia horizontal
+24982008||diplopia binocular horizontal||miose horizontal
+24982008||diplopia binocular horizontal||midríase binocular horizontal
+24982008||diplopia binocular horizontal||cicloplegia binocular horizontal
+24982008||diplopia binocular horizontal||miose binocular horizontal
+24982008||midríase||cicloplegia
+24982008||midríase||miose
+24982008||midríase||midríase horizontal
+24982008||midríase||cicloplegia horizontal
+24982008||midríase||miose horizontal
+24982008||midríase||midríase binocular horizontal
+24982008||midríase||cicloplegia binocular horizontal
+24982008||midríase||miose binocular horizontal
+24982008||cicloplegia||miose
+24982008||cicloplegia||midríase horizontal
+24982008||cicloplegia||cicloplegia horizontal
+24982008||cicloplegia||miose horizontal
+24982008||cicloplegia||midríase binocular horizontal
+24982008||cicloplegia||cicloplegia binocular horizontal
+24982008||cicloplegia||miose binocular horizontal
+24982008||miose||midríase horizontal
+24982008||miose||cicloplegia horizontal
+24982008||miose||miose horizontal
+24982008||miose||midríase binocular horizontal
+24982008||miose||cicloplegia binocular horizontal
+24982008||miose||miose binocular horizontal
+24982008||midríase horizontal||cicloplegia horizontal
+24982008||midríase horizontal||miose horizontal
+24982008||midríase horizontal||midríase binocular horizontal
+24982008||midríase horizontal||cicloplegia binocular horizontal
+24982008||midríase horizontal||miose binocular horizontal
+24982008||cicloplegia horizontal||miose horizontal
+24982008||cicloplegia horizontal||midríase binocular horizontal
+24982008||cicloplegia horizontal||cicloplegia binocular horizontal
+24982008||cicloplegia horizontal||miose binocular horizontal
+24982008||miose horizontal||midríase binocular horizontal
+24982008||miose horizontal||cicloplegia binocular horizontal
+24982008||miose horizontal||miose binocular horizontal
+24982008||midríase binocular horizontal||cicloplegia binocular horizontal
+24982008||midríase binocular horizontal||miose binocular horizontal
+24982008||cicloplegia binocular horizontal||miose binocular horizontal
+300855001||massa intestinal||tumor intraluminal
+300855001||massa intestinal||tumor hiperosmolaridade
+300855001||massa intestinal||tumor volemia
+300855001||massa intestinal||tumor hipervolemia
+300855001||massa intestinal||tumor hipercapnia
+300855001||massa intestinal||tumor hipóxico
+300855001||tumor intraluminal||tumor hiperosmolaridade
+300855001||tumor intraluminal||tumor volemia
+300855001||tumor intraluminal||tumor hipervolemia
+300855001||tumor intraluminal||tumor hipercapnia
+300855001||tumor intraluminal||tumor hipóxico
+300855001||tumor hiperosmolaridade||tumor volemia
+300855001||tumor hiperosmolaridade||tumor hipervolemia
+300855001||tumor hiperosmolaridade||tumor hipercapnia
+300855001||tumor hiperosmolaridade||tumor hipóxico
+300855001||tumor volemia||tumor hipervolemia
+300855001||tumor volemia||tumor hipercapnia
+300855001||tumor volemia||tumor hipóxico
+300855001||tumor hipervolemia||tumor hipercapnia
+300855001||tumor hipervolemia||tumor hipóxico
+300855001||tumor hipercapnia||tumor hipóxico
+15253005||assimetria facial||desvio da linha média facial
+63049000||osso saudável||formação óssea longitudinal adequada
+63049000||osso saudável||estrutura óssea normal
+63049000||formação óssea longitudinal adequada||estrutura óssea normal
+309088003||massa renal||massas renais
+309088003||massa renal||nódulos sólidos em ambos os rins
+309088003||massa renal||massa sólida no pólo superior do rim
+309088003||massas renais||nódulos sólidos em ambos os rins
+309088003||massas renais||massa sólida no pólo superior do rim
+309088003||nódulos sólidos em ambos os rins||massa sólida no pólo superior do rim
+271823003||taquipneia||taquipneia persistente
+271823003||taquipneia||aumento da frequência respiratória
+271823003||taquipneia||bradipneia
+271823003||taquipneia||hipoventilação
+271823003||taquipneia||hiperpneia
+271823003||taquipneia||mialgias
+271823003||taquipneia||miotonia
+271823003||taquipneia||bradipneia persistente
+271823003||taquipneia||hipoventilação persistente
+271823003||taquipneia||hiperpneia persistente
+271823003||taquipneia||mialgias persistente
+271823003||taquipneia||miotonia persistente
+271823003||taquipneia persistente||aumento da frequência respiratória
+271823003||taquipneia persistente||bradipneia
+271823003||taquipneia persistente||hipoventilação
+271823003||taquipneia persistente||hiperpneia
+271823003||taquipneia persistente||mialgias
+271823003||taquipneia persistente||miotonia
+271823003||taquipneia persistente||bradipneia persistente
+271823003||taquipneia persistente||hipoventilação persistente
+271823003||taquipneia persistente||hiperpneia persistente
+271823003||taquipneia persistente||mialgias persistente
+271823003||taquipneia persistente||miotonia persistente
+271823003||aumento da frequência respiratória||bradipneia
+271823003||aumento da frequência respiratória||hipoventilação
+271823003||aumento da frequência respiratória||hiperpneia
+271823003||aumento da frequência respiratória||mialgias
+271823003||aumento da frequência respiratória||miotonia
+271823003||aumento da frequência respiratória||bradipneia persistente
+271823003||aumento da frequência respiratória||hipoventilação persistente
+271823003||aumento da frequência respiratória||hiperpneia persistente
+271823003||aumento da frequência respiratória||mialgias persistente
+271823003||aumento da frequência respiratória||miotonia persistente
+271823003||bradipneia||hipoventilação
+271823003||bradipneia||hiperpneia
+271823003||bradipneia||mialgias
+271823003||bradipneia||miotonia
+271823003||bradipneia||bradipneia persistente
+271823003||bradipneia||hipoventilação persistente
+271823003||bradipneia||hiperpneia persistente
+271823003||bradipneia||mialgias persistente
+271823003||bradipneia||miotonia persistente
+271823003||hipoventilação||hiperpneia
+271823003||hipoventilação||mialgias
+271823003||hipoventilação||miotonia
+271823003||hipoventilação||bradipneia persistente
+271823003||hipoventilação||hipoventilação persistente
+271823003||hipoventilação||hiperpneia persistente
+271823003||hipoventilação||mialgias persistente
+271823003||hipoventilação||miotonia persistente
+271823003||hiperpneia||mialgias
+271823003||hiperpneia||miotonia
+271823003||hiperpneia||bradipneia persistente
+271823003||hiperpneia||hipoventilação persistente
+271823003||hiperpneia||hiperpneia persistente
+271823003||hiperpneia||mialgias persistente
+271823003||hiperpneia||miotonia persistente
+271823003||mialgias||miotonia
+271823003||mialgias||bradipneia persistente
+271823003||mialgias||hipoventilação persistente
+271823003||mialgias||hiperpneia persistente
+271823003||mialgias||mialgias persistente
+271823003||mialgias||miotonia persistente
+271823003||miotonia||bradipneia persistente
+271823003||miotonia||hipoventilação persistente
+271823003||miotonia||hiperpneia persistente
+271823003||miotonia||mialgias persistente
+271823003||miotonia||miotonia persistente
+271823003||bradipneia persistente||hipoventilação persistente
+271823003||bradipneia persistente||hiperpneia persistente
+271823003||bradipneia persistente||mialgias persistente
+271823003||bradipneia persistente||miotonia persistente
+271823003||hipoventilação persistente||hiperpneia persistente
+271823003||hipoventilação persistente||mialgias persistente
+271823003||hipoventilação persistente||miotonia persistente
+271823003||hiperpneia persistente||mialgias persistente
+271823003||hiperpneia persistente||miotonia persistente
+271823003||mialgias persistente||miotonia persistente
+89362005||perda de peso de 15 kg||perda de peso
+89362005||perda de peso de 15 kg||perda de cerca de 15 kg de peso
+89362005||perda de peso de 15 kg||perda de peso de 7 kg
+89362005||perda de peso de 15 kg||perda de peso de 5 kg
+89362005||perda de peso de 15 kg||perda de 23% do seu peso habitual
+89362005||perda de peso de 15 kg||perder peso
+89362005||perda de peso de 15 kg||perda de trinta quilos de peso
+89362005||perda de peso||perda de cerca de 15 kg de peso
+89362005||perda de peso||perda de peso de 7 kg
+89362005||perda de peso||perda de peso de 5 kg
+89362005||perda de peso||perda de 23% do seu peso habitual
+89362005||perda de peso||perder peso
+89362005||perda de peso||perda de trinta quilos de peso
+89362005||perda de cerca de 15 kg de peso||perda de peso de 7 kg
+89362005||perda de cerca de 15 kg de peso||perda de peso de 5 kg
+89362005||perda de cerca de 15 kg de peso||perda de 23% do seu peso habitual
+89362005||perda de cerca de 15 kg de peso||perder peso
+89362005||perda de cerca de 15 kg de peso||perda de trinta quilos de peso
+89362005||perda de peso de 7 kg||perda de peso de 5 kg
+89362005||perda de peso de 7 kg||perda de 23% do seu peso habitual
+89362005||perda de peso de 7 kg||perder peso
+89362005||perda de peso de 7 kg||perda de trinta quilos de peso
+89362005||perda de peso de 5 kg||perda de 23% do seu peso habitual
+89362005||perda de peso de 5 kg||perder peso
+89362005||perda de peso de 5 kg||perda de trinta quilos de peso
+89362005||perda de 23% do seu peso habitual||perder peso
+89362005||perda de 23% do seu peso habitual||perda de trinta quilos de peso
+89362005||perder peso||perda de trinta quilos de peso
+53298000||hematúria||hematúria anémica total
+90708001||retenção no pólo superior esquerdo||envolvimento renal
+359746009||clinicamente estável||estável
+271594007||síncope||episódio sincopal
+204676004||mucosa gástrica ectópica||mucosa gástrica heterotópica
+300401007||aumento gradual da circunferência abdominal||aumento do perímetro abdominal
+165406005||hemograma normal||parâmetros normais das três séries hematológicas
+274643008||palidez cutânea||palidez
+443371007||diminuição do nível de consciência||deterioração progressiva do nível de consciência
+443371007||diminuição do nível de consciência||baixo nível de consciência
+443371007||diminuição do nível de consciência||obnubilação
+443371007||deterioração progressiva do nível de consciência||baixo nível de consciência
+443371007||deterioração progressiva do nível de consciência||obnubilação
+443371007||baixo nível de consciência||obnubilação
+249545003||defesa||defesa à palpação
+249545003||defesa||peritonismo
+249545003||defesa||defesa abdominal
+249545003||defesa à palpação||peritonismo
+249545003||defesa à palpação||defesa abdominal
+249545003||peritonismo||defesa abdominal
+249339005||narinas estreitas||pirâmide nasal estreita
+34095006||sinais de esgotamento hidrossalino||desidratado
+34095006||sinais de esgotamento hidrossalino||desidratação
+34095006||desidratado||desidratação
+703630003||olho vermelho grave||olho vermelho
+445088006||edema do maxilar superior||edema na hemicara
+445088006||edema do maxilar superior||edema facial
+445088006||edema na hemicara||edema facial
+14310000||rinorreia esverdeada||rinorreia purulenta
+14310000||rinorreia esverdeada||odinofagia esverdeada
+14310000||rinorreia esverdeada||mialgias esverdeada
+14310000||rinorreia esverdeada||adenite esverdeada
+14310000||rinorreia esverdeada||hematemese esverdeada
+14310000||rinorreia esverdeada||disúria esverdeada
+14310000||rinorreia esverdeada||rinorreia linfangite
+14310000||rinorreia esverdeada||rinorreia pioderma
+14310000||rinorreia esverdeada||odinofagia purulenta
+14310000||rinorreia esverdeada||mialgias purulenta
+14310000||rinorreia esverdeada||adenite purulenta
+14310000||rinorreia esverdeada||hematemese purulenta
+14310000||rinorreia esverdeada||disúria purulenta
+14310000||rinorreia purulenta||odinofagia esverdeada
+14310000||rinorreia purulenta||mialgias esverdeada
+14310000||rinorreia purulenta||adenite esverdeada
+14310000||rinorreia purulenta||hematemese esverdeada
+14310000||rinorreia purulenta||disúria esverdeada
+14310000||rinorreia purulenta||rinorreia linfangite
+14310000||rinorreia purulenta||rinorreia pioderma
+14310000||rinorreia purulenta||odinofagia purulenta
+14310000||rinorreia purulenta||mialgias purulenta
+14310000||rinorreia purulenta||adenite purulenta
+14310000||rinorreia purulenta||hematemese purulenta
+14310000||rinorreia purulenta||disúria purulenta
+14310000||odinofagia esverdeada||mialgias esverdeada
+14310000||odinofagia esverdeada||adenite esverdeada
+14310000||odinofagia esverdeada||hematemese esverdeada
+14310000||odinofagia esverdeada||disúria esverdeada
+14310000||odinofagia esverdeada||rinorreia linfangite
+14310000||odinofagia esverdeada||rinorreia pioderma
+14310000||odinofagia esverdeada||odinofagia purulenta
+14310000||odinofagia esverdeada||mialgias purulenta
+14310000||odinofagia esverdeada||adenite purulenta
+14310000||odinofagia esverdeada||hematemese purulenta
+14310000||odinofagia esverdeada||disúria purulenta
+14310000||mialgias esverdeada||adenite esverdeada
+14310000||mialgias esverdeada||hematemese esverdeada
+14310000||mialgias esverdeada||disúria esverdeada
+14310000||mialgias esverdeada||rinorreia linfangite
+14310000||mialgias esverdeada||rinorreia pioderma
+14310000||mialgias esverdeada||odinofagia purulenta
+14310000||mialgias esverdeada||mialgias purulenta
+14310000||mialgias esverdeada||adenite purulenta
+14310000||mialgias esverdeada||hematemese purulenta
+14310000||mialgias esverdeada||disúria purulenta
+14310000||adenite esverdeada||hematemese esverdeada
+14310000||adenite esverdeada||disúria esverdeada
+14310000||adenite esverdeada||rinorreia linfangite
+14310000||adenite esverdeada||rinorreia pioderma
+14310000||adenite esverdeada||odinofagia purulenta
+14310000||adenite esverdeada||mialgias purulenta
+14310000||adenite esverdeada||adenite purulenta
+14310000||adenite esverdeada||hematemese purulenta
+14310000||adenite esverdeada||disúria purulenta
+14310000||hematemese esverdeada||disúria esverdeada
+14310000||hematemese esverdeada||rinorreia linfangite
+14310000||hematemese esverdeada||rinorreia pioderma
+14310000||hematemese esverdeada||odinofagia purulenta
+14310000||hematemese esverdeada||mialgias purulenta
+14310000||hematemese esverdeada||adenite purulenta
+14310000||hematemese esverdeada||hematemese purulenta
+14310000||hematemese esverdeada||disúria purulenta
+14310000||disúria esverdeada||rinorreia linfangite
+14310000||disúria esverdeada||rinorreia pioderma
+14310000||disúria esverdeada||odinofagia purulenta
+14310000||disúria esverdeada||mialgias purulenta
+14310000||disúria esverdeada||adenite purulenta
+14310000||disúria esverdeada||hematemese purulenta
+14310000||disúria esverdeada||disúria purulenta
+14310000||rinorreia linfangite||rinorreia pioderma
+14310000||rinorreia linfangite||odinofagia purulenta
+14310000||rinorreia linfangite||mialgias purulenta
+14310000||rinorreia linfangite||adenite purulenta
+14310000||rinorreia linfangite||hematemese purulenta
+14310000||rinorreia linfangite||disúria purulenta
+14310000||rinorreia pioderma||odinofagia purulenta
+14310000||rinorreia pioderma||mialgias purulenta
+14310000||rinorreia pioderma||adenite purulenta
+14310000||rinorreia pioderma||hematemese purulenta
+14310000||rinorreia pioderma||disúria purulenta
+14310000||odinofagia purulenta||mialgias purulenta
+14310000||odinofagia purulenta||adenite purulenta
+14310000||odinofagia purulenta||hematemese purulenta
+14310000||odinofagia purulenta||disúria purulenta
+14310000||mialgias purulenta||adenite purulenta
+14310000||mialgias purulenta||hematemese purulenta
+14310000||mialgias purulenta||disúria purulenta
+14310000||adenite purulenta||hematemese purulenta
+14310000||adenite purulenta||disúria purulenta
+14310000||hematemese purulenta||disúria purulenta
+91175000||episódios convulsivos||convulsões
+91175000||episódios convulsivos||convulsão
+91175000||episódios convulsivos||episódio convulsivo
+91175000||convulsões||convulsão
+91175000||convulsões||episódio convulsivo
+91175000||convulsão||episódio convulsivo
+18265008||proptose de um ano de evolução em ambos os olhos||proptose ocular
+28998008||hemorragia macular||hemorragias da retina
+285384003||deterioração progressiva do estado geral||deterioração do seu estado geral
+285384003||deterioração progressiva do estado geral||deterioração do estado geral
+285384003||deterioração do seu estado geral||deterioração do estado geral
+309530007||imagem de 3 cm no hilo||massa hilar
+309530007||imagem de 3 cm no hilo||massa hipoplásica
+309530007||imagem de 3 cm no hilo||massa sacular
+309530007||imagem de 3 cm no hilo||massa vilosidade
+309530007||imagem de 3 cm no hilo||massa perianais
+309530007||imagem de 3 cm no hilo||massa esclerite
+309530007||massa hilar||massa hipoplásica
+309530007||massa hilar||massa sacular
+309530007||massa hilar||massa vilosidade
+309530007||massa hilar||massa perianais
+309530007||massa hilar||massa esclerite
+309530007||massa hipoplásica||massa sacular
+309530007||massa hipoplásica||massa vilosidade
+309530007||massa hipoplásica||massa perianais
+309530007||massa hipoplásica||massa esclerite
+309530007||massa sacular||massa vilosidade
+309530007||massa sacular||massa perianais
+309530007||massa sacular||massa esclerite
+309530007||massa vilosidade||massa perianais
+309530007||massa vilosidade||massa esclerite
+309530007||massa perianais||massa esclerite
+249939004||fraqueza muscular proximal||fraqueza muscular proximal nos braços e pernas
+249939004||fraqueza muscular proximal||fraqueza muscular distal
+249939004||fraqueza muscular proximal||fraqueza muscular distal nos braços e pernas
+249939004||fraqueza muscular proximal nos braços e pernas||fraqueza muscular distal
+249939004||fraqueza muscular proximal nos braços e pernas||fraqueza muscular distal nos braços e pernas
+249939004||fraqueza muscular distal||fraqueza muscular distal nos braços e pernas
+386689009||hipotermia sistémica||hipotermia
+445249002||imagens nodulares no lobo superior||imagens nodulares em ambos os campos pulmonares
+271782001||sonolento||sonolência
+713514005||fraqueza dos membros||fraqueza muscular nos quatro membros
+22994000||hiporreflexia generalizada||hiporreflexia
+24199005||agitado||agitação
+106150003||envolvimento do nervo alveolar inferior||nervos cranianos normais
+52613005||diaforese||diaforético
+52613005||diaforese||suado
+52613005||diaforético||suado
+11092001||taquicárdico||taquicardia
+11092001||taquicárdico||taquicardia sinusal
+11092001||taquicardia||taquicardia sinusal
+102614006||dor abdominal generalizada||dor abdominal difusa
+45007003||hipotenso||hipotensão
+45007003||hipotenso||hipotensão arterial
+45007003||hipotenso||ortostática
+45007003||hipotenso||ortostática arterial
+45007003||hipotensão||hipotensão arterial
+45007003||hipotensão||ortostática
+45007003||hipotensão||ortostática arterial
+45007003||hipotensão arterial||ortostática
+45007003||hipotensão arterial||ortostática arterial
+45007003||ortostática||ortostática arterial
+708118007||as culturas de sangue eram estéreis||cultura negativa
+708118007||as culturas de sangue eram estéreis||cultura positiva
+708118007||cultura negativa||cultura positiva
+300561007||estudos urológicos normais||rins e ureteres normais
+300561007||estudos urológicos normais||uretra bulbar normal
+300561007||estudos urológicos normais||estudos musculoesqueléticos normais
+300561007||estudos urológicos normais||estudos endovasculares normais
+300561007||estudos urológicos normais||estudos músculo-esqueléticos normais
+300561007||estudos urológicos normais||estudos ecografias normais
+300561007||estudos urológicos normais||estudos cardiológicos normais
+300561007||rins e ureteres normais||uretra bulbar normal
+300561007||rins e ureteres normais||estudos musculoesqueléticos normais
+300561007||rins e ureteres normais||estudos endovasculares normais
+300561007||rins e ureteres normais||estudos músculo-esqueléticos normais
+300561007||rins e ureteres normais||estudos ecografias normais
+300561007||rins e ureteres normais||estudos cardiológicos normais
+300561007||uretra bulbar normal||estudos musculoesqueléticos normais
+300561007||uretra bulbar normal||estudos endovasculares normais
+300561007||uretra bulbar normal||estudos músculo-esqueléticos normais
+300561007||uretra bulbar normal||estudos ecografias normais
+300561007||uretra bulbar normal||estudos cardiológicos normais
+300561007||estudos musculoesqueléticos normais||estudos endovasculares normais
+300561007||estudos musculoesqueléticos normais||estudos músculo-esqueléticos normais
+300561007||estudos musculoesqueléticos normais||estudos ecografias normais
+300561007||estudos musculoesqueléticos normais||estudos cardiológicos normais
+300561007||estudos endovasculares normais||estudos músculo-esqueléticos normais
+300561007||estudos endovasculares normais||estudos ecografias normais
+300561007||estudos endovasculares normais||estudos cardiológicos normais
+300561007||estudos músculo-esqueléticos normais||estudos ecografias normais
+300561007||estudos músculo-esqueléticos normais||estudos cardiológicos normais
+300561007||estudos ecografias normais||estudos cardiológicos normais
+74285003||massa pélvica anterior à bexiga||massa pélvica subvesical
+74285003||massa pélvica anterior à bexiga||massa pélvica à direita da bexiga
+74285003||massa pélvica anterior à bexiga||massa pélvica à esquerda da bexiga
+74285003||massa pélvica subvesical||massa pélvica à direita da bexiga
+74285003||massa pélvica subvesical||massa pélvica à esquerda da bexiga
+74285003||massa pélvica à direita da bexiga||massa pélvica à esquerda da bexiga
+75753009||coágulos||coágulo
+41652007||dor ocular ligeira||dor ocular bilateral
+409668002||fotofobia||fotofobia intensa
+248503005||córnea central predominantemente manchada com edema ligeiro||edema epitelial microcístico
+248503005||córnea central predominantemente manchada com edema ligeiro||edema epitélio microcístico
+248503005||edema epitelial microcístico||edema epitélio microcístico
+707724006||transaminases ligeiramente elevadas||aumento progressivo das transaminases
+707724006||transaminases ligeiramente elevadas||enzimas hepáticas elevadas
+707724006||transaminases ligeiramente elevadas||aumento das transaminases
+707724006||transaminases ligeiramente elevadas||transaminases elevadas
+707724006||transaminases ligeiramente elevadas||hipertransaminemia
+707724006||transaminases ligeiramente elevadas||plaquetárias ligeiramente elevadas
+707724006||transaminases ligeiramente elevadas||haptoglobina ligeiramente elevadas
+707724006||transaminases ligeiramente elevadas||aminotransferases ligeiramente elevadas
+707724006||transaminases ligeiramente elevadas||creatinofosfoquinase ligeiramente elevadas
+707724006||transaminases ligeiramente elevadas||tiroglobulina ligeiramente elevadas
+707724006||transaminases ligeiramente elevadas||aumento progressivo das plaquetárias
+707724006||transaminases ligeiramente elevadas||aumento progressivo das haptoglobina
+707724006||transaminases ligeiramente elevadas||aumento progressivo das aminotransferases
+707724006||transaminases ligeiramente elevadas||aumento progressivo das creatinofosfoquinase
+707724006||transaminases ligeiramente elevadas||aumento progressivo das tiroglobulina
+707724006||transaminases ligeiramente elevadas||aumento das plaquetárias
+707724006||transaminases ligeiramente elevadas||aumento das haptoglobina
+707724006||transaminases ligeiramente elevadas||aumento das aminotransferases
+707724006||transaminases ligeiramente elevadas||aumento das creatinofosfoquinase
+707724006||transaminases ligeiramente elevadas||aumento das tiroglobulina
+707724006||transaminases ligeiramente elevadas||plaquetárias elevadas
+707724006||transaminases ligeiramente elevadas||haptoglobina elevadas
+707724006||transaminases ligeiramente elevadas||aminotransferases elevadas
+707724006||transaminases ligeiramente elevadas||creatinofosfoquinase elevadas
+707724006||transaminases ligeiramente elevadas||tiroglobulina elevadas
+707724006||aumento progressivo das transaminases||enzimas hepáticas elevadas
+707724006||aumento progressivo das transaminases||aumento das transaminases
+707724006||aumento progressivo das transaminases||transaminases elevadas
+707724006||aumento progressivo das transaminases||hipertransaminemia
+707724006||aumento progressivo das transaminases||plaquetárias ligeiramente elevadas
+707724006||aumento progressivo das transaminases||haptoglobina ligeiramente elevadas
+707724006||aumento progressivo das transaminases||aminotransferases ligeiramente elevadas
+707724006||aumento progressivo das transaminases||creatinofosfoquinase ligeiramente elevadas
+707724006||aumento progressivo das transaminases||tiroglobulina ligeiramente elevadas
+707724006||aumento progressivo das transaminases||aumento progressivo das plaquetárias
+707724006||aumento progressivo das transaminases||aumento progressivo das haptoglobina
+707724006||aumento progressivo das transaminases||aumento progressivo das aminotransferases
+707724006||aumento progressivo das transaminases||aumento progressivo das creatinofosfoquinase
+707724006||aumento progressivo das transaminases||aumento progressivo das tiroglobulina
+707724006||aumento progressivo das transaminases||aumento das plaquetárias
+707724006||aumento progressivo das transaminases||aumento das haptoglobina
+707724006||aumento progressivo das transaminases||aumento das aminotransferases
+707724006||aumento progressivo das transaminases||aumento das creatinofosfoquinase
+707724006||aumento progressivo das transaminases||aumento das tiroglobulina
+707724006||aumento progressivo das transaminases||plaquetárias elevadas
+707724006||aumento progressivo das transaminases||haptoglobina elevadas
+707724006||aumento progressivo das transaminases||aminotransferases elevadas
+707724006||aumento progressivo das transaminases||creatinofosfoquinase elevadas
+707724006||aumento progressivo das transaminases||tiroglobulina elevadas
+707724006||enzimas hepáticas elevadas||aumento das transaminases
+707724006||enzimas hepáticas elevadas||transaminases elevadas
+707724006||enzimas hepáticas elevadas||hipertransaminemia
+707724006||enzimas hepáticas elevadas||plaquetárias ligeiramente elevadas
+707724006||enzimas hepáticas elevadas||haptoglobina ligeiramente elevadas
+707724006||enzimas hepáticas elevadas||aminotransferases ligeiramente elevadas
+707724006||enzimas hepáticas elevadas||creatinofosfoquinase ligeiramente elevadas
+707724006||enzimas hepáticas elevadas||tiroglobulina ligeiramente elevadas
+707724006||enzimas hepáticas elevadas||aumento progressivo das plaquetárias
+707724006||enzimas hepáticas elevadas||aumento progressivo das haptoglobina
+707724006||enzimas hepáticas elevadas||aumento progressivo das aminotransferases
+707724006||enzimas hepáticas elevadas||aumento progressivo das creatinofosfoquinase
+707724006||enzimas hepáticas elevadas||aumento progressivo das tiroglobulina
+707724006||enzimas hepáticas elevadas||aumento das plaquetárias
+707724006||enzimas hepáticas elevadas||aumento das haptoglobina
+707724006||enzimas hepáticas elevadas||aumento das aminotransferases
+707724006||enzimas hepáticas elevadas||aumento das creatinofosfoquinase
+707724006||enzimas hepáticas elevadas||aumento das tiroglobulina
+707724006||enzimas hepáticas elevadas||plaquetárias elevadas
+707724006||enzimas hepáticas elevadas||haptoglobina elevadas
+707724006||enzimas hepáticas elevadas||aminotransferases elevadas
+707724006||enzimas hepáticas elevadas||creatinofosfoquinase elevadas
+707724006||enzimas hepáticas elevadas||tiroglobulina elevadas
+707724006||aumento das transaminases||transaminases elevadas
+707724006||aumento das transaminases||hipertransaminemia
+707724006||aumento das transaminases||plaquetárias ligeiramente elevadas
+707724006||aumento das transaminases||haptoglobina ligeiramente elevadas
+707724006||aumento das transaminases||aminotransferases ligeiramente elevadas
+707724006||aumento das transaminases||creatinofosfoquinase ligeiramente elevadas
+707724006||aumento das transaminases||tiroglobulina ligeiramente elevadas
+707724006||aumento das transaminases||aumento progressivo das plaquetárias
+707724006||aumento das transaminases||aumento progressivo das haptoglobina
+707724006||aumento das transaminases||aumento progressivo das aminotransferases
+707724006||aumento das transaminases||aumento progressivo das creatinofosfoquinase
+707724006||aumento das transaminases||aumento progressivo das tiroglobulina
+707724006||aumento das transaminases||aumento das plaquetárias
+707724006||aumento das transaminases||aumento das haptoglobina
+707724006||aumento das transaminases||aumento das aminotransferases
+707724006||aumento das transaminases||aumento das creatinofosfoquinase
+707724006||aumento das transaminases||aumento das tiroglobulina
+707724006||aumento das transaminases||plaquetárias elevadas
+707724006||aumento das transaminases||haptoglobina elevadas
+707724006||aumento das transaminases||aminotransferases elevadas
+707724006||aumento das transaminases||creatinofosfoquinase elevadas
+707724006||aumento das transaminases||tiroglobulina elevadas
+707724006||transaminases elevadas||hipertransaminemia
+707724006||transaminases elevadas||plaquetárias ligeiramente elevadas
+707724006||transaminases elevadas||haptoglobina ligeiramente elevadas
+707724006||transaminases elevadas||aminotransferases ligeiramente elevadas
+707724006||transaminases elevadas||creatinofosfoquinase ligeiramente elevadas
+707724006||transaminases elevadas||tiroglobulina ligeiramente elevadas
+707724006||transaminases elevadas||aumento progressivo das plaquetárias
+707724006||transaminases elevadas||aumento progressivo das haptoglobina
+707724006||transaminases elevadas||aumento progressivo das aminotransferases
+707724006||transaminases elevadas||aumento progressivo das creatinofosfoquinase
+707724006||transaminases elevadas||aumento progressivo das tiroglobulina
+707724006||transaminases elevadas||aumento das plaquetárias
+707724006||transaminases elevadas||aumento das haptoglobina
+707724006||transaminases elevadas||aumento das aminotransferases
+707724006||transaminases elevadas||aumento das creatinofosfoquinase
+707724006||transaminases elevadas||aumento das tiroglobulina
+707724006||transaminases elevadas||plaquetárias elevadas
+707724006||transaminases elevadas||haptoglobina elevadas
+707724006||transaminases elevadas||aminotransferases elevadas
+707724006||transaminases elevadas||creatinofosfoquinase elevadas
+707724006||transaminases elevadas||tiroglobulina elevadas
+707724006||hipertransaminemia||plaquetárias ligeiramente elevadas
+707724006||hipertransaminemia||haptoglobina ligeiramente elevadas
+707724006||hipertransaminemia||aminotransferases ligeiramente elevadas
+707724006||hipertransaminemia||creatinofosfoquinase ligeiramente elevadas
+707724006||hipertransaminemia||tiroglobulina ligeiramente elevadas
+707724006||hipertransaminemia||aumento progressivo das plaquetárias
+707724006||hipertransaminemia||aumento progressivo das haptoglobina
+707724006||hipertransaminemia||aumento progressivo das aminotransferases
+707724006||hipertransaminemia||aumento progressivo das creatinofosfoquinase
+707724006||hipertransaminemia||aumento progressivo das tiroglobulina
+707724006||hipertransaminemia||aumento das plaquetárias
+707724006||hipertransaminemia||aumento das haptoglobina
+707724006||hipertransaminemia||aumento das aminotransferases
+707724006||hipertransaminemia||aumento das creatinofosfoquinase
+707724006||hipertransaminemia||aumento das tiroglobulina
+707724006||hipertransaminemia||plaquetárias elevadas
+707724006||hipertransaminemia||haptoglobina elevadas
+707724006||hipertransaminemia||aminotransferases elevadas
+707724006||hipertransaminemia||creatinofosfoquinase elevadas
+707724006||hipertransaminemia||tiroglobulina elevadas
+707724006||plaquetárias ligeiramente elevadas||haptoglobina ligeiramente elevadas
+707724006||plaquetárias ligeiramente elevadas||aminotransferases ligeiramente elevadas
+707724006||plaquetárias ligeiramente elevadas||creatinofosfoquinase ligeiramente elevadas
+707724006||plaquetárias ligeiramente elevadas||tiroglobulina ligeiramente elevadas
+707724006||plaquetárias ligeiramente elevadas||aumento progressivo das plaquetárias
+707724006||plaquetárias ligeiramente elevadas||aumento progressivo das haptoglobina
+707724006||plaquetárias ligeiramente elevadas||aumento progressivo das aminotransferases
+707724006||plaquetárias ligeiramente elevadas||aumento progressivo das creatinofosfoquinase
+707724006||plaquetárias ligeiramente elevadas||aumento progressivo das tiroglobulina
+707724006||plaquetárias ligeiramente elevadas||aumento das plaquetárias
+707724006||plaquetárias ligeiramente elevadas||aumento das haptoglobina
+707724006||plaquetárias ligeiramente elevadas||aumento das aminotransferases
+707724006||plaquetárias ligeiramente elevadas||aumento das creatinofosfoquinase
+707724006||plaquetárias ligeiramente elevadas||aumento das tiroglobulina
+707724006||plaquetárias ligeiramente elevadas||plaquetárias elevadas
+707724006||plaquetárias ligeiramente elevadas||haptoglobina elevadas
+707724006||plaquetárias ligeiramente elevadas||aminotransferases elevadas
+707724006||plaquetárias ligeiramente elevadas||creatinofosfoquinase elevadas
+707724006||plaquetárias ligeiramente elevadas||tiroglobulina elevadas
+707724006||haptoglobina ligeiramente elevadas||aminotransferases ligeiramente elevadas
+707724006||haptoglobina ligeiramente elevadas||creatinofosfoquinase ligeiramente elevadas
+707724006||haptoglobina ligeiramente elevadas||tiroglobulina ligeiramente elevadas
+707724006||haptoglobina ligeiramente elevadas||aumento progressivo das plaquetárias
+707724006||haptoglobina ligeiramente elevadas||aumento progressivo das haptoglobina
+707724006||haptoglobina ligeiramente elevadas||aumento progressivo das aminotransferases
+707724006||haptoglobina ligeiramente elevadas||aumento progressivo das creatinofosfoquinase
+707724006||haptoglobina ligeiramente elevadas||aumento progressivo das tiroglobulina
+707724006||haptoglobina ligeiramente elevadas||aumento das plaquetárias
+707724006||haptoglobina ligeiramente elevadas||aumento das haptoglobina
+707724006||haptoglobina ligeiramente elevadas||aumento das aminotransferases
+707724006||haptoglobina ligeiramente elevadas||aumento das creatinofosfoquinase
+707724006||haptoglobina ligeiramente elevadas||aumento das tiroglobulina
+707724006||haptoglobina ligeiramente elevadas||plaquetárias elevadas
+707724006||haptoglobina ligeiramente elevadas||haptoglobina elevadas
+707724006||haptoglobina ligeiramente elevadas||aminotransferases elevadas
+707724006||haptoglobina ligeiramente elevadas||creatinofosfoquinase elevadas
+707724006||haptoglobina ligeiramente elevadas||tiroglobulina elevadas
+707724006||aminotransferases ligeiramente elevadas||creatinofosfoquinase ligeiramente elevadas
+707724006||aminotransferases ligeiramente elevadas||tiroglobulina ligeiramente elevadas
+707724006||aminotransferases ligeiramente elevadas||aumento progressivo das plaquetárias
+707724006||aminotransferases ligeiramente elevadas||aumento progressivo das haptoglobina
+707724006||aminotransferases ligeiramente elevadas||aumento progressivo das aminotransferases
+707724006||aminotransferases ligeiramente elevadas||aumento progressivo das creatinofosfoquinase
+707724006||aminotransferases ligeiramente elevadas||aumento progressivo das tiroglobulina
+707724006||aminotransferases ligeiramente elevadas||aumento das plaquetárias
+707724006||aminotransferases ligeiramente elevadas||aumento das haptoglobina
+707724006||aminotransferases ligeiramente elevadas||aumento das aminotransferases
+707724006||aminotransferases ligeiramente elevadas||aumento das creatinofosfoquinase
+707724006||aminotransferases ligeiramente elevadas||aumento das tiroglobulina
+707724006||aminotransferases ligeiramente elevadas||plaquetárias elevadas
+707724006||aminotransferases ligeiramente elevadas||haptoglobina elevadas
+707724006||aminotransferases ligeiramente elevadas||aminotransferases elevadas
+707724006||aminotransferases ligeiramente elevadas||creatinofosfoquinase elevadas
+707724006||aminotransferases ligeiramente elevadas||tiroglobulina elevadas
+707724006||creatinofosfoquinase ligeiramente elevadas||tiroglobulina ligeiramente elevadas
+707724006||creatinofosfoquinase ligeiramente elevadas||aumento progressivo das plaquetárias
+707724006||creatinofosfoquinase ligeiramente elevadas||aumento progressivo das haptoglobina
+707724006||creatinofosfoquinase ligeiramente elevadas||aumento progressivo das aminotransferases
+707724006||creatinofosfoquinase ligeiramente elevadas||aumento progressivo das creatinofosfoquinase
+707724006||creatinofosfoquinase ligeiramente elevadas||aumento progressivo das tiroglobulina
+707724006||creatinofosfoquinase ligeiramente elevadas||aumento das plaquetárias
+707724006||creatinofosfoquinase ligeiramente elevadas||aumento das haptoglobina
+707724006||creatinofosfoquinase ligeiramente elevadas||aumento das aminotransferases
+707724006||creatinofosfoquinase ligeiramente elevadas||aumento das creatinofosfoquinase
+707724006||creatinofosfoquinase ligeiramente elevadas||aumento das tiroglobulina
+707724006||creatinofosfoquinase ligeiramente elevadas||plaquetárias elevadas
+707724006||creatinofosfoquinase ligeiramente elevadas||haptoglobina elevadas
+707724006||creatinofosfoquinase ligeiramente elevadas||aminotransferases elevadas
+707724006||creatinofosfoquinase ligeiramente elevadas||creatinofosfoquinase elevadas
+707724006||creatinofosfoquinase ligeiramente elevadas||tiroglobulina elevadas
+707724006||tiroglobulina ligeiramente elevadas||aumento progressivo das plaquetárias
+707724006||tiroglobulina ligeiramente elevadas||aumento progressivo das haptoglobina
+707724006||tiroglobulina ligeiramente elevadas||aumento progressivo das aminotransferases
+707724006||tiroglobulina ligeiramente elevadas||aumento progressivo das creatinofosfoquinase
+707724006||tiroglobulina ligeiramente elevadas||aumento progressivo das tiroglobulina
+707724006||tiroglobulina ligeiramente elevadas||aumento das plaquetárias
+707724006||tiroglobulina ligeiramente elevadas||aumento das haptoglobina
+707724006||tiroglobulina ligeiramente elevadas||aumento das aminotransferases
+707724006||tiroglobulina ligeiramente elevadas||aumento das creatinofosfoquinase
+707724006||tiroglobulina ligeiramente elevadas||aumento das tiroglobulina
+707724006||tiroglobulina ligeiramente elevadas||plaquetárias elevadas
+707724006||tiroglobulina ligeiramente elevadas||haptoglobina elevadas
+707724006||tiroglobulina ligeiramente elevadas||aminotransferases elevadas
+707724006||tiroglobulina ligeiramente elevadas||creatinofosfoquinase elevadas
+707724006||tiroglobulina ligeiramente elevadas||tiroglobulina elevadas
+707724006||aumento progressivo das plaquetárias||aumento progressivo das haptoglobina
+707724006||aumento progressivo das plaquetárias||aumento progressivo das aminotransferases
+707724006||aumento progressivo das plaquetárias||aumento progressivo das creatinofosfoquinase
+707724006||aumento progressivo das plaquetárias||aumento progressivo das tiroglobulina
+707724006||aumento progressivo das plaquetárias||aumento das plaquetárias
+707724006||aumento progressivo das plaquetárias||aumento das haptoglobina
+707724006||aumento progressivo das plaquetárias||aumento das aminotransferases
+707724006||aumento progressivo das plaquetárias||aumento das creatinofosfoquinase
+707724006||aumento progressivo das plaquetárias||aumento das tiroglobulina
+707724006||aumento progressivo das plaquetárias||plaquetárias elevadas
+707724006||aumento progressivo das plaquetárias||haptoglobina elevadas
+707724006||aumento progressivo das plaquetárias||aminotransferases elevadas
+707724006||aumento progressivo das plaquetárias||creatinofosfoquinase elevadas
+707724006||aumento progressivo das plaquetárias||tiroglobulina elevadas
+707724006||aumento progressivo das haptoglobina||aumento progressivo das aminotransferases
+707724006||aumento progressivo das haptoglobina||aumento progressivo das creatinofosfoquinase
+707724006||aumento progressivo das haptoglobina||aumento progressivo das tiroglobulina
+707724006||aumento progressivo das haptoglobina||aumento das plaquetárias
+707724006||aumento progressivo das haptoglobina||aumento das haptoglobina
+707724006||aumento progressivo das haptoglobina||aumento das aminotransferases
+707724006||aumento progressivo das haptoglobina||aumento das creatinofosfoquinase
+707724006||aumento progressivo das haptoglobina||aumento das tiroglobulina
+707724006||aumento progressivo das haptoglobina||plaquetárias elevadas
+707724006||aumento progressivo das haptoglobina||haptoglobina elevadas
+707724006||aumento progressivo das haptoglobina||aminotransferases elevadas
+707724006||aumento progressivo das haptoglobina||creatinofosfoquinase elevadas
+707724006||aumento progressivo das haptoglobina||tiroglobulina elevadas
+707724006||aumento progressivo das aminotransferases||aumento progressivo das creatinofosfoquinase
+707724006||aumento progressivo das aminotransferases||aumento progressivo das tiroglobulina
+707724006||aumento progressivo das aminotransferases||aumento das plaquetárias
+707724006||aumento progressivo das aminotransferases||aumento das haptoglobina
+707724006||aumento progressivo das aminotransferases||aumento das aminotransferases
+707724006||aumento progressivo das aminotransferases||aumento das creatinofosfoquinase
+707724006||aumento progressivo das aminotransferases||aumento das tiroglobulina
+707724006||aumento progressivo das aminotransferases||plaquetárias elevadas
+707724006||aumento progressivo das aminotransferases||haptoglobina elevadas
+707724006||aumento progressivo das aminotransferases||aminotransferases elevadas
+707724006||aumento progressivo das aminotransferases||creatinofosfoquinase elevadas
+707724006||aumento progressivo das aminotransferases||tiroglobulina elevadas
+707724006||aumento progressivo das creatinofosfoquinase||aumento progressivo das tiroglobulina
+707724006||aumento progressivo das creatinofosfoquinase||aumento das plaquetárias
+707724006||aumento progressivo das creatinofosfoquinase||aumento das haptoglobina
+707724006||aumento progressivo das creatinofosfoquinase||aumento das aminotransferases
+707724006||aumento progressivo das creatinofosfoquinase||aumento das creatinofosfoquinase
+707724006||aumento progressivo das creatinofosfoquinase||aumento das tiroglobulina
+707724006||aumento progressivo das creatinofosfoquinase||plaquetárias elevadas
+707724006||aumento progressivo das creatinofosfoquinase||haptoglobina elevadas
+707724006||aumento progressivo das creatinofosfoquinase||aminotransferases elevadas
+707724006||aumento progressivo das creatinofosfoquinase||creatinofosfoquinase elevadas
+707724006||aumento progressivo das creatinofosfoquinase||tiroglobulina elevadas
+707724006||aumento progressivo das tiroglobulina||aumento das plaquetárias
+707724006||aumento progressivo das tiroglobulina||aumento das haptoglobina
+707724006||aumento progressivo das tiroglobulina||aumento das aminotransferases
+707724006||aumento progressivo das tiroglobulina||aumento das creatinofosfoquinase
+707724006||aumento progressivo das tiroglobulina||aumento das tiroglobulina
+707724006||aumento progressivo das tiroglobulina||plaquetárias elevadas
+707724006||aumento progressivo das tiroglobulina||haptoglobina elevadas
+707724006||aumento progressivo das tiroglobulina||aminotransferases elevadas
+707724006||aumento progressivo das tiroglobulina||creatinofosfoquinase elevadas
+707724006||aumento progressivo das tiroglobulina||tiroglobulina elevadas
+707724006||aumento das plaquetárias||aumento das haptoglobina
+707724006||aumento das plaquetárias||aumento das aminotransferases
+707724006||aumento das plaquetárias||aumento das creatinofosfoquinase
+707724006||aumento das plaquetárias||aumento das tiroglobulina
+707724006||aumento das plaquetárias||plaquetárias elevadas
+707724006||aumento das plaquetárias||haptoglobina elevadas
+707724006||aumento das plaquetárias||aminotransferases elevadas
+707724006||aumento das plaquetárias||creatinofosfoquinase elevadas
+707724006||aumento das plaquetárias||tiroglobulina elevadas
+707724006||aumento das haptoglobina||aumento das aminotransferases
+707724006||aumento das haptoglobina||aumento das creatinofosfoquinase
+707724006||aumento das haptoglobina||aumento das tiroglobulina
+707724006||aumento das haptoglobina||plaquetárias elevadas
+707724006||aumento das haptoglobina||haptoglobina elevadas
+707724006||aumento das haptoglobina||aminotransferases elevadas
+707724006||aumento das haptoglobina||creatinofosfoquinase elevadas
+707724006||aumento das haptoglobina||tiroglobulina elevadas
+707724006||aumento das aminotransferases||aumento das creatinofosfoquinase
+707724006||aumento das aminotransferases||aumento das tiroglobulina
+707724006||aumento das aminotransferases||plaquetárias elevadas
+707724006||aumento das aminotransferases||haptoglobina elevadas
+707724006||aumento das aminotransferases||aminotransferases elevadas
+707724006||aumento das aminotransferases||creatinofosfoquinase elevadas
+707724006||aumento das aminotransferases||tiroglobulina elevadas
+707724006||aumento das creatinofosfoquinase||aumento das tiroglobulina
+707724006||aumento das creatinofosfoquinase||plaquetárias elevadas
+707724006||aumento das creatinofosfoquinase||haptoglobina elevadas
+707724006||aumento das creatinofosfoquinase||aminotransferases elevadas
+707724006||aumento das creatinofosfoquinase||creatinofosfoquinase elevadas
+707724006||aumento das creatinofosfoquinase||tiroglobulina elevadas
+707724006||aumento das tiroglobulina||plaquetárias elevadas
+707724006||aumento das tiroglobulina||haptoglobina elevadas
+707724006||aumento das tiroglobulina||aminotransferases elevadas
+707724006||aumento das tiroglobulina||creatinofosfoquinase elevadas
+707724006||aumento das tiroglobulina||tiroglobulina elevadas
+707724006||plaquetárias elevadas||haptoglobina elevadas
+707724006||plaquetárias elevadas||aminotransferases elevadas
+707724006||plaquetárias elevadas||creatinofosfoquinase elevadas
+707724006||plaquetárias elevadas||tiroglobulina elevadas
+707724006||haptoglobina elevadas||aminotransferases elevadas
+707724006||haptoglobina elevadas||creatinofosfoquinase elevadas
+707724006||haptoglobina elevadas||tiroglobulina elevadas
+707724006||aminotransferases elevadas||creatinofosfoquinase elevadas
+707724006||aminotransferases elevadas||tiroglobulina elevadas
+707724006||creatinofosfoquinase elevadas||tiroglobulina elevadas
+70819003||pele avermelhada||vermelhidão
+70819003||pele avermelhada||pele amarelada
+70819003||vermelhidão||pele amarelada
+111512005||sinéquias posteriores||sinéquia posterior
+75229002||hifema que ocupa metade da câmara anterior||hifema
+32566006||dismetria||dismetria nos quatro membros
+32566006||dismetria||dismetria nos cinco membros
+32566006||dismetria||dismetria nos três membros
+32566006||dismetria||dismetria nos seis membros
+32566006||dismetria||dismetria nos oito membros
+32566006||dismetria nos quatro membros||dismetria nos cinco membros
+32566006||dismetria nos quatro membros||dismetria nos três membros
+32566006||dismetria nos quatro membros||dismetria nos seis membros
+32566006||dismetria nos quatro membros||dismetria nos oito membros
+32566006||dismetria nos cinco membros||dismetria nos três membros
+32566006||dismetria nos cinco membros||dismetria nos seis membros
+32566006||dismetria nos cinco membros||dismetria nos oito membros
+32566006||dismetria nos três membros||dismetria nos seis membros
+32566006||dismetria nos três membros||dismetria nos oito membros
+32566006||dismetria nos seis membros||dismetria nos oito membros
+301855007||nós negativos||gânglios linfáticos
+440299000||massa retroesofágica||massa extrínseca retrocardíaca
+39575007||colúria||urina escura
+39575007||colúria||xerose
+39575007||colúria||paniculite
+39575007||colúria||epífora
+39575007||colúria||dermatopatia
+39575007||colúria||hematêmese
+39575007||urina escura||xerose
+39575007||urina escura||paniculite
+39575007||urina escura||epífora
+39575007||urina escura||dermatopatia
+39575007||urina escura||hematêmese
+39575007||xerose||paniculite
+39575007||xerose||epífora
+39575007||xerose||dermatopatia
+39575007||xerose||hematêmese
+39575007||paniculite||epífora
+39575007||paniculite||dermatopatia
+39575007||paniculite||hematêmese
+39575007||epífora||dermatopatia
+39575007||epífora||hematêmese
+39575007||dermatopatia||hematêmese
+165232002||incontinência urinária||incontinência ligeira a moderada
+102568007||diminuição da força em ambos os membros inferiores||fraqueza dos membros inferiores
+301151001||pulsos distais presentes||os pulsos distais foram preservados
+9957009||descarga purulenta transuretral||descarga purulenta através do meato uretral
+9957009||descarga purulenta transuretral||descarga linfangite transuretral
+9957009||descarga purulenta transuretral||descarga pioderma transuretral
+9957009||descarga purulenta transuretral||descarga purulenta rtup
+9957009||descarga purulenta transuretral||descarga purulenta adenoidectomia
+9957009||descarga purulenta transuretral||descarga purulenta mediastinoscopia
+9957009||descarga purulenta transuretral||descarga purulenta colangiografia
+9957009||descarga purulenta transuretral||descarga purulenta cpre
+9957009||descarga purulenta transuretral||descarga linfangite através do meato uretral
+9957009||descarga purulenta transuretral||descarga pioderma através do meato uretral
+9957009||descarga purulenta através do meato uretral||descarga linfangite transuretral
+9957009||descarga purulenta através do meato uretral||descarga pioderma transuretral
+9957009||descarga purulenta através do meato uretral||descarga purulenta rtup
+9957009||descarga purulenta através do meato uretral||descarga purulenta adenoidectomia
+9957009||descarga purulenta através do meato uretral||descarga purulenta mediastinoscopia
+9957009||descarga purulenta através do meato uretral||descarga purulenta colangiografia
+9957009||descarga purulenta através do meato uretral||descarga purulenta cpre
+9957009||descarga purulenta através do meato uretral||descarga linfangite através do meato uretral
+9957009||descarga purulenta através do meato uretral||descarga pioderma através do meato uretral
+9957009||descarga linfangite transuretral||descarga pioderma transuretral
+9957009||descarga linfangite transuretral||descarga purulenta rtup
+9957009||descarga linfangite transuretral||descarga purulenta adenoidectomia
+9957009||descarga linfangite transuretral||descarga purulenta mediastinoscopia
+9957009||descarga linfangite transuretral||descarga purulenta colangiografia
+9957009||descarga linfangite transuretral||descarga purulenta cpre
+9957009||descarga linfangite transuretral||descarga linfangite através do meato uretral
+9957009||descarga linfangite transuretral||descarga pioderma através do meato uretral
+9957009||descarga pioderma transuretral||descarga purulenta rtup
+9957009||descarga pioderma transuretral||descarga purulenta adenoidectomia
+9957009||descarga pioderma transuretral||descarga purulenta mediastinoscopia
+9957009||descarga pioderma transuretral||descarga purulenta colangiografia
+9957009||descarga pioderma transuretral||descarga purulenta cpre
+9957009||descarga pioderma transuretral||descarga linfangite através do meato uretral
+9957009||descarga pioderma transuretral||descarga pioderma através do meato uretral
+9957009||descarga purulenta rtup||descarga purulenta adenoidectomia
+9957009||descarga purulenta rtup||descarga purulenta mediastinoscopia
+9957009||descarga purulenta rtup||descarga purulenta colangiografia
+9957009||descarga purulenta rtup||descarga purulenta cpre
+9957009||descarga purulenta rtup||descarga linfangite através do meato uretral
+9957009||descarga purulenta rtup||descarga pioderma através do meato uretral
+9957009||descarga purulenta adenoidectomia||descarga purulenta mediastinoscopia
+9957009||descarga purulenta adenoidectomia||descarga purulenta colangiografia
+9957009||descarga purulenta adenoidectomia||descarga purulenta cpre
+9957009||descarga purulenta adenoidectomia||descarga linfangite através do meato uretral
+9957009||descarga purulenta adenoidectomia||descarga pioderma através do meato uretral
+9957009||descarga purulenta mediastinoscopia||descarga purulenta colangiografia
+9957009||descarga purulenta mediastinoscopia||descarga purulenta cpre
+9957009||descarga purulenta mediastinoscopia||descarga linfangite através do meato uretral
+9957009||descarga purulenta mediastinoscopia||descarga pioderma através do meato uretral
+9957009||descarga purulenta colangiografia||descarga purulenta cpre
+9957009||descarga purulenta colangiografia||descarga linfangite através do meato uretral
+9957009||descarga purulenta colangiografia||descarga pioderma através do meato uretral
+9957009||descarga purulenta cpre||descarga linfangite através do meato uretral
+9957009||descarga purulenta cpre||descarga pioderma através do meato uretral
+9957009||descarga linfangite através do meato uretral||descarga pioderma através do meato uretral
+301367001||dor abdominal predominantemente no hipocôndrio direito||dor abdominal no hipocôndrio direito
+301367001||dor abdominal predominantemente no hipocôndrio direito||dor no hipocôndrio direito
+301367001||dor abdominal predominantemente no hipocôndrio direito||dor abdominal predominantemente no epigástrio direito
+301367001||dor abdominal predominantemente no hipocôndrio direito||dor abdominal no epigástrio direito
+301367001||dor abdominal predominantemente no hipocôndrio direito||dor no epigástrio direito
+301367001||dor abdominal no hipocôndrio direito||dor no hipocôndrio direito
+301367001||dor abdominal no hipocôndrio direito||dor abdominal predominantemente no epigástrio direito
+301367001||dor abdominal no hipocôndrio direito||dor abdominal no epigástrio direito
+301367001||dor abdominal no hipocôndrio direito||dor no epigástrio direito
+301367001||dor no hipocôndrio direito||dor abdominal predominantemente no epigástrio direito
+301367001||dor no hipocôndrio direito||dor abdominal no epigástrio direito
+301367001||dor no hipocôndrio direito||dor no epigástrio direito
+301367001||dor abdominal predominantemente no epigástrio direito||dor abdominal no epigástrio direito
+301367001||dor abdominal predominantemente no epigástrio direito||dor no epigástrio direito
+301367001||dor abdominal no epigástrio direito||dor no epigástrio direito
+60728008||o abdómen era globular||distensão abdominal
+409609008||infiltrado alveolar-intersticial bilateral||infiltrado alveolar basal
+369757002||massa sólida||massa sólida com áreas hemorrágicas
+79922009||dor epigástrica||epigastralgia
+79922009||dor epigástrica||dor epigástrico
+79922009||epigastralgia||dor epigástrico
+11934000||ptose||ptose total
+37125009||midríase||midríase reactiva
+37125009||midríase||miose
+37125009||midríase||cicloplegia
+37125009||midríase||dispnéia
+37125009||midríase||diplopia
+37125009||midríase||lacrimejamento
+37125009||midríase||miose reactiva
+37125009||midríase||cicloplegia reactiva
+37125009||midríase||dispnéia reactiva
+37125009||midríase||diplopia reactiva
+37125009||midríase||lacrimejamento reactiva
+37125009||midríase reactiva||miose
+37125009||midríase reactiva||cicloplegia
+37125009||midríase reactiva||dispnéia
+37125009||midríase reactiva||diplopia
+37125009||midríase reactiva||lacrimejamento
+37125009||midríase reactiva||miose reactiva
+37125009||midríase reactiva||cicloplegia reactiva
+37125009||midríase reactiva||dispnéia reactiva
+37125009||midríase reactiva||diplopia reactiva
+37125009||midríase reactiva||lacrimejamento reactiva
+37125009||miose||cicloplegia
+37125009||miose||dispnéia
+37125009||miose||diplopia
+37125009||miose||lacrimejamento
+37125009||miose||miose reactiva
+37125009||miose||cicloplegia reactiva
+37125009||miose||dispnéia reactiva
+37125009||miose||diplopia reactiva
+37125009||miose||lacrimejamento reactiva
+37125009||cicloplegia||dispnéia
+37125009||cicloplegia||diplopia
+37125009||cicloplegia||lacrimejamento
+37125009||cicloplegia||miose reactiva
+37125009||cicloplegia||cicloplegia reactiva
+37125009||cicloplegia||dispnéia reactiva
+37125009||cicloplegia||diplopia reactiva
+37125009||cicloplegia||lacrimejamento reactiva
+37125009||dispnéia||diplopia
+37125009||dispnéia||lacrimejamento
+37125009||dispnéia||miose reactiva
+37125009||dispnéia||cicloplegia reactiva
+37125009||dispnéia||dispnéia reactiva
+37125009||dispnéia||diplopia reactiva
+37125009||dispnéia||lacrimejamento reactiva
+37125009||diplopia||lacrimejamento
+37125009||diplopia||miose reactiva
+37125009||diplopia||cicloplegia reactiva
+37125009||diplopia||dispnéia reactiva
+37125009||diplopia||diplopia reactiva
+37125009||diplopia||lacrimejamento reactiva
+37125009||lacrimejamento||miose reactiva
+37125009||lacrimejamento||cicloplegia reactiva
+37125009||lacrimejamento||dispnéia reactiva
+37125009||lacrimejamento||diplopia reactiva
+37125009||lacrimejamento||lacrimejamento reactiva
+37125009||miose reactiva||cicloplegia reactiva
+37125009||miose reactiva||dispnéia reactiva
+37125009||miose reactiva||diplopia reactiva
+37125009||miose reactiva||lacrimejamento reactiva
+37125009||cicloplegia reactiva||dispnéia reactiva
+37125009||cicloplegia reactiva||diplopia reactiva
+37125009||cicloplegia reactiva||lacrimejamento reactiva
+37125009||dispnéia reactiva||diplopia reactiva
+37125009||dispnéia reactiva||lacrimejamento reactiva
+37125009||diplopia reactiva||lacrimejamento reactiva
+35013009||material purulento||descarga purulenta
+35013009||material purulento||material seroso
+35013009||material purulento||material exsudado
+35013009||material purulento||material supuração
+35013009||material purulento||material pneumomediastino
+35013009||material purulento||material mucinoso
+35013009||material purulento||descarga linfangite
+35013009||material purulento||descarga pioderma
+35013009||descarga purulenta||material seroso
+35013009||descarga purulenta||material exsudado
+35013009||descarga purulenta||material supuração
+35013009||descarga purulenta||material pneumomediastino
+35013009||descarga purulenta||material mucinoso
+35013009||descarga purulenta||descarga linfangite
+35013009||descarga purulenta||descarga pioderma
+35013009||material seroso||material exsudado
+35013009||material seroso||material supuração
+35013009||material seroso||material pneumomediastino
+35013009||material seroso||material mucinoso
+35013009||material seroso||descarga linfangite
+35013009||material seroso||descarga pioderma
+35013009||material exsudado||material supuração
+35013009||material exsudado||material pneumomediastino
+35013009||material exsudado||material mucinoso
+35013009||material exsudado||descarga linfangite
+35013009||material exsudado||descarga pioderma
+35013009||material supuração||material pneumomediastino
+35013009||material supuração||material mucinoso
+35013009||material supuração||descarga linfangite
+35013009||material supuração||descarga pioderma
+35013009||material pneumomediastino||material mucinoso
+35013009||material pneumomediastino||descarga linfangite
+35013009||material pneumomediastino||descarga pioderma
+35013009||material mucinoso||descarga linfangite
+35013009||material mucinoso||descarga pioderma
+35013009||descarga linfangite||descarga pioderma
+249250005||respeitou a glande||glande, bem como uma sensação de anestesia local
+95255005||hipotonia ocular||hipotonia extrema do globo ocular
+95255005||hipotonia ocular||disartria ocular
+95255005||hipotonia ocular||disartria extrema do globo ocular
+95255005||hipotonia extrema do globo ocular||disartria ocular
+95255005||hipotonia extrema do globo ocular||disartria extrema do globo ocular
+95255005||disartria ocular||disartria extrema do globo ocular
+423341008||papiledema||edema papilar
+423341008||papiledema||mialgias
+423341008||papiledema||esclerite
+423341008||papiledema||hiper-reflexia
+423341008||papiledema||alodinia
+423341008||papiledema||meningismo
+423341008||papiledema||edema endocárdio
+423341008||papiledema||edema epidermoide
+423341008||papiledema||edema intraductal
+423341008||papiledema||edema meníngeo
+423341008||papiledema||edema linfangioma
+423341008||edema papilar||mialgias
+423341008||edema papilar||esclerite
+423341008||edema papilar||hiper-reflexia
+423341008||edema papilar||alodinia
+423341008||edema papilar||meningismo
+423341008||edema papilar||edema endocárdio
+423341008||edema papilar||edema epidermoide
+423341008||edema papilar||edema intraductal
+423341008||edema papilar||edema meníngeo
+423341008||edema papilar||edema linfangioma
+423341008||mialgias||esclerite
+423341008||mialgias||hiper-reflexia
+423341008||mialgias||alodinia
+423341008||mialgias||meningismo
+423341008||mialgias||edema endocárdio
+423341008||mialgias||edema epidermoide
+423341008||mialgias||edema intraductal
+423341008||mialgias||edema meníngeo
+423341008||mialgias||edema linfangioma
+423341008||esclerite||hiper-reflexia
+423341008||esclerite||alodinia
+423341008||esclerite||meningismo
+423341008||esclerite||edema endocárdio
+423341008||esclerite||edema epidermoide
+423341008||esclerite||edema intraductal
+423341008||esclerite||edema meníngeo
+423341008||esclerite||edema linfangioma
+423341008||hiper-reflexia||alodinia
+423341008||hiper-reflexia||meningismo
+423341008||hiper-reflexia||edema endocárdio
+423341008||hiper-reflexia||edema epidermoide
+423341008||hiper-reflexia||edema intraductal
+423341008||hiper-reflexia||edema meníngeo
+423341008||hiper-reflexia||edema linfangioma
+423341008||alodinia||meningismo
+423341008||alodinia||edema endocárdio
+423341008||alodinia||edema epidermoide
+423341008||alodinia||edema intraductal
+423341008||alodinia||edema meníngeo
+423341008||alodinia||edema linfangioma
+423341008||meningismo||edema endocárdio
+423341008||meningismo||edema epidermoide
+423341008||meningismo||edema intraductal
+423341008||meningismo||edema meníngeo
+423341008||meningismo||edema linfangioma
+423341008||edema endocárdio||edema epidermoide
+423341008||edema endocárdio||edema intraductal
+423341008||edema endocárdio||edema meníngeo
+423341008||edema endocárdio||edema linfangioma
+423341008||edema epidermoide||edema intraductal
+423341008||edema epidermoide||edema meníngeo
+423341008||edema epidermoide||edema linfangioma
+423341008||edema intraductal||edema meníngeo
+423341008||edema intraductal||edema linfangioma
+423341008||edema meníngeo||edema linfangioma
+64730000||ritmo sinusal normal||a auscultação cardíaca era rítmica
+64379006||diminuição da ingestão||menos apetite
+431468008||colapso do terceiro ventrículo||colapso ventricular
+431468008||colapso do terceiro ventrículo||colapso do quarto ventrículo
+431468008||colapso do terceiro ventrículo||colapso do quinto ventrículo
+431468008||colapso ventricular||colapso do quarto ventrículo
+431468008||colapso ventricular||colapso do quinto ventrículo
+431468008||colapso do quarto ventrículo||colapso do quinto ventrículo
+67307004||circulação colateral||circulação colateral abdominal anormal
+155876003||anulação renal||anulação funcional da unidade renal
+57534004||difusão dos vasos da retina||distorção dos vasos da retina
+300449001||ureter normal||indemnização do ureter distal
+300449001||ureter normal||indemnização do ureter proximal
+300449001||indemnização do ureter distal||indemnização do ureter proximal
+15930381000119104||edema de ambos os discos ópticos||papiledema bilateral
+15930381000119104||edema de ambos os discos ópticos||mialgias bilateral
+15930381000119104||edema de ambos os discos ópticos||esclerite bilateral
+15930381000119104||edema de ambos os discos ópticos||hiper-reflexia bilateral
+15930381000119104||edema de ambos os discos ópticos||alodinia bilateral
+15930381000119104||edema de ambos os discos ópticos||meningismo bilateral
+15930381000119104||papiledema bilateral||mialgias bilateral
+15930381000119104||papiledema bilateral||esclerite bilateral
+15930381000119104||papiledema bilateral||hiper-reflexia bilateral
+15930381000119104||papiledema bilateral||alodinia bilateral
+15930381000119104||papiledema bilateral||meningismo bilateral
+15930381000119104||mialgias bilateral||esclerite bilateral
+15930381000119104||mialgias bilateral||hiper-reflexia bilateral
+15930381000119104||mialgias bilateral||alodinia bilateral
+15930381000119104||mialgias bilateral||meningismo bilateral
+15930381000119104||esclerite bilateral||hiper-reflexia bilateral
+15930381000119104||esclerite bilateral||alodinia bilateral
+15930381000119104||esclerite bilateral||meningismo bilateral
+15930381000119104||hiper-reflexia bilateral||alodinia bilateral
+15930381000119104||hiper-reflexia bilateral||meningismo bilateral
+15930381000119104||alodinia bilateral||meningismo bilateral
+30098003||hiperemia||hiperemia grave
+30098003||hiperemia||epífora
+30098003||hiperemia||tumefacção
+30098003||hiperemia||retroesternal
+30098003||hiperemia||odinofagia
+30098003||hiperemia||epistaxe
+30098003||hiperemia||epífora grave
+30098003||hiperemia||tumefacção grave
+30098003||hiperemia||retroesternal grave
+30098003||hiperemia||odinofagia grave
+30098003||hiperemia||epistaxe grave
+30098003||hiperemia grave||epífora
+30098003||hiperemia grave||tumefacção
+30098003||hiperemia grave||retroesternal
+30098003||hiperemia grave||odinofagia
+30098003||hiperemia grave||epistaxe
+30098003||hiperemia grave||epífora grave
+30098003||hiperemia grave||tumefacção grave
+30098003||hiperemia grave||retroesternal grave
+30098003||hiperemia grave||odinofagia grave
+30098003||hiperemia grave||epistaxe grave
+30098003||epífora||tumefacção
+30098003||epífora||retroesternal
+30098003||epífora||odinofagia
+30098003||epífora||epistaxe
+30098003||epífora||epífora grave
+30098003||epífora||tumefacção grave
+30098003||epífora||retroesternal grave
+30098003||epífora||odinofagia grave
+30098003||epífora||epistaxe grave
+30098003||tumefacção||retroesternal
+30098003||tumefacção||odinofagia
+30098003||tumefacção||epistaxe
+30098003||tumefacção||epífora grave
+30098003||tumefacção||tumefacção grave
+30098003||tumefacção||retroesternal grave
+30098003||tumefacção||odinofagia grave
+30098003||tumefacção||epistaxe grave
+30098003||retroesternal||odinofagia
+30098003||retroesternal||epistaxe
+30098003||retroesternal||epífora grave
+30098003||retroesternal||tumefacção grave
+30098003||retroesternal||retroesternal grave
+30098003||retroesternal||odinofagia grave
+30098003||retroesternal||epistaxe grave
+30098003||odinofagia||epistaxe
+30098003||odinofagia||epífora grave
+30098003||odinofagia||tumefacção grave
+30098003||odinofagia||retroesternal grave
+30098003||odinofagia||odinofagia grave
+30098003||odinofagia||epistaxe grave
+30098003||epistaxe||epífora grave
+30098003||epistaxe||tumefacção grave
+30098003||epistaxe||retroesternal grave
+30098003||epistaxe||odinofagia grave
+30098003||epistaxe||epistaxe grave
+30098003||epífora grave||tumefacção grave
+30098003||epífora grave||retroesternal grave
+30098003||epífora grave||odinofagia grave
+30098003||epífora grave||epistaxe grave
+30098003||tumefacção grave||retroesternal grave
+30098003||tumefacção grave||odinofagia grave
+30098003||tumefacção grave||epistaxe grave
+30098003||retroesternal grave||odinofagia grave
+30098003||retroesternal grave||epistaxe grave
+30098003||odinofagia grave||epistaxe grave
+398637008||retina aplicada||espessura macular normal
+68600005||hemoglobinúria||hemoglobinúria macroscópica
+68600005||hemoglobinúria||zollinger-ellison
+68600005||hemoglobinúria||vasculopatia
+68600005||hemoglobinúria||polimialgia
+68600005||hemoglobinúria||lúpica
+68600005||hemoglobinúria||esclerodermia
+68600005||hemoglobinúria||zollinger-ellison macroscópica
+68600005||hemoglobinúria||vasculopatia macroscópica
+68600005||hemoglobinúria||polimialgia macroscópica
+68600005||hemoglobinúria||lúpica macroscópica
+68600005||hemoglobinúria||esclerodermia macroscópica
+68600005||hemoglobinúria macroscópica||zollinger-ellison
+68600005||hemoglobinúria macroscópica||vasculopatia
+68600005||hemoglobinúria macroscópica||polimialgia
+68600005||hemoglobinúria macroscópica||lúpica
+68600005||hemoglobinúria macroscópica||esclerodermia
+68600005||hemoglobinúria macroscópica||zollinger-ellison macroscópica
+68600005||hemoglobinúria macroscópica||vasculopatia macroscópica
+68600005||hemoglobinúria macroscópica||polimialgia macroscópica
+68600005||hemoglobinúria macroscópica||lúpica macroscópica
+68600005||hemoglobinúria macroscópica||esclerodermia macroscópica
+68600005||zollinger-ellison||vasculopatia
+68600005||zollinger-ellison||polimialgia
+68600005||zollinger-ellison||lúpica
+68600005||zollinger-ellison||esclerodermia
+68600005||zollinger-ellison||zollinger-ellison macroscópica
+68600005||zollinger-ellison||vasculopatia macroscópica
+68600005||zollinger-ellison||polimialgia macroscópica
+68600005||zollinger-ellison||lúpica macroscópica
+68600005||zollinger-ellison||esclerodermia macroscópica
+68600005||vasculopatia||polimialgia
+68600005||vasculopatia||lúpica
+68600005||vasculopatia||esclerodermia
+68600005||vasculopatia||zollinger-ellison macroscópica
+68600005||vasculopatia||vasculopatia macroscópica
+68600005||vasculopatia||polimialgia macroscópica
+68600005||vasculopatia||lúpica macroscópica
+68600005||vasculopatia||esclerodermia macroscópica
+68600005||polimialgia||lúpica
+68600005||polimialgia||esclerodermia
+68600005||polimialgia||zollinger-ellison macroscópica
+68600005||polimialgia||vasculopatia macroscópica
+68600005||polimialgia||polimialgia macroscópica
+68600005||polimialgia||lúpica macroscópica
+68600005||polimialgia||esclerodermia macroscópica
+68600005||lúpica||esclerodermia
+68600005||lúpica||zollinger-ellison macroscópica
+68600005||lúpica||vasculopatia macroscópica
+68600005||lúpica||polimialgia macroscópica
+68600005||lúpica||lúpica macroscópica
+68600005||lúpica||esclerodermia macroscópica
+68600005||esclerodermia||zollinger-ellison macroscópica
+68600005||esclerodermia||vasculopatia macroscópica
+68600005||esclerodermia||polimialgia macroscópica
+68600005||esclerodermia||lúpica macroscópica
+68600005||esclerodermia||esclerodermia macroscópica
+68600005||zollinger-ellison macroscópica||vasculopatia macroscópica
+68600005||zollinger-ellison macroscópica||polimialgia macroscópica
+68600005||zollinger-ellison macroscópica||lúpica macroscópica
+68600005||zollinger-ellison macroscópica||esclerodermia macroscópica
+68600005||vasculopatia macroscópica||polimialgia macroscópica
+68600005||vasculopatia macroscópica||lúpica macroscópica
+68600005||vasculopatia macroscópica||esclerodermia macroscópica
+68600005||polimialgia macroscópica||lúpica macroscópica
+68600005||polimialgia macroscópica||esclerodermia macroscópica
+68600005||lúpica macroscópica||esclerodermia macroscópica
+282050000||massa no jejuno proximal||plastrão localizado no jejuno
+300260007||a drenagem da glândula parótida esquerda é normal||a conduta era permeável
+300260007||a drenagem da glândula parótida esquerda é normal||a drenagem da glândula parótida direita é normal
+300260007||a drenagem da glândula parótida esquerda é normal||a drenagem da glândula submandibular esquerda é normal
+300260007||a conduta era permeável||a drenagem da glândula parótida direita é normal
+300260007||a conduta era permeável||a drenagem da glândula submandibular esquerda é normal
+300260007||a drenagem da glândula parótida direita é normal||a drenagem da glândula submandibular esquerda é normal

@@ -1,0 +1,158 @@
+442635007: positivo en las cuatro que se realizan para leuconostoc spp. -> positivo en las tres que se realizan para leuconostoc spp.
+442635007: positivo en las cuatro que se realizan para leuconostoc spp. -> positivo en las cinco que se realizan para leuconostoc spp.
+442635007: positivo en las cuatro que se realizan para leuconostoc spp. -> positivo en las seis que se realizan para leuconostoc spp.
+442635007: positivo en las cuatro que se realizan para leuconostoc spp. -> positivo en las siete que se realizan para leuconostoc spp.
+442635007: positivo en las cuatro que se realizan para leuconostoc spp. -> positivo en las ocho que se realizan para leuconostoc spp.
+707724006: aumento progresivo de transaminasas -> incremento progresivo de transaminasas
+707724006: aumento de las transaminasas -> incremento de las transaminasas
+707724006: alt y ast mayores de 20 veces el valor normal -> alt y ast mayores de 15 veces el valor normal
+707724006: alt y ast mayores de 20 veces el valor normal -> alt y ast mayores de 30 veces el valor normal
+707724006: alt y ast mayores de 20 veces el valor normal -> alt y ast mayores de 25 veces el valor normal
+166165005: anticardiolipina igg en valores normales -> anticardiolipinas igg en valores normales
+165878000: negativos los anticuerpos antifosfolipídicos -> negativos los anticuerpos antifosfolipídico
+165879008: anticuerpos antitransglutaminasa tisular iga positivos -> anticuerpos anti-transglutaminasa tisular iga positivos
+300532006: área hiperecogénica en el lóbulo prostático -> área hiperecogénico en el lóbulo prostático
+271823003: aumento de la frecuencia respiratoria -> incremento de la frecuencia respiratoria
+396697000: aumento de la ldh -> incremento de la ldh
+396697000: aumento leve de ldh en sangre -> incremento leve de ldh en sangre
+276331001: aumento del hemiescroto -> incremento del hemiescroto
+276331001: aumento de tamaño de hemiescroto -> incremento de tamaño de hemiescroto
+276331001: aumento del tamaño del hemiescroto -> incremento del tamaño del hemiescroto
+108571000119102: aumento de volumen parasinfisario -> incremento de volumen parasinfisario
+108571000119102: aumento de volumen por vestibular que compromete el cuerpo y la sínfisis -> incremento de volumen por vestibular que compromete el cuerpo y la sínfisis
+80515008: aumento del hígado -> incremento del hígado
+300401007: aumento paulatino del perímetro abdominal -> incremento paulatino del perímetro abdominal
+300401007: aumento del perímetro abdominal -> incremento del perímetro abdominal
+276412008: aumento indoloro del testículo -> incremento indoloro del testículo
+276412008: teste derecho horinzontalizado, aumentado de tamaño -> teste derecho horinzontalizado, incrementado de tamaño
+166717003: aumento progresivo de la creatinina -> incremento progresivo de la creatinina
+64730000: auscultación cardiaca estaba rítmica -> auscultación cardíaca estaba rítmica
+64730000: auscultación cardiaca rítmica -> auscultación cardíaca rítmica
+64730000: auscultación cardíaca es rítmica -> auscultación cardiaca es rítmica
+76917005: bocio multinodular con presencia de un nódulo sólido -> bocio Multinodular con presencia de un nódulo sólido
+55446002: mutación 2785+3 del aagt en el intrón 19 del gen jagged 1 -> mutación 2785+3 del aagt en el intrón 17 del gen jagged 1
+55446002: mutación 2785+3 del aagt en el intrón 19 del gen jagged 1 -> mutación 2785+3 del aagt en el intrón 21 del gen jagged 1
+55446002: mutación 2785+3 del aagt en el intrón 19 del gen jagged 1 -> mutación 2785+3 del aagt en el intrón 22 del gen jagged 1
+55446002: mutación 2785+3 del aagt en el intrón 19 del gen jagged 1 -> mutación 2785+3 del aagt en el intrón 23 del gen jagged 1
+55446002: mutación 2785+3 del aagt en el intrón 19 del gen jagged 1 -> mutación 2785+3 del aagt en el intrón 14 del gen jagged 1
+734871004: estudio cromosómico fue masculino 46 xy con cariotipo normal -> estudio cromosómico fue masculino 44 xy con cariotipo normal
+734871004: estudio cromosómico fue masculino 46 xy con cariotipo normal -> estudio cromosómico fue masculino 47 xy con cariotipo normal
+734871004: estudio cromosómico fue masculino 46 xy con cariotipo normal -> estudio cromosómico fue masculino 41 xy con cariotipo normal
+734871004: estudio cromosómico fue masculino 46 xy con cariotipo normal -> estudio cromosómico fue masculino 42 xy con cariotipo normal
+734871004: estudio cromosómico fue masculino 46 xy con cariotipo normal -> estudio cromosómico fue masculino 53 xy con cariotipo normal
+734871004: cariotipo femenino normal -> cariotipo masculino normal
+82385007: cava intrahepática disminuida de calibre -> cava extrahepática disminuida de calibre
+246924004: córnea íntegra y transparente -> córnea íntegra y trasparente
+246924004: córnea transparente -> córnea trasparente
+2004005: normotensa -> normotenso
+248690009: crepitación a la auscultación cardíaca -> crepitación a la auscultación cardiaca
+55930002: d-st horizontal en v3 a v5 -> d-st vertical en v3 a v5
+713514005: debilidad muscular en las cuatro extremidades -> debilidad muscular en las tres extremidades
+713514005: debilidad muscular en las cuatro extremidades -> debilidad muscular en las cinco extremidades
+713514005: debilidad muscular en las cuatro extremidades -> debilidad muscular en las seis extremidades
+713514005: debilidad muscular en las cuatro extremidades -> debilidad muscular en las siete extremidades
+713514005: debilidad muscular en las cuatro extremidades -> debilidad muscular en las ocho extremidades
+24982008: diplopia horizontal -> diplopia vertical
+24982008: diplopía binocular horizontal -> diplopía binocular vertical
+32566006: dismetria en las cuatro extremidades -> dismetria en las tres extremidades
+32566006: dismetria en las cuatro extremidades -> dismetria en las cinco extremidades
+32566006: dismetria en las cuatro extremidades -> dismetria en las seis extremidades
+32566006: dismetria en las cuatro extremidades -> dismetria en las siete extremidades
+32566006: dismetria en las cuatro extremidades -> dismetria en las ocho extremidades
+162052001: dolor en fosa ilíaca izquierda -> dolor en fosa ilíaca derecha
+162050009: dolor en flanco/fosa renal derecha que le irradia hasta teste ipsilateral -> dolor en flanco/fosa renal izquierda que le irradia hasta teste ipsilateral
+163352001: ecografía renal, vesical y prostática no se encontraron alteraciones -> ecografía renal, vesical y prostática no se hallaron alteraciones
+169240004: ecocardiograma transtorácico en el que no se encontraron alteraciones -> ecocardiograma transtorácico en el que no se hallaron alteraciones
+414478003: leve aumento del número de leucocitos -> leve incremento del número de leucocitos
+88936002: elevación de los dos hemidiafragmas -> elevación de los tres hemidiafragmas
+162010006: examen intrabucal no se observaron alteraciones -> exámen intrabucal no se observaron alteraciones
+163586006: examen neurológico general sin alteraciones -> exámen neurológico general sin alteraciones
+18265008: exoftalmos bilateral -> Exoftalmos bilateral
+309088003: masa renal derecha en polo inferior -> masa renal izquierda en polo inferior
+300357002: páncreas aumentado globalmente de tamaño, hipodenso -> páncreas incrementado globalmente de tamaño, hipodenso
+300357002: páncreas aumentado de tamaño -> páncreas incrementado de tamaño
+823013008: tumoración inguinoescrotal derecha muy dolorosa -> tumoración inguinoescrotal izquierda muy dolorosa
+823013008: hemiescroto derecho aumentado de tamaño -> hemiescroto derecho incrementado de tamaño
+165406005: parámetros normales de las tres series hematológicas -> parámetros normales de las cuatro series hematológicas
+165406005: parámetros normales de las tres series hematológicas -> parámetros normales de las dos series hematológicas
+165406005: parámetros normales de las tres series hematológicas -> parámetros normales de las cinco series hematológicas
+165406005: parámetros normales de las tres series hematológicas -> parámetros normales de las seis series hematológicas
+21454007: hemorragia subaracnoidea frontoparietal derecha -> hemorragia subaracnoidea frontoparietal izquierda
+14140009: hipokalemia -> Hipokalemia
+312895004: íleon terminal una mucosa extremadamente irregular -> íleon terminal una mucosa sumamente irregular
+309530007: imagen de 3 cm en hilio -> imagen de 4 cm en hilio
+309530007: imagen de 3 cm en hilio -> imagen de 2 cm en hilio
+309530007: imagen de 3 cm en hilio -> imagen de 6 cm en hilio
+309530007: imagen de 3 cm en hilio -> imagen de 5 cm en hilio
+422840005: masa de pared gruesa y centro hipodenso de 4 cm de diámetro en encrucijada témporo-parieto-occipital derecha -> masa de pared gruesa y centro hipodenso de 3 cm de diámetro en encrucijada témporo-parieto-occipital derecha
+422840005: masa de pared gruesa y centro hipodenso de 4 cm de diámetro en encrucijada témporo-parieto-occipital derecha -> masa de pared gruesa y centro hipodenso de 6 cm de diámetro en encrucijada témporo-parieto-occipital derecha
+422840005: masa de pared gruesa y centro hipodenso de 4 cm de diámetro en encrucijada témporo-parieto-occipital derecha -> masa de pared gruesa y centro hipodenso de 5 cm de diámetro en encrucijada témporo-parieto-occipital derecha
+422840005: masa de pared gruesa y centro hipodenso de 4 cm de diámetro en encrucijada témporo-parieto-occipital derecha -> masa de pared gruesa y centro hipodenso de 2 cm de diámetro en encrucijada témporo-parieto-occipital derecha
+422840005: masa de pared gruesa y centro hipodenso de 4 cm de diámetro en encrucijada témporo-parieto-occipital derecha -> masa de pared gruesa y centro hipodenso de 7 cm de diámetro en encrucijada témporo-parieto-occipital derecha
+247078006: imagen lineal hiperecogénica respecto al vítreo -> imagen lineal hiperecogénico respecto al vítreo
+716292004: imagen radiolúcida de 10 cm de longitud, multiloculada, localizada desde distal del diente 46 hasta mesial del 33 -> imagen radiolúcida de 10 cm de longitud, multiloculada, localizada desde distal del diente 46 hasta mesial del 37
+716292004: imagen radiolúcida de 10 cm de longitud, multiloculada, localizada desde distal del diente 46 hasta mesial del 33 -> imagen radiolúcida de 10 cm de longitud, multiloculada, localizada desde distal del diente 46 hasta mesial del 38
+716292004: imagen radiolúcida de 10 cm de longitud, multiloculada, localizada desde distal del diente 46 hasta mesial del 33 -> imagen radiolúcida de 10 cm de longitud, multiloculada, localizada desde distal del diente 46 hasta mesial del 41
+716292004: imagen radiolúcida de 10 cm de longitud, multiloculada, localizada desde distal del diente 46 hasta mesial del 33 -> imagen radiolúcida de 10 cm de longitud, multiloculada, localizada desde distal del diente 46 hasta mesial del 34
+716292004: imagen radiolúcida de 10 cm de longitud, multiloculada, localizada desde distal del diente 46 hasta mesial del 33 -> imagen radiolúcida de 10 cm de longitud, multiloculada, localizada desde distal del diente 46 hasta mesial del 36
+300339003: integridad de la vía biliar intra- y extrahepática -> integridad de la vía biliar intra- y intrahepática
+87361006: leucocitosis con marcada desviación izquierda -> leucocitosis con marcada desviación derecha
+87361006: leucocitosis de 26.500/mm3 con desviación a la izquierda -> leucocitosis de 26.500/mm3 con desviación a la derecha
+87361006: leucocitosis con importante desviación izquierda -> leucocitosis con importante desviación derecha
+87361006: leucocitos con desviación izquierda -> leucocitos con desviación derecha
+87361006: leucocitosis con desviación a la izquierda -> leucocitosis con desviación a la derecha
+37125009: pupilas ligeramente midriáticas -> pupilas levemente midriáticas
+300848003: masa hipoecogénica -> masa ecogénica
+69559004: masa quística polilobulada retroperitoneal derecha -> masa quística polilobulada retroperitoneal izquierda
+69559004: masa sólida de 12 cm por detrás del riñón -> masa sólida de 11 cm por detrás del riñón
+69559004: masa sólida de 12 cm por detrás del riñón -> masa sólida de 14 cm por detrás del riñón
+69559004: masa sólida de 12 cm por detrás del riñón -> masa sólida de 13 cm por detrás del riñón
+69559004: masa sólida de 12 cm por detrás del riñón -> masa sólida de 16 cm por detrás del riñón
+69559004: masa sólida de 12 cm por detrás del riñón -> masa sólida de 17 cm por detrás del riñón
+69559004: masa retroperitoneal de 3 cm x 8 cm paraaórtica -> masa retroperitoneal de 4 cm x 8 cm paraaórtica
+69559004: masa retroperitoneal de 3 cm x 8 cm paraaórtica -> masa retroperitoneal de 2 cm x 8 cm paraaórtica
+69559004: masa retroperitoneal de 3 cm x 8 cm paraaórtica -> masa retroperitoneal de 6 cm x 8 cm paraaórtica
+69559004: masa retroperitoneal de 3 cm x 8 cm paraaórtica -> masa retroperitoneal de 5 cm x 8 cm paraaórtica
+69559004: masa retroperitoneal de unos 8 cm, de ecogenicidad heterogénea y marcada vascularización -> masa retroperitoneal de unos 7 cm, de ecogenicidad heterogénea y marcada vascularización
+69559004: masa retroperitoneal de unos 8 cm, de ecogenicidad heterogénea y marcada vascularización -> masa retroperitoneal de unos 9 cm, de ecogenicidad heterogénea y marcada vascularización
+69559004: masa retroperitoneal de unos 8 cm, de ecogenicidad heterogénea y marcada vascularización -> masa retroperitoneal de unos 6 cm, de ecogenicidad heterogénea y marcada vascularización
+69559004: masa retroperitoneal de unos 8 cm, de ecogenicidad heterogénea y marcada vascularización -> masa retroperitoneal de unos 4 cm, de ecogenicidad heterogénea y marcada vascularización
+309529002: masa necrótica de 8 cm en lsi -> masa necrótica de 7 cm en lsi
+309529002: masa necrótica de 8 cm en lsi -> masa necrótica de 9 cm en lsi
+309529002: masa necrótica de 8 cm en lsi -> masa necrótica de 6 cm en lsi
+309529002: masa necrótica de 8 cm en lsi -> masa necrótica de 4 cm en lsi
+74285003: masa pélvica situada a la derecha de la vejiga -> masa pélvica situada a la izquierda de la vejiga
+232209000: narina izquierda por disminución de la permeabilidad -> narina derecha por disminución de la permeabilidad
+89362005: pérdida de 12 kilogramos de peso -> pérdida de 11 kilogramos de peso
+89362005: pérdida de 12 kilogramos de peso -> pérdida de 14 kilogramos de peso
+89362005: pérdida de 12 kilogramos de peso -> pérdida de 13 kilogramos de peso
+89362005: pérdida de 12 kilogramos de peso -> pérdida de 16 kilogramos de peso
+89362005: pérdida de 12 kilogramos de peso -> pérdida de 17 kilogramos de peso
+89362005: pérdida de 7 kg de peso -> pérdida de 8 kg de peso
+89362005: pérdida de 7 kg de peso -> pérdida de 9 kg de peso
+89362005: pérdida de 7 kg de peso -> pérdida de 6 kg de peso
+89362005: pérdida de 7 kg de peso -> pérdida de 4 kg de peso
+89362005: pérdida de 7 kg de peso -> pérdida de 7 Kg de peso
+89362005: pérdida de unos 15 kg de peso -> pérdida de unos 15 Kg de peso
+89362005: pérdida de 15 kg de peso -> pérdida de 15 Kg de peso
+89362005: pérdida de treinta libras de peso -> pérdida de veinte libras de peso
+89362005: pérdida de treinta libras de peso -> pérdida de cuarenta libras de peso
+89362005: pérdida de treinta libras de peso -> pérdida de veinticinco libras de peso
+89362005: pérdida de treinta libras de peso -> pérdida de cincuenta libras de peso
+89362005: pérdida de treinta libras de peso -> pérdida de quince libras de peso
+89362005: pérdida de 5 kg de peso -> pérdida de 5 Kg de peso
+89362005: pérdida de 5 kg de peso -> pérdida de 3 kg de peso
+89362005: pérdida de unos 8 kg de peso -> pérdida de unos 8 Kg de peso
+89362005: pérdida de unos 8 kg de peso -> pérdida de unos 7 kg de peso
+89362005: pérdida de unos 8 kg de peso -> pérdida de unos 9 kg de peso
+89362005: pérdida de unos 8 kg de peso -> pérdida de unos 6 kg de peso
+89362005: pérdida de unos 8 kg de peso -> pérdida de unos 4 kg de peso
+80306002: peristaltismo discretamente aumentado -> peristaltismo discretamente incrementado
+301151001: pulsos distales se hallaban conservados -> pulsos distales se encontraban conservados
+698594003: signos de insuficiencia cardiaca -> signos de insuficiencia cardíaca
+300861003: tumoración de aproximadamente 5x5cm de diámetro medial al tercio inferior del músculo esternocleidomastoideo -> tumoración de aproximadamente 5x5cm de diámetro medial al tercio inferior del músculo Esternocleidomastoideo
+246999001: tyndall de 4 cruces -> tyndall de 3 cruces
+246999001: tyndall de 4 cruces -> tyndall de 6 cruces
+246999001: tyndall de 4 cruces -> tyndall de 5 cruces
+246999001: tyndall de 4 cruces -> tyndall de 2 cruces
+246999001: tyndall de 4 cruces -> tyndall de 7 cruces

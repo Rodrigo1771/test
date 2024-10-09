@@ -1,0 +1,624 @@
+81141003: le rein droit était fonctionnellement normal -> le rein droit semblait fonctionnellement normal
+81141003: le rein droit était fonctionnellement normal -> le rein droit est fonctionnellement normal
+81141003: le rein droit était fonctionnellement normal -> le rein droit devait fonctionnellement normal
+81141003: le rein droit était fonctionnellement normal -> le rein droit fut fonctionnellement normal
+81141003: le rein droit était fonctionnellement normal -> le rein droit avait fonctionnellement normal
+81141003: fonction rénale bilatérale normale -> fonction hépatique bilatérale normale
+81141003: une fonction rénale normale -> une fonction hépatique normale
+81141003: fonction rénale stable -> fonction hépatique stable
+81141003: bonne fonction rénale bilatérale -> bonne fonction hépatique bilatérale
+81141003: une bonne fonction rénale -> une bonne fonction hépatique
+81141003: une bonne fonction rénale -> une excellente fonction rénale
+81141003: une bonne fonction rénale -> une mauvaise fonction rénale
+81141003: la fonction rénale est restée normale -> la fonction hépatique est restée normale
+81141003: fonction rénale préservée -> fonction rénale préservé
+81141003: fonction rénale préservée -> fonction hépatique préservée
+87548005: dyspepsie flatulente -> dyspepsies flatulente
+87548005: dyspepsie flatulente -> Dyspepsie flatulente
+87548005: dyspepsie -> dyspepsies
+87548005: dyspepsie -> Dyspepsie
+300848003: tumeur asymptomatique -> tumeur asymptomatiques
+300848003: la masse était indolore -> la masse semblait indolore
+300848003: la masse était indolore -> la masse est indolore
+300848003: la masse était indolore -> la masse devait indolore
+300848003: la masse était indolore -> la masse fut indolore
+300848003: la masse était indolore -> la masse avait indolore
+300848003: masse hypoéchogène -> masse échogène
+300848003: masse hypoéchogène -> masse hyperéchogène
+300848003: masse hypoéchogène -> masse anéchogène
+300848003: masse hypoéchogène -> masse hyperéchogènes
+300441003: parenchyme rénal gauche préservé -> parenchyme rénal gauche préservée
+300441003: parenchyme rénal gauche préservé -> parenchyme rénal droite préservé
+300441003: différenciation cortico-médullaire adéquate -> différentiation cortico-médullaire adéquate
+300441003: différenciation cortico-médullaire adéquate -> différenciation cortico-médullaire appropriée
+300441003: différenciation cortico-médullaire adéquate -> différenciation intra-médullaire adéquate
+300441003: différenciation cortico-médullaire adéquate -> différenciation ostéo-médullaire adéquate
+300441003: différenciation cortico-médullaire adéquate -> différenciation ostéomédullaire adéquate
+300441003: différenciation cortico-médullaire adéquate -> différenciation intramédullaire adéquate
+300441003: différenciation cortico-médullaire adéquate -> différenciation périmédullaire adéquate
+300441003: distorsion rénale -> distorsion hépatique
+300441003: distorsion rénale -> distortion rénale
+300441003: distorsion rénale -> distorsions rénale
+69559004: masse bien circonscrite derrière le rein -> masse bien circonscrit derrière le rein
+69559004: masse bien circonscrite derrière le rein -> masse bien circonscrite derrrière le rein
+69559004: masse rétropéritonéale d'environ 8 cm, avec une échogénicité hétérogène et une vascularisation marquée -> masse rétropéritonéale d'environ 9 cm, avec une échogénicité hétérogène et une vascularisation marquée
+69559004: masse rétropéritonéale d'environ 8 cm, avec une échogénicité hétérogène et une vascularisation marquée -> masse rétropéritonéale d'environ 7 cm, avec une échogénicité hétérogène et une vascularisation marquée
+69559004: masse rétropéritonéale d'environ 8 cm, avec une échogénicité hétérogène et une vascularisation marquée -> masse rétropéritonéale d'environ 6 cm, avec une échogénicité hétérogène et une vascularisation marquée
+69559004: masse rétropéritonéale d'environ 8 cm, avec une échogénicité hétérogène et une vascularisation marquée -> masse rétropéritonéale d'environ 4 cm, avec une échogénicité hétérogène et une vascularisation marquée
+69559004: masse rétropéritonéale d'environ 8 cm, avec une échogénicité hétérogène et une vascularisation marquée -> masse rétropéritonéale d'environ 5 cm, avec une échogénicité hétérogène et une vascularisation marquée
+69559004: masse solide de 12 cm derrière le rein -> masse solide de 12 cm. derrière le rein
+69559004: masse solide de 12 cm derrière le rein -> masse solide de 13 cm derrière le rein
+69559004: masse solide de 12 cm derrière le rein -> masse solide de 16 cm derrière le rein
+69559004: masse solide de 12 cm derrière le rein -> masse solide de 11 cm derrière le rein
+69559004: masse solide de 12 cm derrière le rein -> masse solide de 14 cm derrière le rein
+69559004: masse solide de 12 cm derrière le rein -> masse solide de 18 cm derrière le rein
+69559004: masse rétropéritonéale -> masse rétropéritonéal
+69559004: masse rétropéritonéale -> masse intra-péritonéale
+69559004: masse rétropéritonéale -> masse rétropéritonéaux
+69559004: masse rétropéritonéale -> masse péritonéale
+69559004: tumeur rétropéritonéale -> tumeur rétropéritonéal
+69559004: tumeur rétropéritonéale -> tumeur intra-péritonéale
+69559004: tumeur rétropéritonéale -> tumeur rétropéritonéaux
+69559004: tumeur rétropéritonéale -> tumeur péritonéale
+301459008: stabilité hémodynamique -> stabilité hémodynamiquement
+301459008: stabilité hémodynamique -> stabilité hémodynamiques
+301459008: stabilité hémodynamique -> stabilité hémodynamie
+301459008: hémodynamiquement stable -> hémodynamique stable
+301459008: hémodynamiquement stable -> hémodynamiques stable
+301459008: hémodynamiquement stable -> hémodynamie stable
+62315008: diarrhée fébrile -> diarrhées fébrile
+62315008: diarrhée -> diarrhées
+64882008: épisodes fébriles -> episodes fébriles
+64882008: syndrome fébrile -> syndrôme fébrile
+64882008: syndrome fébrile -> Syndrome fébrile
+271653008: veines jugulaires ingurgitées -> veines jugulaires ingurgitée
+271653008: veines jugulaires ingurgitées -> veines jugulaires ingurgités
+49233005: dyspnée -> Dyspnée
+49233005: dyspnée -> dyspnées
+49233005: sensation de dyspnée -> sensation de Dyspnée
+49233005: sensation de dyspnée -> sensation de dyspnées
+49233005: dyspnée d'intensité progressive -> dyspnée d'intensité graduelle
+49233005: dyspnée d'intensité progressive -> Dyspnée d'intensité progressive
+49233005: dyspnée d'intensité progressive -> dyspnées d'intensité progressive
+249543005: abdomen mou -> thorax mou
+249543005: abdomen mou -> labdomen mou
+249543005: l'abdomen était mou et dépressible -> l'abdomen semblait mou et dépressible
+249543005: l'abdomen était mou et dépressible -> l'abdomen est mou et dépressible
+249543005: l'abdomen était mou et dépressible -> l'abdomen devait mou et dépressible
+249543005: l'abdomen était mou et dépressible -> l'abdomen fut mou et dépressible
+249543005: l'abdomen était mou et dépressible -> l'abdomen avait mou et dépressible
+249543005: abdomen mou et dépressible -> thorax mou et dépressible
+249543005: abdomen mou et dépressible -> labdomen mou et dépressible
+249543005: l'abdomen était mou, dépressible -> l'abdomen semblait mou, dépressible
+249543005: l'abdomen était mou, dépressible -> l'abdomen devait mou, dépressible
+249543005: l'abdomen était mou, dépressible -> l'abdomen fut mou, dépressible
+249543005: l'abdomen était mou, dépressible -> l'abdomen avait mou, dépressible
+166315009: la biochimie, les ions et les transaminases étaient normaux -> la biochimie, les ions et les transaminases semblaient normaux
+166315009: la biochimie, les ions et les transaminases étaient normaux -> la biochimie, les ions et les transaminases devaient normaux
+166315009: la biochimie, les ions et les transaminases étaient normaux -> la biochimie, les ions et les transaminases étaients normaux
+166315009: la biochimie, les ions et les transaminases étaient normaux -> la biochimie, les ions et les transaminases furent normaux
+166315009: la biochimie, les ions et les transaminases étaient normaux -> la biochimie, les ions et les transaminases restaient normaux
+166315009: la biochimie, les ions et les transaminases étaient normaux -> la biochimie, les ions et les transaminases étaient anormaux
+166315009: biochimie normale -> biologie normale
+284520004: crépitants pulmonaires basaux bilatéraux -> crépitants respiratoires basaux bilatéraux
+75823008: sécrétion -> secrétion
+27925004: nodule hyperéchogène -> nodule hyperéchogènes
+27925004: nodule hyperéchogène -> nodule échogène
+27925004: nodule hyperéchogène -> nodule hypoéchogène
+27925004: nodule hyperéchogène -> nodule anéchogène
+27925004: formation nodulaire -> formation nodulaires
+197941005: hématurie franche -> Hématurie franche
+197941005: hématurie macroscopique -> hématurie microscopique
+197941005: hématurie macroscopique -> Hématurie macroscopique
+87860000: nodule hypoéchogène dans le testicule -> nodule échogène dans le testicule
+87860000: nodule hypoéchogène dans le testicule -> nodule hyperéchogène dans le testicule
+87860000: nodule hypoéchogène dans le testicule -> nodule anéchogène dans le testicule
+87860000: nodule hypoéchogène dans le testicule -> nodule hyperéchogènes dans le testicule
+87860000: pôle supérieur du teste gauche, évoquant une masse solide -> Pôle supérieur du teste gauche, évoquant une masse solide
+87860000: les testicules sont engloutis par la fibrose et la masse tumorale -> les testicules seront engloutis par la fibrose et la masse tumorale
+87860000: les testicules sont engloutis par la fibrose et la masse tumorale -> les testicules semblent engloutis par la fibrose et la masse tumorale
+87860000: les testicules sont engloutis par la fibrose et la masse tumorale -> les testicules étaient engloutis par la fibrose et la masse tumorale
+87860000: les testicules sont engloutis par la fibrose et la masse tumorale -> les testicules restent engloutis par la fibrose et la masse tumorale
+87860000: les testicules sont engloutis par la fibrose et la masse tumorale -> les testicules doivent engloutis par la fibrose et la masse tumorale
+300493001: testicules normaux -> testicules anormaux
+300493001: le testicule droit était de taille et de consistance normales -> le testicule droit semblait de taille et de consistance normales
+300493001: le testicule droit était de taille et de consistance normales -> le testicule droit est de taille et de consistance normales
+300493001: le testicule droit était de taille et de consistance normales -> le testicule droit devait de taille et de consistance normales
+300493001: le testicule droit était de taille et de consistance normales -> le testicule droit fut de taille et de consistance normales
+300493001: le testicule droit était de taille et de consistance normales -> le testicule droit avait de taille et de consistance normales
+399406009: marqueurs tumoraux négatifs -> marqueurs tumoraux positifs
+399406009: marqueurs tumoraux négatifs -> marqueurs tumoraux negatifs
+399406009: marqueurs tumoraux négatifs -> marqueur tumoraux négatifs
+399406009: marqueurs tumoraux négatifs -> marqueurs anti-tumoraux négatifs
+399406009: marqueurs tumoraux négatifs -> marqueurs antitumoraux négatifs
+399406009: marqueurs testiculaires négatifs -> marqueur testiculaires négatifs
+399406009: marqueurs testiculaires négatifs -> marqueurs testiculaires positifs
+399406009: marqueurs testiculaires négatifs -> marqueurs testiculaires negatifs
+399406009: les marqueurs tumoraux étaient négatifs -> les marqueurs tumoraux semblaient négatifs
+399406009: les marqueurs tumoraux étaient négatifs -> les marqueurs tumoraux devaient négatifs
+399406009: les marqueurs tumoraux étaient négatifs -> les marqueurs tumoraux étaients négatifs
+399406009: les marqueurs tumoraux étaient négatifs -> les marqueurs tumoraux furent négatifs
+399406009: les marqueurs tumoraux étaient négatifs -> les marqueurs tumoraux restaient négatifs
+399406009: les marqueurs tumoraux étaient négatifs -> les marqueurs anti-tumoraux étaient négatifs
+399406009: les marqueurs tumoraux étaient négatifs -> les marqueurs antitumoraux étaient négatifs
+399406009: les marqueurs tumoraux étaient négatifs -> les marqueur tumoraux étaient négatifs
+399406009: les marqueurs tumoraux sériques étaient à des niveaux normaux -> les marqueurs anti-tumoraux sériques étaient à des niveaux normaux
+399406009: les marqueurs tumoraux sériques étaient à des niveaux normaux -> les marqueurs antitumoraux sériques étaient à des niveaux normaux
+399406009: les marqueurs tumoraux sériques étaient à des niveaux normaux -> les marqueur tumoraux sériques étaient à des niveaux normaux
+399406009: les marqueurs tumoraux sériques étaient à des niveaux normaux -> les marqueurs tumoraux plasmatiques étaient à des niveaux normaux
+408573005: la scintigraphie thyroïdienne était normale -> la scintigraphique thyroïdienne était normale
+408573005: la scintigraphie thyroïdienne était normale -> la scintigraphie thyroïdienne semblait normale
+408573005: la scintigraphie thyroïdienne était normale -> la scintigraphie thyroïdienne est normale
+408573005: la scintigraphie thyroïdienne était normale -> la scintigraphie thyroïdienne devait normale
+408573005: la scintigraphie thyroïdienne était normale -> la scintigraphie thyroïdienne fut normale
+408573005: la scintigraphie thyroïdienne était normale -> la scintigraphie thyroïdienne avait normale
+76849009: hyperémie conjonctivale mixte -> hyperémie conjonctivales mixte
+76849009: hyperémie conjonctivale mixte -> hyperhémie conjonctivale mixte
+76849009: hyperémie conjonctivale -> hyperhémie conjonctivale
+76849009: hyperémie conjonctivale -> hyperémie conjonctivales
+76849009: injection conjonctivale -> injections conjonctivale
+76849009: injection conjonctivale -> injection conjonctivales
+7358000: syndrome mictionnel -> syndrome post-mictionnel
+7358000: syndrome mictionnel -> syndrome mictionnels
+7358000: syndrome mictionnel -> syndrome mictionnelle
+7358000: syndrome mictionnel -> syndrôme mictionnel
+7358000: syndrome mictionnel -> Syndrome mictionnel
+7358000: syndrome mictionnel irritatif -> syndrome mictionnel irritatifs
+7358000: syndrome mictionnel irritatif -> syndrôme mictionnel irritatif
+7358000: syndrome mictionnel irritatif -> Syndrome mictionnel irritatif
+7358000: syndrome mictionnel irritatif -> syndrome post-mictionnel irritatif
+7358000: syndrome mictionnel irritatif -> syndrome mictionnels irritatif
+7358000: syndrome mictionnel irritatif -> syndrome mictionnelle irritatif
+110279003: sans maladie -> sans maladie.La
+110279003: sans maladie -> sans Maladie
+110279003: intervalle sans maladie -> intervalle sans maladie.La
+110279003: intervalle sans maladie -> intervalle sans Maladie
+110279003: intervalle sans maladie -> intervalles sans maladie
+399122003: dysphagie progressive -> Dysphagie progressive
+399122003: dysphagie progressive -> dysphagie graduelle
+399122003: dysphagie -> Dysphagie
+8644006: lourdeur postprandiale -> lourdeurs postprandiale
+8644006: lourdeur postprandiale -> lourdeur post-prandiale
+8644006: lourdeur postprandiale -> lourdeur postprandial
+8644006: lourdeur postprandiale -> lourdeur prandiale
+267045008: symptômes gastro-intestinaux -> symptomes gastro-intestinaux
+267045008: symptômes gastro-intestinaux -> symtômes gastro-intestinaux
+267045008: manifestations gastro-intestinales -> manifestions gastro-intestinales
+267045008: manifestations gastro-intestinales -> Manifestations gastro-intestinales
+267045008: manifestations gastro-intestinales -> manifestations intestinales
+267045008: manifestations gastro-intestinales -> manifestations gastrointestinales
+419099009: succès -> succés
+419099009: décédé -> décédée
+74474003: hémorragie gastro-intestinale massive -> hémoragie gastro-intestinale massive
+74474003: hémorragie gastro-intestinale -> hémoragie gastro-intestinale
+131148009: hémorragie -> hémoragie
+22253000: douleur -> souffrance
+22253000: douleur -> douleurs
+72970002: l'examen clinique et les signes vitaux étaient normaux -> l'examen clinique et les signes vitaux semblaient normaux
+72970002: l'examen clinique et les signes vitaux étaient normaux -> l'examen clinique et les signes vitaux devaient normaux
+72970002: l'examen clinique et les signes vitaux étaient normaux -> l'examen clinique et les signes vitaux étaients normaux
+72970002: l'examen clinique et les signes vitaux étaient normaux -> l'examen clinique et les signes vitaux furent normaux
+72970002: l'examen clinique et les signes vitaux étaient normaux -> l'examen clinique et les signes vitaux restaient normaux
+72970002: les signes vitaux étaient normaux -> les signes vitaux étaient anormaux
+72970002: les signes vitaux étaient normaux -> les signes vitaux semblaient normaux
+72970002: les signes vitaux étaient normaux -> les signes vitaux devaient normaux
+72970002: les signes vitaux étaient normaux -> les signes vitaux étaients normaux
+72970002: les signes vitaux étaient normaux -> les signes vitaux furent normaux
+72970002: les signes vitaux étaient normaux -> les signes vitaux restaient normaux
+83128009: oligurie -> Oligurie
+37125009: mydriase réactive -> Mydriase réactive
+37125009: mydriatique -> mydriatiques
+37125009: mydriase -> Mydriase
+37125009: pupilles légèrement mydriatiques -> pupilles légérement mydriatiques
+37125009: pupilles légèrement mydriatiques -> pupilles légerement mydriatiques
+37125009: pupilles légèrement mydriatiques -> pupilles lègèrement mydriatiques
+37125009: pupilles légèrement mydriatiques -> pupilles légèrement mydriatique
+300474003: diurèse spontanée -> Diurèse spontanée
+300474003: diurèse spontanée -> diurèse spontannée
+300474003: diurèse maintenue -> Diurèse maintenue
+300474003: diurèse préservée -> Diurèse préservée
+300474003: diurèse préservée -> diurèse préservé
+275723000: détérioration clinique -> dégradation clinique
+414478003: légère augmentation du nombre de leucocytes -> lègère augmentation du nombre de leucocytes
+414478003: légère augmentation du nombre de leucocytes -> légère diminution du nombre de leucocytes
+414478003: légère augmentation du nombre de leucocytes -> légère hausse du nombre de leucocytes
+414478003: légère augmentation du nombre de leucocytes -> légère baisse du nombre de leucocytes
+414478003: légère augmentation du nombre de leucocytes -> légère accroissement du nombre de leucocytes
+414478003: leucocytose -> hyperleucocytose
+414478003: leucocytose -> Leucocytose
+414478003: leucocytose -> Hyperleucocytose
+314983004: aggravation de la fonction rénale -> aggravation de la fonction hépatique
+314983004: détérioration progressive de la fonction rénale -> dégradation progressive de la fonction rénale
+314983004: détérioration progressive de la fonction rénale -> détérioration progressive de la fonction hépatique
+27194006: œdème cornéen -> oedème cornéen
+27194006: œdème cornéen modéré -> oedème cornéen modéré
+93457003: liquide péritonéal -> liquide rétropéritonéal
+93457003: liquide péritonéal -> liquide intrapéritonéal
+119247004: hypoalbuminémie sévère -> albuminémie sévère
+119247004: hypoalbuminémie sévère -> hypoprotéinémie sévère
+119247004: hypoalbuminémie sévère -> hémoglobinémie sévère
+119247004: hypoalbuminémie -> albuminémie
+119247004: hypoalbuminémie -> hypoprotéinémie
+119247004: hypoalbuminémie -> hémoglobinémie
+5291005: hypocalcémie sévère -> Hypocalcémie sévère
+5291005: hypocalcémie sévère -> hypercalcémie sévère
+5291005: hypocalcémie sévère -> calcémie sévère
+5291005: hypocalcémie -> Hypocalcémie
+5291005: hypocalcémie -> hypercalcémie
+5291005: hypocalcémie -> calcémie
+386789004: éosinophilie -> hyperéosinophilie
+386789004: éosinophilie -> éosinophile
+386789004: éosinophilie -> éosinophilique
+386789004: éosinophilie -> éosinophiles
+386789004: éosinophilie périphérique -> hyperéosinophilie périphérique
+386789004: éosinophilie périphérique -> éosinophile périphérique
+386789004: éosinophilie périphérique -> éosinophilique périphérique
+386789004: éosinophilie périphérique -> éosinophiles périphérique
+278683009: une bonne occlusion dentaire -> une excellente occlusion dentaire
+278683009: une bonne occlusion dentaire -> une mauvaise occlusion dentaire
+91019004: paresthésie -> Paresthésie
+91019004: paresthésies -> Paresthésies
+91019004: paresthésies -> dysesthésies
+301936006: le pôle antérieur était normal dans les deux yeux -> le pôle antérieur était anormal dans les deux yeux
+301936006: le pôle antérieur était normal dans les deux yeux -> le pôle postérieur était normal dans les deux yeux
+301936006: bonne profondeur de la chambre antérieure -> excellente profondeur de la chambre antérieure
+301936006: bonne profondeur de la chambre antérieure -> mauvaise profondeur de la chambre antérieure
+225581002: mauvaise vision -> bonne vision
+225581002: baisse de la vision -> hausse de la vision
+225581002: baisse de la vision -> augmentation de la vision
+225581002: baisse de la vision -> diminution de la vision
+103251002: la motilité oculaire extrinsèque et intrinsèque était normale -> la motilité occulaire extrinsèque et intrinsèque était normale
+103251002: motilité oculaire extrinsèque et intrinsèque -> motilité occulaire extrinsèque et intrinsèque
+103251002: la motilité extrinsèque et intrinsèque était normale -> la motilité extrinsèque et intrinsèque semblait normale
+103251002: la motilité extrinsèque et intrinsèque était normale -> la motilité extrinsèque et intrinsèque est normale
+103251002: la motilité extrinsèque et intrinsèque était normale -> la motilité extrinsèque et intrinsèque devait normale
+103251002: la motilité extrinsèque et intrinsèque était normale -> la motilité extrinsèque et intrinsèque fut normale
+103251002: la motilité extrinsèque et intrinsèque était normale -> la motilité extrinsèque et intrinsèque avait normale
+24982008: diplopie binoculaire horizontale -> Diplopie binoculaire horizontale
+24982008: diplopie binoculaire horizontale -> diplopie binoculaire verticale
+24982008: diplopie horizontale -> Diplopie horizontale
+24982008: diplopie horizontale -> diplopie verticale
+24982008: diplopie -> Diplopie
+1003721002: arthralgies dans les deux genoux -> arthralgies dans les trois genoux
+1003721002: arthralgies dans les deux genoux -> arthralgies dans les quatre genoux
+1003721002: arthralgies dans les deux genoux -> arthralgies dans les cinq genoux
+1003721002: arthralgies dans les deux genoux -> arthralgies dans les six genoux
+1003721002: arthralgies dans les deux genoux -> arthralgies dans les huit genoux
+1003721002: douleur au genou -> douleur au genou.
+1003721002: douleur au genou -> souffrance au genou
+1003721002: douleur au genou -> douleurs au genou
+23149001: crépitation du cortex vestibulaire -> crépitations du cortex vestibulaire
+23149001: sensation de crépitation au niveau infra-orbitaire -> sensation de crépitations au niveau infra-orbitaire
+309088003: nodules solides dans les deux reins -> nodules solides dans les trois reins
+309088003: nodules solides dans les deux reins -> nodules solides dans les quatre reins
+309088003: nodules solides dans les deux reins -> nodules solides dans les cinq reins
+309088003: nodules solides dans les deux reins -> nodules solides dans les six reins
+309088003: nodules solides dans les deux reins -> nodules solides dans les huit reins
+309088003: masse rénale -> masse hépatique
+309088003: masse de 5 cm de diamètre dans le rein gauche -> masse de 6 cm de diamètre dans le rein gauche
+309088003: masse de 5 cm de diamètre dans le rein gauche -> masse de 4 cm de diamètre dans le rein gauche
+309088003: masse de 5 cm de diamètre dans le rein gauche -> masse de 3 cm de diamètre dans le rein gauche
+309088003: masse de 5 cm de diamètre dans le rein gauche -> masse de 7 cm de diamètre dans le rein gauche
+309088003: masse de 5 cm de diamètre dans le rein gauche -> masse de 8 cm de diamètre dans le rein gauche
+309088003: masse de 5 cm de diamètre dans le rein gauche -> masse de 5 cm. de diamètre dans le rein gauche
+309088003: masse solide dans le pôle supérieur du rein -> masse solide dans le pôle inférieur du rein
+271823003: tachypnée -> polypnée
+271823003: tachypnée -> bradypnée
+271823003: tachypnée persistante -> polypnée persistante
+271823003: tachypnée persistante -> bradypnée persistante
+89362005: perte de poids de 12 kilogrammes -> perte de poids de 13 kilogrammes
+89362005: perte de poids de 12 kilogrammes -> perte de poids de 16 kilogrammes
+89362005: perte de poids de 12 kilogrammes -> perte de poids de 11 kilogrammes
+89362005: perte de poids de 12 kilogrammes -> perte de poids de 14 kilogrammes
+89362005: perte de poids de 12 kilogrammes -> perte de poids de 18 kilogrammes
+89362005: perdre du poids -> perdre du poid
+89362005: une perte de poids d'environ 8 kg -> une perte de poid d'environ 8 kg
+89362005: perte de poids -> perte de poid
+89362005: perte de poids de 7 kg -> perte de poids de 7 Kg
+89362005: perte de poids de 7 kg -> perte de poids de 7 kg.
+89362005: perte de poids de 7 kg -> perte de poids de 7 Kgs
+89362005: perte de poids de 7 kg -> perte de poids de 7 kgs
+89362005: perte de poids de 7 kg -> perte de poids de 8 kg
+89362005: perte de poids de 7 kg -> perte de poids de 9 kg
+89362005: perte de poids de 7 kg -> perte de poids de 6 kg
+89362005: perte de poids de 7 kg -> perte de poids de 4 kg
+89362005: perte de poids de 7 kg -> perte de poid de 7 kg
+89362005: perte de poids de 5 kg -> perte de poids de 5 Kg
+89362005: perte de poids de 5 kg -> perte de poids de 5 kg.
+89362005: perte de poids de 5 kg -> perte de poids de 5 Kgs
+89362005: perte de poids de 5 kg -> perte de poids de 5 kgs
+89362005: perte de poids de 5 kg -> perte de poid de 5 kg
+89362005: perte de poids de 15 kg -> perte de poids de 15 Kg
+89362005: perte de poids de 15 kg -> perte de poids de 15 kg.
+89362005: perte de poids de 15 kg -> perte de poids de 15 Kgs
+89362005: perte de poids de 15 kg -> perte de poids de 15 kgs
+89362005: perte de poids de 15 kg -> perte de poid de 15 kg
+53298000: hématurie -> Hématurie
+53298000: hématurie anémique totale -> Hématurie anémique totale
+90708001: rétention dans le pôle supérieur gauche -> rétention dans le pôle supérieur droite
+90708001: rétention dans le pôle supérieur gauche -> rétention dans le pôle inférieur gauche
+90708001: atteinte rénale -> atteinte hépatique
+204676004: muqueuse gastrique hétérotopique -> muqueuse gastrique hétérotopiques
+204676004: muqueuse gastrique hétérotopique -> muqueuse gastrique hétérotopie
+204676004: muqueuse gastrique ectopique -> muqueuse gastrique ectopie
+95545007: diarrhée sanglante -> diarrhées sanglante
+165406005: paramètres normaux des trois séries hématologiques -> paramêtres normaux des trois séries hématologiques
+165406005: paramètres normaux des trois séries hématologiques -> paramétres normaux des trois séries hématologiques
+165406005: paramètres normaux des trois séries hématologiques -> paramètres normaux des quatre séries hématologiques
+165406005: paramètres normaux des trois séries hématologiques -> paramètres normaux des deux séries hématologiques
+165406005: paramètres normaux des trois séries hématologiques -> paramètres normaux des cinq séries hématologiques
+165406005: paramètres normaux des trois séries hématologiques -> paramètres normaux des six séries hématologiques
+165406005: paramètres normaux des trois séries hématologiques -> paramètres normaux des huit séries hématologiques
+165406005: hémogramme normal -> hémogramme anormal
+443371007: diminution de l'état de conscience -> augmentation de l'état de conscience
+443371007: diminution de l'état de conscience -> baisse de l'état de conscience
+249545003: irritation péritonéale principalement dans l'hypogastre et la fosse iliaque gauche -> irritation péritonéale principalement dans l'hypogastre et la fosses iliaque gauche
+249545003: défense à la palpation -> défense à la palpations
+249339005: pyramide nasale étroite -> pyramides nasale étroite
+249339005: pyramide nasale étroite -> Pyramide nasale étroite
+9589009: difficultés à marcher -> diffcultés à marcher
+91175000: épisodes convulsifs -> episodes convulsifs
+21454007: hémorragie sous-arachnoïdienne frontopariétale droite -> hémorragie sous-arachnoïdien frontopariétale droite
+21454007: hémorragie sous-arachnoïdienne frontopariétale droite -> hémorragie sous-arachnoïdiens frontopariétale droite
+21454007: hémorragie sous-arachnoïdienne frontopariétale droite -> hémorragie arachnoïdiennes frontopariétale droite
+21454007: hémorragie sous-arachnoïdienne frontopariétale droite -> hémorragie arachnoïdien frontopariétale droite
+21454007: hémorragie sous-arachnoïdienne frontopariétale droite -> hémorragie arachnoïdiens frontopariétale droite
+21454007: hémorragie sous-arachnoïdienne frontopariétale droite -> hémorragie sous-arachnoïdienne frontopariétale gauche
+21454007: hémorragie sous-arachnoïdienne minime dans la région suprasylvienne gauche -> hémorragie sous-arachnoïdienne minime dans la région suprasylvienne droite
+21454007: hémorragie sous-arachnoïdienne -> hémoragie sous-arachnoïdienne
+21454007: hémorragie sous-arachnoïdienne -> hémorragie sous-arachnoïdien
+21454007: hémorragie sous-arachnoïdienne -> hémorragie sous-arachnoïdiens
+21454007: hémorragie sous-arachnoïdienne -> hémorragie arachnoïdiennes
+21454007: hémorragie sous-arachnoïdienne -> hémorragie arachnoïdien
+21454007: hémorragie sous-arachnoïdienne -> hémorragie arachnoïdiens
+703630003: œil rouge sévère -> oeil rouge sévère
+703630003: œil rouge sévère -> oeuil rouge sévère
+703630003: œil rouge sévère -> œil jaune sévère
+703630003: œil rouge sévère -> œil bleu sévère
+703630003: œil rouge -> oeil rouge
+703630003: œil rouge -> oeuil rouge
+703630003: œil rouge -> œil jaune
+703630003: œil rouge -> œil bleu
+14310000: rhinorrhée verdâtre -> rhinorrhée jaunâtre
+14310000: rhinorrhée verdâtre -> rhinorrhée brunâtre
+14310000: rhinorrhée verdâtre -> rhinorrhée grisâtre
+14310000: rhinorrhée verdâtre -> rhinorrhée noirâtre
+14310000: rhinorrhée verdâtre -> rhinorrhée blanchâtre
+14310000: rhinorrhée purulente -> rhinorrhée purulence
+18265008: exophtalmie bilatérale -> Exophtalmie bilatérale
+18265008: exophtalmie bilatérale -> microphtalmie bilatérale
+18265008: exophtalmie bilatérale -> énophtalmie bilatérale
+18265008: exophtalmie bilatérale -> endophtalmie bilatérale
+18265008: exophtalmie bilatérale -> anophtalmie bilatérale
+18265008: proptose oculaire -> proptose occulaire
+28998008: hémorragie maculaire -> hémoragie maculaire
+28998008: hémorragies rétiniennes -> Hémorragies rétiniennes
+285384003: détérioration progressive de l'état général -> dégradation progressive de l'état général
+285384003: détérioration progressive de l'état général -> détérioration graduelle de l'état général
+285384003: détérioration de l'état général -> dégradation de l'état général
+279093005: douleurs coliques -> douleur coliques
+309530007: image de 3 cm dans le hile -> image de 2 cm dans le hile
+309530007: image de 3 cm dans le hile -> image de 4 cm dans le hile
+309530007: image de 3 cm dans le hile -> image de 5 cm dans le hile
+309530007: image de 3 cm dans le hile -> image de 6 cm dans le hile
+309530007: image de 3 cm dans le hile -> image de 7 cm dans le hile
+79922009: douleur épigastrique -> souffrance épigastrique
+79922009: douleur épigastrique -> douleurs épigastrique
+79922009: douleur épigastrique -> douleur épigastre
+79922009: douleur épigastrique -> douleur épigastriques
+445249002: images nodulaires dans le lobe supérieur -> images nodulaires dans le lobe inférieur
+445249002: images nodulaires dans le lobe supérieur -> images kystiques dans le lobe supérieur
+445249002: images nodulaires dans le lobe supérieur -> images nodulaire dans le lobe supérieur
+445249002: images nodulaires dans les deux champs pulmonaires -> images nodulaires dans les deux champs respiratoires
+445249002: images nodulaires dans les deux champs pulmonaires -> images kystiques dans les deux champs pulmonaires
+445249002: images nodulaires dans les deux champs pulmonaires -> images nodulaire dans les deux champs pulmonaires
+170728008: déficit de l'acuité visuelle -> déficits de l'acuité visuelle
+170728008: mauvaise acuité visuelle -> bonne acuité visuelle
+170728008: diminution de l'acuité visuelle -> augmentation de l'acuité visuelle
+170728008: diminution de l'acuité visuelle -> baisse de l'acuité visuelle
+82020005: hypomagnésémie légère -> Hypomagnésémie légère
+82020005: hypomagnésémie légère -> hypomagnésémie lègère
+82020005: hypomagnésémie -> Hypomagnésémie
+398212009: diarrhée aqueuse -> diarrhées aqueuse
+11092001: tachycardie -> tachycardies
+11092001: tachycardie sinusale -> tachycardies sinusale
+11092001: tachycardie sinusale -> tachycardie sinusales
+11092001: tachycardie sinusale -> tachycardie sinusale-
+708118007: culture négative -> culture positive
+708118007: la culture du liquide péricardique était stérile -> la culture du liquide péricardiques était stérile
+708118007: la culture du liquide péricardique était stérile -> la culture du liquide péricardique semblait stérile
+708118007: la culture du liquide péricardique était stérile -> la culture du liquide péricardique est stérile
+708118007: la culture du liquide péricardique était stérile -> la culture du liquide péricardique devait stérile
+708118007: la culture du liquide péricardique était stérile -> la culture du liquide péricardique fut stérile
+708118007: la culture du liquide péricardique était stérile -> la culture du liquide péricardique avait stérile
+708118007: cultures négatives répétées -> cultures positives répétées
+708118007: cultures négatives répétées -> cultures négatives réitérées
+300561007: urètre bulbaire normal -> urètre bulbaires normal
+300561007: urètre bulbaire normal -> urètre rétrobulbaire normal
+300561007: urètre bulbaire normal -> urètre pseudo-bulbaire normal
+300561007: urètre bulbaire normal -> urètre bulbaire anormal
+300561007: études urologiques normales -> études rhumatologiques normales
+300561007: études urologiques normales -> études endocrinologiques normales
+300561007: études urologiques normales -> études pneumologiques normales
+300561007: études urologiques normales -> études néphrologiques normales
+300561007: études urologiques normales -> études cardiologiques normales
+249244000: flaccidité du pénis -> flaccide du pénis
+249244000: flaccidité -> flaccide
+41652007: douleur oculaire -> douleur occulaire
+41652007: douleur oculaire -> souffrance oculaire
+41652007: douleur oculaire -> douleurs oculaire
+41652007: douleur oculaire bilatérale -> souffrance oculaire bilatérale
+41652007: douleur oculaire bilatérale -> douleurs oculaire bilatérale
+41652007: douleur oculaire bilatérale -> douleur occulaire bilatérale
+409668002: photophobie intense -> Photophobie intense
+409668002: photophobie -> Photophobie
+168289002: cultures cornéennes négatives pour les bactéries, les champignons, les virus et les parasites -> cultures cornéennes positives pour les bactéries, les champignons, les virus et les parasites
+168289002: cultures cornéennes négatives pour les bactéries, les champignons, les virus et les parasites -> cultures cornéennes négatives pour les bactéries, les champignons, les virus. et les parasites
+168289002: cultures cornéennes négatives pour les bactéries, les champignons, les virus et les parasites -> cultures cornéennes négatives pour les bactéries, les champignons, les Virus et les parasites
+168289002: les cultures cornéennes étaient négatives -> les cultures cornéennes semblaient négatives
+168289002: les cultures cornéennes étaient négatives -> les cultures cornéennes devaient négatives
+168289002: les cultures cornéennes étaient négatives -> les cultures cornéennes étaients négatives
+168289002: les cultures cornéennes étaient négatives -> les cultures cornéennes furent négatives
+168289002: les cultures cornéennes étaient négatives -> les cultures cornéennes restaient négatives
+75229002: hyphéma occupant la moitié de la chambre antérieure -> hyphéma occupant la moité de la chambre antérieure
+75229002: hyphéma occupant la moitié de la chambre antérieure -> hyphéma occupant la moitié de la chambre postérieure
+419326002: limitation dans toutes les positions du regard -> restriction dans toutes les positions du regard
+419326002: limitation du regard -> restriction du regard
+32566006: dysmétrie des quatre membres -> dysmétrie des trois membres
+32566006: dysmétrie des quatre membres -> dysmétrie des cinq membres
+32566006: dysmétrie des quatre membres -> dysmétrie des six membres
+32566006: dysmétrie des quatre membres -> dysmétrie des huit membres
+32566006: dysmétrie des quatre membres -> dysmétrie des deux membres
+60280003: une pression intraoculaire adéquate -> une pression intraoculaire appropriée
+60280003: une pression intraoculaire adéquate -> une pression intraoculaires adéquate
+60280003: une pression intraoculaire adéquate -> une pression intra-oculaire adéquate
+60280003: les valeurs de la pression intraoculaire étaient normales -> les valeurs de la pression intraoculaires étaient normales
+60280003: les valeurs de la pression intraoculaire étaient normales -> les valeurs de la pression intra-oculaire étaient normales
+60280003: les valeurs de la pression intraoculaire étaient normales -> les valeurs de la pression intraoculaire semblaient normales
+60280003: les valeurs de la pression intraoculaire étaient normales -> les valeurs de la pression intraoculaire devaient normales
+60280003: les valeurs de la pression intraoculaire étaient normales -> les valeurs de la pression intraoculaire étaients normales
+60280003: les valeurs de la pression intraoculaire étaient normales -> les valeurs de la pression intraoculaire furent normales
+60280003: les valeurs de la pression intraoculaire étaient normales -> les valeurs de la pression intraoculaire restaient normales
+39575007: urine foncée -> urines foncée
+274667000: douleur hémimandibulaire -> souffrance hémimandibulaire
+274667000: douleur hémimandibulaire -> douleurs hémimandibulaire
+274667000: douleur lancinante dans le corps mandibulaire -> souffrance lancinante dans le corps mandibulaire
+274667000: douleur lancinante dans le corps mandibulaire -> douleurs lancinante dans le corps mandibulaire
+274667000: douleur lancinante dans le corps mandibulaire -> douleur obsédante dans le corps mandibulaire
+49650001: symptômes urinaires irritatifs -> symptômes urinaires irritatif
+49650001: symptômes urinaires irritatifs -> symptômes urinaires irritatives
+49650001: symptômes urinaires irritatifs -> symptomes urinaires irritatifs
+49650001: symptômes urinaires irritatifs -> symtômes urinaires irritatifs
+167221003: le sédiment urinaire était normal -> le sédiment urinaire était anormal
+167221003: le sédiment urinaire était normal -> le sédiment urinaire semblait normal
+167221003: le sédiment urinaire était normal -> le sédiment urinaire est normal
+167221003: le sédiment urinaire était normal -> le sédiment urinaire devait normal
+167221003: le sédiment urinaire était normal -> le sédiment urinaire fut normal
+167221003: le sédiment urinaire était normal -> le sédiment urinaire avait normal
+167221003: le sédiment urinaire était normal -> le sédiments urinaire était normal
+167221003: sédiment normal -> sédiments normal
+167221003: sédiment normal -> sédiment anormal
+422773005: instabilité hémodynamique -> instabilité hémodynamiquement
+422773005: instabilité hémodynamique -> instabilité hémodynamiques
+422773005: instabilité hémodynamique -> instabilité hémodynamie
+422773005: instabilité hémodynamique -> Instabilité hémodynamique
+422773005: déstabilisation hémodynamique -> destabilisation hémodynamique
+422773005: déstabilisation hémodynamique -> déstabilisation hémodynamiquement
+422773005: déstabilisation hémodynamique -> déstabilisation hémodynamiques
+422773005: déstabilisation hémodynamique -> déstabilisation hémodynamie
+422773005: compromis hémodynamique -> compromis hémodynamiquement
+422773005: compromis hémodynamique -> compromis hémodynamiques
+422773005: compromis hémodynamique -> compromis hémodynamie
+422773005: altérations hémodynamiques -> altérations hémodynamiquement
+422773005: altérations hémodynamiques -> altérations hémodynamique
+267727004: perte de vision bilatérale, progressive et indolore -> perte de vision bilatérale, graduelle et indolore
+301367001: douleur abdominale dans l'hypochondre droit -> souffrance abdominale dans l'hypochondre droit
+301367001: douleur abdominale dans l'hypochondre droit -> douleurs abdominale dans l'hypochondre droit
+60728008: l'abdomen était globuleux -> l'abdomen semblait globuleux
+60728008: l'abdomen était globuleux -> l'abdomen est globuleux
+60728008: l'abdomen était globuleux -> l'abdomen devait globuleux
+60728008: l'abdomen était globuleux -> l'abdomen fut globuleux
+60728008: l'abdomen était globuleux -> l'abdomen avait globuleux
+409609008: atteinte du parenchyme basal -> atteinte du parenchymes basal
+409609008: atteinte du parenchyme basal -> atteinte du Parenchyme basal
+409609008: atteinte du parenchyme basal -> atteinte du sclérenchyme basal
+409609008: atteinte du parenchyme basal -> atteinte du aérenchyme basal
+707724006: transaminases élevées -> transaminases élévées
+707724006: transaminases élevées -> Transaminases élevées
+707724006: transaminases élevées -> transaminase élevées
+707724006: augmentation progressive des transaminases -> augmentation graduelle des transaminases
+707724006: augmentation progressive des transaminases -> diminution progressive des transaminases
+707724006: augmentation progressive des transaminases -> hausse progressive des transaminases
+707724006: augmentation progressive des transaminases -> baisse progressive des transaminases
+707724006: augmentation progressive des transaminases -> accroissement progressive des transaminases
+707724006: augmentation progressive des transaminases -> augmentation progressive des Transaminases
+707724006: augmentation progressive des transaminases -> augmentation progressive des transaminase
+707724006: augmentation des transaminases -> augmentation des Transaminases
+707724006: augmentation des transaminases -> augmentation des transaminase
+707724006: augmentation des transaminases -> diminution des transaminases
+707724006: augmentation des transaminases -> hausse des transaminases
+707724006: augmentation des transaminases -> baisse des transaminases
+707724006: augmentation des transaminases -> accroissement des transaminases
+249585009: gaz bordant la paroi de la vessie -> gaz bordant la parois de la vessie
+249585009: gaz bordant la paroi de la vessie -> gaz bordent la paroi de la vessie
+249585009: gaz bordant la paroi de la vessie -> gaz borde la paroi de la vessie
+45007003: hypotension -> Hypotension
+45007003: hypotension artérielle -> Hypotension artérielle
+40709005: douleur lombaire -> souffrance lombaire
+40709005: douleur lombaire -> douleurs lombaire
+40709005: lombalgie -> lombalgies
+40709005: lombalgie -> Lombalgie
+40709005: lombalgie -> lombalgique
+40709005: douleurs lombaires -> douleur lombaires
+23924001: sensation de nœud rétrosternal -> sensation de noeud rétrosternal
+95255005: hypotonie extrême du globe oculaire -> hypotonie extrême du globe occulaire
+95255005: hypotonie extrême du globe oculaire -> hypotonie extrème du globe oculaire
+95255005: hypotonie oculaire -> Hypotonie oculaire
+95255005: hypotonie oculaire -> hypotonie occulaire
+66857006: expectoration hémoptotique -> expectorations hémoptotique
+66857006: légère expectoration hémoptotique -> lègère expectoration hémoptotique
+66857006: légère expectoration hémoptotique -> légère expectorations hémoptotique
+89474008: étude d'extension sans maladie -> étude d'extension sans maladie.La
+89474008: étude d'extension sans maladie -> étude d'extension sans Maladie
+89474008: étude d'extension négative -> étude d'extension positive
+89474008: l'étude d'extension était normale -> l'étude d'extension semblait normale
+89474008: l'étude d'extension était normale -> l'étude d'extension est normale
+89474008: l'étude d'extension était normale -> l'étude d'extension devait normale
+89474008: l'étude d'extension était normale -> l'étude d'extension fut normale
+89474008: l'étude d'extension était normale -> l'étude d'extension avait normale
+431468008: effondrement du troisième ventricule -> écroulement du troisième ventricule
+431468008: effondrement du troisième ventricule -> éffondrement du troisième ventricule
+431468008: effondrement du troisième ventricule -> effondrement du deuxième ventricule
+431468008: effondrement du troisième ventricule -> effondrement du quatrième ventricule
+431468008: effondrement du troisième ventricule -> effondrement du cinquième ventricule
+431468008: effondrement du troisième ventricule -> effondrement du sixième ventricule
+431468008: effondrement du troisième ventricule -> effondrement du huitième ventricule
+70819003: rougeur -> rougeurs
+70819003: peau rougeâtre -> peau jaunâtre
+70819003: peau rougeâtre -> peau noirâtre
+70819003: peau rougeâtre -> peau blanchâtre
+70819003: peau rougeâtre -> peau brunâtre
+70819003: peau rougeâtre -> peau verdâtre
+301354004: otalgie -> otalgies
+68191002: les fuites d'urine sont rares et nocturnes -> les fuites d'urine sont rares et diurnes
+68191002: incontinence nocturne -> incontinence nocture
+63901009: douleur testiculaire aiguë -> douleur testiculaire aigüe
+63901009: douleur testiculaire aiguë -> souffrance testiculaire aiguë
+63901009: douleur testiculaire aiguë -> douleurs testiculaire aiguë
+63901009: légère gêne testiculaire -> lègère gêne testiculaire
+57534004: distorsion des vaisseaux rétiniens -> distortion des vaisseaux rétiniens
+57534004: distorsion des vaisseaux rétiniens -> distorsions des vaisseaux rétiniens
+57534004: distorsion des vaisseaux rétiniens -> distorsion des vaisseau rétiniens
+57534004: diffusion des vaisseaux rétiniens -> diffusion des vaisseau rétiniens
+300449001: uretère normal -> uretères normal
+300449001: uretère normal -> uretère anormal
+267096005: céphalée bifrontopariétale -> céphalées bifrontopariétale
+267096005: céphalée bifrontopariétale -> Céphalée bifrontopariétale
+267096005: céphalée globale, plus intense au niveau frontal -> céphalée globale, moins intense au niveau frontal
+267096005: céphalée globale, plus intense au niveau frontal -> céphalée globale, assez intense au niveau frontal
+267096005: céphalée globale, plus intense au niveau frontal -> céphalée globale, peu intense au niveau frontal
+15930381000119104: œdème des deux disques optiques -> œdème des deux disque optiques
+15930381000119104: œdème des deux disques optiques -> oedème des deux disques optiques
+15930381000119104: œdème papillaire bilatéral -> oedème papillaire bilatéral
+30098003: hyperémie sévère -> hyperhémie sévère
+30098003: hyperémie -> hyperhémie
+398637008: rétine appliquée -> rétines appliquée
+246874003: kératinisation conjonctivale -> kératinisation conjonctivales
+246874003: hyperkératinisation conjonctivale -> hyperkératinisation conjonctivales
+300260007: le conduit était perméable -> le conduit semblait perméable
+300260007: le conduit était perméable -> le conduit est perméable
+300260007: le conduit était perméable -> le conduit devait perméable
+300260007: le conduit était perméable -> le conduit fut perméable
+300260007: le conduit était perméable -> le conduit avait perméable
+300260007: le drainage de la glande parotide gauche est normal -> le drainage de la glande parotide gauche était normal
+300260007: le drainage de la glande parotide gauche est normal -> le drainage de la glande parotide droite est normal
+125144008: la tumeur est friable, avec une croissance végétative -> la tumeur était friable, avec une croissance végétative
+125144008: la tumeur est friable, avec une croissance végétative -> la tumeur est friable, avec une Croissance végétative
+125144008: masse exophytique d'aspect nodulaire -> masse exophytique d'aspect nodulaires
+237783006: tumeur surrénalienne -> tumeur surrénalien
+237783006: tumeur surrénalienne -> tumeur surrénale
+237783006: tumeur surrénalienne -> tumeur surrénaliennes
+237783006: masse hypodense surrénalienne -> masse hypodense surrénalien
+237783006: masse hypodense surrénalienne -> masse hypodense surrénale
+237783006: masse hypodense surrénalienne -> masse hypodense surrénaliennes
+237783006: masse hypodense surrénalienne -> masse hypodensité surrénalienne

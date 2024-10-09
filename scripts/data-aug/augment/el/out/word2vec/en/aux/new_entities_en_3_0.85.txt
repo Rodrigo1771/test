@@ -1,0 +1,132 @@
+81141003: normal bilateral renal function -> normal bilateral pulmonary function
+81141003: good bilateral renal function -> good bilateral pulmonary function
+81141003: preserved renal function -> preserved pulmonary function
+300848003: asymptomatic tumour -> asymptomatic tumor
+300848003: endophytic tumour -> endophytic tumor
+300848003: tumours -> tumors
+300441003: signal hypointensity in the renal cortex -> signal hypointensity in the pulmonary cortex
+300441003: signal hypointensity in the renal cortex -> signal hypointensity in the renal cortical
+300441003: preserved left renal parenchyma -> preserved left pulmonary parenchyma
+300441003: renal distortion -> pulmonary distortion
+69559004: retroperitoneal tumour -> retroperitoneal tumor
+62315008: febrile diarrhoea -> febrile diarrhea
+62315008: diarrhoea -> diarrhea
+25064002: severe headache -> severe headaches
+87361006: leukocytes with left shift -> neutrophils with left shift
+87361006: leukocytes with left shift -> monocytes with left shift
+87361006: leukocytes with left shift -> macrophages with left shift
+87361006: leukocytes with left shift -> monocyte with left shift
+87361006: leukocytes with left shift -> lymphocytes with left shift
+166315009: normal biochemistry -> normal biophysics
+166315009: normal biochemistry -> normal biology
+166315009: normal biochemistry -> normal microbiology
+166315009: normal biochemistry -> normal pharmacology
+87860000: bilateral testicular tumour -> bilateral testicular tumor
+87860000: testicles are engulfed by fibrosis and the tumour mass -> testicles are engulfed by fibrosis and the tumor mass
+399406009: negative tumour markers -> negative tumor markers
+399406009: tumour markers were negative -> tumor markers were negative
+422400008: vomiting -> nausea
+422400008: vomiting -> dizziness
+422400008: self-limited vomiting of variable duration -> self-limited nausea of variable duration
+422400008: self-limited vomiting of variable duration -> self-limited dizziness of variable duration
+166602006: liver function was preserved -> kidney function was preserved
+237783006: adrenal hypodense mass -> pituitary hypodense mass
+237783006: adrenal mass -> pituitary mass
+237783006: adrenal tumour -> adrenal tumor
+237783006: adrenal tumour -> pituitary tumour
+131148009: haemorrhage -> hemorrhage
+22253000: persistent pain -> semi-protection pain
+37125009: mydriasis -> miosis
+37125009: reactive mydriasis -> reactive miosis
+37125009: mild bilateral mydriasis -> mild bilateral miosis
+78341006: polymorphonuclear leukocytes and abundant mucus -> polymorphonuclear leukocytes and abundant mucous
+27194006: corneal oedema -> corneal edema
+27194006: moderate corneal oedema -> moderate corneal edema
+118435004: oedema in small bowel loops -> edema in small bowel loops
+301936006: anterior pole was normal in both eyes -> posterior pole was normal in both eyes
+301936006: good anterior chamber depth -> good posterior chamber depth
+52613005: diaphoresis -> lacrimation
+300855001: intraluminal tumour -> intraluminal tumor
+309088003: upper pole of the right kidney and internally, there is a solid mass -> upper pole of the right liver and internally, there is a solid mass
+309088003: renal mass -> pulmonary mass
+271823003: persistent tachypnoea -> semi-protection tachypnoea
+33958003: induration of the distal third of the penile shaft -> induration of the proximal third of the penile shaft
+204676004: ectopic gastric mucosa -> ectopic gastric mucosal
+204676004: ectopic gastric mucosa -> ectopic gastric mucous
+204676004: ectopic gastric mucosa -> ectopic gastric epithelium
+204676004: heterotopic gastric mucosa -> heterotopic gastric mucosal
+204676004: heterotopic gastric mucosa -> heterotopic gastric mucous
+204676004: heterotopic gastric mucosa -> heterotopic gastric epithelium
+95545007: bloody diarrhoea -> bloody diarrhea
+249543005: abdomen was soft -> thorax was soft
+249543005: soft, depressible, non-painful abdomen -> soft, depressible, non-painful thorax
+249543005: soft abdomen -> soft thorax
+249543005: abdomen is soft, depressible -> thorax is soft, depressible
+165406005: normal parameters of the three haematological series -> normal parameters of the four haematological series
+165406005: normal parameters of the three haematological series -> normal parameters of the two haematological series
+165406005: normal parameters of the three haematological series -> normal parameters of the five haematological series
+165406005: normal parameters of the three haematological series -> normal parameters of the six haematological series
+105593004: electrolyte disturbances -> electrolytes disturbances
+14310000: greenish rhinorrhoea -> yellowish rhinorrhoea
+14310000: greenish rhinorrhoea -> pinkish rhinorrhoea
+14310000: greenish rhinorrhoea -> reddish rhinorrhoea
+14310000: greenish rhinorrhoea -> brownish rhinorrhoea
+14310000: greenish rhinorrhoea -> purplish rhinorrhoea
+28998008: macular haemorrhage -> macular hemorrhage
+298721005: sternal manubrium with cortical destruction -> sternal manubrium with cortex destruction
+445249002: multiple pulmonary nodules -> multiple renal nodules
+163586006: somatic and neurological examinations were normal -> somatic and neurologic examinations were normal
+11092001: tachycardia -> bradycardia
+11092001: sinus tachycardia -> sinus bradycardia
+22994000: generalised hyporeflexia -> generalized hyporeflexia
+102614006: generalised abdominal pain -> generalized abdominal pain
+45007003: hypotension -> bradycardia
+45007003: arterial hypotension -> arterial bradycardia
+74285003: pelvic mass anterior to the bladder -> pelvic mass posterior to the bladder
+248503005: microcystic epithelial oedema -> microcystic epithelial edema
+248503005: microcystic epithelial oedema -> microcystic epithelium oedema
+248503005: microcystic epithelial oedema -> microcystic endothelial oedema
+248503005: microcystic epithelial oedema -> microcystic fibroblasts oedema
+248503005: microcystic epithelial oedema -> microcystic stromal oedema
+248503005: microcystic epithelial oedema -> microcystic epithelia oedema
+248503005: central predominantly tarnished cornea with mild oedema -> central predominantly tarnished cornea with mild edema
+707724006: elevated liver enzymes -> elevated liver enzyme
+707724006: elevated liver enzymes -> elevated liver enzymatic
+707724006: elevated liver enzymes -> elevated liver proteins
+707724006: elevated liver enzymes -> elevated liver proteases
+707724006: elevated liver enzymes -> elevated kidney enzymes
+707724006: elevated transaminase values -> elevated aminotransferase values
+70819003: reddish skin -> yellowish skin
+70819003: reddish skin -> reddish-brown skin
+70819003: reddish skin -> greenish skin
+70819003: reddish skin -> pinkish skin
+70819003: reddish skin -> purplish skin
+111512005: posterior synechiae -> anterior synechiae
+111512005: posterior synechia -> anterior synechia
+267096005: bifrontoparietal headache -> bifrontoparietal headaches
+267096005: frontoparietal headache -> frontoparietal headaches
+33688009: cholestasis enzymes -> cholestasis enzyme
+33688009: cholestasis enzymes -> cholestasis enzymatic
+33688009: cholestasis enzymes -> cholestasis proteins
+33688009: cholestasis enzymes -> cholestasis proteases
+167221003: no alterations in the sediment -> no alterations in the sediments
+167221003: normal sediment -> normal sediments
+301151001: distal pulses were preserved -> proximal pulses were preserved
+301151001: distal pulses present -> proximal pulses present
+330007: occipital headache -> parietal headache
+330007: occipital headache -> occipital headaches
+330007: severe headache in the occipital region -> severe headache in the parietal region
+423341008: papillary oedema -> papillary edema
+423341008: optic disc oedema -> optic disc edema
+431468008: collapse of the third ventricle -> collapse of the third ventricles
+431468008: collapse of the third ventricle -> collapse of the second ventricle
+431468008: collapse of the third ventricle -> collapse of the fourth ventricle
+431468008: collapse of the third ventricle -> collapse of the fifth ventricle
+431468008: ventricular collapse -> atrial collapse
+155876003: non-functioning right kidney -> non-functioning right liver
+155876003: renal annulment -> pulmonary annulment
+169254007: renal ultrasound showed no abnormalities -> renal ultrasound showed no malformations
+169254007: renal ultrasound was normal -> pulmonary ultrasound was normal
+15930381000119104: oedema of both optic discs -> edema of both optic discs
+398637008: normal macular thickness -> normal macular thicknesses
+300260007: drainage of the left parotid gland is normal -> drainage of the left parotid glands is normal

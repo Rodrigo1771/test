@@ -1,0 +1,24 @@
+81141003: il rene destro era funzionalmente normale -> il rene sinistro era funzionalmente normale
+300441003: parenchima renale sinistro conservato -> parenchima renale destro conservato
+52613005: diaforesi -> epigastralgia
+301367001: dolore all'ipocondrio destro -> dolore all'ipocondrio sinistro
+301367001: dolore addominale nell'ipocondrio destro -> dolore addominale nell'ipocondrio sinistro
+301367001: dolore sordo nell'ipocondrio destro -> dolore sordo nell'ipocondrio sinistro
+301367001: dolore addominale prevalentemente nell'ipocondrio destro -> dolore addominale prevalentemente nell'ipocondrio sinistro
+301936006: il polo anteriore era normale in entrambi gli occhi -> il polo posteriore era normale in entrambi gli occhi
+24982008: diplopia binoculare orizzontale -> diplopia binoculare verticale
+24982008: diplopia orizzontale -> diplopia verticale
+445088006: edema della mascella superiore -> edema della mandibola superiore
+79922009: dolore epigastrico -> dolore epigastralgia
+79922009: dolore epigastrico -> dolore pirosi
+79922009: epigastralgia -> epigastrico
+79922009: epigastralgia -> pirosi
+79922009: epigastralgia -> gastroenterici
+79922009: epigastralgia -> diaforesi
+79922009: epigastralgia -> iperpiressia
+74285003: massa pelvica anteriore alla vescica -> massa pelvica posteriore alla vescica
+111512005: sinechie posteriori -> sinechie anteriori
+111512005: sinechia posteriore -> sinechia anteriore
+49650001: disuria -> stranguria
+21454007: emorragia subaracnoidea frontoparietale destra -> emorragia subaracnoidea frontoparietale sinistra
+431468008: collasso del terzo ventricolo -> collasso del quarto ventricolo

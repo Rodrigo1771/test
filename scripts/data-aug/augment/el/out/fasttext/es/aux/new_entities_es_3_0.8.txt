@@ -1,0 +1,1121 @@
+166315009: a nivel analítico no presentaba alteración -> a nivel analítico no presentaban alteración
+166315009: a nivel analítico no presentaba alteración -> a nivel analítico no mostraba alteración
+249543005: abdomen estaba blando -> abdomen Estaba blando
+60728008: abdomen era globuloso -> abdomen era globulosa
+60728008: distensión abdominal -> distención abdominal
+163133003: tac abdominal, que no reveló hallazgos patológicos -> tac abdominal, que no reveló descubrimientos patológicos
+251471009: electroencefalograma presentando una discreta lentificación difusa -> Electroencefalograma presentando una discreta lentificación difusa
+251471009: electroencefalograma presentando una discreta lentificación difusa -> electroencefalogramas presentando una discreta lentificación difusa
+251471009: electroencefalograma presentando una discreta lentificación difusa -> electroencefalográfico presentando una discreta lentificación difusa
+251471009: electroencefalograma presentando una discreta lentificación difusa -> electroencefalografía presentando una discreta lentificación difusa
+247156002: acúmulo de líquido subrretiniano -> acúmulo de liquido subrretiniano
+247156002: exudado subretiniano -> exudado subretiniana
+300441003: adecuada diferenciación cortico-medular -> apropiada diferenciación cortico-medular
+300441003: adecuada diferenciación cortico-medular -> correcta diferenciación cortico-medular
+300441003: parénquima renal izquierdo conservado -> parénquima renal izquierdo preservado
+63049000: adecuada formación ósea longitudinal -> apropiada formación ósea longitudinal
+63049000: adecuada formación ósea longitudinal -> correcta formación ósea longitudinal
+271591004: adecuado nivel de consciencia -> adecuado nivel de conciencia
+271591004: adecuado nivel de consciencia -> apropiado nivel de consciencia
+262285001: disminución de peso -> reducción de peso
+118247008: administración de gadolinio se observó una discreta captación del mismo -> administración de gadolinio se observaba una discreta captación del mismo
+118247008: administración de gadolinio se observó una discreta captación del mismo -> administración de gadolinio se observaron una discreta captación del mismo
+734045002: colección retroperitoneal -> colección retroperitoneales
+15188001: hipoacusia -> Hipoacusia
+15188001: hipoacusia -> hipoacusias
+409609008: afectación parenquimatosa basal -> afectación parenquimatosas basal
+409609008: afectación parenquimatosa basal -> afectación parenquimatoso basal
+409609008: afectación parenquimatosa basal -> afectación intraparenquimatosa basal
+409609008: afectación parenquimatosa basal -> afectación parenquima basal
+19829001: afectación pulmonar parenquimatosa -> afectación pulmonar parenquimatosas
+19829001: afectación pulmonar parenquimatosa -> afectación pulmonar parenquimatoso
+19829001: afectación pulmonar parenquimatosa -> afectación pulmonar intraparenquimatosa
+19829001: afectación pulmonar parenquimatosa -> afectación pulmonar parenquima
+90708001: retención en polo superior izquierdo -> retención en polo inferior izquierdo
+166558007: lactato deshidrogenasa y la alfafetoproteína normales -> lactato 1-deshidrogenasa y la alfafetoproteína normales
+166558007: lactato deshidrogenasa y la alfafetoproteína normales -> lactato 2-deshidrogenasa y la alfafetoproteína normales
+166558007: lactato deshidrogenasa y la alfafetoproteína normales -> lactato dehidrogenasa y la alfafetoproteína normales
+122449004: aire en el riñón izquierdo y tejidos perirrenales, que infiltra la pared abdominal -> aire en el riñon izquierdo y tejidos perirrenales, que infiltra la pared abdominal
+442635007: cultivo positivo para pseudomona aureaginosa -> cultivo positivo para pseudomonas aureaginosa
+442635007: cultivo positivo para pseudomona aureaginosa -> cultivo positivo para Pseudomona aureaginosa
+442635007: cultivo de secreción fue escherichia coli -> cultivo de secreción fué escherichia coli
+442635007: positivo en las cuatro que se realizan para leuconostoc spp. -> positivo en las cuatro que se efectúan para leuconostoc spp.
+442635007: positivo en las cuatro que se realizan para leuconostoc spp. -> positivo en las cuatro que se realiza para leuconostoc spp.
+442635007: positivo en las cuatro que se realizan para leuconostoc spp. -> positivo en las tres que se realizan para leuconostoc spp.
+442635007: positivo en las cuatro que se realizan para leuconostoc spp. -> positivo en las cinco que se realizan para leuconostoc spp.
+442635007: positivo en las cuatro que se realizan para leuconostoc spp. -> positivo en las seis que se realizan para leuconostoc spp.
+442635007: positivo en las cuatro que se realizan para leuconostoc spp. -> positivo en las siete que se realizan para leuconostoc spp.
+442635007: positivo en las cuatro que se realizan para leuconostoc spp. -> positivo en las ocho que se realizan para leuconostoc spp.
+442635007: aislamientos previos de staphylococcus epidermidis -> aislamientos previos de Staphylococcus epidermidis
+442635007: cultivo fue también positivo para s. aureus -> cultivo fue además positivo para s. aureus
+442635007: cultivo fue también positivo para s. aureus -> cultivo fue también negativo para s. aureus
+442635007: e. cloacae, c. sedlakii, k pneumoniae blee (β-lactamasa de espectro extendido) positiva -> e. cloacae, c. sedlakii, k pneumoniae blee (β-lactamasa de espectro extendido) negativa
+442635007: exudado prostático y del pus fueron positivos a e. coli -> exudado prostático y del pus fueron negativos a e. coli
+442635007: exudado prostático y del pus fueron positivos a e. coli -> exudado prostático y del pus Fueron positivos a e. coli
+442635007: cultivo positivo a listeria monocytogenes -> cultivo negativo a listeria monocytogenes
+442635007: cultivo dieron positivo para escherichia coli -> cultivo dio positivo para escherichia coli
+429268001: aislamientos: staphylococcus epidermidis en el catéter funcionante -> aislamientos: staphylococcus epidermidis en el catéteres funcionante
+707724006: valores elevados de transaminasas -> valores elevados de Transaminasas
+707724006: aumento progresivo de transaminasas -> aumento progresivo de Transaminasas
+707724006: aumento progresivo de transaminasas -> incremento progresivo de transaminasas
+707724006: elevación de las transaminasas -> elevación de las Transaminasas
+707724006: aumento de las transaminasas -> aumento de las Transaminasas
+707724006: aumento de las transaminasas -> incremento de las transaminasas
+707724006: ligera elevación de transaminasas -> ligera elevación de Transaminasas
+707724006: elevación de transaminasas -> elevación de Transaminasas
+707724006: alt y ast mayores de 20 veces el valor normal -> alt y ast mayores de 15 veces el valor normal
+707724006: alt y ast mayores de 20 veces el valor normal -> alt y ast mayores de 30 veces el valor normal
+707724006: alt y ast mayores de 20 veces el valor normal -> alt y ast mayores de 25 veces el valor normal
+707724006: alt y ast mayores de 20 veces el valor normal -> alt y ast mayores de 10 veces el valor normal
+707724006: alt y ast mayores de 20 veces el valor normal -> alt y ast mayores de 18 veces el valor normal
+166642001: transaminasas y enzimas de colestasis dentro de la normalidad -> transaminasas y enzimas de colestasia dentro de la normalidad
+166642001: transaminasas y enzimas de colestasis dentro de la normalidad -> Transaminasas y enzimas de colestasis dentro de la normalidad
+170728008: disminución de agudeza visual (av -> reducción de agudeza visual (av
+170728008: disminución de av en su od -> reducción de av en su od
+170728008: disminución de la av -> reducción de la av
+170728008: disminución de la agudeza visual -> reducción de la agudeza visual
+170728008: pérdida progresiva de agudeza visual -> pérdida paulatina de agudeza visual
+170728008: disminución de agudeza visual -> reducción de agudeza visual
+170728008: mala agudeza visual -> pésima agudeza visual
+166603001: alteración de los test hepáticos -> alteración de los test renales
+166603001: alteración de los test hepáticos -> alteración de los tests hepáticos
+422773005: alteraciones hemodinámicas -> alteraciones Hemodinámicas
+422773005: inestable hemodinámicamente -> inestable hemodinamicamente
+105593004: alteración hidroelectrolítica severa -> alteración hidroelectrolíticas severa
+105593004: alteración hidroelectrolítica severa -> alteración hidroelectrolítico severa
+105593004: alteración hidroelectrolítica severa -> alteración hidroelectrolíticos severa
+105593004: alteraciones electrolíticas -> alteraciones Electrolíticas
+105593004: alteraciones electrolíticas -> alteraciones hidroelectrolíticas
+26436007: anomalías del equilibrio ácido-base -> anomalías del equilibro ácido-base
+26436007: anomalías del equilibrio ácido-base -> anomalías del equlibrio ácido-base
+26436007: anomalías del equilibrio ácido-base -> anomalías del equilibrio acido-base
+26436007: alteraciones del equilibrio ácido-base -> alteraciones del equilibro ácido-base
+26436007: alteraciones del equilibrio ácido-base -> alteraciones del equlibrio ácido-base
+26436007: alteraciones del equilibrio ácido-base -> alteraciones del equilibrio acido-base
+102594003: alteraciones electrocardiográficas -> alteraciones ecocardiográficas
+102594003: alteraciones electrocardiográficas -> alteraciones electroencefalográficas
+102594003: alteraciones electrocardiográficas -> alteraciones electromiográficas
+102594003: onda j en las derivaciones inferiores y anteriores -> onda j en las derivaciones superiores y anteriores
+64882008: febrícula -> Febrícula
+64882008: síndrome febril -> Síndrome febril
+64882008: síndrome febril -> sindrome febril
+64882008: febrícula ocasional -> Febrícula ocasional
+68790008: amiloide con tinción de rojo congo -> amiloide con tinción de amarillo congo
+68790008: amiloide con tinción de rojo congo -> amiloide con tinción de azul congo
+68790008: amiloide con tinción de rojo congo -> amiloides con tinción de rojo congo
+68790008: amiloide con tinción de rojo congo -> β-amiloide con tinción de rojo congo
+68790008: amiloide con tinción de rojo congo -> amiloidea con tinción de rojo congo
+68790008: amiloide con tinción de rojo congo -> β-Amiloide con tinción de rojo congo
+68790008: presencia de material amiloide -> presencia de material amiloides
+68790008: presencia de material amiloide -> presencia de material β-amiloide
+68790008: presencia de material amiloide -> presencia de material amiloidea
+68790008: presencia de material amiloide -> presencia de material β-Amiloide
+167221003: sin alteraciones en el sedimento -> sin alteraciones en el sedimentos
+167221003: elemental de orina y sedimento eran normales -> elemental de orina y sedimentos eran normales
+167221003: sedimento urinario no mostraba alteraciones -> sedimento urinario no mostraban alteraciones
+167221003: sedimento urinario no mostraba alteraciones -> sedimento urinario no demostraba alteraciones
+167221003: sedimento urinario no mostraba alteraciones -> sedimento urinario no presentaba alteraciones
+167221003: sedimento urinario no mostraba alteraciones -> sedimentos urinario no mostraba alteraciones
+167221003: analítica de orina negativa -> analítica de orina positiva
+167221003: sedimento normal -> sedimentos normal
+167221003: sedimento de orina normal -> sedimentos de orina normal
+102834005: micción espontánea confortable -> micción espontanea confortable
+102834005: anamnesis urológica es normal -> anamnesis urológica Es normal
+79890006: anorexia -> bulimia
+79890006: anorexia moderada -> bulimia moderada
+736687002: anti-hbc: positivo -> anti-hbc: negativo
+166165005: anticardiolipina igg en valores normales -> anticardiolipinas igg en valores normales
+166165005: anticardiolipina igg en valores normales -> cardiolipinas igg en valores normales
+166165005: anticardiolipina igg en valores normales -> cardiolipina igg en valores normales
+166165005: inmunología negativa -> inmunología positiva
+166165005: serologías normales -> Serologías normales
+166165005: anticuerpos antitiroglobulina y antiperoxidasa normales -> anticuerpos tiroglobulina y antiperoxidasa normales
+166165005: anticuerpos antitiroglobulina y antiperoxidasa normales -> anticuerpos Tiroglobulina y antiperoxidasa normales
+165878000: anticardiolipina: negativo -> anticardiolipina: positivo
+165878000: negativos los anticuerpos antifosfolipídicos -> negativos los anticuerpos antifosfolipídico
+165878000: negativos los anticuerpos antifosfolipídicos -> negativos los anticuerpos Antifosfolipídico
+165878000: negativos los anticuerpos antifosfolipídicos -> positivos los anticuerpos antifosfolipídicos
+165879008: estudio inmunológico fue positivo para el anticuerpo anti gq-1b -> estudio inmunológico fue positivo para el anticuerpo anti- gq-1b
+165879008: anticuerpos antitransglutaminasa tisular iga positivos -> anticuerpos anti-transglutaminasa tisular iga positivos
+165879008: anticuerpos antitransglutaminasa tisular iga positivos -> anticuerpos transglutaminasa tisular iga positivos
+165879008: descenso en el título de los anticuerpos antitiroideos -> descenso en el titulo de los anticuerpos antitiroideos
+165879008: crmp-5-igg, que resultó positivo -> crmp-5-igg, que resultó negativo
+165879008: crmp-5-igg, que resultó positivo -> crmp-5-igg, que Resultó positivo
+445201008: antígeno carcinoembrionario (cea) se encontró elevado -> antígenos carcinoembrionario (cea) se encontró elevado
+155876003: riñón derecho sin función -> riñon derecho sin función
+129680003: gammagrafía con 99mtecnecio fue positiva en el campo quirúrgico -> gammagrafía con 99mtecnecio fué positiva en el campo quirúrgico
+129680003: área fría -> área fria
+129680003: captaciones múltiples -> captaciones innumerables
+300532006: área hiperecogénica en el lóbulo prostático -> área hiperecogénico en el lóbulo prostático
+300532006: área hiperecogénica en el lóbulo prostático -> área ecogénica en el lóbulo prostático
+300532006: área hiperecogénica en el lóbulo prostático -> área hipoecogénica en el lóbulo prostático
+1217294009: patrón en vidrio deslustrado -> patrón en cristal deslustrado
+1217294009: áreas de vidrio deslustrado -> áreas de cristal deslustrado
+1003721002: artralgias en ambas rodillas -> poliartralgias en ambas rodillas
+1003721002: artralgias en ambas rodillas -> artralgia en ambas rodillas
+1003721002: artralgias en ambas rodillas -> Artralgias en ambas rodillas
+389026000: líquido ascítico peritoneal, -> liquido ascítico peritoneal,
+389026000: líquido ascítico -> liquido ascítico
+52985009: líquido ascítico de características quilosas -> líquido ascítico de carácterísticas quilosas
+52985009: líquido ascítico de características quilosas -> líquido ascítico de carácteristicas quilosas
+52985009: líquido ascítico de características quilosas -> liquido ascítico de características quilosas
+52985009: líquido ascítico extraído presentaba características de exudado y aspecto quiloso -> líquido ascítico extraído presentaban características de exudado y aspecto quiloso
+52985009: líquido ascítico extraído presentaba características de exudado y aspecto quiloso -> líquido ascítico extraído mostraba características de exudado y aspecto quiloso
+52985009: líquido ascítico extraído presentaba características de exudado y aspecto quiloso -> liquido ascítico extraído presentaba características de exudado y aspecto quiloso
+52985009: líquido ascítico extraído presentaba características de exudado y aspecto quiloso -> líquido ascítico extraído presentaba carácterísticas de exudado y aspecto quiloso
+52985009: líquido ascítico extraído presentaba características de exudado y aspecto quiloso -> líquido ascítico extraído presentaba carácteristicas de exudado y aspecto quiloso
+61448007: lsi con atelectasia -> lsi con atelectasias
+61448007: lsi con atelectasia -> lsi con Atelectasia
+61448007: atelectasia basal derecha en la rx de tórax -> atelectasias basal derecha en la rx de tórax
+61448007: atelectasia basal derecha en la rx de tórax -> Atelectasia basal derecha en la rx de tórax
+271823003: taquipnea -> Taquipnea
+271823003: taquipnea -> polipnea
+271823003: aumento de la frecuencia respiratoria -> incremento de la frecuencia respiratoria
+271823003: taquipnea persistente -> Taquipnea persistente
+271823003: taquipnea persistente -> polipnea persistente
+396697000: aumento de la ldh -> incremento de la ldh
+396697000: aumento leve de ldh en sangre -> incremento leve de ldh en sangre
+276331001: aumento del hemiescroto -> incremento del hemiescroto
+276331001: aumento de tamaño de hemiescroto -> incremento de tamaño de hemiescroto
+276331001: aumento del tamaño del hemiescroto -> incremento del tamaño del hemiescroto
+108571000119102: aumento de volumen parasinfisario -> aumento de volúmen parasinfisario
+108571000119102: aumento de volumen parasinfisario -> incremento de volumen parasinfisario
+108571000119102: aumento de volumen por vestibular que compromete el cuerpo y la sínfisis -> incremento de volumen por vestibular que compromete el cuerpo y la sínfisis
+80515008: aumento del hígado -> incremento del hígado
+80515008: hepatomegalia dolorosa -> Hepatomegalia dolorosa
+300401007: aumento paulatino del perímetro abdominal -> incremento paulatino del perímetro abdominal
+300401007: aumento del perímetro abdominal -> incremento del perímetro abdominal
+276412008: aumento indoloro del testículo -> incremento indoloro del testículo
+276412008: teste derecho horinzontalizado, aumentado de tamaño -> teste derecho horinzontalizado, incrementado de tamaño
+276412008: teste derecho horinzontalizado, aumentado de tamaño -> teste derecho horinzontalizado, disminuido de tamaño
+166717003: elevación de la concentración de creatinina en plasma -> elevación de la concentración de Creatinina en plasma
+166717003: aumento progresivo de la creatinina -> incremento progresivo de la creatinina
+166717003: aumento progresivo de la creatinina -> aumento progresivo de la Creatinina
+166717003: elevación de la creatinina sérica -> elevación de la Creatinina sérica
+64730000: auscultación cardiaca estaba rítmica -> auscultación cardíaca estaba rítmica
+64730000: auscultación cardiaca rítmica -> auscultación cardíaca rítmica
+64730000: auscultación cardíaca es rítmica -> auscultación cardiaca es rítmica
+48348007: murmullo vesicular conservado -> murmullo vesicular preservado
+61373006: sedimento de orina positivo a bacilos gramnegativos -> sedimento de orina negativo a bacilos gramnegativos
+61373006: sedimento de orina positivo a bacilos gramnegativos -> sedimentos de orina positivo a bacilos gramnegativos
+61373006: bacteriuria -> Bacteriuria
+443371007: disminución del nivel de consciencia -> reducción del nivel de consciencia
+443371007: disminución del nivel de conciencia -> reducción del nivel de conciencia
+443371007: deterioro progresivo del nivel de conciencia -> deterioro progresivo del nivel de consciencia
+443371007: deterioro del nivel de conciencia -> deterioro del nivel de consciencia
+443371007: obnubilación progresiva -> obnubilación paulatina
+443371007: bajo nivel de consciencia -> bajo nivel de conciencia
+112081000119108: estudio con lámpara de hendidura no presentaba patología -> estudio con lampara de hendidura no presentaba patología
+112081000119108: estudio con lámpara de hendidura no presentaba patología -> estudio con lámpara de hendidura no presentaban patología
+112081000119108: estudio con lámpara de hendidura no presentaba patología -> estudio con lámpara de hendidura no mostraba patología
+112081000119108: biomicroscopía es normal -> criomicroscopía es normal
+112081000119108: biomicroscopía es normal -> biomicroscopía Es normal
+76917005: bocio multinodular con presencia de un nódulo sólido -> bocio Multinodular con presencia de un nódulo sólido
+76917005: bocio multinodular con presencia de un nódulo sólido -> bocio multinodulares con presencia de un nódulo sólido
+165142008: broncoscopia en la que no se encontraron anomalías -> broncoscopía en la que no se encontraron anomalías
+165142008: broncoscopia en la que no se encontraron anomalías -> Broncoscopia en la que no se encontraron anomalías
+165142008: broncoscopia en la que no se encontraron anomalías -> fibrobroncoscopia en la que no se encontraron anomalías
+165142008: broncoscopia en la que no se encontraron anomalías -> broncoscopias en la que no se encontraron anomalías
+165142008: fibrobroncoscopia no se encontraron hallazgos patológicos -> fibrobroncoscopia no se encontraron descubrimientos patológicos
+135815002: buenas condiciones generales -> malas condiciones generales
+135815002: estado general conservado -> estado general preservado
+81141003: función renal permaneció normal -> función renal Permaneció normal
+81141003: función renal permaneció normal -> función renal permanecía normal
+81141003: función renal permaneció normal -> función renal mantuvo normal
+81141003: riñón derecho se mostraba funcionalmente normal -> riñon derecho se mostraba funcionalmente normal
+81141003: riñón derecho se mostraba funcionalmente normal -> riñón derecho se mostraban funcionalmente normal
+81141003: riñón derecho se mostraba funcionalmente normal -> riñón derecho se demostraba funcionalmente normal
+81141003: riñón derecho se mostraba funcionalmente normal -> riñón derecho se presentaba funcionalmente normal
+301936006: tinción negativa con fluoresceína -> tinción negativa con Fluoresceína
+301936006: tinción negativa con fluoresceína -> tinción positiva con fluoresceína
+301936006: polo anterior estaba dentro de la normalidad -> polo anterior Estaba dentro de la normalidad
+309306009: serología para echinococcos granulosis y multilocularis negativas -> serologia para echinococcos granulosis y multilocularis negativas
+309306009: serología para echinococcos granulosis y multilocularis negativas -> serología para echinococcos granulosis y multiloculata negativas
+309306009: serología para echinococcos granulosis y multilocularis negativas -> serología para echinococcos granulosis y multiloculares negativas
+309306009: serología para echinococcos granulosis y multilocularis negativas -> serología para echinococcos granulosis y multilocular negativas
+309306009: serología para echinococcos granulosis y multilocularis negativas -> serología para echinococcos granulosis y bilocularis negativas
+309306009: pcr vhs-1 positivo -> pcr vhs-1 negativo
+309306009: busqueda de bacilos acido-alcohol resistentes negativa -> busqueda de bacilos acido-alcohol resistentes positiva
+309306009: pruebas complementarias incluyendo microbiológicas fueron negativas -> pruebas complementarias incluyendo microbiológicas Fueron negativas
+309306009: tinción de auramina para micobacterias fue negativa -> tinción de auramina para micobacteria fue negativa
+309306009: tinción de auramina para micobacterias fue negativa -> tinción de auramina para micobacterianas fue negativa
+309306009: tinción de auramina para micobacterias fue negativa -> tinción de auramina para micobacteriana fue negativa
+309306009: tinción de auramina para micobacterias fue negativa -> tinción de auramina para micobacterias fue positiva
+309306009: serología hepática vírica negativa -> serologia hepática vírica negativa
+309306009: serología hepática vírica negativa -> serología hepática vírica positiva
+309306009: tinción zielh negativa -> tinción zielh positiva
+309306009: muestras microbiológicas negativas -> muestras microbiológicas positivas
+309306009: tinciones de muestras respiratorias fueron negativas para p. carinii (p. jiroveci -> tinciones de muestras respiratorias fueron negativas para p. carinii (p. jirovecii
+309306009: tinción de ziehl neelsen modificada fue negativa -> tinción de ziehl neelsen modificada fué negativa
+309306009: tinción de gram en la que no se observaron gérmenes -> tinción de gram en la que no se observó gérmenes
+309306009: tinción de gram en la que no se observaron gérmenes -> tinción de gram en la que no se Observaron gérmenes
+309306009: tinción de zn negativo -> tinción de zn positivo
+55446002: mutación 2785+3 del aagt en el intrón 19 del gen jagged 1 -> mutación 2785+3 del aagt en el intrón 17 del gen jagged 1
+55446002: mutación 2785+3 del aagt en el intrón 19 del gen jagged 1 -> mutación 2785+3 del aagt en el intrón 21 del gen jagged 1
+55446002: mutación 2785+3 del aagt en el intrón 19 del gen jagged 1 -> mutación 2785+3 del aagt en el intrón 22 del gen jagged 1
+55446002: mutación 2785+3 del aagt en el intrón 19 del gen jagged 1 -> mutación 2785+3 del aagt en el intrón 23 del gen jagged 1
+55446002: mutación 2785+3 del aagt en el intrón 19 del gen jagged 1 -> mutación 2785+3 del aagt en el intrón 14 del gen jagged 1
+734871004: estudio cromosómico fue masculino 46 xy con cariotipo normal -> estudio cromosómico fue masculino 44 xy con cariotipo normal
+734871004: estudio cromosómico fue masculino 46 xy con cariotipo normal -> estudio cromosómico fue masculino 47 xy con cariotipo normal
+734871004: estudio cromosómico fue masculino 46 xy con cariotipo normal -> estudio cromosómico fue masculino 41 xy con cariotipo normal
+734871004: estudio cromosómico fue masculino 46 xy con cariotipo normal -> estudio cromosómico fue masculino 42 xy con cariotipo normal
+734871004: estudio cromosómico fue masculino 46 xy con cariotipo normal -> estudio cromosómico fue masculino 53 xy con cariotipo normal
+734871004: cariotipo femenino normal -> cariotipo masculino normal
+734871004: cariotipo femenino normal -> Cariotipo femenino normal
+82385007: pérdida de la intensidad de señal de las suprahepáticas -> pérdida de la intensidad de señal de las intrahepáticas
+82385007: pérdida de la intensidad de señal de las suprahepáticas -> pérdida de la intensidad de señal de las extrahepáticas
+82385007: pérdida de la intensidad de señal de las suprahepáticas -> pérdida de la intensidad de señal de las suprahepática
+82385007: pérdida de la intensidad de señal de las suprahepáticas -> pérdida de la intensidad de señal de las intrahepáticos
+82385007: cava intrahepática disminuida de calibre -> cava extrahepática disminuida de calibre
+82385007: cava intrahepática disminuida de calibre -> cava intrahepático disminuida de calibre
+82385007: cava intrahepática disminuida de calibre -> cava suprahepática disminuida de calibre
+82385007: cava intrahepática disminuida de calibre -> cava extrahepático disminuida de calibre
+82385007: cava intrahepática disminuida de calibre -> cava intrahepáticas disminuida de calibre
+118434000: disminución de volumen de la cámara gástrica -> disminución de volúmen de la cámara gástrica
+25064002: cefalea intensa -> cefaleas intensa
+267096005: cefalea frontoparietal -> cefaleas frontoparietal
+267096005: cefalea frontoparietal -> cefalea fronto-parietal
+267096005: cefalea bifrontoparietal -> cefaleas bifrontoparietal
+330007: cefalea occipital -> cefaleas occipital
+330007: cefalea intensa en región occipital -> cefaleas intensa en región occipital
+246924004: córnea íntegra y transparente -> córnea íntegra y trasparente
+246924004: córnea transparente -> córnea trasparente
+399406009: marcadores tumorales séricos estaban en niveles normales -> marcadores tumorales séricos Estaban en niveles normales
+399406009: marcadores tumorales séricos estaban en niveles normales -> marcadores tumorales séricos estuvieron en niveles normales
+399406009: marcadores tumorales séricos estaban en niveles normales -> marcadores tumorales séricos encontraban en niveles normales
+399406009: marcadores tumorales séricos estaban en niveles normales -> marcadores tumorales séricos hallaban en niveles normales
+399406009: marcadores tumorales fueron negativos -> marcadores tumorales fueron positivos
+399406009: marcadores tumorales fueron negativos -> marcadores tumorales Fueron negativos
+399406009: marcadores tumorales negativos -> marcadores tumorales positivos
+399406009: marcadores testiculares negativos -> marcadores testiculares positivos
+399406009: marcadores tumorales son negativos -> marcadores tumorales son positivos
+399406009: exploración física y los marcadores tumorales son normales -> exploración fisica y los marcadores tumorales son normales
+2004005: normotensa -> normotenso
+2004005: normotensa -> normotensas
+2004005: normotensa -> normotensiva
+2004005: normotensa -> normotensión
+2004005: normotensa -> normotensos
+310438004: citología de orina, que no evidenciaba células malignas -> citología de orina, que no evidenciaban células malignas
+310438004: citología de orina, que no evidenciaba células malignas -> citologia de orina, que no evidenciaba células malignas
+310438004: citologías de orina fueron negativas -> citologías de orina Fueron negativas
+310438004: citologías de orina fueron negativas -> citologias de orina fueron negativas
+5559008: citología no se observaron células malignas -> citología no se observó células malignas
+5559008: citología no se observaron células malignas -> citología no se Observaron células malignas
+5559008: citología no se observaron células malignas -> citología no se observaron lascélulas malignas
+5559008: citología no se observaron células malignas -> citología no se observaron decélulas malignas
+5559008: citología no se observaron células malignas -> citología no se observaron celulas malignas
+5559008: citología no se observaron células malignas -> citologia no se observaron células malignas
+5559008: citología fue negativo para células malignas -> citologia fue negativo para células malignas
+5559008: citología fue negativo para células malignas -> citología fue positivo para células malignas
+5559008: citología fue negativo para células malignas -> citología fue negativo para lascélulas malignas
+5559008: citología fue negativo para células malignas -> citología fue negativo para decélulas malignas
+5559008: citología fue negativo para células malignas -> citología fue negativo para celulas malignas
+5559008: citología negativa para células malignas -> citología negativa para lascélulas malignas
+5559008: citología negativa para células malignas -> citología negativa para decélulas malignas
+5559008: citología negativa para células malignas -> citología negativa para celulas malignas
+5559008: citología negativa para células malignas -> citología positiva para células malignas
+5559008: citología negativa para malignidad -> citología positiva para malignidad
+5559008: citología negativa para malignidad -> citologia negativa para malignidad
+249274008: sintomatología urinaria -> sintomatológica urinaria
+249274008: sintomatología urinaria -> sintomatologia urinaria
+308921004: sintomatología neurológica -> sintomatológica neurológica
+308921004: sintomatología neurológica -> sintomatologia neurológica
+165562007: coagulación no presentaron alteraciones -> coagulación no presentó alteraciones
+300449001: uréter normal -> uréteres normal
+300449001: indemnidad del uréter distal -> indemnidad del uréter proximal
+300449001: indemnidad del uréter distal -> indemnidad del uréteres distal
+300449001: uréteres permeables -> uréter permeables
+9908006: desarrollo sicomotor acorde para su edad -> desarrollo psicomotor acorde para su edad
+9908006: cociente de desarrollo psicomotor normal -> cociente de desarrollo sicomotor normal
+431468008: colapso del tercer ventrículo -> colapso del segundo ventrículo
+431468008: colapso del tercer ventrículo -> colapso del quinto ventrículo
+431468008: colapso del tercer ventrículo -> colapso del primer ventrículo
+431468008: colapso del tercer ventrículo -> colapso del sexto ventrículo
+431468008: colapso del tercer ventrículo -> colapso del octavo ventrículo
+249604002: próstata estaba bien delimitada -> próstata Estaba bien delimitada
+249604002: próstata estaba bien delimitada -> próstata estaba bien delimitado
+235993005: colecciones líquidas -> colecciones liquidas
+33688009: colestasis -> colestasia
+33688009: enzimas de colestasis -> enzimas de colestasia
+39575007: orina oscura -> orina obscura
+309569001: complemento c3 y c4 normal -> complemento c3 y c5 normal
+309569001: complemento fue normal -> complemento fué normal
+106150003: compromiso del nervio alveolar inferior -> compromiso del nervio alveolar superior
+300260007: drenaje de la glándula parótida izquierda es normal -> drenaje de la glándula parótidas izquierda es normal
+300260007: drenaje de la glándula parótida izquierda es normal -> drenaje de la glándula parótida izquierda Es normal
+72970002: constantes vitales fueron normales -> constantes vitales Fueron normales
+766960007: contenido ecógeno en cava inferior -> contenido ecógeno en cava superior
+91175000: crisis -> crísis
+54200006: convulsión tónico-clónica generalizada -> convulsión tónico-clónicas generalizada
+54200006: crisis tónico-clónica -> crísis tónico-clónica
+54200006: crisis tónico-clónica -> crisis tónico-clónicas
+165772007: test de coombs directo negativo -> tests de coombs directo negativo
+165772007: test de coombs directo negativo -> test de coombs directo positivo
+249244000: flaccidez peneana -> flaccidez peneal
+249244000: flaccidez peneana -> flacidez peneana
+249244000: cordón longitudinal indurado en la base del pene -> cordón longitudinal indurada en la base del pene
+249244000: cordón longitudinal indurado en la base del pene -> cordón longitudinal indurados en la base del pene
+249244000: flaccidez -> flacidez
+88458008: cultivo donde creció streptococcus milleri -> cultivo donde crecieron streptococcus milleri
+88458008: cultivo bacteriológico, identificando streptococo pyogenes -> cultivo bacteriológico, identificando Streptococo pyogenes
+88458008: cultivo bacteriológico, identificando streptococo pyogenes -> cultivo bacteriológico, identificando Estreptococo pyogenes
+88458008: cultivo bacteriológico, identificando streptococo pyogenes -> cultivo bacteriológico, identificando streptococci pyogenes
+88458008: cultivo bacteriológico, identificando streptococo pyogenes -> cultivo bacteriológico, identificando estreptococo pyogenes
+88458008: cultivo bacteriológico, identificando streptococo pyogenes -> cultivo bacteriológico, identificando streptococcus pyogenes
+88458008: crecimiento de staphylococcus aureus -> crecimiento de Staphylococcus aureus
+248690009: crepitación a la auscultación cardíaca -> crepitación a la auscultación cardiaca
+286933003: síndrome confusional -> Síndrome confusional
+286933003: síndrome confusional -> sindrome confusional
+708118007: cultivo para bacterias habituales, incluidas neiserias y haemophilus, fueron negativos -> cultivo para bacterias habituales, incluidas neiserias y haemophilus, Fueron negativos
+708118007: cultivo fue negativo -> cultivo fué negativo
+708118007: cultivo fue negativo -> cultivo fue positivo
+708118007: cultivo líquido pericárdico fue estéril -> cultivo líquido pericárdicos fue estéril
+708118007: cultivo líquido pericárdico fue estéril -> cultivo líquido pericárdico fué estéril
+708118007: negativo, así como tres hemocultivos -> negativo, así como tres hemocultivo
+708118007: negativo, así como tres hemocultivos -> negativo, así como tres Hemocultivos
+708118007: cultivo negativo -> cultivo positivo
+708118007: hemocultivos fueron estériles -> hemocultivo fueron estériles
+708118007: hemocultivos fueron estériles -> Hemocultivos fueron estériles
+708118007: hemocultivos fueron estériles -> hemocultivos Fueron estériles
+708118007: cultivo para virus herpes simple fue negativo -> cultivo para virus herpes simple fue positivo
+708118007: hemocultivos negativos -> hemocultivos positivos
+708118007: hemocultivos negativos -> hemocultivo negativos
+708118007: hemocultivos negativos -> Hemocultivos negativos
+708118007: cultivo (aerobio y anaerobio) fue negativo para bacterias -> cultivo (aerobio y anaerobio) fué negativo para bacterias
+708118007: cultivos reiterados negativos -> cultivos reiterados positivos
+167570003: urocultivo se aislan más de 100.000 ufc/ml de escherichia coli -> urocultivos se aislan más de 100.000 ufc/ml de escherichia coli
+167570003: urocultivo se aislan más de 100.000 ufc/ml de escherichia coli -> Urocultivo se aislan más de 100.000 ufc/ml de escherichia coli
+167570003: cultivo de orina positivo para e.coli -> cultivo de orina negativo para e.coli
+167568007: urocultivo resultó negativo -> urocultivos resultó negativo
+167568007: urocultivo resultó negativo -> Urocultivo resultó negativo
+167568007: urocultivo resultó negativo -> urocultivo resultó positivo
+167568007: urocultivo resultó negativo -> urocultivo Resultó negativo
+167568007: cultivos de orina (multiples muestras) en médio de lowenstein negativas -> cultivos de orina (multiples muestras) en médio de lowenstein positivas
+167568007: urocultivo estéril -> urocultivos estéril
+167568007: urocultivo estéril -> Urocultivo estéril
+168289002: cultivos corneales negativos para bacterias, hongos, virus y parásitos -> cultivos corneales positivos para bacterias, hongos, virus y parásitos
+168289002: cultivos corneales negativos para bacterias, hongos, virus y parásitos -> cultivos corneales negativos para bacterias, hongos, virus y parasitarios
+168289002: cultivos cornéales fueron negativos -> cultivos cornéales Fueron negativos
+168289002: cultivo del raspado corneal negativo -> cultivo del raspado corneal positivo
+274682005: cultivos de semen: e. coli (1o), s. sprophiticus (2o), p. mirabilis -> cultivos de semen: d. coli (1o), s. sprophiticus (2o), p. mirabilis
+274682005: cultivos de semen: e. coli (1o), s. sprophiticus (2o), p. mirabilis -> cultivos de semen: c. coli (1o), s. sprophiticus (2o), p. mirabilis
+274682005: cultivos de semen: e. coli (1o), s. sprophiticus (2o), p. mirabilis -> cultivos de semen: b. coli (1o), s. sprophiticus (2o), p. mirabilis
+274682005: cultivos de semen: e. coli (1o), s. sprophiticus (2o), p. mirabilis -> cultivos de semen: e. coli (1o), s. sprophiticus (2o), a. mirabilis
+129759000: cv -> CV
+55930002: d-st marcada en derivaciones v1 a v5 -> d-st marcada en derivaciones v2 a v5
+55930002: d-st descendente en las derivaciones v1-v2 -> d-st ascendente en las derivaciones v1-v2
+55930002: depresión del segmento st en las derivaciones i, ii, avl y v2 a v6 -> depresión del segmento st en las derivaciones i, ii, avl y v1 a v6
+55930002: depresión del segmento st en las derivaciones i, ii, avl y v2 a v6 -> depresión del segmento st en las derivaciones j, ii, avl y v2 a v6
+55930002: depresión del segmento st en las derivaciones i, ii, avl y v2 a v6 -> depresión del segmento st en las derivaciones r, ii, avl y v2 a v6
+55930002: depresión del segmento st en las derivaciones i, ii, avl y v2 a v6 -> depresión del segmento st en las derivaciones n, ii, avl y v2 a v6
+55930002: depresión del segmento st en las derivaciones i, ii, avl y v2 a v6 -> depresión del segmento st en las derivaciones t, ii, avl y v2 a v6
+55930002: depresión del segmento st en las derivaciones i, ii, avl y v2 a v6 -> depresión del segmento st en las derivaciones k, ii, avl y v2 a v6
+55930002: d-st horizontal en v3 a v5 -> d-st vertical en v3 a v5
+713514005: debilidad de miembros -> debilidad de integrantes
+713514005: debilidad muscular en las cuatro extremidades -> debilidad muscular en las tres extremidades
+713514005: debilidad muscular en las cuatro extremidades -> debilidad muscular en las cinco extremidades
+713514005: debilidad muscular en las cuatro extremidades -> debilidad muscular en las seis extremidades
+713514005: debilidad muscular en las cuatro extremidades -> debilidad muscular en las siete extremidades
+713514005: debilidad muscular en las cuatro extremidades -> debilidad muscular en las ocho extremidades
+102568007: debilidad de miembros inferiores -> debilidad de integrantes inferiores
+102568007: debilidad de miembros inferiores -> debilidad de miembros superiores
+102568007: disminución de la fuerza en ambos miembros inferiores -> disminución de la fuerza en ambos miembros superiores
+102568007: déficit motor en miembro inferior -> déficit motor en miembro superior
+249939004: debilidad en musculatura proximal -> debilidad en musculatura distal
+249939004: debilidad muscular proximal en brazos y piernas -> debilidad muscular distal en brazos y piernas
+274730004: múltiples defectos de repleción intravesicales -> innumerables defectos de repleción intravesicales
+249545003: irritación peritoneal principalmente en hipogastrio y fosa iliaca izquierda -> irritación peritoneal principalmente en hipogastrio y fosa ilíaca izquierda
+249545003: irritación peritoneal principalmente en hipogastrio y fosa iliaca izquierda -> irritación peritoneal fundamentalmente en hipogastrio y fosa iliaca izquierda
+249545003: irritación peritoneal principalmente en hipogastrio y fosa iliaca izquierda -> irritación peritoneal mayormente en hipogastrio y fosa iliaca izquierda
+249545003: defensa a la palpación -> defensa a la Palpación
+76114004: retraso funcional de riñón -> retraso funcional de riñon
+76114004: escasa funcionalidad del riñón -> escasa funcionalidad del riñon
+76114004: escasa funcionalidad del riñón -> poca funcionalidad del riñón
+76114004: escasa funcionalidad del riñón -> escasísima funcionalidad del riñón
+85670002: disminución de las vitaminas liposolubles -> reducción de las vitaminas liposolubles
+85670002: disminución de las vitaminas liposolubles -> disminución de las vitaminas hidrosolubles
+398212009: deposiciones líquidas -> deposiciones liquidas
+34095006: signos de depleción hidrosalina -> signos de depleción hidrosalino
+34095006: signos de depleción hidrosalina -> signos de deplección hidrosalina
+314983004: deterioro importante de la función renal -> deterioro importantísimo de la función renal
+314983004: deterioro importante de su función renal -> deterioro importantísimo de su función renal
+52613005: diaforético -> diaforética
+52613005: diaforético -> diaforéticas
+9589009: marcha se observaba claudicación -> marcha se observaban claudicación
+9589009: marcha se observaba claudicación -> marcha se miraba claudicación
+9589009: marcha se observaba claudicación -> marcha se Observaba claudicación
+9589009: marcha se observaba claudicación -> marcha se observó claudicación
+9589009: imposibilita la deambulación -> impide la deambulación
+9589009: imposibilita la deambulación -> dificulta la deambulación
+49233005: disnea progresiva -> Disnea progresiva
+49233005: disnea progresiva -> disnea paulatina
+49233005: disnea de intensidad progresiva -> disnea de intensidad paulatina
+49233005: disnea de intensidad progresiva -> Disnea de intensidad progresiva
+49233005: disnea -> Disnea
+57534004: fases más avanzadas mostraban focos de difusión progresiva en el espacio subpigmentario y subretiniano -> fases más avanzadas mostraban focos de difusión paulatina en el espacio subpigmentario y subretiniano
+57534004: fases más avanzadas mostraban focos de difusión progresiva en el espacio subpigmentario y subretiniano -> fases más avanzadas mostraba focos de difusión progresiva en el espacio subpigmentario y subretiniano
+57534004: fases más avanzadas mostraban focos de difusión progresiva en el espacio subpigmentario y subretiniano -> fases más avanzadas demostraban focos de difusión progresiva en el espacio subpigmentario y subretiniano
+57534004: fases más avanzadas mostraban focos de difusión progresiva en el espacio subpigmentario y subretiniano -> fases más avanzadas mostraron focos de difusión progresiva en el espacio subpigmentario y subretiniano
+57534004: fases más avanzadas mostraban focos de difusión progresiva en el espacio subpigmentario y subretiniano -> fases más avanzadas presentaban focos de difusión progresiva en el espacio subpigmentario y subretiniano
+57534004: fases más avanzadas mostraban focos de difusión progresiva en el espacio subpigmentario y subretiniano -> fases más avanzadas veían focos de difusión progresiva en el espacio subpigmentario y subretiniano
+57534004: distorsión de los vasos sanguíneos retinianos alrededor de la mácula -> distorsión de los vasos sanguíneos retinianos rededor de la mácula
+24982008: diplopía en todas las posiciones, -> Diplopía en todas las posiciones,
+24982008: diplopía en todas las posiciones, -> diplopia en todas las posiciones,
+24982008: diplopia -> Diplopia
+24982008: diplopia horizontal -> diplopia vertical
+24982008: diplopia horizontal -> Diplopia horizontal
+24982008: diplopia horizontal -> diplopía horizontal
+24982008: diplopía -> Diplopía
+24982008: diplopía binocular horizontal -> diplopía binocular vertical
+24982008: diplopía binocular horizontal -> Diplopía binocular horizontal
+24982008: diplopía binocular horizontal -> diplopia binocular horizontal
+399122003: disfagia progresiva -> disfagia paulatina
+162024005: disfagia a sólidos y líquidos progresiva -> disfagia a sólidos y líquidos paulatina
+162024005: disfagia moderada a sólidos -> disfagia moderada a solidos
+32566006: dismetria en las cuatro extremidades -> dismetria en las tres extremidades
+32566006: dismetria en las cuatro extremidades -> dismetria en las cinco extremidades
+32566006: dismetria en las cuatro extremidades -> dismetria en las seis extremidades
+32566006: dismetria en las cuatro extremidades -> dismetria en las siete extremidades
+32566006: dismetria en las cuatro extremidades -> dismetria en las ocho extremidades
+718403007: disminución de la diuresis -> disminución de la Diuresis
+718403007: disminución de la diuresis -> reducción de la diuresis
+718403007: disminución de diuresis -> disminución de Diuresis
+718403007: disminución de diuresis -> reducción de diuresis
+64379006: disminución de la ingesta -> disminución de la ingestión
+64379006: disminución de la ingesta -> reducción de la ingesta
+64379006: reducción en la ingesta -> disminución en la ingesta
+64379006: reducción en la ingesta -> reducción en la ingestión
+225581002: mala visión -> pésima visión
+225581002: disminución de la visión -> reducción de la visión
+49650001: disuria -> Disuria
+49650001: molestias en el tracto urinario inferior -> molestias en el tracto urinario superior
+300474003: diuresis espontánea -> Diuresis espontánea
+300474003: diuresis espontánea -> diuresis espontanea
+300474003: diuresis mantenida -> Diuresis mantenida
+300474003: diuresis conservada -> Diuresis conservada
+247348008: dolorosa a la palpación -> dolorosa a la Palpación
+247348008: dolor a la palpación -> dolor a la Palpación
+247348008: dolorosas a la palpación -> dolorosas a la Palpación
+274279008: dolor a nivel del injerto renal -> dolor a nivel del injertos renal
+301367001: dolor abdominal ubicado en hipocondrio derecho, de leve -> dolor abdominal situado en hipocondrio derecho, de leve
+301411008: palpación dolorosa a nivel de la fosa iliaca izquierda -> Palpación dolorosa a nivel de la fosa iliaca izquierda
+79922009: dolor epigástrico cólico -> dolor epigástricos cólico
+79922009: dolor epigástrico cólico -> dolor epigástrica cólico
+79922009: epigastralgia -> gastralgia
+79922009: dolor epigástrico -> dolor epigástricos
+79922009: dolor epigástrico -> dolor epigástrica
+162052001: dolor en fosa ilíaca izquierda -> dolor en fosa ilíaca derecha
+162050009: dolor en flanco/fosa renal derecha que le irradia hasta teste ipsilateral -> dolor en flanco/fosa renal izquierda que le irradia hasta teste ipsilateral
+162050009: dolor en flanco/fosa renal derecha que le irradia hasta teste ipsilateral -> dolor en flanco/fosa renal izquiera que le irradia hasta teste ipsilateral
+279040009: dolor lumbar de características mecánicas -> dolor lumbar de carácterísticas mecánicas
+279040009: dolor lumbar de características mecánicas -> dolor lumbar de carácteristicas mecánicas
+164854000: electrocardiograma fue normal -> electrocardiograma fué normal
+164854000: electrocardiograma fue normal -> Electrocardiograma fue normal
+164854000: electrocardiograma fue normal -> electrocardiogramas fue normal
+164854000: electrocardiograma fue normal -> ECG fue normal
+164854000: ecg fue normal -> ecg fué normal
+163352001: eco renal y testículo-prostática sin hallazgos -> eco renal y testículo-prostática sin descubrimientos
+163352001: ecografía renal, vesical y prostática no se encontraron alteraciones -> ecografía renal, vesical y prostática no se hallaron alteraciones
+163352001: ecografía renal, vesical y prostática no se encontraron alteraciones -> ecografía renal, vesical y prostática no se encontró alteraciones
+163352001: ecografía renal, vesical y prostática no se encontraron alteraciones -> ecografía renal, vesical y prostática no se Encontraron alteraciones
+163352001: ecografía renal, vesical y prostática no se encontraron alteraciones -> ecografía renal, vesical y prostática no se descubrieron alteraciones
+169240004: ecocardiograma transtorácico en el que no se encontraron alteraciones -> ecocardiograma transtorácico en el que no se hallaron alteraciones
+169240004: ecocardiograma transtorácico en el que no se encontraron alteraciones -> ecocardiograma transtorácico en el que no se encontró alteraciones
+169240004: ecocardiograma transtorácico en el que no se encontraron alteraciones -> ecocardiograma transtorácico en el que no se Encontraron alteraciones
+169240004: ecocardiograma transtorácico en el que no se encontraron alteraciones -> ecocardiograma transtorácico en el que no se descubrieron alteraciones
+169240004: ecocardiograma transtorácico en el que no se encontraron alteraciones -> ecocardiografía transtorácico en el que no se encontraron alteraciones
+169240004: ecocardiograma transtorácico en el que no se encontraron alteraciones -> ecocardiogramas transtorácico en el que no se encontraron alteraciones
+169240004: ecocardiograma transtorácico en el que no se encontraron alteraciones -> Ecocardiograma transtorácico en el que no se encontraron alteraciones
+169240004: ecocardiograma transtorácico en el que no se encontraron alteraciones -> ecocardiografia transtorácico en el que no se encontraron alteraciones
+169240004: ecocardiografía transtorácica mostró imágenes normales -> ecocardiografía transtorácica mostró fotografías normales
+169240004: ecocardiografía transtorácica mostró imágenes normales -> ecocardiografia transtorácica mostró imágenes normales
+169240004: ecocardiografía transtorácica mostró imágenes normales -> ecocardiograma transtorácica mostró imágenes normales
+169254007: ecografía de abdomen que no evidenció patología -> ecografia de abdomen que no evidenció patología
+169254007: ecografía de abdomen que no evidenció patología -> ecografías de abdomen que no evidenció patología
+169254007: ecografía de abdomen que no evidenció patología -> ecografía de abdomen que no evidenciaron patología
+169254007: ecografía abdominal no había hallazgos significativos -> ecografía abdominal no habían hallazgos significativos
+169254007: ecografía abdominal no había hallazgos significativos -> ecografía abdominal no Había hallazgos significativos
+169254007: ecografía de abdomen fue normal -> ecografía de abdomen fué normal
+169254007: ecografía hepática que fue normal -> ecografía hepática que fué normal
+169254007: ecografía hepática que fue normal -> ecografia hepática que fue normal
+169254007: ecografía hepática que fue normal -> ecografías hepática que fue normal
+169254007: ecografía renal no evidenció anomalías -> ecografía renal no evidenciaron anomalías
+169254007: ecografía renal es normal -> ecografía renal Es normal
+169254007: ecografía renal fue normal -> ecografía renal fué normal
+15930381000119104: papiledema bilateral -> Papiledema bilateral
+445088006: edema de maxilar superior -> edema de maxilar inferior
+423341008: papiledema -> Papiledema
+424372002: edemas distales -> edemas proximales
+424372002: edema distal de la extremidad -> edema proximal de la extremidad
+102572006: edemas en extremidades inferiores -> edemas en extremidades superiores
+102572006: edema en miembro inferior -> edema en miembro superior
+102572006: edemas leves en miembros inferiores -> edemas leves en integrantes inferiores
+102572006: edemas leves en miembros inferiores -> edemas leves en miembros superiores
+102572006: edemas en miembros inferiores -> edemas en integrantes inferiores
+102572006: edemas en miembros inferiores -> edemas en miembros superiores
+26237000: edemas maleolares simétricos -> edemas maleolar simétricos
+164717000: electroencefalograma que resulta ser un trazado sin hallazgos patológicos -> Electroencefalograma que resulta ser un trazado sin hallazgos patológicos
+164717000: electroencefalograma que resulta ser un trazado sin hallazgos patológicos -> electroencefalogramas que resulta ser un trazado sin hallazgos patológicos
+164717000: electroencefalograma que resulta ser un trazado sin hallazgos patológicos -> electroencefalográfico que resulta ser un trazado sin hallazgos patológicos
+164717000: electroencefalograma que resulta ser un trazado sin hallazgos patológicos -> electroencefalografía que resulta ser un trazado sin hallazgos patológicos
+164717000: registro electroencefalográfico de 24 horas de duración en el que no se evidencian alteraciones -> registro electroencefalográfica de 24 horas de duración en el que no se evidencian alteraciones
+164717000: registro electroencefalográfico de 24 horas de duración en el que no se evidencian alteraciones -> registro electroencefalográficos de 24 horas de duración en el que no se evidencian alteraciones
+164717000: registro electroencefalográfico de 24 horas de duración en el que no se evidencian alteraciones -> registro Electroencefalograma de 24 horas de duración en el que no se evidencian alteraciones
+164717000: registro electroencefalográfico de 24 horas de duración en el que no se evidencian alteraciones -> registro electroencefalograma de 24 horas de duración en el que no se evidencian alteraciones
+164717000: registro electroencefalográfico de 24 horas de duración en el que no se evidencian alteraciones -> registro electroencefalografías de 24 horas de duración en el que no se evidencian alteraciones
+164717000: electroencefalograma estuvo dentro de los límites normales -> Electroencefalograma estuvo dentro de los límites normales
+164717000: electroencefalograma estuvo dentro de los límites normales -> electroencefalogramas estuvo dentro de los límites normales
+164717000: electroencefalograma estuvo dentro de los límites normales -> electroencefalográfico estuvo dentro de los límites normales
+164717000: electroencefalograma estuvo dentro de los límites normales -> electroencefalografía estuvo dentro de los límites normales
+164717000: electroencefalograma estuvo dentro de los límites normales -> electroencefalograma Estuvo dentro de los límites normales
+164717000: electroencefalograma estuvo dentro de los límites normales -> electroencefalograma estuvo dentro de los limites normales
+164717000: registros electroencefalográficos (eeg) fueron normales -> registros electroencefalogramas (eeg) fueron normales
+164717000: registros electroencefalográficos (eeg) fueron normales -> registros electroencefalográficas (eeg) fueron normales
+164717000: registros electroencefalográficos (eeg) fueron normales -> registros electroencefalográfico (eeg) fueron normales
+164717000: registros electroencefalográficos (eeg) fueron normales -> registros electroencefalografías (eeg) fueron normales
+414478003: elevación de la cifra de leucocitos -> elevación de la cifra de neutrófilos
+414478003: leve aumento del número de leucocitos -> leve incremento del número de leucocitos
+414478003: leucocitosis -> Leucocitosis
+88936002: elevación de los dos hemidiafragmas -> elevación de los tres hemidiafragmas
+88936002: elevación de los dos hemidiafragmas -> elevación de los cuatro hemidiafragmas
+88936002: elevación de los dos hemidiafragmas -> elevación de los cinco hemidiafragmas
+88936002: elevación de los dos hemidiafragmas -> elevación de los seis hemidiafragmas
+66999008: valores séricos de la hormona paratiroidea intacta (ipth) fueron altos -> valores plasmáticos de la hormona paratiroidea intacta (ipth) fueron altos
+168276008: elisa igg: positivo -> elisa igg: negativo
+168276008: elisa captura g: positivo -> elisa captura g: negativo
+168276008: elisa (2ª técnica): positivo -> elisa (2ª técnica): negativo
+313170008: en la colonoscopia, no se observaron alteraciones -> en la colonoscopia, no se observó alteraciones
+313170008: en la colonoscopia, no se observaron alteraciones -> en la colonoscopia, no se Observaron alteraciones
+249266007: epidídimo engrosado, hipoecoico y con vascularización periférica -> epidídimos engrosado, hipoecoico y con vascularización periférica
+249266007: epidídimo engrosado, hipoecoico y con vascularización periférica -> Epidídimo engrosado, hipoecoico y con vascularización periférica
+233776003: engrosamiento de la carina en su separación con el bronquio lobar superior -> engrosamiento de la carina en su separación con el bronquio lobar inferior
+233776003: lesiones macroscópicas en la vía aérea -> lesiones macroscópicas en la via aérea
+233776003: lesiones macroscópicas en la vía aérea -> lesiones microscópicas en la vía aérea
+70819003: piel rojiza -> piel verdosa
+70819003: piel rojiza -> piel amarillenta
+386789004: eosinofilia -> Eosinofilia
+386789004: eosinofilia en sangre -> Eosinofilia en sangre
+386789004: eosinofilia periférica -> Eosinofilia periférica
+400202001: livideces en miembros inferiores -> livideces en miembros superiores
+400202001: livideces en miembros inferiores -> livideces en integrantes inferiores
+43724002: escalofrios -> escalofrio
+68191002: escapes de orina son escasos y nocturnos -> escapes de orina son escasos y diurnos
+68191002: incontinencia nocturna -> incontinencia noctura
+15280003: rha disminuido -> rha aumentado
+15280003: rha disminuido -> rha incrementado
+15280003: rha disminuido -> rha disminuído
+15280003: escasos ruidos intestinales -> escasos ruídos intestinales
+15280003: escasos ruidos intestinales -> escasos ruido intestinales
+165141001: gastroscopia que resultó normal -> gastroscopia que Resultó normal
+165141001: gastroscopia que resultó normal -> gastroscopía que resultó normal
+165141001: gastroscopia era normal -> gastroscopía era normal
+398637008: retina in situ en la ecografia modo b -> retina in situ en la ecografía modo b
+398637008: retina in situ en la ecografia modo b -> retina in situ en la ecografias modo b
+398637008: retina in situ en la ecografia modo b -> retina in situ en la ecografia modo c
+398637008: espesor macular normal -> grosor macular normal
+61281005: esputos hemoptoico -> esputos hemoptoica
+301459008: hemodinámicamente estable -> hemodinamicamente estable
+301459008: estable hemodinámicamente -> estable hemodinamicamente
+89474008: estudio de extensión negativo -> estudio de extensión positivo
+89474008: estudio de extensión fue normal -> estudio de extensión fué normal
+408573005: estudio ecográfico abdominal fue normal -> estudio ecográfico abdominal fué normal
+408573005: gammagrafía tiroidea fue normal -> gammagrafía tiroidea fué normal
+408573005: pruebas de imagen resultaron negativas -> pruebas de imágen resultaron negativas
+408573005: pruebas de imagen resultaron negativas -> pruebas de imagen resultaron positivas
+408573005: gammagrafía con 67galio fue negativa -> gammagrafía con 67galio fué negativa
+408573005: gammagrafía con 67galio fue negativa -> gammagrafía con 67galio fue positiva
+89458003: estupor -> estupefacción
+162010006: examen intrabucal no se observaron alteraciones -> examen extrabucal no se observaron alteraciones
+162010006: examen intrabucal no se observaron alteraciones -> examen intrabucales no se observaron alteraciones
+162010006: examen intrabucal no se observaron alteraciones -> exámen intrabucal no se observaron alteraciones
+162010006: exploración intraoral fue normal -> exploración extraoral fue normal
+162010006: exploración intraoral fue normal -> exploración Intraoral fue normal
+162010006: exploración intraoral fue normal -> exploración intraorales fue normal
+163586006: exploración somática y neurológica fueron normales -> exploración somática y neurológica Fueron normales
+163586006: exploración neurológica es rigurosamente normal -> exploración neurológica Es rigurosamente normal
+163586006: examen neurológico general sin alteraciones -> exámen neurológico general sin alteraciones
+163586006: exploración general y neurológica fue normal -> exploración general y neurológica fué normal
+419099009: murió -> Murió
+419099009: falleció -> Falleció
+419099009: falleció -> fallecía
+419099009: falleció -> falleciera
+18265008: exoftalmos bilateral -> Exoftalmos bilateral
+66857006: expectoración leve hemoptoica -> expectoración leve hemoptoico
+66857006: expectoración hemoptoica -> expectoración hemoptoico
+164734008: exploración fundoscópica en el od fue normal -> exploración fundoscópica en el od fué normal
+164734008: fondo de ojo muestra una apariencia prácticamente normal -> fondo de ojo muestra una apariencia casi normal
+164734008: fondo de ojo fue normal -> fondo de ojo fué normal
+166602006: perfil hepático, fueron normales -> perfil hepático, Fueron normales
+166602006: función hepática estaba conservada -> función hepática Estaba conservada
+830010004: exploración genital es normal -> exploración genital Es normal
+165840002: factor reumatoideo negativo -> factor reumatoideos negativo
+165840002: factor reumatoideo negativo -> factor reumatoideo positivo
+165840002: factor reumatoide negativo -> factor reumatoide positivo
+165840002: factor reumatoide negativo -> factor reumatoidea negativo
+82470000: fasciculación perceptible en ambos muslos -> fasciculaciones perceptible en ambos muslos
+82470000: fasciculaciones de la musculatura periférica y del diafragma -> Fasciculaciones de la musculatura periférica y del diafragma
+82470000: fasciculaciones de la musculatura periférica y del diafragma -> fasciculación de la musculatura periférica y del diafragma
+82470000: fasciculaciones -> Fasciculaciones
+82470000: fasciculaciones -> fasciculación
+27925004: nódulo subcapsular -> nódulo subcapsulares
+309088003: polo superior del riñón derecho y en situación interna, se aprecia una masa sólida -> polo superior del riñon derecho y en situación interna, se aprecia una masa sólida
+309088003: polo superior del riñón derecho y en situación interna, se aprecia una masa sólida -> polo inferior del riñón derecho y en situación interna, se aprecia una masa sólida
+309088003: polo inferior de riñón izquierdo formación nodular -> polo superior de riñón izquierdo formación nodular
+309088003: masa hiperecoica en la cortical del riñón -> masa hiperecoica en la cortical del riñon
+309088003: masa renal derecha en polo inferior -> masa renal izquierda en polo inferior
+309088003: masa renal derecha en polo inferior -> masa renal izquiera en polo inferior
+309088003: masa renal derecha en polo inferior -> masa renal derecha en polo superior
+309088003: nódulos sólidos en ambos riñones -> nódulos solidos en ambos riñones
+309088003: masa sólida en polo superior de riñón -> masa sólida en polo superior de riñon
+309088003: masa fue claramente visualizada sobre el borde externo del riñón -> masa fue claramente visualizada sobre el borde interno del riñón
+309088003: masa de 5cm de diámetro en riñón izquierdo -> masa de 4cm de diámetro en riñón izquierdo
+309088003: masa de 5cm de diámetro en riñón izquierdo -> masa de 3cm de diámetro en riñón izquierdo
+309088003: masa de 5cm de diámetro en riñón izquierdo -> masa de 7cm de diámetro en riñón izquierdo
+309088003: masa de 5cm de diámetro en riñón izquierdo -> masa de 6cm de diámetro en riñón izquierdo
+309088003: masa de 5cm de diámetro en riñón izquierdo -> masa de 8cm de diámetro en riñón izquierdo
+309088003: masa de 5cm de diámetro en riñón izquierdo -> masa de 5cm de diámetro en riñon izquierdo
+309088003: masas renales -> masas hepáticos
+165507003: leucocitos normales -> neutrófilos normales
+165507003: recuento de leucocitos era normal -> recuento de neutrófilos era normal
+427924001: fuga del contraste fuera de la vía urinaria -> fuga del contraste fuera de la via urinaria
+312397004: perfil tiroideo fue normal -> perfil tiroideo fué normal
+301855007: ganglios negativos -> ganglios positivos
+249250005: respetaba el glande -> respetaban el glande
+300357002: páncreas aumentado globalmente de tamaño, hipodenso -> páncreas incrementado globalmente de tamaño, hipodenso
+300357002: páncreas aumentado globalmente de tamaño, hipodenso -> páncreas disminuido globalmente de tamaño, hipodenso
+300357002: halo peripancreático hipodenso -> halo peripancreático hipodensa
+300357002: halo peripancreático hipodenso -> halo peripancreático hipodensas
+300357002: páncreas aumentado de tamaño -> páncreas incrementado de tamaño
+300357002: páncreas aumentado de tamaño -> páncreas disminuido de tamaño
+84454003: masa que deformaba hemiabdomen anterior derecho -> masa que deformaban hemiabdomen anterior derecho
+823013008: tumoración inguinoescrotal derecha muy dolorosa -> tumoración inguinoescrotal izquierda muy dolorosa
+823013008: tumoración inguinoescrotal derecha muy dolorosa -> tumoración inguinoescrotal izquiera muy dolorosa
+823013008: hemiescroto derecho aumentado de tamaño -> hemiescroto derecho incrementado de tamaño
+823013008: hemiescroto derecho aumentado de tamaño -> hemiescroto derecho disminuido de tamaño
+8730001000004107: hemocultivos seriados que resultaron ser positivos para staphylococcus aureus -> hemocultivos seriados que resultaron ser positivos para Staphylococcus aureus
+8730001000004107: staphylococcus epidermidis en varios hemocultivos -> staphylococcus epidermidis en varios hemocultivo
+8730001000004107: staphylococcus epidermidis en varios hemocultivos -> staphylococcus epidermidis en varios Hemocultivos
+8730001000004107: staphylococcus epidermidis en varios hemocultivos -> Staphylococcus epidermidis en varios hemocultivos
+8730001000004107: hemocultivos positivos a staphylococcus (st.) aureus -> hemocultivos positivos a Staphylococcus (st.) aureus
+8730001000004107: hemocultivos positivos a staphylococcus (st.) aureus -> hemocultivos negativos a staphylococcus (st.) aureus
+8730001000004107: hemocultivos crece un e. coli -> hemocultivo crece un e. coli
+8730001000004107: hemocultivos crece un e. coli -> Hemocultivos crece un e. coli
+8730001000004107: hemocultivos crece un e. coli -> hemocultivos crece un d. coli
+8730001000004107: hemocultivos crece un e. coli -> hemocultivos crece un c. coli
+8730001000004107: hemocultivos crece un e. coli -> hemocultivos crece un b. coli
+8730001000004107: hemocultivos seriados en los que se aisló de forma persistente neisseria sicca -> hemocultivos seriados en los que se aisló de manera persistente neisseria sicca
+68600005: hemoglobinuria -> Hemoglobinuria
+68600005: hemoglobinuria -> mioglobinuria
+68600005: hemoglobinuria macroscópica -> Hemoglobinuria macroscópica
+68600005: hemoglobinuria macroscópica -> mioglobinuria macroscópica
+165406005: hemograma normal -> Hemograma normal
+165406005: hemograma normal -> hemogramas normal
+165406005: parámetros normales de las tres series hematológicas -> parámetros normales de las cuatro series hematológicas
+165406005: parámetros normales de las tres series hematológicas -> parámetros normales de las dos series hematológicas
+165406005: parámetros normales de las tres series hematológicas -> parámetros normales de las cinco series hematológicas
+165406005: parámetros normales de las tres series hematológicas -> parámetros normales de las seis series hematológicas
+165406005: parámetros normales de las tres series hematológicas -> parámetros normales de las siete series hematológicas
+131148009: sangrado -> sangramiento
+74474003: sangrado digestivo -> sangramiento digestivo
+21454007: hemorragia subaracnoidea -> hemorragia Subaracnoidea
+21454007: hemorragia subaracnoidea mínima en región suprasilviana izquierda -> hemorragia Subaracnoidea mínima en región suprasilviana izquierda
+21454007: hemorragia subaracnoidea frontoparietal derecha -> hemorragia subaracnoidea frontoparietal izquierda
+21454007: hemorragia subaracnoidea frontoparietal derecha -> hemorragia subaracnoidea frontoparietal izquiera
+21454007: hemorragia subaracnoidea frontoparietal derecha -> hemorragia Subaracnoidea frontoparietal derecha
+13937002: localización subretiniana de esta hemorragia, -> localización subretiniano de esta hemorragia,
+13937002: hemorragia subretiniana -> hemorragia subretiniano
+30098003: hiperemia -> Hiperemia
+30098003: hiperemia grave -> hiperemia gravísimo
+30098003: hiperemia grave -> Hiperemia grave
+76849009: hiperemia conjuntival -> Hiperemia conjuntival
+76849009: hiperemia conjuntival mixta -> Hiperemia conjuntival mixta
+14140009: hipokalemia -> Hipokalemia
+14140009: hipokalemia -> hiperkalemia
+14140009: hipokalemia -> Hiperkalemia
+14140009: hipokalemia -> hipocalemia
+14140009: hiperpotasemia -> Hiperpotasemia
+4996001: hipofosfatemia grave -> hiperfosfatemia grave
+4996001: hipofosfatemia grave -> hipofosfatemia gravísimo
+119247004: hipoalbuminemia grave -> Hipoalbuminemia grave
+119247004: hipoalbuminemia grave -> albuminemia grave
+119247004: hipoalbuminemia grave -> hipoalbuminemia gravísimo
+119247004: hipoalbuminemia -> Hipoalbuminemia
+119247004: hipoalbuminemia -> albuminemia
+5291005: hipocalcemia -> Hipocalcemia
+5291005: hipocalcemia -> hipercalcemia
+5291005: hipocalcemia severa -> Hipocalcemia severa
+5291005: hipocalcemia severa -> hipercalcemia severa
+429783005: parestesias ocasionales y leves en miembros inferiores -> parestesias ocasionales y leves en miembros superiores
+429783005: parestesias en las extremidades inferiores -> parestesias en las extremidades superiores
+429783005: hipoestesia parcheada en las extremidades inferiores -> hipoestesia parcheada en las extremidades superiores
+429783005: hipoestesia parcheada en las extremidades inferiores -> Hipoestesia parcheada en las extremidades inferiores
+429783005: parestesias en miembros inferiores -> parestesias en miembros superiores
+429783005: parestesias en miembros inferiores -> parestesias en integrantes inferiores
+82020005: hipomagnesemia leve -> Hipomagnesemia leve
+82020005: hipomagnesemia leve -> hipermagnesemia leve
+82020005: mg por debajo de la normalidad -> μg por debajo de la normalidad
+82020005: mg por debajo de la normalidad -> mg por encima de la normalidad
+82020005: hipomagnesemia -> Hipomagnesemia
+82020005: hipomagnesemia -> hipermagnesemia
+89627008: hiponatremia grave -> Hiponatremia grave
+89627008: hiponatremia grave -> hipernatremia grave
+89627008: hiponatremia grave -> hiponatremia gravísimo
+89627008: hiponatremia -> Hiponatremia
+89627008: hiponatremia -> hipernatremia
+22994000: hiporreflexia generalizada -> arreflexia generalizada
+22994000: hiporreflexia generalizada -> hiperreflexia generalizada
+22994000: hiporreflexia -> arreflexia
+22994000: hiporreflexia -> hiperreflexia
+45007003: hipotenso -> hipotensa
+45007003: hipotenso -> hipotensivo
+45007003: hipotenso -> hipotensos
+45007003: hipotensión -> Hipotensión
+45007003: hipotensión arterial -> Hipotensión arterial
+95255005: hipotonía del oi -> Hipotonía del oi
+95255005: hipotonía del oi -> hipotonia del oi
+95255005: hipotonía extrema del globo ocular -> Hipotonía extrema del globo ocular
+95255005: hipotonía extrema del globo ocular -> hipotonia extrema del globo ocular
+95255005: hipotonía ocular -> Hipotonía ocular
+95255005: hipotonía ocular -> hipotonia ocular
+31515003: hipoventilación -> Hipoventilación
+165815009: negativo para vih -> negativo para hiv
+165815009: negativo para vih -> positivo para vih
+165815009: hiv negativo -> hiv positivo
+165815009: hiv negativo -> vih negativo
+18165001: ictérica -> anictérica
+246975001: ictericia mucocutánea indolora -> ictericia mucocutáneo indolora
+246975001: ictericia mucocutánea indolora -> ictericia mucocutáneas indolora
+445460009: serología positiva para veb -> serología negativa para veb
+445460009: serología positiva para veb -> serologia positiva para veb
+312895004: íleon terminal una mucosa extremadamente irregular -> íleon terminal una mucosa sumamente irregular
+312895004: íleon terminal una mucosa extremadamente irregular -> íleon terminal una mucosa extremamente irregular
+312895004: íleon terminal una mucosa extremadamente irregular -> íleon terminal una mucosa tremendamente irregular
+312895004: íleon terminal una mucosa extremadamente irregular -> íleon terminal una mucosa increíblemente irregular
+312895004: íleon terminal una mucosa extremadamente irregular -> íleon terminal una mucosa muy irregular
+309530007: imagen de 3 cm en hilio -> imagen de 4 cm en hilio
+309530007: imagen de 3 cm en hilio -> imagen de 2 cm en hilio
+309530007: imagen de 3 cm en hilio -> imagen de 6 cm en hilio
+309530007: imagen de 3 cm en hilio -> imagen de 5 cm en hilio
+309530007: imagen de 3 cm en hilio -> imagen de 7 cm en hilio
+309530007: imagen de 3 cm en hilio -> imágen de 3 cm en hilio
+125132005: imagen nodular sólida -> imágen nodular sólida
+125132005: imagen de aspecto nodular -> imágen de aspecto nodular
+422840005: masa de pared gruesa y centro hipodenso de 4 cm de diámetro en encrucijada témporo-parieto-occipital derecha -> masa de pared gruesa y centro hipodenso de 3 cm de diámetro en encrucijada témporo-parieto-occipital derecha
+422840005: masa de pared gruesa y centro hipodenso de 4 cm de diámetro en encrucijada témporo-parieto-occipital derecha -> masa de pared gruesa y centro hipodenso de 6 cm de diámetro en encrucijada témporo-parieto-occipital derecha
+422840005: masa de pared gruesa y centro hipodenso de 4 cm de diámetro en encrucijada témporo-parieto-occipital derecha -> masa de pared gruesa y centro hipodenso de 5 cm de diámetro en encrucijada témporo-parieto-occipital derecha
+422840005: masa de pared gruesa y centro hipodenso de 4 cm de diámetro en encrucijada témporo-parieto-occipital derecha -> masa de pared gruesa y centro hipodenso de 2 cm de diámetro en encrucijada témporo-parieto-occipital derecha
+422840005: masa de pared gruesa y centro hipodenso de 4 cm de diámetro en encrucijada témporo-parieto-occipital derecha -> masa de pared gruesa y centro hipodenso de 7 cm de diámetro en encrucijada témporo-parieto-occipital derecha
+422840005: imagen hipodensa en la línea interhemisférica a nivel de las astas frontales -> imagen hipodensa en la línea interhemisféricas a nivel de las astas frontales
+247078006: imagen lineal hiperecogénica respecto al vítreo -> imagen lineal hiperecogénico respecto al vítreo
+247078006: imagen lineal hiperecogénica respecto al vítreo -> imagen lineal ecogénica respecto al vítreo
+247078006: imagen lineal hiperecogénica respecto al vítreo -> imagen lineal hipoecogénica respecto al vítreo
+716292004: imagen radiolúcida de 10 cm de longitud, multiloculada, localizada desde distal del diente 46 hasta mesial del 33 -> imágen radiolúcida de 10 cm de longitud, multiloculada, localizada desde distal del diente 46 hasta mesial del 33
+716292004: imagen radiolúcida de 10 cm de longitud, multiloculada, localizada desde distal del diente 46 hasta mesial del 33 -> imagen radiolúcida de 10 cm de longitud, multiloculada, localizada desde distal del diente 46 hasta mesial del 37
+716292004: imagen radiolúcida de 10 cm de longitud, multiloculada, localizada desde distal del diente 46 hasta mesial del 33 -> imagen radiolúcida de 10 cm de longitud, multiloculada, localizada desde distal del diente 46 hasta mesial del 38
+716292004: imagen radiolúcida de 10 cm de longitud, multiloculada, localizada desde distal del diente 46 hasta mesial del 33 -> imagen radiolúcida de 10 cm de longitud, multiloculada, localizada desde distal del diente 46 hasta mesial del 41
+716292004: imagen radiolúcida de 10 cm de longitud, multiloculada, localizada desde distal del diente 46 hasta mesial del 33 -> imagen radiolúcida de 10 cm de longitud, multiloculada, localizada desde distal del diente 46 hasta mesial del 34
+716292004: imagen radiolúcida de 10 cm de longitud, multiloculada, localizada desde distal del diente 46 hasta mesial del 33 -> imagen radiolúcida de 10 cm de longitud, multiloculada, localizada desde distal del diente 46 hasta mesial del 36
+716292004: imagen radiolúcida de gran tamaño en torno a la corona del cordal inferior -> imagen radiolúcida de gran tamaño en torno a la corona del cordal superior
+445249002: imágenes nodulares en ambos campos pulmonares -> fotografías nodulares en ambos campos pulmonares
+445249002: imágenes nodulares en lóbulo superior -> imágenes nodulares en lóbulo inferior
+445249002: imágenes nodulares en lóbulo superior -> fotografías nodulares en lóbulo superior
+445249002: nódulos pulmonares múltiples -> nódulos pulmonares innumerables
+165232002: incontinencia leve-moderada -> incontinencia leve-moderado
+33958003: induración dolorosa de la base peneana -> induración dolorosa de la base peneal
+33958003: induración peneana a nivel de la base -> induración peneal a nivel de la base
+168265009: negativos los marcadores virales para hepatitis -> negativos los marcadores virales para Hepatitis
+168265009: marcadores virales fueron negativos -> marcadores virales Fueron negativos
+168265009: marcadores virales fueron negativos -> marcadores virales fueron positivos
+168265009: marcadores virales hepáticos negativos -> marcadores virales renales negativos
+271653008: ingurgitación yugular -> Ingurgitación yugular
+300339003: integridad de la vía biliar intra- y extrahepática -> integridad de la vía biliar intra- y intrahepática
+300339003: integridad de la vía biliar intra- y extrahepática -> integridad de la vía biliar intra- y extrahepático
+300339003: integridad de la vía biliar intra- y extrahepática -> integridad de la vía biliar intra- y suprahepática
+300339003: integridad de la vía biliar intra- y extrahepática -> integridad de la vía biliar intra- y extrahepáticas
+300339003: integridad de la vía biliar intra- y extrahepática -> integridad de la vía biliar intra- y intrahepático
+300339003: vía biliar normal -> via biliar normal
+59931005: inversión de la onda t en derivaciones iii y avf -> inversión de la onda t en derivaciones ii y avf
+59931005: inversión de la onda t en derivaciones iii y avf -> inversión de la onda t en derivaciones iv y avf
+268926000: lavado bronquial fue negativo -> lavado bronquial fué negativo
+268926000: lavado bronquial fue negativo -> lavado bronquial fue positivo
+268926000: lavado broncoalveolar (negativa -> lavado bronquioalveolar (negativa
+87361006: leucocitosis con marcada desviación izquierda -> Leucocitosis con marcada desviación izquierda
+87361006: leucocitosis con marcada desviación izquierda -> leucocitosis con marcada desviación derecha
+87361006: leucocitosis de 26.500/mm3 con desviación a la izquierda -> Leucocitosis de 26.500/mm3 con desviación a la izquierda
+87361006: leucocitosis de 26.500/mm3 con desviación a la izquierda -> leucocitosis de 26.500/mm3 con desviación a la derecha
+87361006: leucocitosis con importante desviación izquierda -> Leucocitosis con importante desviación izquierda
+87361006: leucocitosis con importante desviación izquierda -> leucocitosis con importante desviación derecha
+87361006: leucocitos con desviación izquierda -> neutrófilos con desviación izquierda
+87361006: leucocitos con desviación izquierda -> leucocitos con desviación derecha
+87361006: leucocitosis con desviación a la izquierda -> leucocitosis con desviación a la derecha
+87361006: leucocitosis con desviación a la izquierda -> Leucocitosis con desviación a la izquierda
+78341006: leucocitos polimorfonucleares y abundante moco -> leucocitos polimorfonuclear y abundante moco
+78341006: leucocitos polimorfonucleares y abundante moco -> leucocitos Polimorfonucleares y abundante moco
+67023009: linfocitosis -> Linfocitosis
+67023009: linfocitosis -> monocitosis
+67023009: linfocitosis -> linfocitopenia
+67023009: linfocitosis -> linfocitaria
+67023009: leucocitosis de predominio linfocítico -> leucocitosis de predominio linfocíticas
+67023009: leucocitosis de predominio linfocítico -> leucocitosis de predominio linfocítica
+67023009: leucocitosis de predominio linfocítico -> leucocitosis de predominio prolinfocítica
+67023009: leucocitosis de predominio linfocítico -> leucocitosis de predominio granulocítico
+67023009: leucocitosis de predominio linfocítico -> leucocitosis de predominio linfoblástico
+67023009: leucocitosis de predominio linfocítico -> Leucocitosis de predominio linfocítico
+37125009: midriática -> midriático
+37125009: midriática -> midriáticos
+37125009: pupilas ligeramente midriáticas -> pupilas levemente midriáticas
+73707004: líquido en cavidad libre -> liquido en cavidad libre
+73707004: nivel hidroaéreo -> nivel hidroaéreos
+93457003: líquido libre retrohepático -> liquido libre retrohepático
+93457003: líquido libre abdominal -> liquido libre abdominal
+93457003: líquido libre en abdomen -> liquido libre en abdomen
+93457003: líquido peritoneal -> liquido peritoneal
+93457003: líquido libre en cavidad peritoneal -> liquido libre en cavidad peritoneal
+93457003: líquido libre intraperitoneal -> líquido libre Intraperitoneal
+93457003: líquido libre intraperitoneal -> liquido libre intraperitoneal
+89757007: rash maculoso y eritematoso que afecta a tronco y cuello -> rash maculoso y Eritematoso que afecta a tronco y cuello
+56681004: mala diferenciación córtico-medular -> pésima diferenciación córtico-medular
+56681004: obliteración de iv ventrículo -> obliteración de ii ventrículo
+56681004: obliteración de iv ventrículo -> obliteración de iii ventrículo
+267045008: sintomatología gastrointestinal -> sintomatológica gastrointestinal
+267045008: sintomatología gastrointestinal -> sintomatologia gastrointestinal
+268375009: mantoux fue negativo -> mantoux fué negativo
+268375009: mantoux fue negativo -> mantoux fue positivo
+268375009: mantoux también fue negativo -> mantoux además fue negativo
+268375009: mantoux también fue negativo -> mantoux también fue positivo
+268375009: mantoux también fue negativo -> mantoux también fué negativo
+268375009: mantoux: negativo -> mantoux: positivo
+268375009: mantoux negativo -> mantoux positivo
+268375009: prueba de mantoux fue negativa -> prueba de mantoux fue positiva
+268375009: prueba de mantoux fue negativa -> prueba de mantoux fué negativa
+268376005: mantoux positivo con ulceracion -> mantoux negativo con ulceracion
+268376005: mantoux previo positivo -> mantoux previo negativo
+268376005: prueba de la tuberculina cutánea positiva -> prueba de la tuberculina dérmica positiva
+268376005: prueba de la tuberculina cutánea positiva -> prueba de la tuberculina cutánea negativa
+300848003: masa hipoecogénica -> masa ecogénica
+300848003: masa hipoecogénica -> masa hiperecogénica
+300848003: masa hipoecogénica -> masa ecogénico
+300848003: masa radiolúcida con trabeculaciones -> masa radiolúcidas con trabeculaciones
+300848003: masa radiolúcida homogénea unilocular -> masa radiolúcida homogénea uniloculares
+300848003: masa radiolúcida homogénea unilocular -> masa radiolúcida homogénea trilocular
+300848003: masa radiolúcida homogénea unilocular -> masa radiolúcida homogénea bilocular
+300848003: masa radiolúcida homogénea unilocular -> masa radiolúcida homogénea multilocular
+300848003: masa hipoecoica -> masa hipoecoico
+300848003: masa hipoecoica -> masa hipoecoicas
+237783006: masa hipodensa suprarrenal -> masa hipodensa adrenal
+237783006: masa hipodensa suprarrenal -> masa hipodenso suprarrenal
+237783006: masa hipodensa suprarrenal -> masa hipodensas suprarrenal
+237783006: tumoración adrenal -> tumoración suprarrenal
+237783006: nódulos hipodensos suprarrenales bilaterales -> nódulos hipodensos adrenales bilaterales
+237783006: tumoración en el área suprarrenal -> tumoración en el área adrenal
+237783006: nódulo hipercaptante en la suprarrenal -> nódulo hipercaptante en la adrenal
+102031000119109: masa adyacente al polo superior de teste -> masa adyacente al polo inferior de teste
+69559004: masa quística polilobulada retroperitoneal derecha -> masa quística polilobuladas retroperitoneal derecha
+69559004: masa quística polilobulada retroperitoneal derecha -> masa quística polilobulado retroperitoneal derecha
+69559004: masa quística polilobulada retroperitoneal derecha -> masa quística polilobulados retroperitoneal derecha
+69559004: masa quística polilobulada retroperitoneal derecha -> masa quística polilobulada retroperitoneal izquierda
+69559004: masa quística polilobulada retroperitoneal derecha -> masa quística polilobulada retroperitoneal izquiera
+69559004: masa retroperitoneal -> masa retroperitoneales
+69559004: masa sólida de 12 cm por detrás del riñón -> masa sólida de 11 cm por detrás del riñón
+69559004: masa sólida de 12 cm por detrás del riñón -> masa sólida de 14 cm por detrás del riñón
+69559004: masa sólida de 12 cm por detrás del riñón -> masa sólida de 13 cm por detrás del riñón
+69559004: masa sólida de 12 cm por detrás del riñón -> masa sólida de 16 cm por detrás del riñón
+69559004: masa sólida de 12 cm por detrás del riñón -> masa sólida de 17 cm por detrás del riñón
+69559004: masa reniforme, posterior a vena cava inferior y anclada en retroperitoneo al ligamento vertebral anterior -> masa reniforme, posterior a vena cava inferior y anclado en retroperitoneo al ligamento vertebral anterior
+69559004: masa retroperitoneal, con intenso componente hemorrágico -> masa retroperitoneal, con intensísimo componente hemorrágico
+69559004: masa retroperitoneal de 3 cm x 8 cm paraaórtica -> masa retroperitoneal de 4 cm x 8 cm paraaórtica
+69559004: masa retroperitoneal de 3 cm x 8 cm paraaórtica -> masa retroperitoneal de 2 cm x 8 cm paraaórtica
+69559004: masa retroperitoneal de 3 cm x 8 cm paraaórtica -> masa retroperitoneal de 6 cm x 8 cm paraaórtica
+69559004: masa retroperitoneal de 3 cm x 8 cm paraaórtica -> masa retroperitoneal de 5 cm x 8 cm paraaórtica
+69559004: masa retroperitoneal de 3 cm x 8 cm paraaórtica -> masa retroperitoneal de 7 cm x 8 cm paraaórtica
+69559004: masa retroperitoneal de 3 cm x 8 cm paraaórtica -> masa retroperitoneales de 3 cm x 8 cm paraaórtica
+69559004: masas retroperitoneales -> masas peritoneales
+69559004: masas retroperitoneales -> masas retroperitoneal
+69559004: masas retroperitoneales -> masas intraperitoneales
+69559004: tumoración retroperitoneal -> tumoración retroperitoneales
+69559004: masa retroperitoneal de unos 8 cm, de ecogenicidad heterogénea y marcada vascularización -> masa retroperitoneal de unos 7 cm, de ecogenicidad heterogénea y marcada vascularización
+69559004: masa retroperitoneal de unos 8 cm, de ecogenicidad heterogénea y marcada vascularización -> masa retroperitoneal de unos 9 cm, de ecogenicidad heterogénea y marcada vascularización
+69559004: masa retroperitoneal de unos 8 cm, de ecogenicidad heterogénea y marcada vascularización -> masa retroperitoneal de unos 6 cm, de ecogenicidad heterogénea y marcada vascularización
+69559004: masa retroperitoneal de unos 8 cm, de ecogenicidad heterogénea y marcada vascularización -> masa retroperitoneal de unos 4 cm, de ecogenicidad heterogénea y marcada vascularización
+69559004: masa retroperitoneal de unos 8 cm, de ecogenicidad heterogénea y marcada vascularización -> masa retroperitoneal de unos 5 cm, de ecogenicidad heterogénea y marcada vascularización
+69559004: masa retroperitoneal de unos 8 cm, de ecogenicidad heterogénea y marcada vascularización -> masa retroperitoneal de unos 8 cm, de ecogenicidad heterogénea y marcada vascularidad
+300849006: masa en temporal inferior -> masa en temporal superior
+300849006: masa subconjuntival nasal superior -> masa subconjuntival nasal inferior
+87860000: nódulo hipoecoico en testículo -> nódulo hipoecoica en testículo
+87860000: nódulo hipoecoico en testículo -> nódulo hipoecoicas en testículo
+87860000: testículos están englobados por la fibrosis y la masa tumoral -> testículos Están englobados por la fibrosis y la masa tumoral
+87860000: testículos están englobados por la fibrosis y la masa tumoral -> testículos estarán englobados por la fibrosis y la masa tumoral
+87860000: nódulo de 2 cm, duro e indoloro en relación al polo superior de teste -> nódulo de 2 cm, duro e indoloro en relación al polo inferior de teste
+301030002: masa mediastínica anterior -> masa mediastínicas anterior
+301030002: masa mediastínica anterior -> masa mediastínico anterior
+300287006: tumoración esofágica vegetante y ulcerada -> tumoración esofágica vegetantes y ulcerada
+300287006: masa esofágica -> masa traqueoesofágica
+300287006: masa de color marrón-negro en tercio superior esofágico -> masa de color marrón-negro en tercio inferior esofágico
+445456006: tumoración submandibular -> tumoración submandibulares
+445456006: tumoración submandibular -> tumoración submandibularis
+445456006: tumoración submandibular -> tumoración submaxilar
+49901000119105: nódulo indurado en párpado superior -> nódulo indurado en parpado superior
+49901000119105: nódulo indurado en párpado superior -> nódulo indurado en párpado inferior
+49901000119105: masa dolorosa en el tercio externo del párpado superior -> masa dolorosa en el tercio externo del párpado inferior
+237557003: origen tiroideo de la tumoración -> orígen tiroideo de la tumoración
+309529002: masa necrótica de 8 cm en lsi -> masa necrótica de 7 cm en lsi
+309529002: masa necrótica de 8 cm en lsi -> masa necrótica de 9 cm en lsi
+309529002: masa necrótica de 8 cm en lsi -> masa necrótica de 6 cm en lsi
+309529002: masa necrótica de 8 cm en lsi -> masa necrótica de 4 cm en lsi
+309529002: masa necrótica de 8 cm en lsi -> masa necrótica de 5 cm en lsi
+309529002: masa en lóbulo superior -> masa en lóbulo inferior
+282050000: masa en yeyuno proximal -> masa en yeyuno distal
+282050000: yeyuno proximal una tumoración, friable y ulcerada -> yeyuno distal una tumoración, friable y ulcerada
+125144008: masa exofítica de aspecto nodular -> masa exofítico de aspecto nodular
+125144008: tumoración es friable, con crecimiento vegetante -> tumoración Es friable, con crecimiento vegetante
+300855001: tumoración intraluminal -> tumoración extraluminal
+300855001: tumoración intraluminal -> tumoración intraluminales
+309532004: masa paravertebral bilateral, que infiltraba la vértebra a nivel c7-d1 -> masa paravertebrales bilateral, que infiltraba la vértebra a nivel c7-d1
+74285003: masa pélvica situada a la derecha de la vejiga -> masa pélvica ubicada a la derecha de la vejiga
+74285003: masa pélvica situada a la derecha de la vejiga -> masa pélvica situada a la izquierda de la vejiga
+74285003: masa pélvica situada a la derecha de la vejiga -> masa pélvica situada a la izquiera de la vejiga
+74285003: masa pélvica subvesical -> masa pelviana subvesical
+74285003: nódulo que infiltra en profundidad la grasa subcutánea y el músculo iliopsoas -> nódulo que infiltra en profundidad la grasa subcutánea y el musculo iliopsoas
+74285003: tumoración junto a fibras del oblicuo menor, músculo transverso y músculo iliopsoas -> tumoración junto a fibras del oblicuo menor, musculo transverso y músculo iliopsoas
+74285003: masa pélvica anterior a la vejiga -> masa pelviana anterior a la vejiga
+445328000: micropápulas pruriginosas -> micropápulas pruriginosa
+445328000: micropápulas pruriginosas -> micropápulas pruriginoso
+445328000: micropápulas pruriginosas -> micropápulas pruriginosos
+17450006: mioclonías en miembros inferiores -> mioclonías en integrantes inferiores
+17450006: mioclonías en miembros inferiores -> mioclonía en miembros inferiores
+17450006: mioclonías en miembros inferiores -> mioclonias en miembros inferiores
+17450006: mioclonías en miembros inferiores -> Mioclonías en miembros inferiores
+17450006: mioclonías en miembros inferiores -> mioclonías en miembros superiores
+17450006: mioclonías generalizadas -> mioclonía generalizadas
+17450006: mioclonías generalizadas -> mioclonias generalizadas
+17450006: mioclonías generalizadas -> Mioclonías generalizadas
+103251002: motilidad extrínseca e intrínseca fue normal -> motilidad extrínseca e intrínseca fué normal
+204676004: mucosa gástrica heterotópica -> mucosa gástrica heterotópicas
+204676004: mucosa gástrica heterotópica -> mucosa gástrica heterotópico
+232209000: narina izquierda por disminución de la permeabilidad -> narina derecha por disminución de la permeabilidad
+422400008: vómitos autolimitados de duración variable -> vómitos autolimitadas de duración variable
+422400008: nauseas -> náuseas
+422400008: nauseas -> naúseas
+422587007: nauseas -> naúseas
+166159005: negativo para antígeno prostático específico -> negativo para antígenos prostático específico
+166159005: negativo para antígeno prostático específico -> positivo para antígeno prostático específico
+563001: nistagmus en abducción en ambos ojos -> nistagmo en abducción en ambos ojos
+563001: nistagmus en abducción en ambos ojos -> nistagmos en abducción en ambos ojos
+563001: nistagmus -> nistagmos
+563001: nistagmo -> Nistagmo
+300561007: riñones y uréteres normales -> riñones y uréter normales
+60280003: presión intraocular adecuada -> presión intraocular apropiada
+60280003: presión intraocular adecuada -> presión intraocular correcta
+30233002: odinofagia -> Odinofagia
+30233002: odinofagia leve -> Odinofagia leve
+45089002: ojo derecho fue normal -> ojo derecho fué normal
+703630003: ojo rojo -> ojo amarillo
+703630003: ojo rojo -> ojo azul
+703630003: ojo rojo severo -> ojo amarillo severo
+703630003: ojo rojo severo -> ojo azul severo
+309551005: síntomas b -> síntomas c
+309551005: sintomatología b -> sintomatológica b
+309551005: sintomatología b -> sintomatologia b
+309551005: sintomatología b -> sintomatología c
+251237002: onda t positiva de v2 a v5 -> onda t negativa de v2 a v5
+251237002: onda t positiva en las derivaciones v2 a v4 -> onda t negativa en las derivaciones v2 a v4
+251237002: ondas t positivas en las derivaciones v2 a v4 -> ondas t negativas en las derivaciones v2 a v4
+23924001: opresión torácica -> opresión toráxica
+394717006: orina con leucocitos negativos -> orina con neutrófilos negativos
+394717006: orina con leucocitos negativos -> orina con leucocitos positivos
+394717006: reacción de nitritos es negativa -> reacción de nitritos Es negativa
+394717006: reacción de nitritos es negativa -> reacción de nitritos es positiva
+274643008: palidez cutánea -> palidez dérmica
+301961009: papilas de características conservadas -> papilas de carácterísticas conservadas
+301961009: papilas de características conservadas -> papilas de carácteristicas conservadas
+89362005: pérdida de 12 kilogramos de peso -> pérdida de 11 kilogramos de peso
+89362005: pérdida de 12 kilogramos de peso -> pérdida de 14 kilogramos de peso
+89362005: pérdida de 12 kilogramos de peso -> pérdida de 13 kilogramos de peso
+89362005: pérdida de 12 kilogramos de peso -> pérdida de 16 kilogramos de peso
+89362005: pérdida de 12 kilogramos de peso -> pérdida de 17 kilogramos de peso
+89362005: pérdida de 7 kg de peso -> pérdida de 8 kg de peso
+89362005: pérdida de 7 kg de peso -> pérdida de 9 kg de peso
+89362005: pérdida de 7 kg de peso -> pérdida de 6 kg de peso
+89362005: pérdida de 7 kg de peso -> pérdida de 4 kg de peso
+89362005: pérdida de 7 kg de peso -> pérdida de 7 Kg de peso
+89362005: pérdida de unos 15 kg de peso -> pérdida de unos 15 Kg de peso
+89362005: pérdida de 15 kg de peso -> pérdida de 15 Kg de peso
+89362005: pérdida de treinta libras de peso -> pérdida de veinte libras de peso
+89362005: pérdida de treinta libras de peso -> pérdida de cuarenta libras de peso
+89362005: pérdida de treinta libras de peso -> pérdida de veinticinco libras de peso
+89362005: pérdida de treinta libras de peso -> pérdida de cincuenta libras de peso
+89362005: pérdida de treinta libras de peso -> pérdida de quince libras de peso
+89362005: pérdida de 5 kg de peso -> pérdida de 5 Kg de peso
+89362005: pérdida de 5 kg de peso -> pérdida de 3 kg de peso
+89362005: pérdida de unos 8 kg de peso -> pérdida de unos 8 Kg de peso
+89362005: pérdida de unos 8 kg de peso -> pérdida de unos 7 kg de peso
+89362005: pérdida de unos 8 kg de peso -> pérdida de unos 9 kg de peso
+89362005: pérdida de unos 8 kg de peso -> pérdida de unos 6 kg de peso
+89362005: pérdida de unos 8 kg de peso -> pérdida de unos 4 kg de peso
+89362005: pérdida de unos 8 kg de peso -> pérdida de unos 5 kg de peso
+80306002: peristaltismo discretamente aumentado -> peristaltismo discretamente incrementado
+80306002: peristaltismo discretamente aumentado -> peristaltismo discretamente disminuido
+8644006: pesadez posprandial -> pesadez post-prandial
+8644006: pesadez posprandial -> pesadez posprandiales
+8644006: pesadez posprandial -> pesadez postprandial
+302215000: trombopenia -> trombocitopenia
+167734003: punción lumbar únicamente mostró una discreta elevación de las proteínas -> punción lumbar solamente mostró una discreta elevación de las proteínas
+167734003: punción lumbar únicamente mostró una discreta elevación de las proteínas -> punción lumbar únicamente mostró una discreta elevación de las proteinas
+167734003: punción lumbar únicamente mostró una discreta elevación de las proteínas -> punción lumbar únicamente mostró una discreta elevación de las proteína
+11934000: ptosis palpebral -> ptosis Palpebral
+301151001: pulsos distales se hallaban conservados -> pulsos proximales se hallaban conservados
+301151001: pulsos distales se hallaban conservados -> pulsos distales se encontraban conservados
+301151001: pulsos distales se hallaban conservados -> pulsos distales se hallaba conservados
+301151001: pulsos distales se hallaban conservados -> pulsos distales se estaban conservados
+301151001: pulsos distales presentes -> pulsos proximales presentes
+423902002: púrpura palpable en ambas extremidades inferiores -> púrpura palpable en ambas extremidades superiores
+423902002: púrpura palpable en las extremidades inferiores -> púrpura palpable en las extremidades superiores
+168733007: radiografía de tórax (que es informada como normal) -> radiografía de tórax (que Es informada como normal)
+168733007: radiografía de tórax fue normal -> radiografía de tórax fué normal
+168733007: radiografía de tórax estuvo dentro de los límites normales -> radiografía de tórax Estuvo dentro de los límites normales
+168733007: radiografía de tórax fueron normales -> radiografía de tórax Fueron normales
+168733007: radiografía de tórax resultó normal -> radiografía de tórax Resultó normal
+405729008: rectorragia -> Rectorragia
+42538001: restos auditivos en graves en el oído -> restos auditivos en graves en el oido
+14310000: secreción nasal purulenta que alguna vez ha sido sanguinolenta -> secreción nasal purulenta que algúna vez ha sido sanguinolenta
+14310000: rinorrea verdosa -> rinorrea rojiza
+73099002: sangrado en sábana de la pared -> sangramiento en sábana de la pared
+73099002: sangrado en sábana -> sangramiento en sábana
+167667006: sangre oculta en heces era negativa -> sangre oculta en heces era positiva
+167667006: sangre oculta en heces fue negativa -> sangre oculta en heces fue positiva
+167667006: sangre oculta en heces fue negativa -> sangre oculta en heces fué negativa
+9957009: secreción purulenta transuretral -> secreción purulenta Transuretral
+698594003: signos de insuficiencia cardiaca -> signos de insuficiencia cardíaca
+7358000: síndrome miccional irritativo -> Síndrome miccional irritativo
+7358000: síndrome miccional irritativo -> sindrome miccional irritativo
+7358000: sintomatología miccional -> sintomatológica miccional
+7358000: sintomatología miccional -> sintomatologia miccional
+7358000: síndrome miccional -> Síndrome miccional
+7358000: síndrome miccional -> sindrome miccional
+111512005: sinequias posteriores -> sinequias subsiguientes
+271782001: somnoliento -> soñoliento
+408568004: tac craneal fue normal -> tac craneal fué normal
+408568004: tac craneal no demostró ningún hallazgo patológico -> tac craneal no demostraron ningún hallazgo patológico
+408568004: tac craneal no demostró ningún hallazgo patológico -> tac craneal no demostraba ningún hallazgo patológico
+12063002: tacto rectal positivo para restos hemáticos -> tacto rectal negativo para restos hemáticos
+274765004: tacto rectal negativo -> tacto rectal positivo
+274765004: tacto rectal resultó anodino -> tacto rectal Resultó anodino
+11092001: taquicárdico -> taquicárdicos
+300493001: teste derecho de características normales -> teste derecho de carácterísticas normales
+300493001: teste derecho de características normales -> teste derecho de carácteristicas normales
+300493001: testes se presentaban normales -> testes se presentaba normales
+300493001: testes se presentaban normales -> testes se mostraban normales
+168833002: transito gastroduodenal fue normal -> transito gastroduodenal fué normal
+300861003: tumoración localizada en la unión de los segmentos iv y v -> tumoración localizada en la unión de los segmentos ii y v
+300861003: tumoración localizada en la unión de los segmentos iv y v -> tumoración localizada en la unión de los segmentos iii y v
+300861003: tumoración de aproximadamente 5x5cm de diámetro medial al tercio inferior del músculo esternocleidomastoideo -> tumoración de aproximadamente 5x5cm de diámetro medial al tercio superior del músculo esternocleidomastoideo
+300861003: tumoración de aproximadamente 5x5cm de diámetro medial al tercio inferior del músculo esternocleidomastoideo -> tumoración de aproximadamente 5x5cm de diámetro medial al tercio inferior del músculo Esternocleidomastoideo
+300861003: tumoración de aproximadamente 5x5cm de diámetro medial al tercio inferior del músculo esternocleidomastoideo -> tumoración de aproximadamente 5x5cm de diámetro medial al tercio inferior del músculo esternocleidomastoideos
+300861003: tumoración de aproximadamente 5x5cm de diámetro medial al tercio inferior del músculo esternocleidomastoideo -> tumoración de aproximadamente 5x5cm de diámetro medial al tercio inferior del músculo esternocleidomastoidea
+300861003: tumoración de aproximadamente 5x5cm de diámetro medial al tercio inferior del músculo esternocleidomastoideo -> tumoración de aproximadamente 5x5cm de diámetro medial al tercio inferior del músculo esternocleidohioideo
+246999001: tyndall de 4 cruces -> tyndall de 3 cruces
+246999001: tyndall de 4 cruces -> tyndall de 6 cruces
+246999001: tyndall de 4 cruces -> tyndall de 5 cruces
+246999001: tyndall de 4 cruces -> tyndall de 2 cruces
+246999001: tyndall de 4 cruces -> tyndall de 7 cruces
+300365004: vómitos alimenticios -> vómitos alimentarios

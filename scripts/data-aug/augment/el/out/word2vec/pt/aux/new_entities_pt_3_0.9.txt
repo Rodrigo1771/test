@@ -1,0 +1,12 @@
+69559004: massas retroperitoneais -> massas peritónio
+78341006: neutrofilia -> leucocitose
+271823003: taquipneia -> bradipneia
+271823003: taquipneia persistente -> bradipneia persistente
+74285003: massa pélvica à direita da bexiga -> massa pélvica à esquerda da bexiga
+32566006: dismetria nos quatro membros -> dismetria nos cinco membros
+32566006: dismetria nos quatro membros -> dismetria nos três membros
+32566006: dismetria nos quatro membros -> dismetria nos seis membros
+9957009: descarga purulenta transuretral -> descarga purulenta rtup
+37125009: midríase -> miose
+37125009: midríase reactiva -> miose reactiva
+300260007: a drenagem da glândula parótida esquerda é normal -> a drenagem da glândula parótida direita é normal

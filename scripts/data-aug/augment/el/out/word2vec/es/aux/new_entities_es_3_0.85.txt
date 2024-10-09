@@ -1,0 +1,609 @@
+300441003: adecuada diferenciación cortico-medular -> apropiada diferenciación cortico-medular
+63049000: adecuada formación ósea longitudinal -> apropiada formación ósea longitudinal
+271591004: adecuado nivel de consciencia -> apropiado nivel de consciencia
+119522002: engrosamiento difuso de asas de intestino delgado a nivel de yeyuno distal e íleon -> engrosamiento difuso de asas de intestino delgado a nivel de íleon distal e íleon
+119522002: engrosamiento difuso de asas de intestino delgado a nivel de yeyuno distal e íleon -> engrosamiento difuso de asas de intestino delgado a nivel de yeyuno distal e yeyuno
+409609008: afectación parenquimatosa basal -> afectación vasculopatía basal
+409609008: afectación parenquimatosa basal -> afectación angiopatía basal
+409609008: afectación parenquimatosa basal -> afectación proctitis basal
+409609008: afectación parenquimatosa basal -> afectación escleritis basal
+409609008: afectación parenquimatosa basal -> afectación edematosa basal
+19829001: afectación pulmonar parenquimatosa -> afectación pulmonar vasculopatía
+19829001: afectación pulmonar parenquimatosa -> afectación pulmonar angiopatía
+19829001: afectación pulmonar parenquimatosa -> afectación pulmonar proctitis
+19829001: afectación pulmonar parenquimatosa -> afectación pulmonar escleritis
+19829001: afectación pulmonar parenquimatosa -> afectación pulmonar edematosa
+166558007: lactato deshidrogenasa y la alfafetoproteína normales -> lactato piruvato y la alfafetoproteína normales
+442635007: cultivo positivo para pseudomona aureaginosa -> cultivo positivo para peptostreptococcus aureaginosa
+442635007: cultivo positivo para pseudomona aureaginosa -> cultivo positivo para jejuni aureaginosa
+442635007: cultivo positivo para pseudomona aureaginosa -> cultivo positivo para enterocolitica aureaginosa
+442635007: cultivo positivo para pseudomona aureaginosa -> cultivo positivo para gardnerella aureaginosa
+442635007: cultivo positivo para pseudomona aureaginosa -> cultivo positivo para pneumophila aureaginosa
+442635007: positivo en las cuatro que se realizan para leuconostoc spp. -> positivo en las tres que se realizan para leuconostoc spp.
+442635007: positivo en las cuatro que se realizan para leuconostoc spp. -> positivo en las cinco que se realizan para leuconostoc spp.
+442635007: positivo en las cuatro que se realizan para leuconostoc spp. -> positivo en las seis que se realizan para leuconostoc spp.
+442635007: positivo en las cuatro que se realizan para leuconostoc spp. -> positivo en las ocho que se realizan para leuconostoc spp.
+442635007: positivo en las cuatro que se realizan para leuconostoc spp. -> positivo en las dos que se realizan para leuconostoc spp.
+442635007: cultivos microbiológicos del tejido de granulación subyacente fueron positivos para pseudomonas aeruginosa multirresistente -> cultivos microbiológicos del tejido de granulación subyacente fueron positivos para pseudomonas pseudomonas multirresistente
+442635007: aislamientos previos de staphylococcus epidermidis -> aislamientos previos de staphylococcus faecalis
+442635007: aislamientos previos de staphylococcus epidermidis -> aislamientos previos de staphylococcus pseudomona
+442635007: aislamientos previos de staphylococcus epidermidis -> aislamientos previos de staphylococcus pneumophila
+442635007: aislamientos previos de staphylococcus epidermidis -> aislamientos previos de staphylococcus enterococcus
+442635007: aislamientos previos de staphylococcus epidermidis -> aislamientos previos de staphylococcus peptostreptococcus
+442635007: cultivo positivo a listeria monocytogenes -> cultivo positivo a listeria listeria
+442635007: cultivo positivo a listeria monocytogenes -> cultivo positivo a monocytogenes monocytogenes
+442635007: cultivo dieron positivo para escherichia coli -> cultivo dieron positivo para escherichia escherichia
+707724006: aumento progresivo de transaminasas -> incremento progresivo de transaminasas
+707724006: elevación de las enzimas hepáticas -> elevación de las enzima hepáticas
+707724006: elevación de las enzimas hepáticas -> elevación de las proteínas hepáticas
+707724006: elevación de las enzimas hepáticas -> elevación de las proteasas hepáticas
+707724006: aumento de las transaminasas -> incremento de las transaminasas
+166642001: transaminasas y enzimas de colestasis dentro de la normalidad -> transaminasas y enzimas de hipoparatiroidismo dentro de la normalidad
+166642001: transaminasas y enzimas de colestasis dentro de la normalidad -> transaminasas y enzimas de hipoalbuminemia dentro de la normalidad
+166642001: transaminasas y enzimas de colestasis dentro de la normalidad -> transaminasas y enzimas de hiperprolactinemia dentro de la normalidad
+166642001: transaminasas y enzimas de colestasis dentro de la normalidad -> transaminasas y enzimas de sideroblástica dentro de la normalidad
+717159009: positivas con las técnicas de pas y plata metanamina para hongos -> positivas con las técnicas de pas y oro metanamina para hongos
+64882008: febrícula -> artralgias
+64882008: febrícula -> mialgias
+64882008: febrícula -> diaforesis
+64882008: febrícula -> tenesmo
+64882008: febrícula -> fasciculaciones
+64882008: febrícula ocasional -> artralgias ocasional
+64882008: febrícula ocasional -> mialgias ocasional
+64882008: febrícula ocasional -> diaforesis ocasional
+64882008: febrícula ocasional -> tenesmo ocasional
+64882008: febrícula ocasional -> fasciculaciones ocasional
+167221003: sin alteraciones en el sedimento -> sin alteraciones en el sedimentos
+167221003: elemental de orina y sedimento eran normales -> elemental de orina y sedimentos eran normales
+167221003: sedimento urinario no mostraba alteraciones -> sedimentos urinario no mostraba alteraciones
+167221003: sedimento normal -> sedimentos normal
+167221003: sedimento de orina normal -> sedimentos de orina normal
+166165005: anticardiolipina igg en valores normales -> lúpico igg en valores normales
+166165005: anticardiolipina igg en valores normales -> anticardiolipinas igg en valores normales
+166165005: anticuerpos antitiroglobulina y antiperoxidasa normales -> anticuerpo antitiroglobulina y antiperoxidasa normales
+166165005: anticuerpos antitiroglobulina y antiperoxidasa normales -> antígenos antitiroglobulina y antiperoxidasa normales
+165878000: negativos los anticuerpos antifosfolipídicos -> negativos los anticuerpo antifosfolipídicos
+165878000: negativos los anticuerpos antifosfolipídicos -> negativos los antígenos antifosfolipídicos
+165879008: estudio inmunológico fue positivo para el anticuerpo anti gq-1b -> estudio inmunológico fue positivo para el anticuerpos anti gq-1b
+165879008: estudio inmunológico fue positivo para el anticuerpo anti gq-1b -> estudio inmunológico fue positivo para el antígeno anti gq-1b
+165879008: descenso en el título de los anticuerpos antitiroideos -> descenso en el título de los anticuerpo antitiroideos
+165879008: descenso en el título de los anticuerpos antitiroideos -> descenso en el título de los antígenos antitiroideos
+445201008: antígeno carcinoembrionario (cea) se encontró elevado -> antígenos carcinoembrionario (cea) se encontró elevado
+445201008: antígeno carcinoembrionario (cea) se encontró elevado -> anticuerpo carcinoembrionario (cea) se encontró elevado
+2472002: anuria -> oliguria
+2472002: anuria -> pancitopenia
+2472002: anuria -> hiperosmolar
+2472002: anuria -> albuminuria
+2472002: anuria -> hipocrómica
+300532006: desestructuración de la glándula -> desestructuración de la glándulas
+1003721002: artralgias en ambas rodillas -> mialgias en ambas rodillas
+1003721002: artralgias en ambas rodillas -> hepatoesplenomegalia en ambas rodillas
+1003721002: artralgias en ambas rodillas -> febrícula en ambas rodillas
+1003721002: artralgias en ambas rodillas -> mialgia en ambas rodillas
+1003721002: artralgias en ambas rodillas -> linfadenopatía en ambas rodillas
+1003721002: dolor en rodilla -> dolor en tobillo
+118435004: asa ileal de calibre normal con pliegues conservados -> asa vesicoureteral de calibre normal con pliegues conservados
+13791008: astenia moderada -> artralgias moderada
+13791008: astenia moderada -> diaforesis moderada
+13791008: astenia -> artralgias
+13791008: astenia -> diaforesis
+61448007: lsi con atelectasia -> lsi con bronquiectasia
+61448007: lsi con atelectasia -> lsi con intraabdominales
+61448007: lsi con atelectasia -> lsi con adenopatía
+61448007: lsi con atelectasia -> lsi con proctitis
+61448007: atelectasia basal derecha en la rx de tórax -> bronquiectasia basal derecha en la rx de tórax
+61448007: atelectasia basal derecha en la rx de tórax -> intraabdominales basal derecha en la rx de tórax
+61448007: atelectasia basal derecha en la rx de tórax -> adenopatía basal derecha en la rx de tórax
+61448007: atelectasia basal derecha en la rx de tórax -> proctitis basal derecha en la rx de tórax
+271823003: aumento de la frecuencia respiratoria -> incremento de la frecuencia respiratoria
+396697000: aumento de la ldh -> incremento de la ldh
+396697000: aumento leve de ldh en sangre -> incremento leve de ldh en sangre
+276331001: aumento del hemiescroto -> incremento del hemiescroto
+276331001: aumento de tamaño de hemiescroto -> incremento de tamaño de hemiescroto
+276331001: aumento del tamaño del hemiescroto -> incremento del tamaño del hemiescroto
+108571000119102: aumento de volumen parasinfisario -> incremento de volumen parasinfisario
+108571000119102: aumento de volumen por vestibular que compromete el cuerpo y la sínfisis -> incremento de volumen por vestibular que compromete el cuerpo y la sínfisis
+80515008: aumento del hígado -> incremento del hígado
+80515008: hepatomegalia dolorosa -> esplenomegalia dolorosa
+80515008: hepatomegalia dolorosa -> hepatoesplenomegalia dolorosa
+300401007: aumento paulatino del perímetro abdominal -> incremento paulatino del perímetro abdominal
+300401007: aumento del perímetro abdominal -> incremento del perímetro abdominal
+249607009: aumento del tamaño de la glándula prostática -> aumento del tamaño de la glándulas prostática
+276412008: aumento indoloro del testículo -> incremento indoloro del testículo
+276412008: teste derecho horinzontalizado, aumentado de tamaño -> teste derecho horinzontalizado, incrementado de tamaño
+166717003: aumento progresivo de la creatinina -> incremento progresivo de la creatinina
+166717003: elevación de la creatinina sérica -> elevación de la creatinina sérico
+64730000: auscultación cardiaca estaba rítmica -> auscultación cardíaca estaba rítmica
+64730000: auscultación cardiaca rítmica -> auscultación cardíaca rítmica
+64730000: auscultación cardíaca es rítmica -> auscultación cardiaca es rítmica
+61373006: sedimento de orina positivo a bacilos gramnegativos -> sedimentos de orina positivo a bacilos gramnegativos
+443371007: obnubilación -> fatigabilidad
+443371007: obnubilación -> incoordinación
+443371007: obnubilación -> arreflexia
+443371007: obnubilación progresiva -> fatigabilidad progresiva
+443371007: obnubilación progresiva -> incoordinación progresiva
+443371007: obnubilación progresiva -> arreflexia progresiva
+76917005: bocio multinodular con presencia de un nódulo sólido -> bocio zollinger-ellison con presencia de un nódulo sólido
+309306009: muestras microbiológicas negativas -> muestras microbiológicas positivas
+269846003: hormonas tiroideas normales -> hormona tiroideas normales
+269846003: cifras normales de hormonas tiroideas -> cifras normales de hormona tiroideas
+399406009: marcadores tumorales fueron negativos -> marcadores cancerosas fueron negativos
+399406009: cifras normales de marcadores tumorales germinales -> cifras normales de marcadores cancerosas germinales
+399406009: marcadores tumorales normales -> marcadores cancerosas normales
+399406009: marcadores tumorales negativos -> marcadores cancerosas negativos
+399406009: marcadores tumorales son negativos -> marcadores cancerosas son negativos
+5559008: citología no se observaron células malignas -> citología no se observaron epiteliales malignas
+5559008: citología fue negativo para células malignas -> citología fue negativo para epiteliales malignas
+5559008: citología negativa para células malignas -> citología negativa para epiteliales malignas
+249274008: leve síntomatologia miccional -> leve síntomatologia polaquiuria
+249274008: leve síntomatologia miccional -> leve síntomatologia nicturia
+249274008: leve síntomatologia miccional -> leve síntomatologia disuria
+249274008: clínica miccional -> clínica polaquiuria
+249274008: clínica miccional -> clínica nicturia
+249274008: clínica miccional -> clínica disuria
+300449001: uréter normal -> uréteres normal
+300449001: indemnidad del uréter distal -> indemnidad del uréter proximal
+300449001: indemnidad del uréter distal -> indemnidad del uréteres distal
+300449001: coágulo filiforme que asomaba por el meato ureteral -> coágulo filiforme que asomaba por el meato detrusor
+300449001: coágulo filiforme que asomaba por el meato ureteral -> coágulo filiforme que asomaba por el meato vesicoureteral
+300449001: coágulo filiforme que asomaba por el meato ureteral -> coágulo filiforme que asomaba por el meato retrobulbar
+300449001: uréteres permeables -> uréter permeables
+431468008: colapso del tercer ventrículo -> colapso del segundo ventrículo
+431468008: colapso del tercer ventrículo -> colapso del cuarto ventrículo
+431468008: colapso del tercer ventrículo -> colapso del quinto ventrículo
+249604002: colección líquida multitabicada, localizada caudalmente -> colección líquida multitabicada, localizada posteroinferior
+249604002: colección líquida multitabicada, localizada caudalmente -> colección líquida multitabicada, localizada anterodorsal
+249604002: colección líquida multitabicada, localizada caudalmente -> colección líquida multitabicada, localizada infraespinosa
+249604002: colección líquida multitabicada, localizada caudalmente -> colección líquida multitabicada, localizada anteroventral
+249604002: colección líquida multitabicada, localizada caudalmente -> colección líquida multitabicada, localizada posteromedial
+33688009: colestasis -> hipoparatiroidismo
+33688009: colestasis -> hipoalbuminemia
+33688009: colestasis -> hiperprolactinemia
+33688009: colestasis -> sideroblástica
+33688009: enzimas de colestasis -> enzimas de hipoparatiroidismo
+33688009: enzimas de colestasis -> enzimas de hipoalbuminemia
+33688009: enzimas de colestasis -> enzimas de hiperprolactinemia
+33688009: enzimas de colestasis -> enzimas de sideroblástica
+33688009: enzimas de colestasis -> enzima de colestasis
+33688009: enzimas de colestasis -> proteínas de colestasis
+33688009: enzimas de colestasis -> proteasas de colestasis
+88458008: cultivos aeróbicos se recuperó l. monocytogenes -> cultivos aeróbicos se recuperó l. listeria
+248690009: crepitación a la auscultación cardíaca -> crepitación a la auscultación cardiaca
+118948005: efecto masa en hipocondrio izquierdo -> efecto masa en epigastrio izquierdo
+271594007: síncopes -> extraintestinales
+271594007: síncopes -> mioclonos
+271594007: síncopes -> genitourinarios
+271594007: síncopes -> fasciculaciones
+167570003: urocultivo se aislan más de 100.000 ufc/ml de escherichia coli -> antibiograma se aislan más de 100.000 ufc/ml de escherichia coli
+167568007: urocultivo resultó negativo -> antibiograma resultó negativo
+167568007: cultivos de orina (multiples muestras) en médio de lowenstein negativas -> cultivos de orina (multiples muestras) en médio de lowenstein positivas
+167568007: urocultivo estéril -> antibiograma estéril
+55930002: d-st horizontal en v3 a v5 -> d-st vertical en v3 a v5
+713514005: debilidad muscular en las cuatro extremidades -> debilidad muscular en las tres extremidades
+713514005: debilidad muscular en las cuatro extremidades -> debilidad muscular en las cinco extremidades
+713514005: debilidad muscular en las cuatro extremidades -> debilidad muscular en las seis extremidades
+713514005: debilidad muscular en las cuatro extremidades -> debilidad muscular en las ocho extremidades
+713514005: debilidad muscular en las cuatro extremidades -> debilidad muscular en las dos extremidades
+249939004: debilidad en musculatura proximal -> debilidad en musculatura distal
+249939004: debilidad muscular proximal en brazos y piernas -> debilidad muscular distal en brazos y piernas
+85670002: disminución de las vitaminas liposolubles -> disminución de las vitaminas hidrosolubles
+52613005: diaforesis -> sialorrea
+52613005: diaforesis -> hiperreflexia
+52613005: diaforesis -> hipersalivación
+52613005: diaforesis -> mialgias
+52613005: diaforesis -> fasciculaciones
+52613005: diaforético -> vulnerario
+52613005: diaforético -> rubefaciente
+52613005: diaforético -> sudorífico
+52613005: diaforético -> eupéptico
+52613005: diaforético -> emenagogo
+419326002: limitación a la levosupraversión del oi -> limitación a la levosupraversión del ved
+419326002: limitación a la levosupraversión del oi -> limitación a la levosupraversión del resnum
+419326002: limitación a la levosupraversión del oi -> limitación a la levosupraversión del ei
+24982008: diplopia horizontal -> diplopia vertical
+24982008: diplopía binocular horizontal -> diplopía binocular vertical
+32566006: dismetria en las cuatro extremidades -> dismetria en las tres extremidades
+32566006: dismetria en las cuatro extremidades -> dismetria en las cinco extremidades
+32566006: dismetria en las cuatro extremidades -> dismetria en las seis extremidades
+32566006: dismetria en las cuatro extremidades -> dismetria en las ocho extremidades
+32566006: dismetria en las cuatro extremidades -> dismetria en las dos extremidades
+49650001: disuria -> tenesmo
+49650001: disuria -> polaquiuria
+49650001: disuria -> nicturia
+49650001: disuria -> diaforesis
+49650001: disuria -> hipersalivación
+49650001: síntomas urinarios irritativos -> síntomas urinarios extraintestinales
+49650001: síntomas urinarios irritativos -> síntomas urinarios genitourinarios
+301404009: dolor a la presión profunda en hipocondrio derecho -> dolor a la presión profunda en epigastrio derecho
+301367001: dolor abdominal en hipocondrio derecho -> dolor abdominal en epigastrio derecho
+301367001: dolor abdominal de predominio en hipocondrio derecho -> dolor abdominal de predominio en epigastrio derecho
+301367001: dolor en hipocondrio derecho -> dolor en epigastrio derecho
+79922009: dolor en epigastrio -> dolor en hipocondrio
+79922009: dolor epigástrico cólico -> dolor sialorrea cólico
+79922009: dolor epigástrico cólico -> dolor odinofagia cólico
+79922009: dolor epigástrico cólico -> dolor tenesmo cólico
+79922009: dolor epigástrico cólico -> dolor hipersalivación cólico
+79922009: dolor epigástrico cólico -> dolor pirosis cólico
+79922009: dolor epigástrico -> dolor sialorrea
+79922009: dolor epigástrico -> dolor odinofagia
+79922009: dolor epigástrico -> dolor tenesmo
+79922009: dolor epigástrico -> dolor hipersalivación
+79922009: dolor epigástrico -> dolor pirosis
+162052001: dolor en fosa ilíaca izquierda -> dolor en fosa ilíaca derecha
+162050009: dolor en flanco/fosa renal derecha que le irradia hasta teste ipsilateral -> dolor en flanco/fosa renal izquierda que le irradia hasta teste ipsilateral
+41652007: dolor en oi -> dolor en ved
+41652007: dolor en oi -> dolor en resnum
+41652007: dolor en oi -> dolor en ei
+274667000: dolor lancinante en el cuerpo mandibular -> dolor lancinante en el cuerpo maxilar
+40709005: lumbalgias -> osteoarticulares
+15930381000119104: papiledema bilateral -> hipoestesia bilateral
+15930381000119104: papiledema bilateral -> exoftalmos bilateral
+15930381000119104: papiledema bilateral -> proptosis bilateral
+15930381000119104: papiledema bilateral -> radiculopatía bilateral
+15930381000119104: papiledema bilateral -> blefaroespasmo bilateral
+445088006: edema de maxilar superior -> edema de premaxilar superior
+445088006: edema de maxilar superior -> edema de dentario superior
+445088006: edema de maxilar superior -> edema de mandíbula superior
+445088006: edema de maxilar superior -> edema de mandibular superior
+445088006: edema de maxilar superior -> edema de maxilares superior
+423341008: papiledema -> hipoestesia
+423341008: papiledema -> exoftalmos
+423341008: papiledema -> proptosis
+423341008: papiledema -> radiculopatía
+423341008: papiledema -> blefaroespasmo
+424372002: edemas distales -> edemas proximales
+424372002: edema distal de la extremidad -> edema proximal de la extremidad
+414478003: elevación de la cifra de leucocitos -> elevación de la cifra de eosinófilos
+414478003: elevación de la cifra de leucocitos -> elevación de la cifra de neutrófilos
+414478003: leve aumento del número de leucocitos -> leve incremento del número de leucocitos
+88936002: elevación de los dos hemidiafragmas -> elevación de los tres hemidiafragmas
+88936002: elevación de los dos hemidiafragmas -> elevación de los cuatro hemidiafragmas
+66999008: valores séricos de la hormona paratiroidea intacta (ipth) fueron altos -> valores sérico de la hormona paratiroidea intacta (ipth) fueron altos
+304370001: engrosamiento de las válvulas conniventes a nivel de yeyuno -> engrosamiento de las válvulas conniventes a nivel de íleon
+304370001: engrosamiento de las válvulas conniventes a nivel de yeyuno -> engrosamiento de las válvulas actinomorfo a nivel de yeyuno
+304370001: engrosamiento de las válvulas conniventes a nivel de yeyuno -> engrosamiento de las válvulas ditecas a nivel de yeyuno
+304370001: engrosamiento de las válvulas conniventes a nivel de yeyuno -> engrosamiento de las válvulas didínamos a nivel de yeyuno
+304370001: engrosamiento de las válvulas conniventes a nivel de yeyuno -> engrosamiento de las válvulas -lobados a nivel de yeyuno
+304370001: engrosamiento de las válvulas conniventes a nivel de yeyuno -> engrosamiento de las válvulas membranáceos a nivel de yeyuno
+386789004: eosinofilia -> trombopenia
+386789004: eosinofilia -> hepatoesplenomegalia
+386789004: eosinofilia -> granulocitopenia
+386789004: eosinofilia en sangre -> trombopenia en sangre
+386789004: eosinofilia en sangre -> hepatoesplenomegalia en sangre
+386789004: eosinofilia en sangre -> granulocitopenia en sangre
+386789004: eosinofilia periférica -> trombopenia periférica
+386789004: eosinofilia periférica -> hepatoesplenomegalia periférica
+386789004: eosinofilia periférica -> granulocitopenia periférica
+251979003: escapes entre micciones -> escapes entre polaquiuria
+251979003: escapes entre micciones -> escapes entre nicturia
+251979003: escapes entre micciones -> escapes entre hipersalivación
+251979003: escapes entre micciones -> escapes entre tenesmo
+398637008: espesor macular normal -> grosor macular normal
+408573005: pruebas de imagen resultaron negativas -> pruebas de imagen resultaron positivas
+18265008: proptosis ocular -> exoftalmos ocular
+18265008: proptosis ocular -> papiledema ocular
+18265008: proptosis ocular -> radiculopatía ocular
+18265008: proptosis ocular -> periorbitaria ocular
+18265008: proptosis ocular -> retrobulbar ocular
+18265008: exoftalmos bilateral -> papiledema bilateral
+18265008: exoftalmos bilateral -> proptosis bilateral
+18265008: exoftalmos bilateral -> blefaroespasmo bilateral
+18265008: exoftalmos bilateral -> oftalmoplejía bilateral
+18265008: exoftalmos bilateral -> iritis bilateral
+66857006: expectoración leve hemoptoica -> disuria leve hemoptoica
+66857006: expectoración hemoptoica -> disuria hemoptoica
+39832008: exudados algodonosos en polo posterior -> exudados multiseriados en polo posterior
+39832008: exudados algodonosos en polo posterior -> exudados suberosas en polo posterior
+39832008: exudados algodonosos en polo posterior -> exudados blanco-amarillentos en polo posterior
+39832008: exudados algodonosos en polo posterior -> exudados paráfisis en polo posterior
+165840002: factor reumatoide negativo -> factor artritis negativo
+82470000: fasciculaciones de la musculatura periférica y del diafragma -> diaforesis de la musculatura periférica y del diafragma
+82470000: fasciculaciones de la musculatura periférica y del diafragma -> mioclonías de la musculatura periférica y del diafragma
+82470000: fasciculaciones de la musculatura periférica y del diafragma -> disestesia de la musculatura periférica y del diafragma
+82470000: fasciculaciones de la musculatura periférica y del diafragma -> hipersalivación de la musculatura periférica y del diafragma
+82470000: fasciculaciones de la musculatura periférica y del diafragma -> mialgias de la musculatura periférica y del diafragma
+82470000: fasciculaciones -> diaforesis
+82470000: fasciculaciones -> mioclonías
+82470000: fasciculaciones -> disestesia
+82470000: fasciculaciones -> hipersalivación
+82470000: fasciculaciones -> mialgias
+309088003: masa renal derecha en polo inferior -> masa renal izquierda en polo inferior
+309088003: tumoraciones en valva anterior de riñón -> telangiectasias en valva anterior de riñón
+309088003: tumoraciones en valva anterior de riñón -> granulomatosas en valva anterior de riñón
+165507003: leucocitos normales -> eosinófilos normales
+165507003: leucocitos normales -> neutrófilos normales
+165507003: recuento de leucocitos era normal -> recuento de eosinófilos era normal
+165507003: recuento de leucocitos era normal -> recuento de neutrófilos era normal
+301855007: ganglios linfáticos -> linfáticos linfáticos
+301855007: ganglios linfáticos -> ganglios ganglios
+301855007: ganglios negativos -> linfáticos negativos
+301855007: ganglios -> linfáticos
+300357002: páncreas aumentado globalmente de tamaño, hipodenso -> páncreas incrementado globalmente de tamaño, hipodenso
+300357002: páncreas aumentado de tamaño -> páncreas incrementado de tamaño
+823013008: tumoración inguinoescrotal derecha muy dolorosa -> tumoración inguinoescrotal izquierda muy dolorosa
+823013008: hemiescroto derecho aumentado de tamaño -> hemiescroto derecho incrementado de tamaño
+8730001000004107: staphylococcus epidermidis en varios hemocultivos -> staphylococcus faecalis en varios hemocultivos
+8730001000004107: staphylococcus epidermidis en varios hemocultivos -> staphylococcus pseudomona en varios hemocultivos
+8730001000004107: staphylococcus epidermidis en varios hemocultivos -> staphylococcus pneumophila en varios hemocultivos
+8730001000004107: staphylococcus epidermidis en varios hemocultivos -> staphylococcus enterococcus en varios hemocultivos
+8730001000004107: staphylococcus epidermidis en varios hemocultivos -> staphylococcus peptostreptococcus en varios hemocultivos
+8730001000004107: hemocultivos crece un e. coli -> hemocultivos crece un e. escherichia
+8730001000004107: hemocultivos seriados en los que se aisló de forma persistente neisseria sicca -> hemocultivos seriados en los que se aisló de forma persistente meningitidis sicca
+8730001000004107: hemocultivos seriados en los que se aisló de forma persistente neisseria sicca -> hemocultivos seriados en los que se aisló de forma persistente gonorrhoeae sicca
+165406005: parámetros normales de las tres series hematológicas -> parámetros normales de las cuatro series hematológicas
+165406005: parámetros normales de las tres series hematológicas -> parámetros normales de las dos series hematológicas
+165406005: parámetros normales de las tres series hematológicas -> parámetros normales de las cinco series hematológicas
+165406005: parámetros normales de las tres series hematológicas -> parámetros normales de las seis series hematológicas
+165406005: parámetros normales de las tres series hematológicas -> parámetros normales de las siete series hematológicas
+131148009: resangrado -> posoperatorias
+21454007: hemorragia subaracnoidea frontoparietal derecha -> hemorragia subaracnoidea frontoparietal izquierda
+30098003: hiperemia -> intraluminal
+30098003: hiperemia -> broncodilatación
+30098003: hiperemia grave -> intraluminal grave
+30098003: hiperemia grave -> broncodilatación grave
+76849009: hiperemia conjuntival -> intraluminal conjuntival
+76849009: hiperemia conjuntival -> broncodilatación conjuntival
+76849009: hiperemia conjuntival mixta -> intraluminal conjuntival mixta
+76849009: hiperemia conjuntival mixta -> broncodilatación conjuntival mixta
+14140009: hipokalemia -> hipercalemia
+14140009: hipokalemia -> hipoproteinemia
+14140009: hipokalemia -> hipofosfatemia
+14140009: hipokalemia -> trombopenia
+14140009: hipokalemia -> hiperkalemia
+14140009: hiperpotasemia -> hipocalemia
+14140009: hiperpotasemia -> hipocalcemia
+14140009: hiperpotasemia -> hipopotasemia
+246874003: queratinización conjuntival. -> fibrinoide conjuntival.
+246874003: queratinización conjuntival -> fibrinoide conjuntival
+4996001: hipofosfatemia grave -> hipocalemia grave
+4996001: hipofosfatemia grave -> hipoproteinemia grave
+4996001: hipofosfatemia grave -> hipercalemia grave
+4996001: hipofosfatemia grave -> hipokalemia grave
+4996001: hipofosfatemia grave -> hiperkalemia grave
+119247004: hipoalbuminemia grave -> hipokalemia grave
+119247004: hipoalbuminemia grave -> hipoproteinemia grave
+119247004: hipoalbuminemia grave -> hipercalemia grave
+119247004: hipoalbuminemia grave -> trombopenia grave
+119247004: hipoalbuminemia grave -> hipofosfatemia grave
+119247004: hipoalbuminemia -> hipokalemia
+119247004: hipoalbuminemia -> hipoproteinemia
+119247004: hipoalbuminemia -> hipercalemia
+119247004: hipoalbuminemia -> trombopenia
+119247004: hipoalbuminemia -> hipofosfatemia
+5291005: hipocalcemia -> hipercalcemia
+5291005: hipocalcemia -> hipoparatiroidismo
+5291005: hipocalcemia -> hiperpotasemia
+5291005: hipocalcemia -> hipopotasemia
+5291005: hipocalcemia -> hiponatremia
+5291005: hipocalcemia severa -> hipercalcemia severa
+5291005: hipocalcemia severa -> hipoparatiroidismo severa
+5291005: hipocalcemia severa -> hiperpotasemia severa
+5291005: hipocalcemia severa -> hipopotasemia severa
+5291005: hipocalcemia severa -> hiponatremia severa
+429783005: parestesias ocasionales y leves en miembros inferiores -> hormigueos ocasionales y leves en miembros inferiores
+429783005: parestesias ocasionales y leves en miembros inferiores -> parestesia ocasionales y leves en miembros inferiores
+429783005: parestesias ocasionales y leves en miembros inferiores -> mialgias ocasionales y leves en miembros inferiores
+429783005: parestesias en las extremidades inferiores -> hormigueos en las extremidades inferiores
+429783005: parestesias en las extremidades inferiores -> parestesia en las extremidades inferiores
+429783005: parestesias en las extremidades inferiores -> mialgias en las extremidades inferiores
+429783005: hipoestesia parcheada en las extremidades inferiores -> papiledema parcheada en las extremidades inferiores
+429783005: hipoestesia parcheada en las extremidades inferiores -> arreflexia parcheada en las extremidades inferiores
+429783005: hipoestesia parcheada en las extremidades inferiores -> radiculopatía parcheada en las extremidades inferiores
+429783005: hipoestesia parcheada en las extremidades inferiores -> disestesia parcheada en las extremidades inferiores
+429783005: hipoestesia parcheada en las extremidades inferiores -> blefaroespasmo parcheada en las extremidades inferiores
+429783005: parestesias en miembros inferiores -> hormigueos en miembros inferiores
+429783005: parestesias en miembros inferiores -> parestesia en miembros inferiores
+429783005: parestesias en miembros inferiores -> mialgias en miembros inferiores
+82020005: hipomagnesemia leve -> hiperkalemia leve
+82020005: hipomagnesemia leve -> hipokalemia leve
+82020005: hipomagnesemia leve -> hiperuricemia leve
+82020005: hipomagnesemia leve -> hipopotasemia leve
+82020005: hipomagnesemia leve -> hipofosfatemia leve
+82020005: hipomagnesemia -> hiperkalemia
+82020005: hipomagnesemia -> hipokalemia
+82020005: hipomagnesemia -> hiperuricemia
+82020005: hipomagnesemia -> hipopotasemia
+82020005: hipomagnesemia -> hipofosfatemia
+89627008: hiponatremia grave -> hipocalcemia grave
+89627008: hiponatremia grave -> hiperkalemia grave
+89627008: hiponatremia grave -> hipoalbuminemia grave
+89627008: hiponatremia grave -> hiperpotasemia grave
+89627008: hiponatremia grave -> hipopotasemia grave
+89627008: hiponatremia -> hipocalcemia
+89627008: hiponatremia -> hiperkalemia
+89627008: hiponatremia -> hipoalbuminemia
+89627008: hiponatremia -> hiperpotasemia
+89627008: hiponatremia -> hipopotasemia
+45007003: hipotensión -> bradicardia
+45007003: hipotensión -> taquicardia
+45007003: hipotensión arterial -> bradicardia arterial
+45007003: hipotensión arterial -> taquicardia arterial
+95255005: hipotonía del oi -> hipotonía del ved
+95255005: hipotonía del oi -> hipotonía del resnum
+95255005: hipotonía del oi -> hipotonía del ei
+165815009: negativo para vih -> negativo para sida
+312895004: íleon por engrosamiento parietal -> yeyuno por engrosamiento parietal
+33958003: induración del tercio distal del cuerpo del pene -> edematosa del tercio distal del cuerpo del pene
+33958003: induración peneana a nivel de la base -> edematosa peneana a nivel de la base
+271653008: venas yugulares ingurgitadas -> venas subclavias ingurgitadas
+271653008: ingurgitación yugular -> intraluminal yugular
+59931005: inversión de la onda t en derivaciones iii y avf -> inversión de la onda t en derivaciones iv y avf
+59931005: inversión de la onda t en derivaciones iii y avf -> inversión de la onda t en derivaciones ii y avf
+87361006: leucocitosis con marcada desviación izquierda -> leucocitosis con marcada desviación derecha
+87361006: leucocitosis de 26.500/mm3 con desviación a la izquierda -> leucocitosis de 26.500/mm3 con desviación a la derecha
+87361006: leucocitosis con importante desviación izquierda -> leucocitosis con importante desviación derecha
+87361006: leucocitos con desviación izquierda -> eosinófilos con desviación izquierda
+87361006: leucocitos con desviación izquierda -> neutrófilos con desviación izquierda
+87361006: leucocitos con desviación izquierda -> leucocitos con desviación derecha
+87361006: leucocitosis con desviación a la izquierda -> leucocitosis con desviación a la derecha
+78341006: leucocitos polimorfonucleares y abundante moco -> leucocitos granulocito y abundante moco
+78341006: leucocitos polimorfonucleares y abundante moco -> leucocitos neutrófilo y abundante moco
+78341006: leucocitos polimorfonucleares y abundante moco -> leucocitos eosinófilos y abundante moco
+78341006: leucocitos polimorfonucleares y abundante moco -> leucocitos mononucleares y abundante moco
+78341006: leucocitos polimorfonucleares y abundante moco -> leucocitos monocito y abundante moco
+78341006: neutrofilia -> linfopenia
+78341006: neutrofilia -> linfocitosis
+78341006: neutrofilia -> macrocítica
+78341006: neutrofilia -> granulocitopenia
+67023009: linfocitosis -> neutrofilia
+67023009: linfocitosis -> linfopenia
+37125009: midriasis del ojo -> miosis del ojo
+37125009: midriasis reactiva -> miosis reactiva
+37125009: midriasis -> miosis
+37125009: leve midriasis bilateral -> leve miosis bilateral
+56681004: obliteración de iv ventrículo -> obliteración de iii ventrículo
+56681004: obliteración de iv ventrículo -> obliteración de vii ventrículo
+56681004: obliteración de iv ventrículo -> obliteración de viii ventrículo
+56681004: obliteración de iv ventrículo -> obliteración de vi ventrículo
+404640003: mareos -> náuseas
+300848003: tumoraciones -> telangiectasias
+300848003: tumoraciones -> granulomatosas
+300848003: masa radiolúcida homogénea unilocular -> masa radiolúcida homogénea sincárpico
+300848003: masa radiolúcida homogénea unilocular -> masa radiolúcida homogénea trilocular
+300848003: masa radiolúcida homogénea unilocular -> masa radiolúcida homogénea -carpelar
+300848003: masa radiolúcida homogénea unilocular -> masa radiolúcida homogénea bicarpelar
+300848003: masa radiolúcida homogénea unilocular -> masa radiolúcida homogénea semiínfero
+69559004: masa quística polilobulada retroperitoneal derecha -> masa quística polilobulada retroperitoneal izquierda
+69559004: masas retroperitoneales -> masas intraabdominales
+69559004: masas retroperitoneales -> masas peritoneales
+69559004: masas retroperitoneales -> masas ureterales
+69559004: masas retroperitoneales -> masas sebáceos
+69559004: masas retroperitoneales -> masas espinocelular
+301030002: masa mediastínica anterior -> masa mediastínicos anterior
+301030002: masa mediastínica anterior -> masa parenquimatosa anterior
+301030002: masa mediastínica anterior -> masa ureterales anterior
+301030002: masa mediastínica anterior -> masa anorrectal anterior
+300287006: masa de color marrón-negro en tercio superior esofágico -> masa de color azuloso en tercio superior esofágico
+300287006: masa de color marrón-negro en tercio superior esofágico -> masa de color rojizo-marrón en tercio superior esofágico
+300287006: masa de color marrón-negro en tercio superior esofágico -> masa de color naranja-amarillo en tercio superior esofágico
+300287006: masa de color marrón-negro en tercio superior esofágico -> masa de color negro-marrón en tercio superior esofágico
+300287006: masa de color marrón-negro en tercio superior esofágico -> masa de color marrón-amarillento en tercio superior esofágico
+445456006: tumoración submandibular -> tumoración estilogloso
+722223000: masa quística renal -> masa fibrosis renal
+282050000: plastrón localizado en yeyuno -> plastrón localizado en íleon
+282050000: masa en yeyuno proximal -> masa en yeyuno distal
+282050000: masa en yeyuno proximal -> masa en íleon proximal
+282050000: yeyuno proximal una tumoración, friable y ulcerada -> yeyuno distal una tumoración, friable y ulcerada
+282050000: yeyuno proximal una tumoración, friable y ulcerada -> íleon proximal una tumoración, friable y ulcerada
+300855001: tumoración intraluminal -> tumoración prerrenal
+300855001: tumoración intraluminal -> tumoración fibrótica
+300855001: tumoración intraluminal -> tumoración fibrótico
+300855001: tumoración intraluminal -> tumoración ingurgitación
+300855001: tumoración intraluminal -> tumoración bronquiolar
+74285003: masa pélvica situada a la derecha de la vejiga -> masa pélvica situada a la izquierda de la vejiga
+74285003: nódulo que infiltra en profundidad la grasa subcutánea y el músculo iliopsoas -> nódulo que infiltra en profundidad la grasa subcutánea y el músculo subclavio
+74285003: nódulo que infiltra en profundidad la grasa subcutánea y el músculo iliopsoas -> nódulo que infiltra en profundidad la grasa subcutánea y el músculo buccinador
+74285003: nódulo que infiltra en profundidad la grasa subcutánea y el músculo iliopsoas -> nódulo que infiltra en profundidad la grasa subcutánea y el músculo semimembranoso
+74285003: nódulo que infiltra en profundidad la grasa subcutánea y el músculo iliopsoas -> nódulo que infiltra en profundidad la grasa subcutánea y el músculo esternotiroideo
+74285003: nódulo que infiltra en profundidad la grasa subcutánea y el músculo iliopsoas -> nódulo que infiltra en profundidad la grasa subcutánea y el músculo estilogloso
+445328000: pápula eritematosa, levemente dolorosa a la presión -> eritematosas eritematosa, levemente dolorosa a la presión
+445328000: micropápulas pruriginosas -> micropápulas atróficas
+445328000: micropápulas pruriginosas -> micropápulas eritematosas
+445328000: micropápulas pruriginosas -> micropápulas telangiectasias
+445328000: micropápulas pruriginosas -> micropápulas pruriginosa
+445328000: micropápulas pruriginosas -> micropápulas indoloras
+17450006: mioclonías en miembros inferiores -> atetosis en miembros inferiores
+17450006: mioclonías en miembros inferiores -> fasciculaciones en miembros inferiores
+17450006: mioclonías en miembros inferiores -> incoordinación en miembros inferiores
+17450006: mioclonías en miembros inferiores -> mioclonos en miembros inferiores
+17450006: mioclonías en miembros inferiores -> coreoatetosis en miembros inferiores
+17450006: mioclonías generalizadas -> atetosis generalizadas
+17450006: mioclonías generalizadas -> fasciculaciones generalizadas
+17450006: mioclonías generalizadas -> incoordinación generalizadas
+17450006: mioclonías generalizadas -> mioclonos generalizadas
+17450006: mioclonías generalizadas -> coreoatetosis generalizadas
+232209000: narina izquierda por disminución de la permeabilidad -> narina derecha por disminución de la permeabilidad
+422400008: vómitos autolimitados de duración variable -> náuseas autolimitados de duración variable
+422400008: vómitos -> náuseas
+422587007: náuseas -> vómitos
+422587007: náuseas -> mareos
+166159005: negativo para antígeno prostático específico -> negativo para antígenos prostático específico
+166159005: negativo para antígeno prostático específico -> negativo para anticuerpo prostático específico
+300561007: riñones y uréteres normales -> riñones y uréter normales
+60280003: presión intraocular adecuada -> presión intraocular apropiada
+30233002: odinofagia -> hipersalivación
+30233002: odinofagia -> vulvovaginitis
+30233002: odinofagia -> hepatobiliares
+30233002: odinofagia -> genitourinarios
+30233002: odinofagia -> tenesmo
+30233002: odinofagia leve -> hipersalivación leve
+30233002: odinofagia leve -> vulvovaginitis leve
+30233002: odinofagia leve -> hepatobiliares leve
+30233002: odinofagia leve -> genitourinarios leve
+30233002: odinofagia leve -> tenesmo leve
+83128009: oliguria -> anuria
+83128009: oliguria -> hiperuricemia
+83128009: oliguria -> genitourinarias
+83128009: oliguria -> hepatoesplenomegalia
+83128009: oliguria -> poliuria
+251237002: ondas t positivas en las derivaciones v2 a v4 -> ondas t negativas en las derivaciones v2 a v4
+394717006: orina con leucocitos negativos -> orina con eosinófilos negativos
+394717006: orina con leucocitos negativos -> orina con neutrófilos negativos
+302200001: palidez papilar en oi -> palidez papilar en ved
+302200001: palidez papilar en oi -> palidez papilar en resnum
+302200001: palidez papilar en oi -> palidez papilar en ei
+91019004: parestesias -> hormigueos
+91019004: parestesias -> mialgias
+91019004: parestesia -> disestesia
+91019004: parestesia -> diaforesis
+91019004: parestesia -> fasciculaciones
+233703007: patrón intersticial retículo nodular septal y centro lobulillar -> patrón intersticial endoplasmático nodular septal y centro lobulillar
+89362005: pérdida de treinta libras de peso -> pérdida de cuarenta libras de peso
+89362005: pérdida de treinta libras de peso -> pérdida de veinte libras de peso
+89362005: pérdida de treinta libras de peso -> pérdida de cincuenta libras de peso
+89362005: pérdida de treinta libras de peso -> pérdida de quince libras de peso
+80306002: peristaltismo discretamente aumentado -> peristaltismo discretamente incrementado
+8644006: pesadez posprandial -> pesadez calcemia
+302215000: trombopenia -> granulocitopenia
+302215000: trombopenia -> pancitopenia
+302215000: trombopenia -> hepatoesplenomegalia
+302215000: trombopenia -> hipokalemia
+302215000: trombopenia -> hipoproteinemia
+167734003: punción lumbar únicamente mostró una discreta elevación de las proteínas -> punción lumbar únicamente mostró una discreta elevación de las proteína
+167734003: punción lumbar únicamente mostró una discreta elevación de las proteínas -> punción lumbar únicamente mostró una discreta elevación de las enzimas
+301151001: pulsos distales se hallaban conservados -> pulsos proximales se hallaban conservados
+301151001: pulsos distales presentes -> pulsos proximales presentes
+405729008: rectorragia -> hematoquecia
+14310000: rinorrea purulenta -> tenesmo purulenta
+14310000: rinorrea purulenta -> sialorrea purulenta
+14310000: rinorrea purulenta -> epistaxis purulenta
+14310000: rinorrea purulenta -> disuria purulenta
+14310000: rinorrea purulenta -> diaforesis purulenta
+14310000: rinorrea verdosa -> rinorrea amarillenta
+14310000: rinorrea verdosa -> tenesmo verdosa
+14310000: rinorrea verdosa -> sialorrea verdosa
+14310000: rinorrea verdosa -> epistaxis verdosa
+14310000: rinorrea verdosa -> disuria verdosa
+14310000: rinorrea verdosa -> diaforesis verdosa
+9957009: secreción purulenta transuretral -> secreción purulenta reestenosis
+9957009: secreción purulenta transuretral -> secreción purulenta colangiopancreatografía
+698594003: signos de insuficiencia cardiaca -> signos de insuficiencia cardíaca
+7358000: síndrome miccional irritativo -> síndrome polaquiuria irritativo
+7358000: síndrome miccional irritativo -> síndrome nicturia irritativo
+7358000: síndrome miccional irritativo -> síndrome disuria irritativo
+7358000: sintomatología miccional -> sintomatología polaquiuria
+7358000: sintomatología miccional -> sintomatología nicturia
+7358000: sintomatología miccional -> sintomatología disuria
+7358000: síndrome miccional -> síndrome polaquiuria
+7358000: síndrome miccional -> síndrome nicturia
+7358000: síndrome miccional -> síndrome disuria
+11092001: taquicardia -> hipotensión
+11092001: taquicardia -> bradicardia
+11092001: taquicardia sinusal -> hipotensión sinusal
+11092001: taquicardia sinusal -> bradicardia sinusal
+11833005: tos irritativa -> tos xerosis
+11833005: tos irritativa -> tos xerostomía
+11833005: tos irritativa -> tos vulvovaginitis
+11833005: tos irritativa -> tos odinofagia
+11833005: tos irritativa -> tos leucorrea
+300861003: tumoración localizada en la unión de los segmentos iv y v -> tumoración localizada en la unión de los segmentos iii y v
+300861003: tumoración localizada en la unión de los segmentos iv y v -> tumoración localizada en la unión de los segmentos vii y v
+300861003: tumoración localizada en la unión de los segmentos iv y v -> tumoración localizada en la unión de los segmentos viii y v
+300861003: tumoración localizada en la unión de los segmentos iv y v -> tumoración localizada en la unión de los segmentos vi y v
+300861003: tumoración de aproximadamente 5x5cm de diámetro medial al tercio inferior del músculo esternocleidomastoideo -> tumoración de aproximadamente 5x5cm de diámetro medial al tercio inferior del músculo hiogloso
+300861003: tumoración de aproximadamente 5x5cm de diámetro medial al tercio inferior del músculo esternocleidomastoideo -> tumoración de aproximadamente 5x5cm de diámetro medial al tercio inferior del músculo digástrico
+300861003: tumoración de aproximadamente 5x5cm de diámetro medial al tercio inferior del músculo esternocleidomastoideo -> tumoración de aproximadamente 5x5cm de diámetro medial al tercio inferior del músculo iliopsoas
+300861003: tumoración de aproximadamente 5x5cm de diámetro medial al tercio inferior del músculo esternocleidomastoideo -> tumoración de aproximadamente 5x5cm de diámetro medial al tercio inferior del músculo subclavio
+300861003: tumoración de aproximadamente 5x5cm de diámetro medial al tercio inferior del músculo esternocleidomastoideo -> tumoración de aproximadamente 5x5cm de diámetro medial al tercio inferior del músculo platisma
+300365004: vómitos pospandriales -> náuseas pospandriales
+300365004: vómitos alimenticios -> náuseas alimenticios

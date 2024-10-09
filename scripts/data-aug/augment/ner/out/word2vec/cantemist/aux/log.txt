@@ -1,0 +1,20 @@
+Language: es
+Distance Threshold: 0.75
+Original data size: 20.3 MB
+Augmented data size: 35.5 MB
+
+Language: es
+Distance Threshold: 0.8
+Original data size: 20.3 MB
+Augmented data size: 30.4 MB
+
+Language: es
+Distance Threshold: 0.85
+Original data size: 20.3 MB
+Augmented data size: 24.2 MB
+
+Language: es
+Distance Threshold: 0.9
+Original data size: 20.3 MB
+Augmented data size: 20.3 MB
+

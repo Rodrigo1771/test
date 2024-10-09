@@ -84,7 +84,7 @@ for DISTANCE_THRESHOLD in "${DISTANCE_THRESHOLDS[@]}"; do
     # Train model
     cd ../../../../models/sapbert/train/ && CUDA_VISIBLE_DEVICES=0,1 python3 train.py \
       --model_dir "$MODEL_ID" \
-      --training_file_path "../../../scripts/data-aug/augment/el/sapbert/out/${MODEL_TYPE}/${LANG}/sapbert_${DATASET}_${LANG}_training_file_aug_3_${DISTANCE_THRESHOLD}.txt" \
+      --training_file_path "../../../scripts/data-aug/augment/el/out/${MODEL_TYPE}/${LANG}/sapbert_${DATASET}_${LANG}_training_file_aug_3_${DISTANCE_THRESHOLD}.txt" \
       --output_dir_for_best_model "../../../scripts/el/sapbert/pipeline/out/${DATASET}/final-model-aug/${MODEL_TYPE}/${LANG}/${MODEL_ID#*/}_EPOCH_${BATCH_SIZE}_${LEARNING_RATE}_${DISTANCE_THRESHOLD}/" \
       --results_file_path "../../../scripts/el/sapbert/pipeline/out/${DATASET}/final-model-aug/${MODEL_TYPE}/${LANG}/${MODEL_ID#*/}_training_results.json" \
       --epoch "$EPOCHS" \

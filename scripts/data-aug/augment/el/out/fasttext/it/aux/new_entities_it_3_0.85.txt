@@ -1,0 +1,104 @@
+300848003: tumore asintomatico -> cancro asintomatico
+300848003: massa ipoecogena -> massa anecogena
+300848003: massa ipoecogena -> massa ipoecogeno
+300848003: massa ipoecogena -> massa ipoecogene
+300848003: massa ipoecogena -> massa ipoecogenicità
+300848003: tumore endofitico -> cancro endofitico
+69559004: massa solida di 12 cm dietro il rene -> massa solida di 14 cm dietro il rene
+69559004: massa solida di 12 cm dietro il rene -> massa solida di 13 cm dietro il rene
+69559004: massa solida di 12 cm dietro il rene -> massa solida di 16 cm dietro il rene
+69559004: massa solida di 12 cm dietro il rene -> massa solida di 11 cm dietro il rene
+69559004: massa solida di 12 cm dietro il rene -> massa solida di 15 cm dietro il rene
+69559004: tumore retroperitoneale -> cancro retroperitoneale
+64882008: sindrome febbrile -> Sindrome febbrile
+64882008: aumento della temperatura -> incremento della temperatura
+52613005: diaforetico -> diaforetica
+52613005: diaforetico -> diaforetiche
+52613005: diaforetico -> diaforetici
+271653008: vene giugulari ingurgitate -> vene giugulari ingurgitati
+166315009: biochimica, ioni e transaminasi erano normali -> biochimica, ioni e Transaminasi erano normali
+87860000: tumore testicolare bilaterale -> cancro testicolare bilaterale
+399406009: marcatori testicolari negativi -> marcatori testicolari positivi
+399406009: marcatori tumorali negativi -> marcatori tumorali positivi
+399406009: i marcatori tumorali erano negativi -> i marcatori tumorali erano positivi
+408573005: i test di imaging erano negativi -> i test di imaging erano positivi
+301367001: dolore addominale prevalentemente nell'ipocondrio destro -> dolore addominale principalmente nell'ipocondrio destro
+237783006: tumore surrenale -> cancro surrenale
+119247004: ipoalbuminemia -> albuminemia
+119247004: grave ipoalbuminemia -> grave albuminemia
+301936006: il polo anteriore era normale in entrambi gli occhi -> il polo posteriore era normale in entrambi gli occhi
+24982008: diplopia binoculare orizzontale -> diplopia binoculare verticale
+24982008: diplopia orizzontale -> diplopia verticale
+300855001: tumore intraluminale -> cancro intraluminale
+271823003: aumento della frequenza respiratoria -> incremento della frequenza respiratoria
+89362005: perdita di circa 15 kg di peso -> perdita di circa 20 kg di peso
+89362005: perdita di circa 15 kg di peso -> perdita di circa 14 kg di peso
+89362005: perdita di circa 15 kg di peso -> perdita di circa 10 kg di peso
+89362005: perdita di circa 15 kg di peso -> perdita di circa 12 kg di peso
+89362005: perdita di circa 15 kg di peso -> perdita di circa 16 kg di peso
+89362005: perdita di circa 15 kg di peso -> perdita di circa 15 Kg di peso
+89362005: perdita di peso di 5 kg -> perdita di peso di 5 Kg
+89362005: perdita di peso di 15 kg -> perdita di peso di 20 kg
+89362005: perdita di peso di 15 kg -> perdita di peso di 14 kg
+89362005: perdita di peso di 15 kg -> perdita di peso di 10 kg
+89362005: perdita di peso di 15 kg -> perdita di peso di 12 kg
+89362005: perdita di peso di 15 kg -> perdita di peso di 16 kg
+89362005: perdita di peso di 7 kg -> perdita di peso di 8 kg
+89362005: perdita di peso di 7 kg -> perdita di peso di 6 kg
+89362005: perdita di peso di 7 kg -> perdita di peso di 9 kg
+89362005: perdita di peso di 7 kg -> perdita di peso di 4 kg
+89362005: perdita di peso di 7 kg -> perdita di peso di 7 Kg
+88936002: elevazione dei due emidiaframmi -> elevazione dei tre emidiaframmi
+88936002: elevazione dei due emidiaframmi -> elevazione dei quattro emidiaframmi
+309088003: massa solida nel polo superiore del rene -> massa solida nel polo inferiore del rene
+309088003: massa di 5 cm di diametro nel rene sinistro -> massa di 4 cm di diametro nel rene sinistro
+309088003: massa di 5 cm di diametro nel rene sinistro -> massa di 6 cm di diametro nel rene sinistro
+309088003: massa di 5 cm di diametro nel rene sinistro -> massa di 3 cm di diametro nel rene sinistro
+309088003: massa di 5 cm di diametro nel rene sinistro -> massa di 7 cm di diametro nel rene sinistro
+309088003: massa di 5 cm di diametro nel rene sinistro -> massa di 8 cm di diametro nel rene sinistro
+18265008: esoftalmo bilaterale -> Esoftalmo bilaterale
+309530007: immagine di 3 cm nell'ilo -> immagine di 4 cm nell'ilo
+309530007: immagine di 3 cm nell'ilo -> immagine di 2 cm nell'ilo
+309530007: immagine di 3 cm nell'ilo -> immagine di 6 cm nell'ilo
+309530007: immagine di 3 cm nell'ilo -> immagine di 5 cm nell'ilo
+309530007: immagine di 3 cm nell'ilo -> immagine di 7 cm nell'ilo
+79922009: epigastralgia -> epigastralgie
+37125009: pupille leggermente midriatiche -> pupille lievemente midriatiche
+37125009: pupille leggermente midriatiche -> pupille leggermente midriatici
+22994000: iporeflessia generalizzata -> areflessia generalizzata
+22994000: iporeflessia -> areflessia
+106150003: coinvolgimento del nervo alveolare inferiore -> coinvolgimento del nervo alveolare superiore
+708118007: ripetute colture negative -> ripetute colture positive
+708118007: cultura negativa -> cultura positiva
+300561007: studi urologici normali -> studi andrologici normali
+74285003: massa pelvica anteriore alla vescica -> massa pelvica posteriore alla vescica
+111512005: sinechia posteriore -> sinechia anteriore
+301855007: nodi negativi -> nodi positivi
+246975001: ittero muco-cutaneo -> ittero muco-cutanea
+102568007: debolezza degli arti inferiori -> debolezza degli arti superiori
+102568007: diminuzione della forza in entrambi gli arti inferiori -> diminuzione della forza in entrambi gli arti superiori
+21454007: emorragia subaracnoidea frontoparietale destra -> emorragia subaracnoidea frontoparietale sinistra
+707724006: transaminasi elevate -> Transaminasi elevate
+707724006: transaminasi leggermente elevate -> transaminasi lievemente elevate
+707724006: transaminasi leggermente elevate -> Transaminasi leggermente elevate
+707724006: valori elevati di transaminasi -> valori elevati di Transaminasi
+707724006: aumento progressivo delle transaminasi -> aumento progressivo delle Transaminasi
+707724006: aumento progressivo delle transaminasi -> incremento progressivo delle transaminasi
+707724006: aumento delle transaminasi -> incremento delle transaminasi
+707724006: aumento delle transaminasi -> aumento delle Transaminasi
+166558007: lattato deidrogenasi e alfa-fetoproteina normali -> lattato deidrogenasi e alfafetoproteina normali
+166558007: lattato deidrogenasi e alfa-fetoproteina normali -> lattato 1-deidrogenasi e alfa-fetoproteina normali
+166558007: lattato deidrogenasi e alfa-fetoproteina normali -> lattato 2-deidrogenasi e alfa-fetoproteina normali
+166558007: lattato deidrogenasi e alfa-fetoproteina normali -> lattato 4-deidrogenasi e alfa-fetoproteina normali
+166558007: lattato deidrogenasi e alfa-fetoproteina normali -> lattato 5-deidrogenasi e alfa-fetoproteina normali
+166558007: lattato deidrogenasi e alfa-fetoproteina normali -> lattato 3-deidrogenasi e alfa-fetoproteina normali
+166558007: alfa-fetoproteina normale -> alfafetoproteina normale
+369757002: massa solida con aree emorragiche -> massa solida con zone emorragiche
+89474008: studio di estensione negativo -> studio di estensione positivo
+431468008: collasso del terzo ventricolo -> collasso del quinto ventricolo
+431468008: collasso del terzo ventricolo -> collasso del quarto ventricolo
+235771005: singolo nodulo di 1 x 1,5 cm situato nell'appendice -> singolo nodulo di 1 x 2,5 cm situato nell'appendice
+235771005: singolo nodulo di 1 x 1,5 cm situato nell'appendice -> singolo nodulo di 1 x 1,2 cm situato nell'appendice
+235771005: singolo nodulo di 1 x 1,5 cm situato nell'appendice -> singolo nodulo di 1 x 1,6 cm situato nell'appendice
+235771005: singolo nodulo di 1 x 1,5 cm situato nell'appendice -> singolo nodulo di 1 x 1,8 cm situato nell'appendice
+445249002: immagini nodulari nel lobo superiore -> immagini nodulari nel lobo inferiore

@@ -1,0 +1,247 @@
+81141003: la funzione renale è rimasta normale -> la funzione renale é rimasta normale
+81141003: la funzione renale è rimasta normale -> la funzione renale è restata normale
+81141003: il rene destro era funzionalmente normale -> il rene sinistro era funzionalmente normale
+300848003: tumore asintomatico -> tumore asintomatica
+300848003: tumore asintomatico -> cancro asintomatico
+300848003: massa ipoecogena -> massa anecogena
+300848003: massa ipoecogena -> massa ipoecogeno
+300848003: massa ipoecogena -> massa ipoecogene
+300848003: massa ipoecogena -> massa ipoecogenicità
+300848003: massa ipoecogena -> massa iperecogena
+300848003: tumore endofitico -> cancro endofitico
+300441003: parenchima renale sinistro conservato -> parenchima renale destro conservato
+69559004: massa cistica retroperitoneale destra polilobata -> massa cistica retroperitoneale destra polilobato
+69559004: massa solida di 12 cm dietro il rene -> massa solida di 14 cm dietro il rene
+69559004: massa solida di 12 cm dietro il rene -> massa solida di 13 cm dietro il rene
+69559004: massa solida di 12 cm dietro il rene -> massa solida di 16 cm dietro il rene
+69559004: massa solida di 12 cm dietro il rene -> massa solida di 11 cm dietro il rene
+69559004: massa solida di 12 cm dietro il rene -> massa solida di 15 cm dietro il rene
+69559004: tumore retroperitoneale -> cancro retroperitoneale
+69559004: masse retroperitoneali -> masse peritoneali
+64882008: febbre alta -> febbre bassa
+64882008: febbre alta -> febbre altissima
+64882008: sindrome febbrile -> Sindrome febbrile
+64882008: aumento della temperatura -> incremento della temperatura
+64882008: aumento della temperatura -> diminuzione della temperatura
+52613005: diaforetico -> diaforetica
+52613005: diaforetico -> diaforetiche
+52613005: diaforetico -> diaforetici
+271653008: vene giugulari ingurgitate -> vene giugulari ingurgitati
+271653008: vene giugulari ingurgitate -> vene giugulari ingurgitata
+271653008: vene giugulari ingurgitate -> vene giugulari ingurgitato
+271653008: ingurgito giugulare -> ingurgiti giugulare
+19829001: coinvolgimento parenchimale del polmone -> coinvolgimento parenchimali del polmone
+49233005: dispnea -> Dispnea
+49233005: dispnea di intensità progressiva -> Dispnea di intensità progressiva
+166315009: biochimica, ioni e transaminasi erano normali -> biochimica, ioni e Transaminasi erano normali
+87860000: tumore testicolare bilaterale -> cancro testicolare bilaterale
+399406009: marcatori testicolari negativi -> marcatori testicolari positivi
+399406009: i marcatori tumorali sierici erano a livelli normali -> i marcatori tumorali sierici Erano a livelli normali
+399406009: marcatori tumorali negativi -> marcatori tumorali positivi
+399406009: i marcatori tumorali erano negativi -> i marcatori tumorali erano positivi
+408573005: i test di imaging erano negativi -> i test di imaging Erano negativi
+408573005: i test di imaging erano negativi -> i test di imaging erano positivi
+422400008: vomito autolimitato di durata variabile -> vomito autolimita di durata variabile
+563001: nistagmo da abduzione in entrambi gli occhi -> nistagmo da abduzione in ambedue gli occhi
+301367001: dolore all'ipocondrio destro -> dolore all'ipocondrio sinistro
+301367001: dolore addominale nell'ipocondrio destro -> dolore addominale nell'ipocondrio sinistro
+301367001: dolore sordo nell'ipocondrio destro -> dolore sordo nell'ipocondrio sinistro
+301367001: dolore addominale prevalentemente nell'ipocondrio destro -> dolore addominale principalmente nell'ipocondrio destro
+301367001: dolore addominale prevalentemente nell'ipocondrio destro -> dolore addominale perlopiù nell'ipocondrio destro
+301367001: dolore addominale prevalentemente nell'ipocondrio destro -> dolore addominale prevalentemente nell'ipocondrio sinistro
+237783006: tumore nella zona surrenale -> tumore nella zona surrenalica
+237783006: massa surrenale -> massa surrenalica
+237783006: tumore surrenale -> cancro surrenale
+237783006: tumore surrenale -> tumore surrenalica
+8644006: pesantezza postprandiale -> pesantezza post-prandiale
+8644006: pesantezza postprandiale -> pesantezza prandiale
+8644006: pesantezza postprandiale -> pesantezza postprandiali
+8644006: sensazione di pienezza -> senzazione di pienezza
+267045008: sintomi gastrointestinali -> sintomi gastro-intestinali
+267045008: manifestazioni gastrointestinali -> manifestazioni gastro-intestinali
+22253000: doloroso -> dolorosissimo
+72970002: i segni vitali erano normali -> i segni vitali Erano normali
+80515008: epatomegalia dolorosa -> epatomegalia dolorosissima
+80515008: epatomegalia dolorosa -> Epatomegalia dolorosa
+52985009: liquido ascitico con caratteristiche chilose -> liquido ascitica con caratteristiche chilose
+52985009: liquido ascitico con caratteristiche chilose -> liquido ascitici con caratteristiche chilose
+389026000: liquido ascitico -> liquido ascitica
+389026000: liquido ascitico -> liquido ascitici
+119247004: ipoalbuminemia -> albuminemia
+119247004: grave ipoalbuminemia -> gravissima ipoalbuminemia
+119247004: grave ipoalbuminemia -> gravissimo ipoalbuminemia
+119247004: grave ipoalbuminemia -> grave albuminemia
+386789004: eosinofilia -> Eosinofilia
+386789004: eosinofilia periferica -> Eosinofilia periferica
+301936006: il polo anteriore era normale in entrambi gli occhi -> il polo anteriore era normale in ambedue gli occhi
+301936006: il polo anteriore era normale in entrambi gli occhi -> il polo posteriore era normale in entrambi gli occhi
+103251002: la motilità oculare estrinseca e intrinseca era normale -> la motilita oculare estrinseca e intrinseca era normale
+103251002: motilità oculare estrinseca e intrinseca -> motilita oculare estrinseca e intrinseca
+103251002: la motilità estrinseca e intrinseca era normale -> la motilita estrinseca e intrinseca era normale
+24982008: diplopia binoculare orizzontale -> diplopia binoculare verticale
+24982008: diplopia binoculare orizzontale -> Diplopia binoculare orizzontale
+24982008: diplopia -> Diplopia
+24982008: diplopia orizzontale -> Diplopia orizzontale
+24982008: diplopia orizzontale -> diplopia verticale
+300855001: tumore intraluminale -> cancro intraluminale
+300855001: tumore intraluminale -> tumore intraluminali
+23149001: sensazione di crepitio a livello infraorbitale -> senzazione di crepitio a livello infraorbitale
+271823003: aumento della frequenza respiratoria -> incremento della frequenza respiratoria
+271823003: aumento della frequenza respiratoria -> diminuzione della frequenza respiratoria
+271823003: tachipnea persistente -> Tachipnea persistente
+271823003: tachipnea -> Tachipnea
+89362005: perdita di circa 15 kg di peso -> perdita di circa 20 kg di peso
+89362005: perdita di circa 15 kg di peso -> perdita di circa 14 kg di peso
+89362005: perdita di circa 15 kg di peso -> perdita di circa 10 kg di peso
+89362005: perdita di circa 15 kg di peso -> perdita di circa 12 kg di peso
+89362005: perdita di circa 15 kg di peso -> perdita di circa 16 kg di peso
+89362005: perdita di circa 15 kg di peso -> perdita di circa 15 Kg di peso
+89362005: perdita di circa 15 kg di peso -> perdita di circa 15 Kg. di peso
+89362005: perdita di circa 15 kg di peso -> perdita di circa 15 kg. di peso
+89362005: perdita di peso di 5 kg -> perdita di peso di 5 Kg
+89362005: perdita di peso di 5 kg -> perdita di peso di 5 Kg.
+89362005: perdita di peso di 5 kg -> perdita di peso di 5 kg.
+89362005: perdita di peso di 15 kg -> perdita di peso di 20 kg
+89362005: perdita di peso di 15 kg -> perdita di peso di 14 kg
+89362005: perdita di peso di 15 kg -> perdita di peso di 10 kg
+89362005: perdita di peso di 15 kg -> perdita di peso di 12 kg
+89362005: perdita di peso di 15 kg -> perdita di peso di 16 kg
+89362005: perdita di peso di 7 kg -> perdita di peso di 8 kg
+89362005: perdita di peso di 7 kg -> perdita di peso di 6 kg
+89362005: perdita di peso di 7 kg -> perdita di peso di 9 kg
+89362005: perdita di peso di 7 kg -> perdita di peso di 4 kg
+89362005: perdita di peso di 7 kg -> perdita di peso di 7 Kg
+89362005: perdita di peso di 7 kg -> perdita di peso di 7 Kg.
+89362005: perdita di peso di 7 kg -> perdita di peso di 7 kg.
+204676004: mucosa gastrica eterotopica -> mucosa gastrica eterotopiche
+64379006: meno appetito -> più appetito
+64379006: diminuzione dell'assunzione -> riduzione dell'assunzione
+64379006: diminuzione dell'assunzione -> aumento dell'assunzione
+88936002: elevazione dei due emidiaframmi -> elevazione dei tre emidiaframmi
+88936002: elevazione dei due emidiaframmi -> elevazione dei quattro emidiaframmi
+88936002: elevazione dei due emidiaframmi -> elevazione dei cinque emidiaframmi
+249562008: anse intestinali con una piccola quantità di liquido libero -> anse intestinali con una piccolissima quantità di liquido libero
+165406005: parametri normali delle tre serie ematologiche -> parametri normali delle tre serie endocrinologiche
+165406005: parametri normali delle tre serie ematologiche -> parametri normali delle tre serie gastroenterologiche
+165406005: parametri normali delle tre serie ematologiche -> parametri normali delle tre serie urologiche
+165406005: parametri normali delle tre serie ematologiche -> parametri normali delle tre serie reumatologiche
+165406005: parametri normali delle tre serie ematologiche -> parametri normali delle tre serie nefrologiche
+309088003: massa solida nel polo superiore del rene -> massa solida nel polo inferiore del rene
+309088003: massa di 5 cm di diametro nel rene sinistro -> massa di 4 cm di diametro nel rene sinistro
+309088003: massa di 5 cm di diametro nel rene sinistro -> massa di 6 cm di diametro nel rene sinistro
+309088003: massa di 5 cm di diametro nel rene sinistro -> massa di 3 cm di diametro nel rene sinistro
+309088003: massa di 5 cm di diametro nel rene sinistro -> massa di 7 cm di diametro nel rene sinistro
+309088003: massa di 5 cm di diametro nel rene sinistro -> massa di 8 cm di diametro nel rene sinistro
+443371007: diminuzione del livello di coscienza -> riduzione del livello di coscienza
+443371007: diminuzione del livello di coscienza -> aumento del livello di coscienza
+443371007: basso livello di coscienza -> alto livello di coscienza
+249339005: piramide nasale stretta -> piramide nasale strettissima
+135815002: buone condizioni generali -> ottime condizioni generali
+445088006: edema della mascella superiore -> edema della mandibola superiore
+14310000: rinorrea purulenta -> rinorrea purulente
+14310000: rinorrea purulenta -> rinorrea purulento
+18265008: esoftalmo bilaterale -> Esoftalmo bilaterale
+309530007: immagine di 3 cm nell'ilo -> immagine di 4 cm nell'ilo
+309530007: immagine di 3 cm nell'ilo -> immagine di 2 cm nell'ilo
+309530007: immagine di 3 cm nell'ilo -> immagine di 6 cm nell'ilo
+309530007: immagine di 3 cm nell'ilo -> immagine di 5 cm nell'ilo
+309530007: immagine di 3 cm nell'ilo -> immagine di 7 cm nell'ilo
+79922009: dolore epigastrico -> dolore epigastrica
+79922009: dolore epigastrico -> dolore epigastrici
+79922009: dolore epigastrico -> dolore epigastralgia
+79922009: dolore epigastrico -> dolore epigastrio
+79922009: epigastralgia -> epigastralgie
+79922009: epigastralgia -> gastralgia
+79922009: epigastralgia -> epigastrico
+37125009: pupille leggermente midriatiche -> pupille lievemente midriatiche
+37125009: pupille leggermente midriatiche -> pupille leggermente midriatici
+37125009: pupille leggermente midriatiche -> pupille leggermente midriatico
+22994000: iporeflessia generalizzata -> areflessia generalizzata
+22994000: iporeflessia generalizzata -> iperreflessia generalizzata
+22994000: iporeflessia -> areflessia
+22994000: iporeflessia -> iperreflessia
+106150003: coinvolgimento del nervo alveolare inferiore -> coinvolgimento del nervo alveolare superiore
+708118007: ripetute colture negative -> ripetute colture positive
+708118007: ripetute colture negative -> ripetute coltivazioni negative
+708118007: cultura negativa -> cultura positiva
+300561007: studi urologici normali -> studi andrologici normali
+300561007: studi urologici normali -> studi ginecologici normali
+300561007: studi urologici normali -> studi Urologici normali
+300561007: studi urologici normali -> studi cardiologici normali
+300561007: studi urologici normali -> studi endocrinologici normali
+74285003: massa pelvica anteriore alla vescica -> massa pelvica posteriore alla vescica
+274730004: difetti multipli di replezione intravescicale -> difetti multipli di Deplezione intravescicale
+70819003: pelle rossastra -> pelle giallastra
+111512005: sinechie posteriori -> sinechie anteriori
+111512005: sinechia posteriore -> sinechia anteriore
+301855007: linfonodi -> Linfonodi
+301855007: nodi negativi -> nodi positivi
+246975001: ittero muco-cutaneo -> ittero muco-cutanea
+246975001: ittero muco-cutaneo -> ittero muco-cutanee
+246975001: ittero muco-cutaneo -> ittero muscolo-cutaneo
+49650001: disuria -> Disuria
+102568007: debolezza degli arti inferiori -> debolezza gli arti inferiori
+102568007: debolezza degli arti inferiori -> debolezza degli arti superiori
+102568007: diminuzione della forza in entrambi gli arti inferiori -> diminuzione della forza in ambedue gli arti inferiori
+102568007: diminuzione della forza in entrambi gli arti inferiori -> diminuzione della forza in entrambi gli arti superiori
+21454007: emorragia subaracnoidea frontoparietale destra -> emorragia subaracnoidea frontoparietale sinistra
+21454007: emorragia subaracnoidea -> emorragia subaracnoidee
+21454007: emorragia subaracnoidea -> emorragia subaracnoidale
+9957009: scarico purulento transuretrale -> scarico purulente transuretrale
+9957009: scarico purulento transuretrale -> scarico purulenta transuretrale
+60728008: l'addome era globoso -> l'addome era subgloboso
+707724006: transaminasi elevate -> transaminasi alte
+707724006: transaminasi elevate -> Transaminasi elevate
+707724006: transaminasi leggermente elevate -> transaminasi leggermente alte
+707724006: transaminasi leggermente elevate -> transaminasi lievemente elevate
+707724006: transaminasi leggermente elevate -> Transaminasi leggermente elevate
+707724006: valori elevati di transaminasi -> valori elevati di Transaminasi
+707724006: aumento progressivo delle transaminasi -> aumento progressivo delle Transaminasi
+707724006: aumento progressivo delle transaminasi -> incremento progressivo delle transaminasi
+707724006: aumento progressivo delle transaminasi -> diminuzione progressivo delle transaminasi
+707724006: aumento delle transaminasi -> incremento delle transaminasi
+707724006: aumento delle transaminasi -> diminuzione delle transaminasi
+707724006: aumento delle transaminasi -> aumento delle Transaminasi
+409609008: coinvolgimento parenchimale basale -> coinvolgimento parenchimali basale
+166558007: lattato deidrogenasi e alfa-fetoproteina normali -> lattato deidrogenasi e alfafetoproteina normali
+166558007: lattato deidrogenasi e alfa-fetoproteina normali -> lattato deidrogenasi e alfa-feto normali
+166558007: lattato deidrogenasi e alfa-fetoproteina normali -> lattato 1-deidrogenasi e alfa-fetoproteina normali
+166558007: lattato deidrogenasi e alfa-fetoproteina normali -> lattato 2-deidrogenasi e alfa-fetoproteina normali
+166558007: lattato deidrogenasi e alfa-fetoproteina normali -> lattato 4-deidrogenasi e alfa-fetoproteina normali
+166558007: lattato deidrogenasi e alfa-fetoproteina normali -> lattato 5-deidrogenasi e alfa-fetoproteina normali
+166558007: lattato deidrogenasi e alfa-fetoproteina normali -> lattato 3-deidrogenasi e alfa-fetoproteina normali
+166558007: alfa-fetoproteina normale -> alfafetoproteina normale
+166558007: alfa-fetoproteina normale -> alfa-feto normale
+369757002: massa solida con aree emorragiche -> massa solida con zone emorragiche
+40709005: lombalgia -> Lombalgia
+35013009: materiale purulento -> materiale purulente
+35013009: materiale purulento -> materiale purulenta
+35013009: scarico purulento -> scarico purulente
+35013009: scarico purulento -> scarico purulenta
+300287006: massa esofagea -> massa Esofagea
+300287006: massa esofagea -> massa gastro-esofagea
+300287006: tumore esofageo vegetante e ulcerato -> tumore Esofageo vegetante e ulcerato
+300287006: tumore esofageo vegetante e ulcerato -> tumore esofageo vegetante e ulcerata
+300287006: tumore esofageo vegetante e ulcerato -> tumore esofageo vegetante e ulcerati
+89474008: studio di estensione negativo -> studio di estensione positivo
+89458003: stupore -> sgomento
+431468008: collasso del terzo ventricolo -> collasso del quinto ventricolo
+431468008: collasso del terzo ventricolo -> collasso del quarto ventricolo
+431468008: collasso del terzo ventricolo -> collasso del settimo ventricolo
+235771005: nodulo duro sulla punta dell'appendice -> nodulo durissimo sulla punta dell'appendice
+235771005: singolo nodulo di 1 x 1,5 cm situato nell'appendice -> singolo nodulo di 1 x 1,5 cm ubicato nell'appendice
+235771005: singolo nodulo di 1 x 1,5 cm situato nell'appendice -> singolo nodulo di 1 x 1,5 cm situata nell'appendice
+235771005: singolo nodulo di 1 x 1,5 cm situato nell'appendice -> singolo nodulo di 1 x 2,5 cm situato nell'appendice
+235771005: singolo nodulo di 1 x 1,5 cm situato nell'appendice -> singolo nodulo di 1 x 1,2 cm situato nell'appendice
+235771005: singolo nodulo di 1 x 1,5 cm situato nell'appendice -> singolo nodulo di 1 x 1,6 cm situato nell'appendice
+235771005: singolo nodulo di 1 x 1,5 cm situato nell'appendice -> singolo nodulo di 1 x 1,8 cm situato nell'appendice
+235771005: singolo nodulo di 1 x 1,5 cm situato nell'appendice -> singolo nodulo di 1 x 3,5 cm situato nell'appendice
+445249002: immagini nodulari nel lobo superiore -> immagini nodulari nel lobo inferiore
+169254007: l'ecografia renale non ha mostrato anomalie -> l'ecografia renale non Ha mostrato anomalie
+8148005: intensa chemosi generalizzata -> intensissima chemosi generalizzata
+247348008: doloroso alla palpazione -> dolorosissimo alla palpazione
+30098003: grave iperemia -> gravissima iperemia
+30098003: grave iperemia -> gravissimo iperemia
+166602006: profilo epatico, erano normali -> profilo epatico, Erano normali
+282050000: plastron situato nel digiuno -> plastron ubicato nel digiuno
+282050000: plastron situato nel digiuno -> plastron situata nel digiuno

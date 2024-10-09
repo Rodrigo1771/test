@@ -60,7 +60,7 @@ The possible argument combinations are:
 ./augment_el_data.sh pt fasttext
 ```
 
-The augmented datasets will be saved in `ner/out/{MODEL_TYPE}/{DATASET}/` for NER and `el/out/{MODEL_TYPE}/{LANG}/` for EL.
+The augmented datasets will be saved in `ner/out/{MODEL_TYPE}/{DATASET}/` for NER and `el/out/{MODEL_TYPE}/{LANG}/` for EL, and can be used in the NER and EL pipelines.
 
 ### DI Cluster
 
@@ -104,4 +104,4 @@ The possible variable combinations are:
 - `TASK`="el" ; `ARGS`=("en" "es" "fr" "it" "pt") ; `MODEL_TYPE`="word2vec";
 - `TASK`="el" ; `ARGS`=("en" "es" "fr" "it" "pt") ; `MODEL_TYPE`="fasttext";
 
-The `node_allocator.sh` script allocates as many cluster nodes as there are arguments in the ARGS variable. It then passes to each node the `container_handler.sh` script with the variables outlined earlier. The `container_handler.sh` script then launches a Docker container that executes either the `augment_ner_data.sh` or the ``augment_el_data.sh`` script depending on the value of the `TASK` variable. Finally, when the augmentation is complete, the `container_handler.sh` script extracts the augmented files from the Docker container and saves them in `your-new-folder/out/{TASK}/{MODEL_TYPE}/{ARG}/` (in the cluster, you can then copy them to your local machine).
+The `node_allocator.sh` script allocates as many cluster nodes as there are arguments in the ARGS variable. It then passes to each node the `container_handler.sh` script with the variables outlined earlier. The `container_handler.sh` script then launches a Docker container that executes either the `augment_ner_data.sh` or the ``augment_el_data.sh`` script depending on the value of the `TASK` variable. Finally, when the augmentation is complete, the `container_handler.sh` script extracts the augmented files from the Docker container and saves them in `your-new-folder/out/{TASK}/{MODEL_TYPE}/{ARG}/` in the cluster. Copy them to `scripts/data-aug/augment/{TASK}/out/{MODEL_TYPE}/{ARG}/` in your local machine, to use them in the NER and EL pipelines.

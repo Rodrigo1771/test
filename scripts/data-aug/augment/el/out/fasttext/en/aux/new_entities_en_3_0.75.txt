@@ -1,0 +1,997 @@
+81141003: normal bilateral renal function -> normal bilateral renal functions
+81141003: normal bilateral renal function -> normal bilateral renal funtion
+81141003: normal bilateral renal function -> normal bilateral kidney function
+81141003: normal bilateral renal function -> normal bilateral non-renal function
+81141003: normal bilateral renal function -> normal bilateral Renal function
+81141003: renal function remained normal -> renal functions remained normal
+81141003: renal function remained normal -> renal funtion remained normal
+81141003: good bilateral renal function -> good bi-lateral renal function
+81141003: good bilateral renal function -> good Bilateral renal function
+81141003: good bilateral renal function -> good bilateral kidney function
+81141003: good bilateral renal function -> good bilateral non-renal function
+81141003: good bilateral renal function -> good bilateral Renal function
+81141003: good bilateral renal function -> bad bilateral renal function
+81141003: preserved renal function -> preserved renal functions
+81141003: preserved renal function -> preserved renal funtion
+81141003: preserved renal function -> preserved kidney function
+81141003: preserved renal function -> preserved non-renal function
+81141003: preserved renal function -> preserved Renal function
+87548005: flatulent dyspepsia -> flatulence dyspepsia
+310438004: urine cytology, which showed no evidence of malignant cells -> urine cytology, which showed no evidence of malignant cells.The
+310438004: urine cytology was negative -> urine cytology was positive
+300848003: hypoechoic mass -> hyperechoic mass
+300848003: hypoechoic mass -> Hypoechoic mass
+300848003: hypoechoic mass -> isoechoic mass
+300848003: hypoechoic mass -> hypodense mass
+300848003: hypoechoic mass -> echogenic mass
+300848003: asymptomatic tumour -> Asymptomatic tumour
+300848003: asymptomatic tumour -> asymptomatic tumor
+300848003: asymptomatic tumour -> asymptomatic tumours
+300848003: asymptomatic tumour -> asymptomatic tumors
+300848003: endophytic tumour -> Endophytic tumour
+300848003: endophytic tumour -> endophytes tumour
+300848003: endophytic tumour -> endophytic tumor
+300848003: endophytic tumour -> endophytic tumours
+300848003: endophytic tumour -> endophytic tumors
+300848003: radiolucent mass with trabeculations -> radiolucent mass with trabeculation
+300848003: radiolucent mass with trabeculations -> radiolucent mass with trabecula
+300848003: radiolucent mass with trabeculations -> radiolucency mass with trabeculations
+300848003: radiolucent mass with trabeculations -> radiolucencies mass with trabeculations
+300848003: tumours -> tumors
+300848003: tumours -> tumour
+300848003: tumours -> tumor
+300441003: signal hypointensity in the renal cortex -> signal hypointensity in the kidney cortex
+300441003: signal hypointensity in the renal cortex -> signal hypointensity in the non-renal cortex
+300441003: signal hypointensity in the renal cortex -> signal hypointensity in the Renal cortex
+300441003: signal hypointensity in the renal cortex -> signals hypointensity in the renal cortex
+300441003: signal hypointensity in the renal cortex -> signal hypointensity in the renal cortices
+300441003: signal hypointensity in the renal cortex -> signal hypointensity in the renal cortical
+300441003: signal hypointensity in the renal cortex -> signal hypointensity in the renal cortexes
+300441003: preserved left renal parenchyma -> preserved left kidney parenchyma
+300441003: preserved left renal parenchyma -> preserved left non-renal parenchyma
+300441003: preserved left renal parenchyma -> preserved left Renal parenchyma
+300441003: adequate cortico-medullary differentiation -> sufficient cortico-medullary differentiation
+300441003: renal distortion -> renal distortions
+300441003: renal distortion -> kidney distortion
+300441003: renal distortion -> non-renal distortion
+300441003: renal distortion -> Renal distortion
+300441003: kidneys of normal size and echostructure -> Kidneys of normal size and echostructure
+300441003: kidneys of normal size and echostructure -> kidney of normal size and echostructure
+69559004: retroperitoneal masses -> Retroperitoneal masses
+69559004: retroperitoneal masses -> retroperitoneum masses
+69559004: retroperitoneal masses -> perirenal masses
+69559004: retroperitoneal mass -> Retroperitoneal mass
+69559004: retroperitoneal mass -> retroperitoneum mass
+69559004: retroperitoneal mass -> perirenal mass
+69559004: retroperitoneal tumour -> retroperitoneal tumor
+69559004: retroperitoneal tumour -> retroperitoneal tumours
+69559004: retroperitoneal tumour -> retroperitoneal tumors
+69559004: retroperitoneal tumour -> Retroperitoneal tumour
+69559004: retroperitoneal tumour -> retroperitoneum tumour
+69559004: retroperitoneal tumour -> perirenal tumour
+301459008: haemodynamically stable -> hemodynamically stable
+301459008: haemodynamic stability -> haemodynamic stabilty
+301459008: haemodynamic stability -> haemodynamic stablity
+301459008: haemodynamic stability -> hemodynamic stability
+301459008: haemodynamic stability -> Haemodynamic stability
+301459008: haemodynamic stability -> haemodynamics stability
+62315008: febrile diarrhoea -> febrile diarrhea
+62315008: febrile diarrhoea -> febrile Diarrhoea
+62315008: febrile diarrhoea -> febrile diarrheas
+62315008: diarrhoea -> diarrhea
+62315008: diarrhoea -> Diarrhoea
+62315008: diarrhoea -> diarrheas
+25064002: severe headache -> severe headaches
+25064002: severe headache -> severe head-ache
+25064002: headache -> head-ache
+25064002: headaches -> head-aches
+64882008: occasional fever -> occasional fever.The
+64882008: occasional fever -> occasional fever-
+64882008: occasional fever -> occassional fever
+64882008: occasional fever -> ocassional fever
+64882008: fever -> fever.The
+64882008: fever -> fever-
+64882008: feverish -> fevered
+64882008: febrile syndrome -> febrile syndrom
+64882008: febrile syndrome -> febrile Syndrome
+64882008: febrile syndrome -> febrile syndrome-
+64882008: febrile syndrome -> febrile syndrome.The
+64882008: febrile episodes -> febrile epsiodes
+64882008: febrile episodes -> febrile episode
+64882008: febrile episodes -> febrile episodes.The
+64882008: febrile episodes -> febrile episdoes
+64882008: febrile episodes -> febrile episodes.
+64882008: high fever -> low fever
+64882008: high fever -> high fever.The
+64882008: high fever -> high fever-
+87361006: leukocytes with left shift -> leucocytes with left shift
+87361006: leukocytes with left shift -> neutrophils with left shift
+87361006: leukocytes with left shift -> monocytes with left shift
+87361006: leukocytes with left shift -> lymphocytes with left shift
+87361006: leukocytes with left shift -> granulocytes with left shift
+87361006: leukocytes with left shift -> leukocytes wtih left shift
+87361006: leukocytosis with significant left shift -> leukocytosis wtih significant left shift
+87361006: leukocytosis with significant left shift -> leucocytosis with significant left shift
+87361006: leukocytosis with significant left shift -> Leukocytosis with significant left shift
+87361006: leukocytosis with significant left shift -> neutrophilia with significant left shift
+87361006: leukocytosis with significant left shift -> lymphocytosis with significant left shift
+87361006: leukocytosis with significant left shift -> monocytosis with significant left shift
+233703007: interstitial prominence -> Interstitial prominence
+233703007: nodular interstitial pattern -> nodular interstitial patterns
+233703007: nodular interstitial pattern -> nodular interstitial patttern
+233703007: nodular interstitial pattern -> nodular interstitial pattern.This
+233703007: nodular interstitial pattern -> Nodular interstitial pattern
+233703007: nodular interstitial pattern -> nodular Interstitial pattern
+233703007: bilateral interstitial pattern -> bi-lateral interstitial pattern
+233703007: bilateral interstitial pattern -> Bilateral interstitial pattern
+233703007: bilateral interstitial pattern -> bilateral interstitial patterns
+233703007: bilateral interstitial pattern -> bilateral interstitial patttern
+233703007: bilateral interstitial pattern -> bilateral interstitial pattern.This
+233703007: bilateral interstitial pattern -> bilateral Interstitial pattern
+233703007: interstitial pattern -> interstitial patterns
+233703007: interstitial pattern -> interstitial patttern
+233703007: interstitial pattern -> interstitial pattern.This
+233703007: interstitial pattern -> Interstitial pattern
+19829001: parenchymal lung involvement -> parenchyma lung involvement
+19829001: parenchymal lung involvement -> parenchymal lung involvment
+19829001: parenchymal lung involvement -> parenchymal emphysema involvement
+19829001: bilateral and diffuse alterations of the lung parenchyma -> bi-lateral and diffuse alterations of the lung parenchyma
+19829001: bilateral and diffuse alterations of the lung parenchyma -> Bilateral and diffuse alterations of the lung parenchyma
+19829001: bilateral and diffuse alterations of the lung parenchyma -> bilateral and diffuse alterations of the emphysema parenchyma
+19829001: bilateral and diffuse alterations of the lung parenchyma -> bilateral and diffuse alteration of the lung parenchyma
+19829001: bilateral and diffuse alterations of the lung parenchyma -> bilateral and diffuse Alterations of the lung parenchyma
+49233005: dyspnoea -> dyspnea
+49233005: dyspnoea -> Dyspnoea
+49233005: dyspnoea of progressive intensity -> dyspnea of progressive intensity
+49233005: dyspnoea of progressive intensity -> Dyspnoea of progressive intensity
+49233005: dyspnoea of progressive intensity -> dyspnoea of progessive intensity
+248690009: crackles on cardiac auscultation -> crackle on cardiac auscultation
+248690009: crackles on cardiac auscultation -> crackles on cardiac auscultating
+248690009: crackles on cardiac auscultation -> crackles on cardiac auscultatory
+248690009: crackles on cardiac auscultation -> crackles on cardiac auscultated
+248690009: crackles on cardiac auscultation -> crackles on cardiac auscultate
+166315009: normal biochemistry -> normal bio-chemistry
+284520004: bibasal crackles -> bibasal crackle
+284520004: diffuse bilateral crackles -> diffuse bi-lateral crackles
+284520004: diffuse bilateral crackles -> diffuse Bilateral crackles
+284520004: diffuse bilateral crackles -> diffuse bilateral crackle
+75823008: exudate -> exudates
+257552002: inflammatory signs -> inflamatory signs
+257552002: inflammatory signs -> Inflammatory signs
+257552002: inflammatory signs -> imflammatory signs
+27925004: nodules -> Nodules
+27925004: hyperechoic nodule -> hyperechoic nodules
+27925004: hyperechoic nodule -> hypoechoic nodule
+27925004: hyperechoic nodule -> hyperechogenic nodule
+27925004: hyperechoic nodule -> echogenic nodule
+27925004: hyperechoic nodule -> isoechoic nodule
+27925004: hyperechoic nodule -> hypodense nodule
+27925004: subcapsular nodule -> subcapsular nodules
+27925004: hypoechoic nodules -> Hypoechoic nodules
+27925004: hypoechoic nodules -> isoechoic nodules
+27925004: hypoechoic nodules -> hypodense nodules
+27925004: hypoechoic nodules -> echogenic nodules
+27925004: hypoechoic nodules -> hypoechoic Nodules
+27925004: nodular formation -> Nodular formation
+87860000: testicular mass -> Testicular mass
+87860000: bilateral testicular tumour -> bilateral Testicular tumour
+87860000: bilateral testicular tumour -> bilateral testicular tumor
+87860000: bilateral testicular tumour -> bilateral testicular tumours
+87860000: bilateral testicular tumour -> bilateral testicular tumors
+87860000: bilateral testicular tumour -> bi-lateral testicular tumour
+87860000: bilateral testicular tumour -> Bilateral testicular tumour
+87860000: testicles are engulfed by fibrosis and the tumour mass -> testicles are enveloped by fibrosis and the tumour mass
+87860000: testicles are engulfed by fibrosis and the tumour mass -> testicles are engulfing by fibrosis and the tumour mass
+87860000: testicles are engulfed by fibrosis and the tumour mass -> testicles are engulfed by fibrosis and the tumor mass
+87860000: testicles are engulfed by fibrosis and the tumour mass -> testicles are engulfed by fibrosis and the tumours mass
+87860000: testicles are engulfed by fibrosis and the tumour mass -> testicles are engulfed by fibrosis and the tumors mass
+399406009: negative tumour markers -> negative tumor markers
+399406009: negative tumour markers -> negative tumours markers
+399406009: negative tumour markers -> negative tumors markers
+399406009: negative tumour markers -> negative tumour marker
+399406009: negative tumour markers -> negative tumour Markers
+399406009: negative tumour markers -> positive tumour markers
+399406009: negative testicular markers -> negative Testicular markers
+399406009: negative testicular markers -> negative testicular marker
+399406009: negative testicular markers -> negative testicular Markers
+399406009: negative testicular markers -> positive testicular markers
+399406009: serum tumour markers were at normal levels -> Serum tumour markers were at normal levels
+399406009: serum tumour markers were at normal levels -> serum tumour marker were at normal levels
+399406009: serum tumour markers were at normal levels -> serum tumour Markers were at normal levels
+399406009: tumour markers were negative -> tumour markers were positive
+399406009: tumour markers were negative -> tumor markers were negative
+399406009: tumour markers were negative -> tumours markers were negative
+399406009: tumour markers were negative -> tumors markers were negative
+408573005: thyroid scan was normal -> thyroid scans was normal
+408573005: thyroid scan was normal -> thryoid scan was normal
+408573005: thyroid scan was normal -> thyroids scan was normal
+408573005: thyroid scan was normal -> Thyroid scan was normal
+408573005: thyroid scan was normal -> thryroid scan was normal
+408573005: thyroid scan was normal -> hypothyroid scan was normal
+408573005: imaging tests were negative -> imaging tests were positive
+170728008: decreased visual acuity -> increased visual acuity
+170728008: decreased visual acuity -> reduced visual acuity
+170728008: decreased visual acuity -> decrease visual acuity
+170728008: progressive loss of visual acuity -> progessive loss of visual acuity
+170728008: decrease in visual acuity -> increase in visual acuity
+170728008: decrease in visual acuity -> decreases in visual acuity
+170728008: decrease in visual acuity -> decreasing in visual acuity
+170728008: decrease in visual acuity -> decreased in visual acuity
+170728008: decrease in visual acuity -> increases in visual acuity
+76849009: conjunctival injection -> conjunctival injections
+76849009: mixed conjunctival hyperemia -> mixed conjunctival hyperaemia
+76849009: mixed conjunctival hyperemia -> mixed conjunctival hyperemic
+76849009: conjunctival hyperemia -> conjunctival hyperaemia
+76849009: conjunctival hyperemia -> conjunctival hyperemic
+79890006: loss of appetite -> loss of apetite
+79890006: loss of appetite -> loss of appetites
+79890006: loss of appetite -> loss of appetitie
+79890006: anorexia -> bulimia
+79890006: anorexia -> Anorexia
+79890006: anorexia -> anorexic
+79890006: anorexia -> bulemia
+79890006: moderate anorexia -> moderate bulimia
+79890006: moderate anorexia -> moderate Anorexia
+79890006: moderate anorexia -> moderate anorexic
+79890006: moderate anorexia -> moderate bulemia
+422400008: vomiting -> vomitting
+422400008: vomiting -> Vomiting
+422400008: vomiting -> puking
+422400008: self-limited vomiting of variable duration -> self-limited vomitting of variable duration
+422400008: self-limited vomiting of variable duration -> self-limited Vomiting of variable duration
+422400008: self-limited vomiting of variable duration -> self-limited puking of variable duration
+422400008: self-limited vomiting of variable duration -> self-limited vomiting of variable durations
+166602006: physical examination and laboratory tests, including a liver profile, were normal -> physical examinations and laboratory tests, including a liver profile, were normal
+166602006: physical examination and laboratory tests, including a liver profile, were normal -> physical examination.The and laboratory tests, including a liver profile, were normal
+166602006: physical examination and laboratory tests, including a liver profile, were normal -> physical Examination and laboratory tests, including a liver profile, were normal
+166602006: liver function was preserved -> liver functions was preserved
+166602006: liver function was preserved -> liver funtion was preserved
+563001: abduction nystagmus in both eyes -> abductions nystagmus in both eyes
+563001: abduction nystagmus in both eyes -> kidnapping nystagmus in both eyes
+563001: nystagmus -> Nystagmus
+237783006: adrenal hypodense mass -> adrenal hypodensity mass
+237783006: adrenal hypodense mass -> adrenal hypoechoic mass
+237783006: adrenal hypodense mass -> adrenal isodense mass
+237783006: adrenal hypodense mass -> adrenal hypointense mass
+237783006: adrenal hypodense mass -> adrenal hyperechoic mass
+237783006: adrenal hypodense mass -> Adrenal hypodense mass
+237783006: adrenal hypodense mass -> adrenals hypodense mass
+237783006: adrenal mass -> Adrenal mass
+237783006: adrenal mass -> adrenals mass
+237783006: adrenal tumour -> adrenal tumor
+237783006: adrenal tumour -> adrenal tumours
+237783006: adrenal tumour -> adrenal tumors
+237783006: adrenal tumour -> Adrenal tumour
+237783006: adrenal tumour -> adrenals tumour
+399122003: dysphagia -> Dysphagia
+399122003: progressive dysphagia -> progressive Dysphagia
+399122003: progressive dysphagia -> progessive dysphagia
+8644006: postprandial heaviness -> post-prandial heaviness
+8644006: postprandial heaviness -> Postprandial heaviness
+8644006: postprandial heaviness -> postprandially heaviness
+267045008: gastrointestinal symptoms -> gastrointestinal symtoms
+267045008: gastrointestinal symptoms -> gastrointestinal symtpoms
+267045008: gastrointestinal symptoms -> gastrointestinal symptons
+267045008: gastrointestinal symptoms -> gastrointestinal symptoms.The
+267045008: gastrointestinal symptoms -> gastrointestinal symptoms.What
+267045008: gastrointestinal symptoms -> gastro-intestinal symptoms
+267045008: gastrointestinal symptoms -> intestinal symptoms
+267045008: gastrointestinal manifestations -> gastrointestinal manifestation
+267045008: gastrointestinal manifestations -> gastro-intestinal manifestations
+267045008: gastrointestinal manifestations -> intestinal manifestations
+419099009: dying -> dieing
+131148009: rebleeding -> re-bleeding
+131148009: rebleeding -> rebleed
+131148009: haemorrhage -> hemorrhage
+131148009: haemorrhage -> haemorrhages
+45850009: daytime continence -> day-time continence
+45850009: daytime continence -> nighttime continence
+45850009: daytime continence -> night-time continence
+22253000: persistent pain -> persistant pain
+72970002: vital signs were normal -> crucial signs were normal
+72970002: vital signs were normal -> vitally signs were normal
+72970002: vital signs were normal -> essential signs were normal
+72970002: clinical examination and vital signs were normal -> clinical examination and crucial signs were normal
+72970002: clinical examination and vital signs were normal -> clinical examination and vitally signs were normal
+72970002: clinical examination and vital signs were normal -> clinical examination and essential signs were normal
+83128009: oliguria -> Oliguria
+83128009: oliguria -> oliguric
+83128009: oliguria -> anuria
+37125009: mydriasis -> Mydriasis
+37125009: reactive mydriasis -> reactive Mydriasis
+37125009: reactive mydriasis -> reactive mydriatic
+37125009: mild bilateral mydriasis -> mild bilateral Mydriasis
+37125009: mild bilateral mydriasis -> mild bilateral mydriatic
+37125009: mild bilateral mydriasis -> mild bi-lateral mydriasis
+37125009: mild bilateral mydriasis -> mild Bilateral mydriasis
+37125009: mydriatic -> mydriatics
+37125009: slightly mydriatic pupils -> slightly mydriatics pupils
+37125009: slightly mydriatic pupils -> slightly mydriasis pupils
+37125009: slightly mydriatic pupils -> slighly mydriatic pupils
+37125009: slightly mydriatic pupils -> slighlty mydriatic pupils
+37125009: slightly mydriatic pupils -> slighty mydriatic pupils
+37125009: slightly mydriatic pupils -> ever-so-slightly mydriatic pupils
+37125009: slightly mydriatic pupils -> somewhat mydriatic pupils
+422773005: haemodynamically unstable -> hemodynamically unstable
+422773005: haemodynamically unstable -> haemodynamically instable
+422773005: haemodynamic compromise -> hemodynamic compromise
+422773005: haemodynamic compromise -> Haemodynamic compromise
+422773005: haemodynamic compromise -> haemodynamics compromise
+422773005: haemodynamic compromise -> haemodynamic compromises
+422773005: haemodynamic destabilisation -> haemodynamic destabilization
+422773005: haemodynamic destabilisation -> haemodynamic destabilising
+422773005: haemodynamic destabilisation -> haemodynamic destabilise
+422773005: haemodynamic destabilisation -> hemodynamic destabilisation
+422773005: haemodynamic destabilisation -> Haemodynamic destabilisation
+422773005: haemodynamic destabilisation -> haemodynamics destabilisation
+422773005: haemodynamic instability -> hemodynamic instability
+422773005: haemodynamic instability -> Haemodynamic instability
+422773005: haemodynamic instability -> haemodynamics instability
+422773005: haemodynamic instability -> haemodynamic instabilities
+422773005: haemodynamic instability -> haemodynamic Instability
+422773005: haemodynamic instability -> haemodynamic unstability
+422773005: haemodynamic alterations -> hemodynamic alterations
+422773005: haemodynamic alterations -> Haemodynamic alterations
+422773005: haemodynamic alterations -> haemodynamics alterations
+422773005: haemodynamic alterations -> haemodynamic alteration
+422773005: haemodynamic alterations -> haemodynamic Alterations
+300474003: preserved diuresis -> preserved Diuresis
+300474003: maintained diuresis -> maintained Diuresis
+300474003: spontaneous diuresis -> spontaneous Diuresis
+246636008: blurred vision in both eyes -> blurring vision in both eyes
+246636008: blurred vision in both eyes -> blurry vision in both eyes
+246636008: blurred vision in both eyes -> blurs vision in both eyes
+246636008: blurred vision -> blurring vision
+246636008: blurred vision -> blurry vision
+246636008: blurred vision -> blurs vision
+708118007: negative culture -> negative cuture
+708118007: negative culture -> positive culture
+708118007: culture (aerobic and anaerobic) was negative for bacteria -> cuture (aerobic and anaerobic) was negative for bacteria
+708118007: culture (aerobic and anaerobic) was negative for bacteria -> culture (aerobic and anaerobic) was positive for bacteria
+708118007: repeated negative cultures -> repeated positive cultures
+708118007: culture was negative -> culture was positive
+708118007: culture was negative -> cuture was negative
+708118007: pericardial fluid culture was sterile -> Pericardial fluid culture was sterile
+78341006: neutrophilia -> leukocytosis
+78341006: neutrophilia -> monocytosis
+78341006: neutrophilia -> lymphocytosis
+78341006: neutrophilia -> neutrophilic
+78341006: neutrophilia -> eosinophilia
+78341006: polymorphonuclear leukocytes and abundant mucus -> polymorphonuclear leukocytes and plentiful mucus
+78341006: polymorphonuclear leukocytes and abundant mucus -> polymorphonuclear leukocytes and abundance mucus
+78341006: polymorphonuclear leukocytes and abundant mucus -> Polymorphonuclear leukocytes and abundant mucus
+78341006: polymorphonuclear leukocytes and abundant mucus -> polymorphonuclear leukocytes and abundant mucous
+78341006: polymorphonuclear leukocytes and abundant mucus -> polymorphonuclear leukocytes and abundant mucas
+440027000: corneal infiltrate -> corneal infiltrates
+440027000: corneal infiltrate -> corneal infiltrating
+440027000: corneal infiltrate -> cornea infiltrate
+440027000: corneal infiltrate -> Corneal infiltrate
+440027000: corneal inclusion -> cornea inclusion
+440027000: corneal inclusion -> Corneal inclusion
+27194006: corneal oedema -> cornea oedema
+27194006: corneal oedema -> Corneal oedema
+27194006: corneal oedema -> corneal edema
+27194006: moderate corneal oedema -> moderate corneal edema
+27194006: moderate corneal oedema -> moderate cornea oedema
+27194006: moderate corneal oedema -> moderate Corneal oedema
+274643008: pallor -> paleness
+274643008: skin pallor -> skin paleness
+118435004: jejunal loops with hydroaerial levels -> Jejunal loops with hydroaerial levels
+118435004: jejunal loops with hydroaerial levels -> duodenal loops with hydroaerial levels
+118435004: jejunal loops with hydroaerial levels -> gastrojejunal loops with hydroaerial levels
+118435004: jejunal loops with hydroaerial levels -> jejunal loops with hydroaerial level
+118435004: oedema in small bowel loops -> oedema in small bowel loop
+118435004: oedema in small bowel loops -> oedema in large bowel loops
+118435004: oedema in small bowel loops -> oedema in tiny bowel loops
+118435004: oedema in small bowel loops -> edema in small bowel loops
+52985009: chylous ascites -> chylous Ascites
+52985009: ascitic fluid with chylous characteristics -> ascitic fluid wtih chylous characteristics
+52985009: ascitic fluid with chylous characteristics -> Ascitic fluid with chylous characteristics
+389026000: ascites -> Ascites
+389026000: ascitic fluid -> Ascitic fluid
+93457003: peritoneal fluid -> Peritoneal fluid
+119247004: severe hypoalbuminaemia -> severe hypoalbuminemia
+119247004: hypoalbuminaemia -> hypoalbuminemia
+5291005: hypocalcaemia -> hypocalcemia
+5291005: hypocalcaemia -> hypercalcaemia
+5291005: hypocalcaemia -> Hypocalcemia
+5291005: hypocalcaemia -> hypocalcemic
+5291005: hypocalcaemia -> hypercalcemia
+5291005: severe hypocalcaemia -> severe hypocalcemia
+5291005: severe hypocalcaemia -> severe hypercalcaemia
+5291005: severe hypocalcaemia -> severe Hypocalcemia
+5291005: severe hypocalcaemia -> severe hypocalcemic
+5291005: severe hypocalcaemia -> severe hypercalcemia
+386789004: peripheral eosinophilia -> peripheral Eosinophilia
+386789004: peripheral eosinophilia -> peripheral neutrophilia
+386789004: eosinophilia -> Eosinophilia
+386789004: eosinophilia -> neutrophilia
+278683009: good dental occlusion -> good orthodontic occlusion
+278683009: good dental occlusion -> good dental Occlusion
+278683009: good dental occlusion -> good dental occlusions
+278683009: good dental occlusion -> bad dental occlusion
+278683009: stable and repeatable occlusion -> stable and repeatable Occlusion
+278683009: stable and repeatable occlusion -> stable and repeatable occlusions
+301936006: anterior pole was normal in both eyes -> posterior pole was normal in both eyes
+301936006: anterior pole was normal in both eyes -> anterolateral pole was normal in both eyes
+301936006: negative fluorescein staining -> negative Fluorescein staining
+301936006: negative fluorescein staining -> positive fluorescein staining
+301936006: good anterior chamber depth -> bad anterior chamber depth
+301936006: good anterior chamber depth -> good anterior chambers depth
+301936006: good anterior chamber depth -> good posterior chamber depth
+301936006: good anterior chamber depth -> good anterolateral chamber depth
+225581002: decreased vision -> increased vision
+225581002: decreased vision -> reduced vision
+225581002: decreased vision -> decrease vision
+103251002: extrinsic and intrinsic ocular motility were normal -> Extrinsic and intrinsic ocular motility were normal
+103251002: extrinsic and intrinsic motility was normal -> Extrinsic and intrinsic motility was normal
+103251002: extrinsic and intrinsic ocular motility -> Extrinsic and intrinsic ocular motility
+24982008: horizontal binocular diplopia -> vertical binocular diplopia
+24982008: horizontal binocular diplopia -> horizonal binocular diplopia
+24982008: horizontal binocular diplopia -> horizontal monocular diplopia
+24982008: horizontal binocular diplopia -> horizontal binocular Diplopia
+24982008: diplopia -> Diplopia
+24982008: horizontal diplopia -> vertical diplopia
+24982008: horizontal diplopia -> horizonal diplopia
+24982008: horizontal diplopia -> horizontal Diplopia
+24982008: double vision -> triple vision
+24982008: double vision -> quadruple vision
+52613005: sweaty -> sweat-soaked
+52613005: profuse sweating -> profuse perspiring
+52613005: profuse sweating -> profuse Sweating
+52613005: sweating -> perspiring
+52613005: sweating -> Sweating
+300855001: intestinal mass -> gastrointestinal mass
+300855001: intestinal mass -> gastro-intestinal mass
+300855001: intestinal mass -> Intestinal mass
+300855001: intraluminal tumour -> intraluminal tumor
+300855001: intraluminal tumour -> intraluminal tumours
+300855001: intraluminal tumour -> intraluminal tumors
+300855001: intraluminal tumour -> extraluminal tumour
+63049000: adequate longitudinal bone formation -> sufficient longitudinal bone formation
+63049000: normal bone structure -> normal bone structures
+63049000: normal bone structure -> normal bone stucture
+63049000: normal bone structure -> normal bones structure
+63049000: healthy bone -> healthy bones
+63049000: healthy bone -> heathy bone
+309088003: upper pole of the right kidney and internally, there is a solid mass -> upper pole of the right renal and internally, there is a solid mass
+309088003: upper pole of the right kidney and internally, there is a solid mass -> upper pole of the right kidneys and internally, there is a solid mass
+309088003: renal mass -> kidney mass
+309088003: renal mass -> non-renal mass
+309088003: renal mass -> Renal mass
+309088003: solid nodules in both kidneys -> solid nodules in both Kidneys
+309088003: solid nodules in both kidneys -> solid nodules in both kidney
+309088003: mass was clearly visualised over the outer edge of the kidney -> mass was clearly visualised over the inner edge of the kidney
+309088003: mass was clearly visualised over the outer edge of the kidney -> mass was clearly visualised over the outter edge of the kidney
+271823003: tachypnoea -> tachypnea
+271823003: tachypnoea -> tachypneic
+271823003: tachypnoea -> Tachypnea
+271823003: persistent tachypnoea -> persistent tachypnea
+271823003: persistent tachypnoea -> persistent tachypneic
+271823003: persistent tachypnoea -> persistent Tachypnea
+271823003: persistent tachypnoea -> persistant tachypnoea
+89362005: lose weight -> losing weight
+89362005: lose weight -> lose wieght
+89362005: weight loss of 12 kilograms -> wieght loss of 12 kilograms
+89362005: weight loss of 12 kilograms -> weight loss of 12 kilogrammes
+89362005: weight loss of 12 kilograms -> weight loss of 12 kilos
+89362005: weight loss of 12 kilograms -> weight loss of 12 kilogram
+89362005: loss of about 15 kg of weight -> loss of about 15 kg of wieght
+89362005: loss of about 15 kg of weight -> loss of about 20 kg of weight
+89362005: loss of about 15 kg of weight -> loss of about 25 kg of weight
+89362005: loss of about 15 kg of weight -> loss of about 10 kg of weight
+89362005: loss of about 15 kg of weight -> loss of about 14 kg of weight
+89362005: loss of about 15 kg of weight -> loss of about 13 kg of weight
+89362005: loss of about 15 kg of weight -> loss of aboout 15 kg of weight
+89362005: loss of about 15 kg of weight -> loss of abou 15 kg of weight
+89362005: weight loss -> wieght loss
+53298000: haematuria -> hematuria
+53298000: haematuria -> Haematuria
+53298000: haematuria -> Hematuria
+53298000: total anaemic haematuria -> total anaemic hematuria
+53298000: total anaemic haematuria -> total anaemic Haematuria
+53298000: total anaemic haematuria -> total anaemic Hematuria
+53298000: total anaemic haematuria -> total anemic haematuria
+33958003: penile induration at the base -> erectile induration at the base
+33958003: penile induration at the base -> Penile induration at the base
+33958003: induration of the distal third of the penile shaft -> induration of the distal third of the erectile shaft
+33958003: induration of the distal third of the penile shaft -> induration of the distal third of the Penile shaft
+33958003: induration of the distal third of the penile shaft -> induration of the proximal third of the penile shaft
+33958003: induration of the distal third of the penile shaft -> induration of the distal-most third of the penile shaft
+33958003: painful induration of the penile base -> painful induration of the erectile base
+33958003: painful induration of the penile base -> painful induration of the Penile base
+235993005: peri-graft collection -> peri-graft collections
+235993005: occupation of the left hemiabdomen -> Occupation of the left hemiabdomen
+235993005: liquid collections -> liquid collection
+359746009: clinically stable -> Clinically stable
+271594007: syncope -> pre-syncope
+271594007: syncope -> Syncope
+271594007: syncopal episode -> syncopal epsiode
+271594007: syncopal episode -> syncopal episodes
+271594007: syncopal episode -> syncopal episdoe
+204676004: ectopic gastric mucosa -> ectopic gastric mucosae
+204676004: ectopic gastric mucosa -> ectopic gastric epithelium
+204676004: ectopic gastric mucosa -> ectopic gastric mucosal
+204676004: ectopic gastric mucosa -> ectopic Gastric mucosa
+204676004: ectopic gastric mucosa -> Ectopic gastric mucosa
+204676004: heterotopic gastric mucosa -> heterotopic gastric mucosae
+204676004: heterotopic gastric mucosa -> heterotopic gastric epithelium
+204676004: heterotopic gastric mucosa -> heterotopic gastric mucosal
+204676004: heterotopic gastric mucosa -> Heterotopic gastric mucosa
+204676004: heterotopic gastric mucosa -> heterotopic Gastric mucosa
+95545007: bloody diarrhoea -> bloody diarrhea
+95545007: bloody diarrhoea -> bloody Diarrhoea
+95545007: bloody diarrhoea -> bloody diarrheas
+95545007: bloody diarrhoea -> bloddy diarrhoea
+95545007: diarrhoeal stools, sometimes accompanied by blood -> diarrheal stools, sometimes accompanied by blood
+95545007: diarrhoeal stools, sometimes accompanied by blood -> Diarrhoeal stools, sometimes accompanied by blood
+64379006: less appetite -> less apetite
+64379006: less appetite -> less appetites
+64379006: less appetite -> less appetitie
+64379006: less appetite -> more appetite
+64379006: less appetite -> than appetite
+64379006: reduced intake -> increased intake
+64379006: reduced intake -> reduced intakes
+64379006: decreased intake -> decreased intakes
+64379006: decreased intake -> decrease intake
+249543005: abdomen was soft, depressible -> abdomen was beautiful, depressible
+249543005: soft, depressible, non-painful abdomen -> soft, depressible, nonpainful abdomen
+249543005: soft, depressible, non-painful abdomen -> beautiful, depressible, non-painful abdomen
+165406005: normal parameters of the three haematological series -> normal parameters of the four haematological series
+165406005: normal parameters of the three haematological series -> normal parameters of the two haematological series
+165406005: normal parameters of the three haematological series -> normal parameters of the five haematological series
+165406005: normal parameters of the three haematological series -> normal parameters of the six haematological series
+165406005: normal parameters of the three haematological series -> normal parameters of the seven haematological series
+110279003: disease-free interval -> disease-free intervals
+443371007: decreased level of consciousness -> increased level of consciousness
+443371007: decreased level of consciousness -> reduced level of consciousness
+443371007: decreased level of consciousness -> decrease level of consciousness
+443371007: decreased level of consciousness -> decreased levels of consciousness
+443371007: decreased level of consciousness -> decreased level of conciousness
+443371007: decreased level of consciousness -> decreased level of consciouness
+443371007: decreased level of consciousness -> decreased level of consiousness
+443371007: decreased level of consciousness -> decreased level of consciousnes
+443371007: decreased level of consciousness -> decreased level of consciousness-
+443371007: low level of consciousness -> low level of conciousness
+443371007: low level of consciousness -> low level of consciouness
+443371007: low level of consciousness -> low level of consiousness
+443371007: low level of consciousness -> low level of consciousnes
+443371007: low level of consciousness -> low level of consciousness-
+443371007: low level of consciousness -> low levels of consciousness
+443371007: low level of consciousness -> high level of consciousness
+443371007: progressive deterioration of the level of consciousness -> progessive deterioration of the level of consciousness
+443371007: progressive deterioration of the level of consciousness -> progressive deteriorations of the level of consciousness
+443371007: progressive deterioration of the level of consciousness -> progressive deterioration of the level of conciousness
+443371007: progressive deterioration of the level of consciousness -> progressive deterioration of the level of consciouness
+443371007: progressive deterioration of the level of consciousness -> progressive deterioration of the level of consiousness
+443371007: progressive deterioration of the level of consciousness -> progressive deterioration of the level of consciousnes
+443371007: progressive deterioration of the level of consciousness -> progressive deterioration of the level of consciousness-
+249545003: defence -> defense
+249545003: abdominal defence -> abdominal defense
+249545003: abdominal defence -> Abdominal defence
+247348008: painful on palpation -> painful on palpating
+247348008: painful on palpation -> painful on Palpation
+247348008: painful on palpation -> painful on palpatory
+247348008: pain on palpation -> pain on palpating
+247348008: pain on palpation -> pain on Palpation
+247348008: pain on palpation -> pain on palpatory
+249339005: narrow nasal pyramid -> narrow Nasal pyramid
+249339005: narrow nostrils -> narrow nostril
+9589009: difficulty in walking -> difficultly in walking
+9589009: difficulty in ambulation -> difficultly in ambulation
+135815002: good general condition -> bad general condition
+135815002: good general condition -> good general condtion
+135815002: good general condition -> good general conditon
+135815002: good general appearance -> bad general appearance
+105593004: severe water and electrolyte disturbance -> severe water and electrolyte disturbances
+105593004: electrolyte disturbances -> electrolytes disturbances
+105593004: electrolyte disturbances -> Electrolyte disturbances
+105593004: electrolyte disturbances -> electrolyte disturbance
+34095006: dehydration -> Dehydration
+34095006: signs of hydrosaline depletion -> signs of hydrosaline Depletion
+34095006: dehydrated -> de-hydrated
+128139000: inflammatory reaction -> inflamatory reaction
+128139000: inflammatory reaction -> Inflammatory reaction
+128139000: inflammatory reaction -> imflammatory reaction
+128139000: inflammatory reaction -> inflammatory reactions
+128139000: inflammation -> Inflammation
+128139000: inflammation -> inflammation.The
+703630003: red eye -> blue eye
+703630003: red eye -> yellow eye
+703630003: red eye -> purple eye
+703630003: severe red eye -> severe blue eye
+703630003: severe red eye -> severe yellow eye
+703630003: severe red eye -> severe purple eye
+14310000: purulent rhinorrhoea -> purulent rhinorrhea
+14310000: purulent rhinorrhoea -> purulent Rhinorrhea
+14310000: purulent rhinorrhoea -> purulence rhinorrhoea
+14310000: purulent rhinorrhoea -> mucopurulent rhinorrhoea
+14310000: purulent rhinorrhoea -> suppurative rhinorrhoea
+14310000: greenish rhinorrhoea -> yellowish rhinorrhoea
+14310000: greenish rhinorrhoea -> bluish rhinorrhoea
+14310000: greenish rhinorrhoea -> grayish rhinorrhoea
+14310000: greenish rhinorrhoea -> purplish rhinorrhoea
+14310000: greenish rhinorrhoea -> reddish rhinorrhoea
+14310000: greenish rhinorrhoea -> greenish rhinorrhea
+14310000: greenish rhinorrhoea -> greenish Rhinorrhea
+18265008: ocular proptosis -> ocular exophthalmos
+18265008: proptosis of one year's evolution in both eyes -> exophthalmos of one year's evolution in both eyes
+18265008: bilateral exophthalmos -> bilateral proptosis
+18265008: bilateral exophthalmos -> bilateral Exophthalmos
+18265008: bilateral exophthalmos -> bi-lateral exophthalmos
+18265008: bilateral exophthalmos -> Bilateral exophthalmos
+28998008: macular haemorrhage -> Macular haemorrhage
+28998008: macular haemorrhage -> macular hemorrhage
+28998008: macular haemorrhage -> macular haemorrhages
+28998008: retinal haemorrhages -> Retinal haemorrhages
+28998008: retinal haemorrhages -> retinal hemorrhages
+28998008: retinal haemorrhages -> retinal haemorrhage
+298721005: sternal manubrium with cortical destruction -> sternal manubrium with neocortical destruction
+298721005: sternal manubrium with cortical destruction -> sternal manubrium with sub-cortical destruction
+298721005: sternal manubrium with cortical destruction -> sternal manubrium with cortex destruction
+298721005: sternal manubrium with cortical destruction -> sternal manubrium with Cortical destruction
+298721005: gadolinium uptake at the joint of the manubrium with the sternal body -> gadolinium uptake at the joint of the manubrium wtih the sternal body
+298721005: gadolinium uptake at the joint of the manubrium with the sternal body -> Gadolinium uptake at the joint of the manubrium with the sternal body
+298721005: gadolinium uptake at the joint of the manubrium with the sternal body -> gadolinium-based uptake at the joint of the manubrium with the sternal body
+79922009: epigastric pain -> Epigastric pain
+79922009: epigastric pain -> epigastrium pain
+386689009: hypothermia -> Hypothermia
+386689009: systemic hypothermia -> systemic Hypothermia
+445249002: nodular images in both lung fields -> nodular images in both emphysema fields
+445249002: nodular images in both lung fields -> nodular images in both lung field
+445249002: multiple pulmonary nodules -> multiple pulmonary nodule
+445249002: multiple pulmonary nodules -> multiple pulmonary Nodules
+445249002: multiple pulmonary nodules -> mutliple pulmonary nodules
+445249002: multiple pulmonary nodules -> mutiple pulmonary nodules
+445249002: multiple pulmonary nodules -> mulitple pulmonary nodules
+163586006: complete normal neurological examination -> complete normal neurological examinations
+163586006: complete normal neurological examination -> complete normal neurological examination.The
+163586006: complete normal neurological examination -> complete normal neurological Examination
+163586006: somatic and neurological examinations were normal -> somatic and neurologic examinations were normal
+163586006: somatic and neurological examinations were normal -> Somatic and neurological examinations were normal
+79740000: oral thrush -> Oral thrush
+11092001: tachycardia -> bradycardia
+11092001: tachycardia -> Tachycardia
+11092001: tachycardia -> tachycardias
+11092001: tachycardia -> arrhythmia
+11092001: sinus tachycardia -> sinus bradycardia
+11092001: sinus tachycardia -> sinus Tachycardia
+11092001: sinus tachycardia -> sinus tachycardias
+11092001: sinus tachycardia -> sinus arrhythmia
+11092001: tachycardic -> bradycardic
+22994000: generalised hyporeflexia -> generalised areflexia
+22994000: generalised hyporeflexia -> generalised hyperreflexia
+22994000: hyporeflexia -> areflexia
+22994000: hyporeflexia -> hyperreflexia
+82020005: mild hypomagnesaemia -> mild hypomagnesemia
+82020005: hypomagnesaemia -> hypomagnesemia
+102614006: generalised abdominal pain -> generalised Abdominal pain
+102614006: diffuse abdominal pain -> diffuse Abdominal pain
+45007003: hypotension -> Hypotension
+45007003: arterial hypotension -> arterial Hypotension
+45007003: arterial hypotension -> artery hypotension
+300561007: normal kidneys and ureters -> normal Kidneys and ureters
+300561007: normal kidneys and ureters -> normal kidney and ureters
+300561007: normal kidneys and ureters -> normal kidneys and ureter
+300561007: normal urological studies -> normal urologic studies
+300561007: normal urological studies -> normal urology studies
+74285003: pelvic mass anterior to the bladder -> pelvic mass posterior to the bladder
+74285003: pelvic mass anterior to the bladder -> pelvic mass anterolateral to the bladder
+74285003: subvesical pelvic mass -> subvesical Pelvic mass
+274730004: multiple intravesical repletion defects -> mutliple intravesical repletion defects
+274730004: multiple intravesical repletion defects -> mutiple intravesical repletion defects
+274730004: multiple intravesical repletion defects -> mulitple intravesical repletion defects
+274730004: multiple intravesical repletion defects -> multiple intravesical repletion defect
+274730004: bladder filling defects -> bladder fill defects
+274730004: bladder filling defects -> bladder filling defect
+75753009: clot -> blood-clot
+249244000: penile flaccidity -> erectile flaccidity
+249244000: penile flaccidity -> Penile flaccidity
+409668002: intense photophobia -> intense Photophobia
+409668002: photophobia -> Photophobia
+248503005: microcystic epithelial oedema -> microcystic epithelial edema
+248503005: microcystic epithelial oedema -> microcystic epithelium oedema
+248503005: microcystic epithelial oedema -> microcystic epithelia oedema
+248503005: microcystic epithelial oedema -> microcystic Epithelial oedema
+248503005: microcystic epithelial oedema -> microcystic epithelial-like oedema
+248503005: central predominantly tarnished cornea with mild oedema -> central predominantly tarnished cornea with mild edema
+248503005: central predominantly tarnished cornea with mild oedema -> central predominantly sullied cornea with mild oedema
+248503005: central predominantly tarnished cornea with mild oedema -> central predominantly tarnished corneal with mild oedema
+248503005: central predominantly tarnished cornea with mild oedema -> central predominantly tarnished corneas with mild oedema
+707724006: slightly elevated transaminases -> slighly elevated transaminases
+707724006: slightly elevated transaminases -> slighlty elevated transaminases
+707724006: slightly elevated transaminases -> slighty elevated transaminases
+707724006: slightly elevated transaminases -> ever-so-slightly elevated transaminases
+707724006: slightly elevated transaminases -> somewhat elevated transaminases
+707724006: slightly elevated transaminases -> slightly elevated transaminase
+707724006: slightly elevated transaminases -> slightly elevated aminotransferases
+707724006: slightly elevated transaminases -> slightly elevated Transaminase
+707724006: slightly elevated transaminases -> slightly elevated aminotransferase
+707724006: elevated liver enzymes -> elevated liver enzyme
+707724006: elevated transaminase values -> elevated aminotransferase values
+707724006: elevated transaminase values -> elevated transaminases values
+707724006: elevated transaminase values -> elevated Transaminase values
+707724006: elevated transaminase values -> elevated aminotransferases values
+707724006: elevated transaminases -> elevated transaminase
+707724006: elevated transaminases -> elevated aminotransferases
+707724006: elevated transaminases -> elevated Transaminase
+707724006: elevated transaminases -> elevated aminotransferase
+70819003: reddish skin -> brownish skin
+70819003: reddish skin -> yellowish skin
+70819003: reddish skin -> reddish-brown skin
+70819003: reddish skin -> brownish-red skin
+70819003: reddish skin -> greenish skin
+111512005: posterior synechiae -> anterior synechiae
+111512005: posterior synechia -> anterior synechia
+168289002: corneal cultures were negative -> cornea cultures were negative
+168289002: corneal cultures were negative -> Corneal cultures were negative
+168289002: negative corneal cultures for bacteria, fungi, viruses and parasites -> negative cornea cultures for bacteria, fungi, viruses and parasites
+168289002: negative corneal cultures for bacteria, fungi, viruses and parasites -> negative Corneal cultures for bacteria, fungi, viruses and parasites
+168289002: negative corneal cultures for bacteria, fungi, viruses and parasites -> positive corneal cultures for bacteria, fungi, viruses and parasites
+267096005: bifrontoparietal headache -> bifrontoparietal headaches
+267096005: bifrontoparietal headache -> bifrontoparietal head-ache
+267096005: frontoparietal headache -> fronto-parietal headache
+267096005: frontoparietal headache -> frontoparietal headaches
+267096005: frontoparietal headache -> frontoparietal head-ache
+164734008: fundus examination was normal -> fundus examinations was normal
+164734008: fundus examination was normal -> fundus examination.The was normal
+164734008: fundus examination was normal -> fundus Examination was normal
+164734008: fundus without significant alterations in both eyes -> fundus without signficant alterations in both eyes
+164734008: fundus without significant alterations in both eyes -> fundus without substantial alterations in both eyes
+164734008: fundus without significant alterations in both eyes -> fundus without signifcant alterations in both eyes
+301855007: negative nodes -> negative node
+301855007: negative nodes -> negative nodes.
+301855007: negative nodes -> negative Nodes
+301855007: negative nodes -> positive nodes
+301855007: lymph nodes -> lymph node
+301855007: lymph nodes -> lymph nodes.
+301855007: lymph nodes -> lymph Nodes
+301855007: lymph nodes -> Lymph nodes
+301855007: lymph nodes -> lymphatic nodes
+440299000: retrocardiac extrinsic mass -> retrocardiac Extrinsic mass
+60280003: adequate intraocular pressure -> sufficient intraocular pressure
+60280003: adequate intraocular pressure -> adequate intraocular pressue
+60280003: adequate intraocular pressure -> adequate intraocular presssure
+60280003: adequate intraocular pressure -> adequate intra-ocular pressure
+60280003: adequate intraocular pressure -> adequate Intraocular pressure
+60280003: intraocular pressure values were normal -> intraocular pressue values were normal
+60280003: intraocular pressure values were normal -> intraocular presssure values were normal
+60280003: intraocular pressure values were normal -> intra-ocular pressure values were normal
+60280003: intraocular pressure values were normal -> Intraocular pressure values were normal
+39575007: dark urine -> dark Urine
+39575007: dark urine -> dark urine-
+300357002: hypodense peripancreatic halo -> hypodensity peripancreatic halo
+300357002: hypodense peripancreatic halo -> hypoechoic peripancreatic halo
+300357002: hypodense peripancreatic halo -> isodense peripancreatic halo
+300357002: hypodense peripancreatic halo -> hypointense peripancreatic halo
+300357002: hypodense peripancreatic halo -> hyperechoic peripancreatic halo
+33688009: cholestasis enzymes -> cholestasis enzyme
+33688009: cholestasis enzymes -> Cholestasis enzymes
+33688009: cholestasis -> Cholestasis
+246975001: painless mucocutaneous jaundice -> painless Mucocutaneous jaundice
+246975001: painless mucocutaneous jaundice -> painless mucocutaneous Jaundice
+246975001: muco-cutaneous jaundice -> muco-cutaneous Jaundice
+274765004: negative rectal examination -> positive rectal examination
+274765004: negative rectal examination -> negative rectal examinations
+274765004: negative rectal examination -> negative rectal examination.The
+274765004: negative rectal examination -> negative rectal Examination
+274765004: negative rectal examination -> negative Rectal examination
+274765004: rectal examination was unremarkable -> rectal examinations was unremarkable
+274765004: rectal examination was unremarkable -> rectal examination.The was unremarkable
+274765004: rectal examination was unremarkable -> rectal Examination was unremarkable
+274765004: rectal examination was unremarkable -> rectal examination was unexceptional
+49650001: dysuria -> Dysuria
+49650001: irritative urinary symptoms -> irritative Urinary symptoms
+49650001: irritative urinary symptoms -> irritative urinary symtoms
+49650001: irritative urinary symptoms -> irritative urinary symtpoms
+49650001: irritative urinary symptoms -> irritative urinary symptons
+49650001: irritative urinary symptoms -> irritative urinary symptoms.The
+49650001: irritative urinary symptoms -> irritative urinary symptoms.What
+167221003: urine sediment was normal -> Urine sediment was normal
+167221003: urine sediment was normal -> urine- sediment was normal
+167221003: no alterations in the sediment -> no alterations in the sediments
+167221003: no alterations in the sediment -> no alterations in the Sediment
+167221003: no alterations in the sediment -> no alterations in the silt
+167221003: no alterations in the sediment -> no alteration in the sediment
+167221003: no alterations in the sediment -> no Alterations in the sediment
+167221003: normal sediment -> normal sediments
+167221003: normal sediment -> normal Sediment
+167221003: normal sediment -> normal silt
+285384003: deterioration of general condition -> deteriorations of general condition
+285384003: deterioration of general condition -> deterioration of general condtion
+285384003: deterioration of general condition -> deterioration of general conditon
+285384003: progressive deterioration of general condition -> progressive deterioration of general condtion
+285384003: progressive deterioration of general condition -> progressive deterioration of general conditon
+285384003: progressive deterioration of general condition -> progressive deteriorations of general condition
+301151001: distal pulses were preserved -> proximal pulses were preserved
+301151001: distal pulses were preserved -> distal-most pulses were preserved
+301151001: distal pulses were preserved -> distal pulse were preserved
+301151001: distal pulses present -> proximal pulses present
+301151001: distal pulses present -> distal-most pulses present
+301151001: distal pulses present -> distal pulse present
+91175000: seizure -> siezure
+91175000: seizures -> siezures
+91175000: seizures -> Seizures
+91175000: convulsive episode -> convulsion episode
+91175000: convulsive episode -> convulsive epsiode
+91175000: convulsive episode -> convulsive episdoe
+91175000: convulsive episodes -> convulsive epsiodes
+91175000: convulsive episodes -> convulsive episodes.The
+91175000: convulsive episodes -> convulsive episdoes
+91175000: convulsive episodes -> convulsive episodes.
+91175000: convulsive episodes -> convulsion episodes
+268926000: bronchial lavage was negative -> bronchial lavages was negative
+268926000: bronchial lavage was negative -> Bronchial lavage was negative
+268926000: bronchial lavage was negative -> bronchial lavage was positive
+268926000: bronchoalveolar lavage (negative -> bronchoalveolar lavages (negative
+268926000: bronchoalveolar lavage (negative -> Bronchoalveolar lavage (negative
+9957009: transurethral purulent discharge -> transurethral purulence discharge
+9957009: transurethral purulent discharge -> transurethral mucopurulent discharge
+9957009: transurethral purulent discharge -> transurethral suppurative discharge
+9957009: transurethral purulent discharge -> transurethral purulent discharges
+9957009: transurethral purulent discharge -> Transurethral purulent discharge
+9957009: purulent discharge through the urethral meatus -> purulent discharges through the urethral meatus
+9957009: purulent discharge through the urethral meatus -> purulence discharge through the urethral meatus
+9957009: purulent discharge through the urethral meatus -> mucopurulent discharge through the urethral meatus
+9957009: purulent discharge through the urethral meatus -> suppurative discharge through the urethral meatus
+301367001: abdominal pain predominantly in the right hypochondrium -> abdominal pain predominantly in the right epigastrium
+301367001: dull pain in the right hypochondrium -> dull pain in the right epigastrium
+301367001: abdominal pain in the right hypochondrium -> abdominal pain in the right epigastrium
+409609008: bilateral alveolar-interstitial infiltrate -> bi-lateral alveolar-interstitial infiltrate
+409609008: bilateral alveolar-interstitial infiltrate -> Bilateral alveolar-interstitial infiltrate
+409609008: bilateral alveolar-interstitial infiltrate -> bilateral alveolar-interstitial infiltrates
+409609008: bilateral alveolar-interstitial infiltrate -> bilateral alveolar-interstitial infiltrating
+409609008: basal alveolar infiltrate -> basal alveolar infiltrates
+409609008: basal alveolar infiltrate -> basal alveolar infiltrating
+409609008: basal alveolar infiltrate -> basal Alveolar infiltrate
+369757002: solid mass with haemorrhagic areas -> solid mass with hemorrhagic areas
+369757002: solid mass with haemorrhagic areas -> solid mass with Haemorrhagic areas
+369757002: solid mass with haemorrhagic areas -> solid mass with Hemorrhagic areas
+369757002: solid mass with haemorrhagic areas -> solid mass with nonhemorrhagic areas
+40709005: lumbar pain -> Lumbar pain
+40709005: low back pain -> high back pain
+11934000: total ptosis -> total Ptosis
+11934000: ptosis -> Ptosis
+11934000: eyelid ptosis -> eye-lid ptosis
+11934000: eyelid ptosis -> eyelids ptosis
+11934000: eyelid ptosis -> eyelid Ptosis
+309306009: negative microbiological samples -> positive microbiological samples
+309306009: negative microbiological samples -> negative bacteriological samples
+309306009: negative microbiological samples -> negative Microbiological samples
+309306009: negative microbiological samples -> negative microbiologic samples
+309306009: negative microbiological samples -> negative microbiological sample
+309306009: auramine staining for mycobacteria was negative -> auramine staining for mycobacterium was negative
+309306009: auramine staining for mycobacteria was negative -> auramine staining for Mycobacteria was negative
+309306009: auramine staining for mycobacteria was negative -> auramine staining for mycobacterial was negative
+300287006: oesophageal mass -> esophageal mass
+300287006: oesophageal mass -> Oesophageal mass
+300287006: vegetating and ulcerated oesophageal tumour -> vegetating and ulcerated esophageal tumour
+300287006: vegetating and ulcerated oesophageal tumour -> vegetating and ulcerated Oesophageal tumour
+330007: occipital headache -> occipital headaches
+330007: occipital headache -> occipital head-ache
+330007: severe headache in the occipital region -> severe headache in the occipital regions
+249250005: hypochromic, hypothermic glans penis -> hypochromic, hypothermic glans penises
+249250005: hypochromic, hypothermic glans penis -> hypochromic, hypothermic glans penise
+249250005: hypochromic, hypothermic glans penis -> hypochromic, hypothermic glans Penis
+249250005: respected the glans -> repected the glans
+249250005: respected the glans -> well-respected the glans
+423341008: papillary oedema -> papillary edema
+423341008: papillary oedema -> Papillary oedema
+423341008: optic disc oedema -> optic disc edema
+423341008: optic disc oedema -> optic discs oedema
+423341008: papilledema -> Papilledema
+423341008: papilledema -> papilloedema
+11833005: dry cough -> dry coughs
+11833005: dry cough -> dry Cough
+11833005: dry cough -> dry cough-
+11833005: irritative cough -> irritative coughs
+11833005: irritative cough -> irritative Cough
+11833005: irritative cough -> irritative cough-
+89474008: disease-free extension study -> disease-free extensions study
+89474008: negative extension study -> positive extension study
+89474008: negative extension study -> negative extensions study
+64730000: cardiac auscultation was rhythmic -> cardiac auscultating was rhythmic
+64730000: cardiac auscultation was rhythmic -> cardiac auscultatory was rhythmic
+64730000: cardiac auscultation was rhythmic -> cardiac auscultated was rhythmic
+64730000: cardiac auscultation was rhythmic -> cardiac auscultate was rhythmic
+64730000: cardiac auscultation was rhythmic -> cardiopulmonary auscultation was rhythmic
+64730000: cardiac auscultation was rhythmic -> Cardiac auscultation was rhythmic
+64730000: cardiac auscultation was rhythmic -> non-cardiac auscultation was rhythmic
+64730000: normal sinus rhythm -> normal sinus rhythym
+64730000: normal sinus rhythm -> normal sinus rhythmn
+64730000: normal sinus rhythm -> normal sinus rythym
+64730000: normal sinus rhythm -> normal sinus rythmn
+64730000: normal sinus rhythm -> normal sinus rythm
+89458003: stupor -> stupors
+89458003: stupor -> stupour
+431468008: collapse of the third ventricle -> collapse of the third ventricles
+431468008: collapse of the third ventricle -> collapse of the third ventricular
+431468008: collapse of the third ventricle -> collapse of the fourth ventricle
+431468008: collapse of the third ventricle -> collapse of the fifth ventricle
+431468008: collapse of the third ventricle -> collapse of the second ventricle
+431468008: collapse of the third ventricle -> collapse of the sixth ventricle
+431468008: collapse of the third ventricle -> collapse of the seventh ventricle
+431468008: collapse of the third ventricle -> collapsing of the third ventricle
+431468008: collapse of the third ventricle -> collpase of the third ventricle
+431468008: collapse of the third ventricle -> collapse.The of the third ventricle
+431468008: ventricular collapse -> atrial collapse
+431468008: ventricular collapse -> left-ventricular collapse
+431468008: ventricular collapse -> Ventricular collapse
+431468008: ventricular collapse -> biventricular collapse
+431468008: ventricular collapse -> ventricle collapse
+431468008: ventricular collapse -> ventricular collapsing
+431468008: ventricular collapse -> ventricular collpase
+431468008: ventricular collapse -> ventricular collapse.The
+249274008: mild micturition symptomatology -> mild micturition symptomology
+249274008: mild micturition symptomatology -> mild micturation symptomatology
+249274008: voiding symptoms -> voiding symtoms
+249274008: voiding symptoms -> voiding symtpoms
+249274008: voiding symptoms -> voiding symptons
+249274008: voiding symptoms -> voiding symptoms.The
+249274008: voiding symptoms -> voiding symptoms.What
+67307004: abnormal abdominal collateral circulation -> abnormal Abdominal collateral circulation
+67307004: abnormal abdominal collateral circulation -> abnormal abdominal collateral circulations
+67307004: collateral circulation -> collateral circulations
+165141001: normal oesophagus, gastric cavity mucosa and duodenal bulb -> normal oesophagus, gastric cavity mucosa and Duodenal bulb
+165141001: normal oesophagus, gastric cavity mucosa and duodenal bulb -> normal oesophagus, gastric cavity mucosa and jejunal bulb
+165141001: gastroscopy was normal -> Gastroscopy was normal
+165141001: gastroscopy was normal -> endoscopy was normal
+246924004: total corneal closure -> total cornea closure
+246924004: total corneal closure -> total Corneal closure
+246924004: transparent cornea -> transparant cornea
+246924004: transparent cornea -> non-transparent cornea
+246924004: transparent cornea -> transparent corneal
+246924004: transparent cornea -> transparent corneas
+155876003: non-functioning right kidney -> non-functioning right renal
+155876003: non-functioning right kidney -> non-functioning right kidneys
+155876003: non-functioning right kidney -> nonfunctioning right kidney
+155876003: renal annulment -> kidney annulment
+155876003: renal annulment -> non-renal annulment
+155876003: renal annulment -> Renal annulment
+155876003: renal annulment -> renal annullment
+155876003: renal annulment -> renal Annulment
+169254007: renal ultrasound showed no abnormalities -> renal ultrasound showed no abnormality
+169254007: renal ultrasound showed no abnormalities -> renal ultra-sound showed no abnormalities
+169254007: renal ultrasound showed no abnormalities -> renal sonogram showed no abnormalities
+169254007: renal ultrasound showed no abnormalities -> renal Ultrasound showed no abnormalities
+169254007: renal ultrasound showed no abnormalities -> renal ultrasounds showed no abnormalities
+169254007: renal ultrasound was normal -> kidney ultrasound was normal
+169254007: renal ultrasound was normal -> non-renal ultrasound was normal
+169254007: renal ultrasound was normal -> Renal ultrasound was normal
+235957008: peri-pancreatic collection -> peri-pancreatic collections
+235957008: collection -> collections
+418638008: peripheral corneal infiltrate in crescents -> peripheral corneal infiltrates in crescents
+418638008: peripheral corneal infiltrate in crescents -> peripheral corneal infiltrating in crescents
+418638008: peripheral corneal infiltrate in crescents -> peripheral cornea infiltrate in crescents
+418638008: peripheral corneal infiltrate in crescents -> peripheral Corneal infiltrate in crescents
+418638008: upper peripheral corneal infiltrate in a crescent -> upper peripheral cornea infiltrate in a crescent
+418638008: upper peripheral corneal infiltrate in a crescent -> upper peripheral Corneal infiltrate in a crescent
+418638008: upper peripheral corneal infiltrate in a crescent -> uppper peripheral corneal infiltrate in a crescent
+15930381000119104: oedema of both optic discs -> oedema of both optic disc
+15930381000119104: oedema of both optic discs -> oedema of both optic disks
+15930381000119104: oedema of both optic discs -> edema of both optic discs
+15930381000119104: bilateral papilledema -> bilateral Papilledema
+15930381000119104: bilateral papilledema -> bilateral papilloedema
+15930381000119104: bilateral papilledema -> bi-lateral papilledema
+15930381000119104: bilateral papilledema -> Bilateral papilledema
+30098003: severe hyperemia -> severe hyperaemia
+30098003: severe hyperemia -> severe hyperemic
+30098003: hyperemia -> hyperaemia
+30098003: hyperemia -> hyperemic
+398637008: normal macular thickness -> normal Macular thickness
+398637008: normal macular thickness -> normal macular thicknesses
+398637008: normal macular thickness -> normal macular thicknes
+118434000: gastric cavity without haematic debris -> gastric cavities without haematic debris
+118434000: gastric cavity without haematic debris -> gastric cavity without haematic debri
+118434000: gastric cavity without haematic debris -> Gastric cavity without haematic debris
+118434000: decrease in the volume of the gastric chamber -> decrease in the volume of the gastric chambers
+118434000: decrease in the volume of the gastric chamber -> decrease in the volume of the Gastric chamber
+118434000: decrease in the volume of the gastric chamber -> increase in the volume of the gastric chamber
+118434000: decrease in the volume of the gastric chamber -> decreases in the volume of the gastric chamber
+118434000: decrease in the volume of the gastric chamber -> decreasing in the volume of the gastric chamber
+118434000: decrease in the volume of the gastric chamber -> decreased in the volume of the gastric chamber
+118434000: decrease in the volume of the gastric chamber -> increases in the volume of the gastric chamber
+300260007: duct was permeable -> ducts was permeable
+300260007: duct was permeable -> duct was impermeable
+300260007: duct was permeable -> duct was non-permeable
+300260007: drainage of the left parotid gland is normal -> drainage of the left parotid glands is normal

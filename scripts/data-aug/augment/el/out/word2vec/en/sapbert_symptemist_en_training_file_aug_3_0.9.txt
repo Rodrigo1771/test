@@ -1,0 +1,538 @@
+81141003||normal bilateral renal function||renal function remained normal
+81141003||normal bilateral renal function||good bilateral renal function
+81141003||normal bilateral renal function||preserved renal function
+81141003||renal function remained normal||good bilateral renal function
+81141003||renal function remained normal||preserved renal function
+81141003||good bilateral renal function||preserved renal function
+87548005||dyspepsia||flatulent dyspepsia
+310438004||urine cytology, which showed no evidence of malignant cells||urine cytology was negative
+300848003||hypoechoic mass||asymptomatic tumour
+300848003||hypoechoic mass||endophytic tumour
+300848003||hypoechoic mass||masses
+300848003||hypoechoic mass||mass was painless
+300848003||hypoechoic mass||mass
+300848003||hypoechoic mass||radiolucent mass with trabeculations
+300848003||hypoechoic mass||tumours
+300848003||hypoechoic mass||asymptomatic tumor
+300848003||hypoechoic mass||endophytic tumor
+300848003||hypoechoic mass||tumors
+300848003||asymptomatic tumour||endophytic tumour
+300848003||asymptomatic tumour||masses
+300848003||asymptomatic tumour||mass was painless
+300848003||asymptomatic tumour||mass
+300848003||asymptomatic tumour||radiolucent mass with trabeculations
+300848003||asymptomatic tumour||tumours
+300848003||asymptomatic tumour||asymptomatic tumor
+300848003||asymptomatic tumour||endophytic tumor
+300848003||asymptomatic tumour||tumors
+300848003||endophytic tumour||masses
+300848003||endophytic tumour||mass was painless
+300848003||endophytic tumour||mass
+300848003||endophytic tumour||radiolucent mass with trabeculations
+300848003||endophytic tumour||tumours
+300848003||endophytic tumour||asymptomatic tumor
+300848003||endophytic tumour||endophytic tumor
+300848003||endophytic tumour||tumors
+300848003||masses||mass was painless
+300848003||masses||mass
+300848003||masses||radiolucent mass with trabeculations
+300848003||masses||tumours
+300848003||masses||asymptomatic tumor
+300848003||masses||endophytic tumor
+300848003||masses||tumors
+300848003||mass was painless||mass
+300848003||mass was painless||radiolucent mass with trabeculations
+300848003||mass was painless||tumours
+300848003||mass was painless||asymptomatic tumor
+300848003||mass was painless||endophytic tumor
+300848003||mass was painless||tumors
+300848003||mass||radiolucent mass with trabeculations
+300848003||mass||tumours
+300848003||mass||asymptomatic tumor
+300848003||mass||endophytic tumor
+300848003||mass||tumors
+300848003||radiolucent mass with trabeculations||tumours
+300848003||radiolucent mass with trabeculations||asymptomatic tumor
+300848003||radiolucent mass with trabeculations||endophytic tumor
+300848003||radiolucent mass with trabeculations||tumors
+300848003||tumours||asymptomatic tumor
+300848003||tumours||endophytic tumor
+300848003||tumours||tumors
+300848003||asymptomatic tumor||endophytic tumor
+300848003||asymptomatic tumor||tumors
+300848003||endophytic tumor||tumors
+300441003||signal hypointensity in the renal cortex||preserved left renal parenchyma
+300441003||signal hypointensity in the renal cortex||adequate cortico-medullary differentiation
+300441003||signal hypointensity in the renal cortex||renal distortion
+300441003||signal hypointensity in the renal cortex||kidneys of normal size and echostructure
+300441003||preserved left renal parenchyma||adequate cortico-medullary differentiation
+300441003||preserved left renal parenchyma||renal distortion
+300441003||preserved left renal parenchyma||kidneys of normal size and echostructure
+300441003||adequate cortico-medullary differentiation||renal distortion
+300441003||adequate cortico-medullary differentiation||kidneys of normal size and echostructure
+300441003||renal distortion||kidneys of normal size and echostructure
+69559004||retroperitoneal masses||retroperitoneal mass
+69559004||retroperitoneal masses||retroperitoneal tumour
+69559004||retroperitoneal masses||retroperitoneal tumor
+69559004||retroperitoneal mass||retroperitoneal tumour
+69559004||retroperitoneal mass||retroperitoneal tumor
+69559004||retroperitoneal tumour||retroperitoneal tumor
+301459008||haemodynamically stable||haemodynamic stability
+62315008||febrile diarrhoea||diarrhoea
+25064002||severe headache||headache
+25064002||severe headache||headaches
+25064002||headache||headaches
+64882008||occasional fever||fever
+64882008||occasional fever||feverish
+64882008||occasional fever||febrile syndrome
+64882008||occasional fever||febrile episodes
+64882008||occasional fever||high fever
+64882008||fever||feverish
+64882008||fever||febrile syndrome
+64882008||fever||febrile episodes
+64882008||fever||high fever
+64882008||feverish||febrile syndrome
+64882008||feverish||febrile episodes
+64882008||feverish||high fever
+64882008||febrile syndrome||febrile episodes
+64882008||febrile syndrome||high fever
+64882008||febrile episodes||high fever
+87361006||leukocytes with left shift||leukocytosis with significant left shift
+233703007||interstitial prominence||nodular interstitial pattern
+233703007||interstitial prominence||bilateral interstitial pattern
+233703007||interstitial prominence||interstitial pattern
+233703007||nodular interstitial pattern||bilateral interstitial pattern
+233703007||nodular interstitial pattern||interstitial pattern
+233703007||bilateral interstitial pattern||interstitial pattern
+19829001||parenchymal lung involvement||bilateral and diffuse alterations of the lung parenchyma
+49233005||dyspnoea||respiratory distress
+49233005||dyspnoea||dyspnoea of progressive intensity
+49233005||respiratory distress||dyspnoea of progressive intensity
+248690009||crackles on cardiac auscultation||extratonos
+166315009||normal biochemistry||biochemistry, ions and transaminases were normal
+284520004||bibasal crackles||diffuse bilateral crackles
+75823008||secretion||exudate
+257552002||inflammatory signs||phlogosis
+27925004||nodules||hyperechoic nodule
+27925004||nodules||nodule
+27925004||nodules||subcapsular nodule
+27925004||nodules||hypoechoic nodules
+27925004||nodules||nodular formation
+27925004||hyperechoic nodule||nodule
+27925004||hyperechoic nodule||subcapsular nodule
+27925004||hyperechoic nodule||hypoechoic nodules
+27925004||hyperechoic nodule||nodular formation
+27925004||nodule||subcapsular nodule
+27925004||nodule||hypoechoic nodules
+27925004||nodule||nodular formation
+27925004||subcapsular nodule||hypoechoic nodules
+27925004||subcapsular nodule||nodular formation
+27925004||hypoechoic nodules||nodular formation
+87860000||testicular mass||bilateral testicular tumour
+87860000||testicular mass||testicles are engulfed by fibrosis and the tumour mass
+87860000||testicular mass||bilateral testicular tumor
+87860000||testicular mass||testicles are engulfed by fibrosis and the tumor mass
+87860000||bilateral testicular tumour||testicles are engulfed by fibrosis and the tumour mass
+87860000||bilateral testicular tumour||bilateral testicular tumor
+87860000||bilateral testicular tumour||testicles are engulfed by fibrosis and the tumor mass
+87860000||testicles are engulfed by fibrosis and the tumour mass||bilateral testicular tumor
+87860000||testicles are engulfed by fibrosis and the tumour mass||testicles are engulfed by fibrosis and the tumor mass
+87860000||bilateral testicular tumor||testicles are engulfed by fibrosis and the tumor mass
+399406009||negative tumour markers||negative testicular markers
+399406009||negative tumour markers||serum tumour markers were at normal levels
+399406009||negative tumour markers||tumour markers were negative
+399406009||negative tumour markers||negative tumor markers
+399406009||negative tumour markers||tumor markers were negative
+399406009||negative testicular markers||serum tumour markers were at normal levels
+399406009||negative testicular markers||tumour markers were negative
+399406009||negative testicular markers||negative tumor markers
+399406009||negative testicular markers||tumor markers were negative
+399406009||serum tumour markers were at normal levels||tumour markers were negative
+399406009||serum tumour markers were at normal levels||negative tumor markers
+399406009||serum tumour markers were at normal levels||tumor markers were negative
+399406009||tumour markers were negative||negative tumor markers
+399406009||tumour markers were negative||tumor markers were negative
+399406009||negative tumor markers||tumor markers were negative
+408573005||thyroid scan was normal||normal radiological studies
+408573005||thyroid scan was normal||imaging tests were negative
+408573005||normal radiological studies||imaging tests were negative
+170728008||decreased visual acuity||poor visual acuity
+170728008||decreased visual acuity||progressive loss of visual acuity
+170728008||decreased visual acuity||decrease in visual acuity
+170728008||poor visual acuity||progressive loss of visual acuity
+170728008||poor visual acuity||decrease in visual acuity
+170728008||progressive loss of visual acuity||decrease in visual acuity
+76849009||conjunctival injection||mixed conjunctival hyperemia
+76849009||conjunctival injection||conjunctival hyperemia
+76849009||mixed conjunctival hyperemia||conjunctival hyperemia
+79890006||loss of appetite||anorexia
+79890006||loss of appetite||hyporexia
+79890006||loss of appetite||moderate anorexia
+79890006||anorexia||hyporexia
+79890006||anorexia||moderate anorexia
+79890006||hyporexia||moderate anorexia
+422400008||vomiting||self-limited vomiting of variable duration
+422400008||vomiting||nausea
+422400008||vomiting||self-limited nausea of variable duration
+422400008||self-limited vomiting of variable duration||nausea
+422400008||self-limited vomiting of variable duration||self-limited nausea of variable duration
+422400008||nausea||self-limited nausea of variable duration
+166602006||physical examination and laboratory tests, including a liver profile, were normal||liver function was preserved
+30233002||odynophagia||mild odynophagia
+563001||abduction nystagmus in both eyes||nystagmus
+237783006||adrenal hypodense mass||adrenal mass
+237783006||adrenal hypodense mass||adrenal tumour
+237783006||adrenal hypodense mass||adrenal tumor
+237783006||adrenal mass||adrenal tumour
+237783006||adrenal mass||adrenal tumor
+237783006||adrenal tumour||adrenal tumor
+399122003||dysphagia||progressive dysphagia
+8644006||postprandial heaviness||feeling of fullness
+267045008||gastrointestinal symptoms||gastrointestinal manifestations
+419099009||dying||died
+419099009||dying||success
+419099009||dying||death
+419099009||dying||exitus
+419099009||died||success
+419099009||died||death
+419099009||died||exitus
+419099009||success||death
+419099009||success||exitus
+419099009||death||exitus
+131148009||rebleeding||blood
+131148009||rebleeding||haemorrhage
+131148009||rebleeding||bleeding
+131148009||blood||haemorrhage
+131148009||blood||bleeding
+131148009||haemorrhage||bleeding
+45850009||daytime continence||continent
+22253000||pain||painful
+22253000||pain||persistent pain
+22253000||painful||persistent pain
+72970002||vital signs were normal||clinical examination and vital signs were normal
+13791008||asthenia||moderate asthenia
+83128009||oligoanuria||oliguria
+37125009||mydriasis||reactive mydriasis
+37125009||mydriasis||mild bilateral mydriasis
+37125009||mydriasis||mydriatic
+37125009||mydriasis||slightly mydriatic pupils
+37125009||reactive mydriasis||mild bilateral mydriasis
+37125009||reactive mydriasis||mydriatic
+37125009||reactive mydriasis||slightly mydriatic pupils
+37125009||mild bilateral mydriasis||mydriatic
+37125009||mild bilateral mydriasis||slightly mydriatic pupils
+37125009||mydriatic||slightly mydriatic pupils
+422773005||haemodynamically unstable||haemodynamic compromise
+422773005||haemodynamically unstable||haemodynamic destabilisation
+422773005||haemodynamically unstable||haemodynamic instability
+422773005||haemodynamically unstable||haemodynamic alterations
+422773005||haemodynamic compromise||haemodynamic destabilisation
+422773005||haemodynamic compromise||haemodynamic instability
+422773005||haemodynamic compromise||haemodynamic alterations
+422773005||haemodynamic destabilisation||haemodynamic instability
+422773005||haemodynamic destabilisation||haemodynamic alterations
+422773005||haemodynamic instability||haemodynamic alterations
+300474003||preserved diuresis||maintained diuresis
+300474003||preserved diuresis||spontaneous diuresis
+300474003||maintained diuresis||spontaneous diuresis
+246636008||blurred vision in both eyes||blurred vision
+708118007||negative culture||culture (aerobic and anaerobic) was negative for bacteria
+708118007||negative culture||repeated negative cultures
+708118007||negative culture||bronchoaspirate culture showed no growth for bacteria, fungi or mycobacteria
+708118007||negative culture||culture was negative
+708118007||negative culture||blood cultures were sterile
+708118007||negative culture||pericardial fluid culture was sterile
+708118007||culture (aerobic and anaerobic) was negative for bacteria||repeated negative cultures
+708118007||culture (aerobic and anaerobic) was negative for bacteria||bronchoaspirate culture showed no growth for bacteria, fungi or mycobacteria
+708118007||culture (aerobic and anaerobic) was negative for bacteria||culture was negative
+708118007||culture (aerobic and anaerobic) was negative for bacteria||blood cultures were sterile
+708118007||culture (aerobic and anaerobic) was negative for bacteria||pericardial fluid culture was sterile
+708118007||repeated negative cultures||bronchoaspirate culture showed no growth for bacteria, fungi or mycobacteria
+708118007||repeated negative cultures||culture was negative
+708118007||repeated negative cultures||blood cultures were sterile
+708118007||repeated negative cultures||pericardial fluid culture was sterile
+708118007||bronchoaspirate culture showed no growth for bacteria, fungi or mycobacteria||culture was negative
+708118007||bronchoaspirate culture showed no growth for bacteria, fungi or mycobacteria||blood cultures were sterile
+708118007||bronchoaspirate culture showed no growth for bacteria, fungi or mycobacteria||pericardial fluid culture was sterile
+708118007||culture was negative||blood cultures were sterile
+708118007||culture was negative||pericardial fluid culture was sterile
+708118007||blood cultures were sterile||pericardial fluid culture was sterile
+78341006||neutrophilia||polymorphonuclear leukocytes and abundant mucus
+440027000||corneal infiltrate||corneal inclusion
+27194006||corneal oedema||moderate corneal oedema
+274643008||pallor||skin pallor
+118435004||jejunal loops with hydroaerial levels||oedema in small bowel loops
+52985009||chylous ascites||ascitic fluid with chylous characteristics
+389026000||ascites||ascitic fluid
+93457003||free intra-abdominal fluid, mainly in the perisplenic region, left paracolic gout, perihepatic and also in the pelvis||peritoneal fluid
+119247004||severe hypoalbuminaemia||hypoalbuminaemia
+5291005||hypocalcaemia||severe hypocalcaemia
+386789004||peripheral eosinophilia||eosinophilia
+278683009||good dental occlusion||stable and repeatable occlusion
+301936006||anterior pole was normal in both eyes||negative fluorescein staining
+301936006||anterior pole was normal in both eyes||good anterior chamber depth
+301936006||negative fluorescein staining||good anterior chamber depth
+225581002||decreased vision||poor vision
+103251002||extrinsic and intrinsic ocular motility were normal||extrinsic and intrinsic motility was normal
+103251002||extrinsic and intrinsic ocular motility were normal||extrinsic and intrinsic ocular motility
+103251002||extrinsic and intrinsic motility was normal||extrinsic and intrinsic ocular motility
+24982008||horizontal binocular diplopia||diplopia
+24982008||horizontal binocular diplopia||horizontal diplopia
+24982008||horizontal binocular diplopia||double vision
+24982008||diplopia||horizontal diplopia
+24982008||diplopia||double vision
+24982008||horizontal diplopia||double vision
+52613005||diaphoresis||sweaty
+52613005||diaphoresis||profuse sweating
+52613005||diaphoresis||diaphoretic
+52613005||diaphoresis||sweating
+52613005||sweaty||profuse sweating
+52613005||sweaty||diaphoretic
+52613005||sweaty||sweating
+52613005||profuse sweating||diaphoretic
+52613005||profuse sweating||sweating
+52613005||diaphoretic||sweating
+300855001||intestinal mass||intraluminal tumour
+300855001||intestinal mass||intraluminal tumor
+300855001||intraluminal tumour||intraluminal tumor
+63049000||adequate longitudinal bone formation||normal bone structure
+63049000||adequate longitudinal bone formation||healthy bone
+63049000||normal bone structure||healthy bone
+309088003||upper pole of the right kidney and internally, there is a solid mass||renal mass
+309088003||upper pole of the right kidney and internally, there is a solid mass||solid nodules in both kidneys
+309088003||upper pole of the right kidney and internally, there is a solid mass||mass was clearly visualised over the outer edge of the kidney
+309088003||renal mass||solid nodules in both kidneys
+309088003||renal mass||mass was clearly visualised over the outer edge of the kidney
+309088003||solid nodules in both kidneys||mass was clearly visualised over the outer edge of the kidney
+271823003||tachypnoea||persistent tachypnoea
+89362005||lose weight||weight loss of 12 kilograms
+89362005||lose weight||loss of about 15 kg of weight
+89362005||lose weight||weight loss
+89362005||weight loss of 12 kilograms||loss of about 15 kg of weight
+89362005||weight loss of 12 kilograms||weight loss
+89362005||loss of about 15 kg of weight||weight loss
+53298000||haematuria||total anaemic haematuria
+33958003||penile induration at the base||induration of the distal third of the penile shaft
+33958003||penile induration at the base||painful induration of the penile base
+33958003||penile induration at the base||induration of the proximal third of the penile shaft
+33958003||induration of the distal third of the penile shaft||painful induration of the penile base
+33958003||induration of the distal third of the penile shaft||induration of the proximal third of the penile shaft
+33958003||painful induration of the penile base||induration of the proximal third of the penile shaft
+235993005||peri-graft collection||occupation of the left hemiabdomen
+235993005||peri-graft collection||liquid collections
+235993005||occupation of the left hemiabdomen||liquid collections
+359746009||clinically stable||stable
+271594007||syncope||syncopal episode
+204676004||ectopic gastric mucosa||heterotopic gastric mucosa
+95545007||bloody diarrhoea||diarrhoeal stools, sometimes accompanied by blood
+64379006||less appetite||reduced intake
+64379006||less appetite||decreased intake
+64379006||reduced intake||decreased intake
+249543005||abdomen was soft||abdomen was soft and depressible
+249543005||abdomen was soft||abdomen was soft, depressible
+249543005||abdomen was soft||soft, depressible, non-painful abdomen
+249543005||abdomen was soft||soft abdomen
+249543005||abdomen was soft||abdomen is soft, depressible
+249543005||abdomen was soft and depressible||abdomen was soft, depressible
+249543005||abdomen was soft and depressible||soft, depressible, non-painful abdomen
+249543005||abdomen was soft and depressible||soft abdomen
+249543005||abdomen was soft and depressible||abdomen is soft, depressible
+249543005||abdomen was soft, depressible||soft, depressible, non-painful abdomen
+249543005||abdomen was soft, depressible||soft abdomen
+249543005||abdomen was soft, depressible||abdomen is soft, depressible
+249543005||soft, depressible, non-painful abdomen||soft abdomen
+249543005||soft, depressible, non-painful abdomen||abdomen is soft, depressible
+249543005||soft abdomen||abdomen is soft, depressible
+165406005||normal parameters of the three haematological series||normal haemogram
+165406005||normal parameters of the three haematological series||normal parameters of the four haematological series
+165406005||normal parameters of the three haematological series||normal parameters of the two haematological series
+165406005||normal parameters of the three haematological series||normal parameters of the five haematological series
+165406005||normal haemogram||normal parameters of the four haematological series
+165406005||normal haemogram||normal parameters of the two haematological series
+165406005||normal haemogram||normal parameters of the five haematological series
+165406005||normal parameters of the four haematological series||normal parameters of the two haematological series
+165406005||normal parameters of the four haematological series||normal parameters of the five haematological series
+165406005||normal parameters of the two haematological series||normal parameters of the five haematological series
+110279003||disease-free||disease-free interval
+443371007||decreased level of consciousness||low level of consciousness
+443371007||decreased level of consciousness||obnubilation
+443371007||decreased level of consciousness||progressive deterioration of the level of consciousness
+443371007||low level of consciousness||obnubilation
+443371007||low level of consciousness||progressive deterioration of the level of consciousness
+443371007||obnubilation||progressive deterioration of the level of consciousness
+249545003||defence||abdominal defence
+249545003||defence||peritonism
+249545003||abdominal defence||peritonism
+247348008||painful on palpation||pain on palpation
+249339005||narrow nasal pyramid||narrow nostrils
+9589009||difficulty in walking||difficulty in ambulation
+135815002||good general condition||good general appearance
+105593004||severe water and electrolyte disturbance||electrolyte disturbances
+34095006||dehydration||signs of hydrosaline depletion
+34095006||dehydration||dehydrated
+34095006||signs of hydrosaline depletion||dehydrated
+128139000||inflammatory reaction||inflammation
+703630003||red eye||severe red eye
+14310000||purulent rhinorrhoea||greenish rhinorrhoea
+14310000||purulent rhinorrhoea||yellowish rhinorrhoea
+14310000||purulent rhinorrhoea||pinkish rhinorrhoea
+14310000||purulent rhinorrhoea||reddish rhinorrhoea
+14310000||purulent rhinorrhoea||brownish rhinorrhoea
+14310000||purulent rhinorrhoea||purplish rhinorrhoea
+14310000||greenish rhinorrhoea||yellowish rhinorrhoea
+14310000||greenish rhinorrhoea||pinkish rhinorrhoea
+14310000||greenish rhinorrhoea||reddish rhinorrhoea
+14310000||greenish rhinorrhoea||brownish rhinorrhoea
+14310000||greenish rhinorrhoea||purplish rhinorrhoea
+14310000||yellowish rhinorrhoea||pinkish rhinorrhoea
+14310000||yellowish rhinorrhoea||reddish rhinorrhoea
+14310000||yellowish rhinorrhoea||brownish rhinorrhoea
+14310000||yellowish rhinorrhoea||purplish rhinorrhoea
+14310000||pinkish rhinorrhoea||reddish rhinorrhoea
+14310000||pinkish rhinorrhoea||brownish rhinorrhoea
+14310000||pinkish rhinorrhoea||purplish rhinorrhoea
+14310000||reddish rhinorrhoea||brownish rhinorrhoea
+14310000||reddish rhinorrhoea||purplish rhinorrhoea
+14310000||brownish rhinorrhoea||purplish rhinorrhoea
+18265008||ocular proptosis||proptosis of one year's evolution in both eyes
+18265008||ocular proptosis||bilateral exophthalmos
+18265008||proptosis of one year's evolution in both eyes||bilateral exophthalmos
+28998008||macular haemorrhage||retinal haemorrhages
+298721005||sternal manubrium with cortical destruction||gadolinium uptake at the joint of the manubrium with the sternal body
+79922009||epigastric pain||epigastralgia
+386689009||hypothermia||systemic hypothermia
+445249002||nodular images in both lung fields||multiple pulmonary nodules
+163586006||general and neurological examination was normal||complete normal neurological examination
+163586006||general and neurological examination was normal||somatic and neurological examinations were normal
+163586006||complete normal neurological examination||somatic and neurological examinations were normal
+79740000||thrush||oral thrush
+11092001||tachycardia||sinus tachycardia
+11092001||tachycardia||tachycardic
+11092001||sinus tachycardia||tachycardic
+22994000||generalised hyporeflexia||hyporeflexia
+82020005||mild hypomagnesaemia||hypomagnesaemia
+102614006||generalised abdominal pain||diffuse abdominal pain
+45007003||hypotensive||hypotension
+45007003||hypotensive||arterial hypotension
+45007003||hypotension||arterial hypotension
+300561007||normal bulbar urethra||normal kidneys and ureters
+300561007||normal bulbar urethra||normal urological studies
+300561007||normal kidneys and ureters||normal urological studies
+74285003||pelvic mass anterior to the bladder||subvesical pelvic mass
+274730004||multiple intravesical repletion defects||bladder filling defects
+75753009||clot||clots
+249244000||flaccidity||penile flaccidity
+409668002||intense photophobia||photophobia
+248503005||microcystic epithelial oedema||central predominantly tarnished cornea with mild oedema
+248503005||microcystic epithelial oedema||microcystic epithelium oedema
+248503005||central predominantly tarnished cornea with mild oedema||microcystic epithelium oedema
+707724006||slightly elevated transaminases||elevated liver enzymes
+707724006||slightly elevated transaminases||elevated transaminase values
+707724006||slightly elevated transaminases||elevated transaminases
+707724006||slightly elevated transaminases||hypertransaminemia
+707724006||elevated liver enzymes||elevated transaminase values
+707724006||elevated liver enzymes||elevated transaminases
+707724006||elevated liver enzymes||hypertransaminemia
+707724006||elevated transaminase values||elevated transaminases
+707724006||elevated transaminase values||hypertransaminemia
+707724006||elevated transaminases||hypertransaminemia
+70819003||reddish skin||redness
+70819003||reddish skin||yellowish skin
+70819003||reddish skin||reddish-brown skin
+70819003||reddish skin||greenish skin
+70819003||reddish skin||pinkish skin
+70819003||reddish skin||purplish skin
+70819003||redness||yellowish skin
+70819003||redness||reddish-brown skin
+70819003||redness||greenish skin
+70819003||redness||pinkish skin
+70819003||redness||purplish skin
+70819003||yellowish skin||reddish-brown skin
+70819003||yellowish skin||greenish skin
+70819003||yellowish skin||pinkish skin
+70819003||yellowish skin||purplish skin
+70819003||reddish-brown skin||greenish skin
+70819003||reddish-brown skin||pinkish skin
+70819003||reddish-brown skin||purplish skin
+70819003||greenish skin||pinkish skin
+70819003||greenish skin||purplish skin
+70819003||pinkish skin||purplish skin
+111512005||posterior synechiae||posterior synechia
+168289002||corneal cultures were negative||negative corneal cultures for bacteria, fungi, viruses and parasites
+267096005||bifrontoparietal headache||frontoparietal headache
+164734008||fundus examination was normal||fundus without significant alterations in both eyes
+301855007||negative nodes||lymph nodes
+440299000||retrocardiac extrinsic mass||retroesophageal mass
+60280003||adequate intraocular pressure||intraocular pressure values were normal
+39575007||choluria||dark urine
+300357002||enlarged pancreas||hypodense peripancreatic halo
+33688009||cholestasis enzymes||cholestasis
+246975001||painless mucocutaneous jaundice||muco-cutaneous jaundice
+274765004||negative rectal examination||rectal examination was unremarkable
+49650001||dysuria||irritative urinary symptoms
+167221003||urine sediment was normal||no alterations in the sediment
+167221003||urine sediment was normal||normal sediment
+167221003||no alterations in the sediment||normal sediment
+285384003||deterioration of general condition||progressive deterioration of general condition
+301151001||distal pulses were preserved||distal pulses present
+301151001||distal pulses were preserved||proximal pulses were preserved
+301151001||distal pulses were preserved||proximal pulses present
+301151001||distal pulses present||proximal pulses were preserved
+301151001||distal pulses present||proximal pulses present
+301151001||proximal pulses were preserved||proximal pulses present
+91175000||seizure||seizures
+91175000||seizure||convulsive episode
+91175000||seizure||convulsive episodes
+91175000||seizures||convulsive episode
+91175000||seizures||convulsive episodes
+91175000||convulsive episode||convulsive episodes
+268926000||bronchial lavage was negative||bronchoalveolar lavage (negative
+9957009||transurethral purulent discharge||purulent discharge through the urethral meatus
+301367001||abdominal pain predominantly in the right hypochondrium||dull pain in the right hypochondrium
+301367001||abdominal pain predominantly in the right hypochondrium||abdominal pain in the right hypochondrium
+301367001||dull pain in the right hypochondrium||abdominal pain in the right hypochondrium
+409609008||bilateral alveolar-interstitial infiltrate||basal alveolar infiltrate
+369757002||solid mass with haemorrhagic areas||solid mass
+40709005||lumbar pain||low back pain
+11934000||total ptosis||ptosis
+11934000||total ptosis||eyelid ptosis
+11934000||ptosis||eyelid ptosis
+309306009||negative microbiological samples||auramine staining for mycobacteria was negative
+300287006||oesophageal mass||vegetating and ulcerated oesophageal tumour
+330007||occipital headache||severe headache in the occipital region
+249250005||hypochromic, hypothermic glans penis||respected the glans
+423341008||papillary oedema||optic disc oedema
+423341008||papillary oedema||papilledema
+423341008||optic disc oedema||papilledema
+11833005||dry cough||irritative cough
+66857006||slight haemoptotic expectoration||haemoptotic expectoration
+89474008||extension study was normal||disease-free extension study
+89474008||extension study was normal||negative extension study
+89474008||disease-free extension study||negative extension study
+64730000||cardiac auscultation was rhythmic||normal sinus rhythm
+89458003||stupor||stuporous
+431468008||collapse of the third ventricle||ventricular collapse
+431468008||collapse of the third ventricle||collapse of the third ventricles
+431468008||collapse of the third ventricle||collapse of the second ventricle
+431468008||collapse of the third ventricle||collapse of the fourth ventricle
+431468008||ventricular collapse||collapse of the third ventricles
+431468008||ventricular collapse||collapse of the second ventricle
+431468008||ventricular collapse||collapse of the fourth ventricle
+431468008||collapse of the third ventricles||collapse of the second ventricle
+431468008||collapse of the third ventricles||collapse of the fourth ventricle
+431468008||collapse of the second ventricle||collapse of the fourth ventricle
+249274008||mild micturition symptomatology||voiding symptoms
+67307004||abnormal abdominal collateral circulation||collateral circulation
+165141001||normal oesophagus, gastric cavity mucosa and duodenal bulb||gastroscopy was normal
+246924004||total corneal closure||transparent cornea
+155876003||non-functioning right kidney||renal annulment
+301354004||otodynia||otalgia
+169254007||renal ultrasound showed no abnormalities||renal ultrasound was normal
+235957008||peri-pancreatic collection||collection
+418638008||peripheral corneal infiltrate in crescents||upper peripheral corneal infiltrate in a crescent
+15930381000119104||oedema of both optic discs||bilateral papilledema
+30098003||severe hyperemia||hyperemia
+398637008||applied retina||normal macular thickness
+246874003||conjunctival keratinisation||conjunctival hyperkeratinisation
+118434000||gastric cavity without haematic debris||decrease in the volume of the gastric chamber
+300260007||duct was permeable||drainage of the left parotid gland is normal

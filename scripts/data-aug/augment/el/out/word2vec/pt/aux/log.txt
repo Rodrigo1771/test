@@ -1,0 +1,20 @@
+Language: pt
+Distance Threshold: 0.75
+Original data size: 20.6 kB
+Augmented data size: 694.4 kB
+
+Language: pt
+Distance Threshold: 0.8
+Original data size: 20.6 kB
+Augmented data size: 327.0 kB
+
+Language: pt
+Distance Threshold: 0.85
+Original data size: 20.6 kB
+Augmented data size: 112.6 kB
+
+Language: pt
+Distance Threshold: 0.9
+Original data size: 20.6 kB
+Augmented data size: 22.8 kB
+

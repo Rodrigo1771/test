@@ -1,0 +1,100 @@
+69559004: massa retroperitoneal de cerca de 8 cm, com ecogenicidade heterogénea e vascularização marcada -> massa retroperitoneal de cerca de 9 cm, com ecogenicidade heterogénea e vascularização marcada
+69559004: massa retroperitoneal de cerca de 8 cm, com ecogenicidade heterogénea e vascularização marcada -> massa retroperitoneal de cerca de 7 cm, com ecogenicidade heterogénea e vascularização marcada
+69559004: massa retroperitoneal de cerca de 8 cm, com ecogenicidade heterogénea e vascularização marcada -> massa retroperitoneal de cerca de 6 cm, com ecogenicidade heterogénea e vascularização marcada
+69559004: massa retroperitoneal de cerca de 8 cm, com ecogenicidade heterogénea e vascularização marcada -> massa retroperitoneal de cerca de 5 cm, com ecogenicidade heterogénea e vascularização marcada
+69559004: massa retroperitoneal de cerca de 8 cm, com ecogenicidade heterogénea e vascularização marcada -> massa retroperitoneal de cerca de 4 cm, com ecogenicidade heterogénea e vascularização marcada
+69559004: massa retroperitoneal de cerca de 8 cm, com ecogenicidade heterogénea e vascularização marcada -> massa retroperitoneal de aproximadamente de 8 cm, com ecogenicidade heterogénea e vascularização marcada
+69559004: massa sólida de 12 cm atrás do rim -> massa sólida de 11 cm atrás do rim
+69559004: massa sólida de 12 cm atrás do rim -> massa sólida de 13 cm atrás do rim
+69559004: massa sólida de 12 cm atrás do rim -> massa sólida de 14 cm atrás do rim
+69559004: massa sólida de 12 cm atrás do rim -> massa sólida de 16 cm atrás do rim
+69559004: massa sólida de 12 cm atrás do rim -> massa sólida de 15 cm atrás do rim
+62315008: diarreia -> diarréia
+62315008: diarreia febril -> diarréia febril
+49233005: sensação de dispneia -> sensação de dispnéia
+49233005: dispneia -> dispnéia
+49233005: dispneia de intensidade progressiva -> dispnéia de intensidade progressiva
+197941005: hematúria macroscópica -> Hematúria macroscópica
+197941005: hematúria franca -> Hematúria franca
+399406009: marcadores tumorais negativos -> marcadores tumorais positivos
+399406009: marcadores testiculares negativos -> marcadores testiculares positivos
+170728008: diminuição da acuidade visual -> redução da acuidade visual
+74474003: hemorragia gastrointestinal maciça -> hemorragia gastrintestinal maciça
+74474003: hemorragia gastrointestinal -> hemorragia gastrintestinal
+83128009: oligúria -> Oligúria
+422773005: alterações hemodinâmicas -> modificações hemodinâmicas
+80515008: hepatomegalia dolorosa -> Hepatomegalia dolorosa
+52985009: líquido ascítico com características quilosas -> liquido ascítico com características quilosas
+389026000: líquido ascítico -> liquido ascítico
+5291005: hipocalcemia -> Hipocalcemia
+5291005: hipocalcemia grave -> Hipocalcemia grave
+301936006: o pólo anterior era normal em ambos os olhos -> o polo anterior era normal em ambos os olhos
+24982008: diplopia -> Diplopia
+24982008: diplopia horizontal -> diplopia vertical
+24982008: diplopia horizontal -> Diplopia horizontal
+24982008: diplopia binocular horizontal -> diplopia binocular vertical
+24982008: diplopia binocular horizontal -> Diplopia binocular horizontal
+63049000: formação óssea longitudinal adequada -> formação óssea longitudinal apropriada
+309088003: massa sólida no pólo superior do rim -> massa sólida no pólo inferior do rim
+271823003: taquipneia -> taquipnéia
+271823003: taquipneia -> Taquipneia
+271823003: taquipneia persistente -> taquipnéia persistente
+271823003: taquipneia persistente -> Taquipneia persistente
+271823003: aumento da frequência respiratória -> aumento da freqüência respiratória
+89362005: perda de peso de 15 kg -> perda de peso de 15 Kg
+89362005: perda de peso de 15 kg -> perda de peso de 20 kg
+89362005: perda de peso de 15 kg -> perda de peso de 14 kg
+89362005: perda de peso de 15 kg -> perda de peso de 16 kg
+89362005: perda de peso de 15 kg -> perda de peso de 12 kg
+89362005: perda de peso de 15 kg -> perda de peso de 13 kg
+89362005: perda de cerca de 15 kg de peso -> perda de cerca de 15 Kg de peso
+89362005: perda de peso de 7 kg -> perda de peso de 7 Kg
+89362005: perda de peso de 5 kg -> perda de peso de 6 kg
+89362005: perda de peso de 5 kg -> perda de peso de 4 kg
+89362005: perda de peso de 5 kg -> perda de peso de 3 kg
+89362005: perda de peso de 5 kg -> perda de peso de 8 kg
+53298000: hematúria -> Hematúria
+53298000: hematúria anémica total -> Hematúria anémica total
+90708001: retenção no pólo superior esquerdo -> retenção no pólo inferior esquerdo
+90708001: retenção no pólo superior esquerdo -> retenção no polo superior esquerdo
+443371007: diminuição do nível de consciência -> redução do nível de consciência
+34095006: sinais de esgotamento hidrossalino -> sinais de esgotamento hidrossalina
+445088006: edema do maxilar superior -> edema do maxilar inferior
+14310000: rinorreia esverdeada -> rinorréia esverdeada
+14310000: rinorreia purulenta -> rinorréia purulenta
+445249002: imagens nodulares no lobo superior -> imagens nodulares no lobo inferior
+22994000: hiporreflexia generalizada -> arreflexia generalizada
+22994000: hiporreflexia -> arreflexia
+106150003: envolvimento do nervo alveolar inferior -> envolvimento do nervo alveolar superior
+11092001: taquicárdico -> taquicárdica
+45007003: hipotenso -> hipotensa
+45007003: hipotenso -> hipotensivo
+45007003: hipotenso -> hipotensos
+708118007: cultura negativa -> cultura positiva
+74285003: massa pélvica à direita da bexiga -> massa pélvica à esquerda da bexiga
+707724006: transaminases ligeiramente elevadas -> Transaminases ligeiramente elevadas
+707724006: transaminases ligeiramente elevadas -> transaminase ligeiramente elevadas
+707724006: aumento progressivo das transaminases -> aumento progressivo das Transaminases
+707724006: aumento progressivo das transaminases -> aumento progressivo das transaminase
+707724006: aumento das transaminases -> aumento das Transaminases
+707724006: aumento das transaminases -> aumento das transaminase
+707724006: transaminases elevadas -> Transaminases elevadas
+707724006: transaminases elevadas -> transaminase elevadas
+32566006: dismetria nos quatro membros -> dismetria nos três membros
+32566006: dismetria nos quatro membros -> dismetria nos cinco membros
+32566006: dismetria nos quatro membros -> dismetria nos seis membros
+32566006: dismetria nos quatro membros -> dismetria nos oito membros
+32566006: dismetria nos quatro membros -> dismetria nos sete membros
+301855007: nós negativos -> nós positivos
+102568007: diminuição da força em ambos os membros inferiores -> diminuição da força em ambos os membros superiores
+301367001: dor abdominal predominantemente no hipocôndrio direito -> dor abdominal predominantemente no Hipocôndrio direito
+301367001: dor abdominal no hipocôndrio direito -> dor abdominal no Hipocôndrio direito
+301367001: dor no hipocôndrio direito -> dor no Hipocôndrio direito
+79922009: dor epigástrica -> dor epigástrico
+64379006: diminuição da ingestão -> redução da ingestão
+15930381000119104: edema de ambos os discos ópticos -> edema de ambos os discos óticos
+68600005: hemoglobinúria -> Hemoglobinúria
+68600005: hemoglobinúria macroscópica -> Hemoglobinúria macroscópica
+282050000: plastrão localizado no jejuno -> plastrão situado no jejuno
+300260007: a drenagem da glândula parótida esquerda é normal -> a drenagem da glândula parótida direita é normal
+300260007: a drenagem da glândula parótida esquerda é normal -> a drenagem da glândula parótidas esquerda é normal

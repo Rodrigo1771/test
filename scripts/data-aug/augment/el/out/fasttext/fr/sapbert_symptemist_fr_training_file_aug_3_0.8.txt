@@ -1,0 +1,1976 @@
+81141003||le rein droit était fonctionnellement normal||fonction rénale bilatérale normale
+81141003||le rein droit était fonctionnellement normal||une fonction rénale normale
+81141003||le rein droit était fonctionnellement normal||fonction rénale stable
+81141003||le rein droit était fonctionnellement normal||bonne fonction rénale bilatérale
+81141003||le rein droit était fonctionnellement normal||une bonne fonction rénale
+81141003||le rein droit était fonctionnellement normal||la fonction rénale est restée normale
+81141003||le rein droit était fonctionnellement normal||fonction rénale préservée
+81141003||le rein droit était fonctionnellement normal||une excellente fonction rénale
+81141003||le rein droit était fonctionnellement normal||une mauvaise fonction rénale
+81141003||fonction rénale bilatérale normale||une fonction rénale normale
+81141003||fonction rénale bilatérale normale||fonction rénale stable
+81141003||fonction rénale bilatérale normale||bonne fonction rénale bilatérale
+81141003||fonction rénale bilatérale normale||une bonne fonction rénale
+81141003||fonction rénale bilatérale normale||la fonction rénale est restée normale
+81141003||fonction rénale bilatérale normale||fonction rénale préservée
+81141003||fonction rénale bilatérale normale||une excellente fonction rénale
+81141003||fonction rénale bilatérale normale||une mauvaise fonction rénale
+81141003||une fonction rénale normale||fonction rénale stable
+81141003||une fonction rénale normale||bonne fonction rénale bilatérale
+81141003||une fonction rénale normale||une bonne fonction rénale
+81141003||une fonction rénale normale||la fonction rénale est restée normale
+81141003||une fonction rénale normale||fonction rénale préservée
+81141003||une fonction rénale normale||une excellente fonction rénale
+81141003||une fonction rénale normale||une mauvaise fonction rénale
+81141003||fonction rénale stable||bonne fonction rénale bilatérale
+81141003||fonction rénale stable||une bonne fonction rénale
+81141003||fonction rénale stable||la fonction rénale est restée normale
+81141003||fonction rénale stable||fonction rénale préservée
+81141003||fonction rénale stable||une excellente fonction rénale
+81141003||fonction rénale stable||une mauvaise fonction rénale
+81141003||bonne fonction rénale bilatérale||une bonne fonction rénale
+81141003||bonne fonction rénale bilatérale||la fonction rénale est restée normale
+81141003||bonne fonction rénale bilatérale||fonction rénale préservée
+81141003||bonne fonction rénale bilatérale||une excellente fonction rénale
+81141003||bonne fonction rénale bilatérale||une mauvaise fonction rénale
+81141003||une bonne fonction rénale||la fonction rénale est restée normale
+81141003||une bonne fonction rénale||fonction rénale préservée
+81141003||une bonne fonction rénale||une excellente fonction rénale
+81141003||une bonne fonction rénale||une mauvaise fonction rénale
+81141003||la fonction rénale est restée normale||fonction rénale préservée
+81141003||la fonction rénale est restée normale||une excellente fonction rénale
+81141003||la fonction rénale est restée normale||une mauvaise fonction rénale
+81141003||fonction rénale préservée||une excellente fonction rénale
+81141003||fonction rénale préservée||une mauvaise fonction rénale
+81141003||une excellente fonction rénale||une mauvaise fonction rénale
+87548005||dyspepsie flatulente||dyspepsie
+87548005||dyspepsie flatulente||dyspepsies flatulente
+87548005||dyspepsie flatulente||dyspepsies
+87548005||dyspepsie||dyspepsies flatulente
+87548005||dyspepsie||dyspepsies
+87548005||dyspepsies flatulente||dyspepsies
+84454003||masses abdominales||masse déformant l'hémiabdomen antérieur droit
+300848003||tumeur asymptomatique||masse
+300848003||tumeur asymptomatique||la masse était indolore
+300848003||tumeur asymptomatique||masse hypoéchogène
+300848003||tumeur asymptomatique||masses
+300848003||tumeur asymptomatique||tumeur endophytique
+300848003||tumeur asymptomatique||masse homogène
+300848003||tumeur asymptomatique||tumeurs
+300848003||tumeur asymptomatique||masse échogène
+300848003||tumeur asymptomatique||masse hyperéchogène
+300848003||tumeur asymptomatique||masse anéchogène
+300848003||tumeur asymptomatique||masse hyperéchogènes
+300848003||masse||la masse était indolore
+300848003||masse||masse hypoéchogène
+300848003||masse||masses
+300848003||masse||tumeur endophytique
+300848003||masse||masse homogène
+300848003||masse||tumeurs
+300848003||masse||masse échogène
+300848003||masse||masse hyperéchogène
+300848003||masse||masse anéchogène
+300848003||masse||masse hyperéchogènes
+300848003||la masse était indolore||masse hypoéchogène
+300848003||la masse était indolore||masses
+300848003||la masse était indolore||tumeur endophytique
+300848003||la masse était indolore||masse homogène
+300848003||la masse était indolore||tumeurs
+300848003||la masse était indolore||masse échogène
+300848003||la masse était indolore||masse hyperéchogène
+300848003||la masse était indolore||masse anéchogène
+300848003||la masse était indolore||masse hyperéchogènes
+300848003||masse hypoéchogène||masses
+300848003||masse hypoéchogène||tumeur endophytique
+300848003||masse hypoéchogène||masse homogène
+300848003||masse hypoéchogène||tumeurs
+300848003||masse hypoéchogène||masse échogène
+300848003||masse hypoéchogène||masse hyperéchogène
+300848003||masse hypoéchogène||masse anéchogène
+300848003||masse hypoéchogène||masse hyperéchogènes
+300848003||masses||tumeur endophytique
+300848003||masses||masse homogène
+300848003||masses||tumeurs
+300848003||masses||masse échogène
+300848003||masses||masse hyperéchogène
+300848003||masses||masse anéchogène
+300848003||masses||masse hyperéchogènes
+300848003||tumeur endophytique||masse homogène
+300848003||tumeur endophytique||tumeurs
+300848003||tumeur endophytique||masse échogène
+300848003||tumeur endophytique||masse hyperéchogène
+300848003||tumeur endophytique||masse anéchogène
+300848003||tumeur endophytique||masse hyperéchogènes
+300848003||masse homogène||tumeurs
+300848003||masse homogène||masse échogène
+300848003||masse homogène||masse hyperéchogène
+300848003||masse homogène||masse anéchogène
+300848003||masse homogène||masse hyperéchogènes
+300848003||tumeurs||masse échogène
+300848003||tumeurs||masse hyperéchogène
+300848003||tumeurs||masse anéchogène
+300848003||tumeurs||masse hyperéchogènes
+300848003||masse échogène||masse hyperéchogène
+300848003||masse échogène||masse anéchogène
+300848003||masse échogène||masse hyperéchogènes
+300848003||masse hyperéchogène||masse anéchogène
+300848003||masse hyperéchogène||masse hyperéchogènes
+300848003||masse anéchogène||masse hyperéchogènes
+300441003||reins de taille et d'échostructure normales||parenchyme rénal gauche préservé
+300441003||reins de taille et d'échostructure normales||différenciation cortico-médullaire adéquate
+300441003||reins de taille et d'échostructure normales||distorsion rénale
+300441003||reins de taille et d'échostructure normales||parenchyme rénal droite préservé
+300441003||reins de taille et d'échostructure normales||différenciation cortico-médullaire appropriée
+300441003||reins de taille et d'échostructure normales||différenciation intra-médullaire adéquate
+300441003||reins de taille et d'échostructure normales||différenciation ostéo-médullaire adéquate
+300441003||reins de taille et d'échostructure normales||distortion rénale
+300441003||parenchyme rénal gauche préservé||différenciation cortico-médullaire adéquate
+300441003||parenchyme rénal gauche préservé||distorsion rénale
+300441003||parenchyme rénal gauche préservé||parenchyme rénal droite préservé
+300441003||parenchyme rénal gauche préservé||différenciation cortico-médullaire appropriée
+300441003||parenchyme rénal gauche préservé||différenciation intra-médullaire adéquate
+300441003||parenchyme rénal gauche préservé||différenciation ostéo-médullaire adéquate
+300441003||parenchyme rénal gauche préservé||distortion rénale
+300441003||différenciation cortico-médullaire adéquate||distorsion rénale
+300441003||différenciation cortico-médullaire adéquate||parenchyme rénal droite préservé
+300441003||différenciation cortico-médullaire adéquate||différenciation cortico-médullaire appropriée
+300441003||différenciation cortico-médullaire adéquate||différenciation intra-médullaire adéquate
+300441003||différenciation cortico-médullaire adéquate||différenciation ostéo-médullaire adéquate
+300441003||différenciation cortico-médullaire adéquate||distortion rénale
+300441003||distorsion rénale||parenchyme rénal droite préservé
+300441003||distorsion rénale||différenciation cortico-médullaire appropriée
+300441003||distorsion rénale||différenciation intra-médullaire adéquate
+300441003||distorsion rénale||différenciation ostéo-médullaire adéquate
+300441003||distorsion rénale||distortion rénale
+300441003||parenchyme rénal droite préservé||différenciation cortico-médullaire appropriée
+300441003||parenchyme rénal droite préservé||différenciation intra-médullaire adéquate
+300441003||parenchyme rénal droite préservé||différenciation ostéo-médullaire adéquate
+300441003||parenchyme rénal droite préservé||distortion rénale
+300441003||différenciation cortico-médullaire appropriée||différenciation intra-médullaire adéquate
+300441003||différenciation cortico-médullaire appropriée||différenciation ostéo-médullaire adéquate
+300441003||différenciation cortico-médullaire appropriée||distortion rénale
+300441003||différenciation intra-médullaire adéquate||différenciation ostéo-médullaire adéquate
+300441003||différenciation intra-médullaire adéquate||distortion rénale
+300441003||différenciation ostéo-médullaire adéquate||distortion rénale
+69559004||masse bien circonscrite derrière le rein||masse rétropéritonéale d'environ 8 cm, avec une échogénicité hétérogène et une vascularisation marquée
+69559004||masse bien circonscrite derrière le rein||masse solide de 12 cm derrière le rein
+69559004||masse bien circonscrite derrière le rein||masse rétropéritonéale
+69559004||masse bien circonscrite derrière le rein||tumeur rétropéritonéale
+69559004||masse bien circonscrite derrière le rein||masses rétropéritonéales
+69559004||masse bien circonscrite derrière le rein||masse rétropéritonéale d'environ 9 cm, avec une échogénicité hétérogène et une vascularisation marquée
+69559004||masse bien circonscrite derrière le rein||masse rétropéritonéale d'environ 7 cm, avec une échogénicité hétérogène et une vascularisation marquée
+69559004||masse bien circonscrite derrière le rein||masse rétropéritonéale d'environ 6 cm, avec une échogénicité hétérogène et une vascularisation marquée
+69559004||masse bien circonscrite derrière le rein||masse rétropéritonéale d'environ 4 cm, avec une échogénicité hétérogène et une vascularisation marquée
+69559004||masse bien circonscrite derrière le rein||masse rétropéritonéale d'environ 5 cm, avec une échogénicité hétérogène et une vascularisation marquée
+69559004||masse bien circonscrite derrière le rein||masse solide de 13 cm derrière le rein
+69559004||masse bien circonscrite derrière le rein||masse solide de 16 cm derrière le rein
+69559004||masse bien circonscrite derrière le rein||masse solide de 11 cm derrière le rein
+69559004||masse bien circonscrite derrière le rein||masse solide de 14 cm derrière le rein
+69559004||masse bien circonscrite derrière le rein||masse solide de 18 cm derrière le rein
+69559004||masse bien circonscrite derrière le rein||masse rétropéritonéal
+69559004||masse bien circonscrite derrière le rein||masse intra-péritonéale
+69559004||masse bien circonscrite derrière le rein||tumeur rétropéritonéal
+69559004||masse bien circonscrite derrière le rein||tumeur intra-péritonéale
+69559004||masse rétropéritonéale d'environ 8 cm, avec une échogénicité hétérogène et une vascularisation marquée||masse solide de 12 cm derrière le rein
+69559004||masse rétropéritonéale d'environ 8 cm, avec une échogénicité hétérogène et une vascularisation marquée||masse rétropéritonéale
+69559004||masse rétropéritonéale d'environ 8 cm, avec une échogénicité hétérogène et une vascularisation marquée||tumeur rétropéritonéale
+69559004||masse rétropéritonéale d'environ 8 cm, avec une échogénicité hétérogène et une vascularisation marquée||masses rétropéritonéales
+69559004||masse rétropéritonéale d'environ 8 cm, avec une échogénicité hétérogène et une vascularisation marquée||masse rétropéritonéale d'environ 9 cm, avec une échogénicité hétérogène et une vascularisation marquée
+69559004||masse rétropéritonéale d'environ 8 cm, avec une échogénicité hétérogène et une vascularisation marquée||masse rétropéritonéale d'environ 7 cm, avec une échogénicité hétérogène et une vascularisation marquée
+69559004||masse rétropéritonéale d'environ 8 cm, avec une échogénicité hétérogène et une vascularisation marquée||masse rétropéritonéale d'environ 6 cm, avec une échogénicité hétérogène et une vascularisation marquée
+69559004||masse rétropéritonéale d'environ 8 cm, avec une échogénicité hétérogène et une vascularisation marquée||masse rétropéritonéale d'environ 4 cm, avec une échogénicité hétérogène et une vascularisation marquée
+69559004||masse rétropéritonéale d'environ 8 cm, avec une échogénicité hétérogène et une vascularisation marquée||masse rétropéritonéale d'environ 5 cm, avec une échogénicité hétérogène et une vascularisation marquée
+69559004||masse rétropéritonéale d'environ 8 cm, avec une échogénicité hétérogène et une vascularisation marquée||masse solide de 13 cm derrière le rein
+69559004||masse rétropéritonéale d'environ 8 cm, avec une échogénicité hétérogène et une vascularisation marquée||masse solide de 16 cm derrière le rein
+69559004||masse rétropéritonéale d'environ 8 cm, avec une échogénicité hétérogène et une vascularisation marquée||masse solide de 11 cm derrière le rein
+69559004||masse rétropéritonéale d'environ 8 cm, avec une échogénicité hétérogène et une vascularisation marquée||masse solide de 14 cm derrière le rein
+69559004||masse rétropéritonéale d'environ 8 cm, avec une échogénicité hétérogène et une vascularisation marquée||masse solide de 18 cm derrière le rein
+69559004||masse rétropéritonéale d'environ 8 cm, avec une échogénicité hétérogène et une vascularisation marquée||masse rétropéritonéal
+69559004||masse rétropéritonéale d'environ 8 cm, avec une échogénicité hétérogène et une vascularisation marquée||masse intra-péritonéale
+69559004||masse rétropéritonéale d'environ 8 cm, avec une échogénicité hétérogène et une vascularisation marquée||tumeur rétropéritonéal
+69559004||masse rétropéritonéale d'environ 8 cm, avec une échogénicité hétérogène et une vascularisation marquée||tumeur intra-péritonéale
+69559004||masse solide de 12 cm derrière le rein||masse rétropéritonéale
+69559004||masse solide de 12 cm derrière le rein||tumeur rétropéritonéale
+69559004||masse solide de 12 cm derrière le rein||masses rétropéritonéales
+69559004||masse solide de 12 cm derrière le rein||masse rétropéritonéale d'environ 9 cm, avec une échogénicité hétérogène et une vascularisation marquée
+69559004||masse solide de 12 cm derrière le rein||masse rétropéritonéale d'environ 7 cm, avec une échogénicité hétérogène et une vascularisation marquée
+69559004||masse solide de 12 cm derrière le rein||masse rétropéritonéale d'environ 6 cm, avec une échogénicité hétérogène et une vascularisation marquée
+69559004||masse solide de 12 cm derrière le rein||masse rétropéritonéale d'environ 4 cm, avec une échogénicité hétérogène et une vascularisation marquée
+69559004||masse solide de 12 cm derrière le rein||masse rétropéritonéale d'environ 5 cm, avec une échogénicité hétérogène et une vascularisation marquée
+69559004||masse solide de 12 cm derrière le rein||masse solide de 13 cm derrière le rein
+69559004||masse solide de 12 cm derrière le rein||masse solide de 16 cm derrière le rein
+69559004||masse solide de 12 cm derrière le rein||masse solide de 11 cm derrière le rein
+69559004||masse solide de 12 cm derrière le rein||masse solide de 14 cm derrière le rein
+69559004||masse solide de 12 cm derrière le rein||masse solide de 18 cm derrière le rein
+69559004||masse solide de 12 cm derrière le rein||masse rétropéritonéal
+69559004||masse solide de 12 cm derrière le rein||masse intra-péritonéale
+69559004||masse solide de 12 cm derrière le rein||tumeur rétropéritonéal
+69559004||masse solide de 12 cm derrière le rein||tumeur intra-péritonéale
+69559004||masse rétropéritonéale||tumeur rétropéritonéale
+69559004||masse rétropéritonéale||masses rétropéritonéales
+69559004||masse rétropéritonéale||masse rétropéritonéale d'environ 9 cm, avec une échogénicité hétérogène et une vascularisation marquée
+69559004||masse rétropéritonéale||masse rétropéritonéale d'environ 7 cm, avec une échogénicité hétérogène et une vascularisation marquée
+69559004||masse rétropéritonéale||masse rétropéritonéale d'environ 6 cm, avec une échogénicité hétérogène et une vascularisation marquée
+69559004||masse rétropéritonéale||masse rétropéritonéale d'environ 4 cm, avec une échogénicité hétérogène et une vascularisation marquée
+69559004||masse rétropéritonéale||masse rétropéritonéale d'environ 5 cm, avec une échogénicité hétérogène et une vascularisation marquée
+69559004||masse rétropéritonéale||masse solide de 13 cm derrière le rein
+69559004||masse rétropéritonéale||masse solide de 16 cm derrière le rein
+69559004||masse rétropéritonéale||masse solide de 11 cm derrière le rein
+69559004||masse rétropéritonéale||masse solide de 14 cm derrière le rein
+69559004||masse rétropéritonéale||masse solide de 18 cm derrière le rein
+69559004||masse rétropéritonéale||masse rétropéritonéal
+69559004||masse rétropéritonéale||masse intra-péritonéale
+69559004||masse rétropéritonéale||tumeur rétropéritonéal
+69559004||masse rétropéritonéale||tumeur intra-péritonéale
+69559004||tumeur rétropéritonéale||masses rétropéritonéales
+69559004||tumeur rétropéritonéale||masse rétropéritonéale d'environ 9 cm, avec une échogénicité hétérogène et une vascularisation marquée
+69559004||tumeur rétropéritonéale||masse rétropéritonéale d'environ 7 cm, avec une échogénicité hétérogène et une vascularisation marquée
+69559004||tumeur rétropéritonéale||masse rétropéritonéale d'environ 6 cm, avec une échogénicité hétérogène et une vascularisation marquée
+69559004||tumeur rétropéritonéale||masse rétropéritonéale d'environ 4 cm, avec une échogénicité hétérogène et une vascularisation marquée
+69559004||tumeur rétropéritonéale||masse rétropéritonéale d'environ 5 cm, avec une échogénicité hétérogène et une vascularisation marquée
+69559004||tumeur rétropéritonéale||masse solide de 13 cm derrière le rein
+69559004||tumeur rétropéritonéale||masse solide de 16 cm derrière le rein
+69559004||tumeur rétropéritonéale||masse solide de 11 cm derrière le rein
+69559004||tumeur rétropéritonéale||masse solide de 14 cm derrière le rein
+69559004||tumeur rétropéritonéale||masse solide de 18 cm derrière le rein
+69559004||tumeur rétropéritonéale||masse rétropéritonéal
+69559004||tumeur rétropéritonéale||masse intra-péritonéale
+69559004||tumeur rétropéritonéale||tumeur rétropéritonéal
+69559004||tumeur rétropéritonéale||tumeur intra-péritonéale
+69559004||masses rétropéritonéales||masse rétropéritonéale d'environ 9 cm, avec une échogénicité hétérogène et une vascularisation marquée
+69559004||masses rétropéritonéales||masse rétropéritonéale d'environ 7 cm, avec une échogénicité hétérogène et une vascularisation marquée
+69559004||masses rétropéritonéales||masse rétropéritonéale d'environ 6 cm, avec une échogénicité hétérogène et une vascularisation marquée
+69559004||masses rétropéritonéales||masse rétropéritonéale d'environ 4 cm, avec une échogénicité hétérogène et une vascularisation marquée
+69559004||masses rétropéritonéales||masse rétropéritonéale d'environ 5 cm, avec une échogénicité hétérogène et une vascularisation marquée
+69559004||masses rétropéritonéales||masse solide de 13 cm derrière le rein
+69559004||masses rétropéritonéales||masse solide de 16 cm derrière le rein
+69559004||masses rétropéritonéales||masse solide de 11 cm derrière le rein
+69559004||masses rétropéritonéales||masse solide de 14 cm derrière le rein
+69559004||masses rétropéritonéales||masse solide de 18 cm derrière le rein
+69559004||masses rétropéritonéales||masse rétropéritonéal
+69559004||masses rétropéritonéales||masse intra-péritonéale
+69559004||masses rétropéritonéales||tumeur rétropéritonéal
+69559004||masses rétropéritonéales||tumeur intra-péritonéale
+69559004||masse rétropéritonéale d'environ 9 cm, avec une échogénicité hétérogène et une vascularisation marquée||masse rétropéritonéale d'environ 7 cm, avec une échogénicité hétérogène et une vascularisation marquée
+69559004||masse rétropéritonéale d'environ 9 cm, avec une échogénicité hétérogène et une vascularisation marquée||masse rétropéritonéale d'environ 6 cm, avec une échogénicité hétérogène et une vascularisation marquée
+69559004||masse rétropéritonéale d'environ 9 cm, avec une échogénicité hétérogène et une vascularisation marquée||masse rétropéritonéale d'environ 4 cm, avec une échogénicité hétérogène et une vascularisation marquée
+69559004||masse rétropéritonéale d'environ 9 cm, avec une échogénicité hétérogène et une vascularisation marquée||masse rétropéritonéale d'environ 5 cm, avec une échogénicité hétérogène et une vascularisation marquée
+69559004||masse rétropéritonéale d'environ 9 cm, avec une échogénicité hétérogène et une vascularisation marquée||masse solide de 13 cm derrière le rein
+69559004||masse rétropéritonéale d'environ 9 cm, avec une échogénicité hétérogène et une vascularisation marquée||masse solide de 16 cm derrière le rein
+69559004||masse rétropéritonéale d'environ 9 cm, avec une échogénicité hétérogène et une vascularisation marquée||masse solide de 11 cm derrière le rein
+69559004||masse rétropéritonéale d'environ 9 cm, avec une échogénicité hétérogène et une vascularisation marquée||masse solide de 14 cm derrière le rein
+69559004||masse rétropéritonéale d'environ 9 cm, avec une échogénicité hétérogène et une vascularisation marquée||masse solide de 18 cm derrière le rein
+69559004||masse rétropéritonéale d'environ 9 cm, avec une échogénicité hétérogène et une vascularisation marquée||masse rétropéritonéal
+69559004||masse rétropéritonéale d'environ 9 cm, avec une échogénicité hétérogène et une vascularisation marquée||masse intra-péritonéale
+69559004||masse rétropéritonéale d'environ 9 cm, avec une échogénicité hétérogène et une vascularisation marquée||tumeur rétropéritonéal
+69559004||masse rétropéritonéale d'environ 9 cm, avec une échogénicité hétérogène et une vascularisation marquée||tumeur intra-péritonéale
+69559004||masse rétropéritonéale d'environ 7 cm, avec une échogénicité hétérogène et une vascularisation marquée||masse rétropéritonéale d'environ 6 cm, avec une échogénicité hétérogène et une vascularisation marquée
+69559004||masse rétropéritonéale d'environ 7 cm, avec une échogénicité hétérogène et une vascularisation marquée||masse rétropéritonéale d'environ 4 cm, avec une échogénicité hétérogène et une vascularisation marquée
+69559004||masse rétropéritonéale d'environ 7 cm, avec une échogénicité hétérogène et une vascularisation marquée||masse rétropéritonéale d'environ 5 cm, avec une échogénicité hétérogène et une vascularisation marquée
+69559004||masse rétropéritonéale d'environ 7 cm, avec une échogénicité hétérogène et une vascularisation marquée||masse solide de 13 cm derrière le rein
+69559004||masse rétropéritonéale d'environ 7 cm, avec une échogénicité hétérogène et une vascularisation marquée||masse solide de 16 cm derrière le rein
+69559004||masse rétropéritonéale d'environ 7 cm, avec une échogénicité hétérogène et une vascularisation marquée||masse solide de 11 cm derrière le rein
+69559004||masse rétropéritonéale d'environ 7 cm, avec une échogénicité hétérogène et une vascularisation marquée||masse solide de 14 cm derrière le rein
+69559004||masse rétropéritonéale d'environ 7 cm, avec une échogénicité hétérogène et une vascularisation marquée||masse solide de 18 cm derrière le rein
+69559004||masse rétropéritonéale d'environ 7 cm, avec une échogénicité hétérogène et une vascularisation marquée||masse rétropéritonéal
+69559004||masse rétropéritonéale d'environ 7 cm, avec une échogénicité hétérogène et une vascularisation marquée||masse intra-péritonéale
+69559004||masse rétropéritonéale d'environ 7 cm, avec une échogénicité hétérogène et une vascularisation marquée||tumeur rétropéritonéal
+69559004||masse rétropéritonéale d'environ 7 cm, avec une échogénicité hétérogène et une vascularisation marquée||tumeur intra-péritonéale
+69559004||masse rétropéritonéale d'environ 6 cm, avec une échogénicité hétérogène et une vascularisation marquée||masse rétropéritonéale d'environ 4 cm, avec une échogénicité hétérogène et une vascularisation marquée
+69559004||masse rétropéritonéale d'environ 6 cm, avec une échogénicité hétérogène et une vascularisation marquée||masse rétropéritonéale d'environ 5 cm, avec une échogénicité hétérogène et une vascularisation marquée
+69559004||masse rétropéritonéale d'environ 6 cm, avec une échogénicité hétérogène et une vascularisation marquée||masse solide de 13 cm derrière le rein
+69559004||masse rétropéritonéale d'environ 6 cm, avec une échogénicité hétérogène et une vascularisation marquée||masse solide de 16 cm derrière le rein
+69559004||masse rétropéritonéale d'environ 6 cm, avec une échogénicité hétérogène et une vascularisation marquée||masse solide de 11 cm derrière le rein
+69559004||masse rétropéritonéale d'environ 6 cm, avec une échogénicité hétérogène et une vascularisation marquée||masse solide de 14 cm derrière le rein
+69559004||masse rétropéritonéale d'environ 6 cm, avec une échogénicité hétérogène et une vascularisation marquée||masse solide de 18 cm derrière le rein
+69559004||masse rétropéritonéale d'environ 6 cm, avec une échogénicité hétérogène et une vascularisation marquée||masse rétropéritonéal
+69559004||masse rétropéritonéale d'environ 6 cm, avec une échogénicité hétérogène et une vascularisation marquée||masse intra-péritonéale
+69559004||masse rétropéritonéale d'environ 6 cm, avec une échogénicité hétérogène et une vascularisation marquée||tumeur rétropéritonéal
+69559004||masse rétropéritonéale d'environ 6 cm, avec une échogénicité hétérogène et une vascularisation marquée||tumeur intra-péritonéale
+69559004||masse rétropéritonéale d'environ 4 cm, avec une échogénicité hétérogène et une vascularisation marquée||masse rétropéritonéale d'environ 5 cm, avec une échogénicité hétérogène et une vascularisation marquée
+69559004||masse rétropéritonéale d'environ 4 cm, avec une échogénicité hétérogène et une vascularisation marquée||masse solide de 13 cm derrière le rein
+69559004||masse rétropéritonéale d'environ 4 cm, avec une échogénicité hétérogène et une vascularisation marquée||masse solide de 16 cm derrière le rein
+69559004||masse rétropéritonéale d'environ 4 cm, avec une échogénicité hétérogène et une vascularisation marquée||masse solide de 11 cm derrière le rein
+69559004||masse rétropéritonéale d'environ 4 cm, avec une échogénicité hétérogène et une vascularisation marquée||masse solide de 14 cm derrière le rein
+69559004||masse rétropéritonéale d'environ 4 cm, avec une échogénicité hétérogène et une vascularisation marquée||masse solide de 18 cm derrière le rein
+69559004||masse rétropéritonéale d'environ 4 cm, avec une échogénicité hétérogène et une vascularisation marquée||masse rétropéritonéal
+69559004||masse rétropéritonéale d'environ 4 cm, avec une échogénicité hétérogène et une vascularisation marquée||masse intra-péritonéale
+69559004||masse rétropéritonéale d'environ 4 cm, avec une échogénicité hétérogène et une vascularisation marquée||tumeur rétropéritonéal
+69559004||masse rétropéritonéale d'environ 4 cm, avec une échogénicité hétérogène et une vascularisation marquée||tumeur intra-péritonéale
+69559004||masse rétropéritonéale d'environ 5 cm, avec une échogénicité hétérogène et une vascularisation marquée||masse solide de 13 cm derrière le rein
+69559004||masse rétropéritonéale d'environ 5 cm, avec une échogénicité hétérogène et une vascularisation marquée||masse solide de 16 cm derrière le rein
+69559004||masse rétropéritonéale d'environ 5 cm, avec une échogénicité hétérogène et une vascularisation marquée||masse solide de 11 cm derrière le rein
+69559004||masse rétropéritonéale d'environ 5 cm, avec une échogénicité hétérogène et une vascularisation marquée||masse solide de 14 cm derrière le rein
+69559004||masse rétropéritonéale d'environ 5 cm, avec une échogénicité hétérogène et une vascularisation marquée||masse solide de 18 cm derrière le rein
+69559004||masse rétropéritonéale d'environ 5 cm, avec une échogénicité hétérogène et une vascularisation marquée||masse rétropéritonéal
+69559004||masse rétropéritonéale d'environ 5 cm, avec une échogénicité hétérogène et une vascularisation marquée||masse intra-péritonéale
+69559004||masse rétropéritonéale d'environ 5 cm, avec une échogénicité hétérogène et une vascularisation marquée||tumeur rétropéritonéal
+69559004||masse rétropéritonéale d'environ 5 cm, avec une échogénicité hétérogène et une vascularisation marquée||tumeur intra-péritonéale
+69559004||masse solide de 13 cm derrière le rein||masse solide de 16 cm derrière le rein
+69559004||masse solide de 13 cm derrière le rein||masse solide de 11 cm derrière le rein
+69559004||masse solide de 13 cm derrière le rein||masse solide de 14 cm derrière le rein
+69559004||masse solide de 13 cm derrière le rein||masse solide de 18 cm derrière le rein
+69559004||masse solide de 13 cm derrière le rein||masse rétropéritonéal
+69559004||masse solide de 13 cm derrière le rein||masse intra-péritonéale
+69559004||masse solide de 13 cm derrière le rein||tumeur rétropéritonéal
+69559004||masse solide de 13 cm derrière le rein||tumeur intra-péritonéale
+69559004||masse solide de 16 cm derrière le rein||masse solide de 11 cm derrière le rein
+69559004||masse solide de 16 cm derrière le rein||masse solide de 14 cm derrière le rein
+69559004||masse solide de 16 cm derrière le rein||masse solide de 18 cm derrière le rein
+69559004||masse solide de 16 cm derrière le rein||masse rétropéritonéal
+69559004||masse solide de 16 cm derrière le rein||masse intra-péritonéale
+69559004||masse solide de 16 cm derrière le rein||tumeur rétropéritonéal
+69559004||masse solide de 16 cm derrière le rein||tumeur intra-péritonéale
+69559004||masse solide de 11 cm derrière le rein||masse solide de 14 cm derrière le rein
+69559004||masse solide de 11 cm derrière le rein||masse solide de 18 cm derrière le rein
+69559004||masse solide de 11 cm derrière le rein||masse rétropéritonéal
+69559004||masse solide de 11 cm derrière le rein||masse intra-péritonéale
+69559004||masse solide de 11 cm derrière le rein||tumeur rétropéritonéal
+69559004||masse solide de 11 cm derrière le rein||tumeur intra-péritonéale
+69559004||masse solide de 14 cm derrière le rein||masse solide de 18 cm derrière le rein
+69559004||masse solide de 14 cm derrière le rein||masse rétropéritonéal
+69559004||masse solide de 14 cm derrière le rein||masse intra-péritonéale
+69559004||masse solide de 14 cm derrière le rein||tumeur rétropéritonéal
+69559004||masse solide de 14 cm derrière le rein||tumeur intra-péritonéale
+69559004||masse solide de 18 cm derrière le rein||masse rétropéritonéal
+69559004||masse solide de 18 cm derrière le rein||masse intra-péritonéale
+69559004||masse solide de 18 cm derrière le rein||tumeur rétropéritonéal
+69559004||masse solide de 18 cm derrière le rein||tumeur intra-péritonéale
+69559004||masse rétropéritonéal||masse intra-péritonéale
+69559004||masse rétropéritonéal||tumeur rétropéritonéal
+69559004||masse rétropéritonéal||tumeur intra-péritonéale
+69559004||masse intra-péritonéale||tumeur rétropéritonéal
+69559004||masse intra-péritonéale||tumeur intra-péritonéale
+69559004||tumeur rétropéritonéal||tumeur intra-péritonéale
+301459008||stabilité hémodynamique||hémodynamiquement stable
+301459008||stabilité hémodynamique||stabilité hémodynamiquement
+301459008||stabilité hémodynamique||hémodynamique stable
+301459008||hémodynamiquement stable||stabilité hémodynamiquement
+301459008||hémodynamiquement stable||hémodynamique stable
+301459008||stabilité hémodynamiquement||hémodynamique stable
+62315008||diarrhée fébrile||diarrhée
+25064002||maux de tête||maux de tête sévères
+64882008||forte fièvre||épisodes fébriles
+64882008||forte fièvre||fièvre occasionnelle
+64882008||forte fièvre||fébrile
+64882008||forte fièvre||syndrome fébrile
+64882008||forte fièvre||fièvre
+64882008||forte fièvre||pic de fièvre
+64882008||forte fièvre||syndrôme fébrile
+64882008||forte fièvre||Syndrome fébrile
+64882008||épisodes fébriles||fièvre occasionnelle
+64882008||épisodes fébriles||fébrile
+64882008||épisodes fébriles||syndrome fébrile
+64882008||épisodes fébriles||fièvre
+64882008||épisodes fébriles||pic de fièvre
+64882008||épisodes fébriles||syndrôme fébrile
+64882008||épisodes fébriles||Syndrome fébrile
+64882008||fièvre occasionnelle||fébrile
+64882008||fièvre occasionnelle||syndrome fébrile
+64882008||fièvre occasionnelle||fièvre
+64882008||fièvre occasionnelle||pic de fièvre
+64882008||fièvre occasionnelle||syndrôme fébrile
+64882008||fièvre occasionnelle||Syndrome fébrile
+64882008||fébrile||syndrome fébrile
+64882008||fébrile||fièvre
+64882008||fébrile||pic de fièvre
+64882008||fébrile||syndrôme fébrile
+64882008||fébrile||Syndrome fébrile
+64882008||syndrome fébrile||fièvre
+64882008||syndrome fébrile||pic de fièvre
+64882008||syndrome fébrile||syndrôme fébrile
+64882008||syndrome fébrile||Syndrome fébrile
+64882008||fièvre||pic de fièvre
+64882008||fièvre||syndrôme fébrile
+64882008||fièvre||Syndrome fébrile
+64882008||pic de fièvre||syndrôme fébrile
+64882008||pic de fièvre||Syndrome fébrile
+64882008||syndrôme fébrile||Syndrome fébrile
+52613005||en sueur||diaphorèse
+52613005||en sueur||transpiration
+52613005||diaphorèse||transpiration
+271653008||ingurgitation jugulaire||veines jugulaires ingurgitées
+271653008||ingurgitation jugulaire||veines jugulaires ingurgitée
+271653008||veines jugulaires ingurgitées||veines jugulaires ingurgitée
+49233005||détresse respiratoire||dyspnée
+49233005||détresse respiratoire||sensation de dyspnée
+49233005||détresse respiratoire||dyspnée d'intensité progressive
+49233005||détresse respiratoire||Dyspnée
+49233005||détresse respiratoire||sensation de Dyspnée
+49233005||détresse respiratoire||dyspnée d'intensité graduelle
+49233005||détresse respiratoire||Dyspnée d'intensité progressive
+49233005||dyspnée||sensation de dyspnée
+49233005||dyspnée||dyspnée d'intensité progressive
+49233005||dyspnée||Dyspnée
+49233005||dyspnée||sensation de Dyspnée
+49233005||dyspnée||dyspnée d'intensité graduelle
+49233005||dyspnée||Dyspnée d'intensité progressive
+49233005||sensation de dyspnée||dyspnée d'intensité progressive
+49233005||sensation de dyspnée||Dyspnée
+49233005||sensation de dyspnée||sensation de Dyspnée
+49233005||sensation de dyspnée||dyspnée d'intensité graduelle
+49233005||sensation de dyspnée||Dyspnée d'intensité progressive
+49233005||dyspnée d'intensité progressive||Dyspnée
+49233005||dyspnée d'intensité progressive||sensation de Dyspnée
+49233005||dyspnée d'intensité progressive||dyspnée d'intensité graduelle
+49233005||dyspnée d'intensité progressive||Dyspnée d'intensité progressive
+49233005||Dyspnée||sensation de Dyspnée
+49233005||Dyspnée||dyspnée d'intensité graduelle
+49233005||Dyspnée||Dyspnée d'intensité progressive
+49233005||sensation de Dyspnée||dyspnée d'intensité graduelle
+49233005||sensation de Dyspnée||Dyspnée d'intensité progressive
+49233005||dyspnée d'intensité graduelle||Dyspnée d'intensité progressive
+249543005||abdomen mou, dépressible, non douloureux||abdomen mou
+249543005||abdomen mou, dépressible, non douloureux||l'abdomen est mou, dépressible
+249543005||abdomen mou, dépressible, non douloureux||l'abdomen était mou et dépressible
+249543005||abdomen mou, dépressible, non douloureux||abdomen mou et dépressible
+249543005||abdomen mou, dépressible, non douloureux||l'abdomen était mou, dépressible
+249543005||abdomen mou||l'abdomen est mou, dépressible
+249543005||abdomen mou||l'abdomen était mou et dépressible
+249543005||abdomen mou||abdomen mou et dépressible
+249543005||abdomen mou||l'abdomen était mou, dépressible
+249543005||l'abdomen est mou, dépressible||l'abdomen était mou et dépressible
+249543005||l'abdomen est mou, dépressible||abdomen mou et dépressible
+249543005||l'abdomen est mou, dépressible||l'abdomen était mou, dépressible
+249543005||l'abdomen était mou et dépressible||abdomen mou et dépressible
+249543005||l'abdomen était mou et dépressible||l'abdomen était mou, dépressible
+249543005||abdomen mou et dépressible||l'abdomen était mou, dépressible
+166315009||la biochimie, les ions et les transaminases étaient normaux||biochimie normale
+166315009||la biochimie, les ions et les transaminases étaient normaux||la biochimie, les ions et les transaminases semblaient normaux
+166315009||la biochimie, les ions et les transaminases étaient normaux||la biochimie, les ions et les transaminases devaient normaux
+166315009||la biochimie, les ions et les transaminases étaient normaux||la biochimie, les ions et les transaminases étaients normaux
+166315009||la biochimie, les ions et les transaminases étaient normaux||la biochimie, les ions et les transaminases furent normaux
+166315009||la biochimie, les ions et les transaminases étaient normaux||la biochimie, les ions et les transaminases restaient normaux
+166315009||biochimie normale||la biochimie, les ions et les transaminases semblaient normaux
+166315009||biochimie normale||la biochimie, les ions et les transaminases devaient normaux
+166315009||biochimie normale||la biochimie, les ions et les transaminases étaients normaux
+166315009||biochimie normale||la biochimie, les ions et les transaminases furent normaux
+166315009||biochimie normale||la biochimie, les ions et les transaminases restaient normaux
+166315009||la biochimie, les ions et les transaminases semblaient normaux||la biochimie, les ions et les transaminases devaient normaux
+166315009||la biochimie, les ions et les transaminases semblaient normaux||la biochimie, les ions et les transaminases étaients normaux
+166315009||la biochimie, les ions et les transaminases semblaient normaux||la biochimie, les ions et les transaminases furent normaux
+166315009||la biochimie, les ions et les transaminases semblaient normaux||la biochimie, les ions et les transaminases restaient normaux
+166315009||la biochimie, les ions et les transaminases devaient normaux||la biochimie, les ions et les transaminases étaients normaux
+166315009||la biochimie, les ions et les transaminases devaient normaux||la biochimie, les ions et les transaminases furent normaux
+166315009||la biochimie, les ions et les transaminases devaient normaux||la biochimie, les ions et les transaminases restaient normaux
+166315009||la biochimie, les ions et les transaminases étaients normaux||la biochimie, les ions et les transaminases furent normaux
+166315009||la biochimie, les ions et les transaminases étaients normaux||la biochimie, les ions et les transaminases restaient normaux
+166315009||la biochimie, les ions et les transaminases furent normaux||la biochimie, les ions et les transaminases restaient normaux
+284520004||crépitants bilatéraux diffus||crépitants pulmonaires basaux bilatéraux
+75823008||exsudat||sécrétion
+257552002||signes inflammatoires||phlogose
+27925004||nodules hypoéchogènes||nodules
+27925004||nodules hypoéchogènes||nodule hyperéchogène
+27925004||nodules hypoéchogènes||nodule
+27925004||nodules hypoéchogènes||nodules irréguliers
+27925004||nodules hypoéchogènes||nodule sous-capsulaire
+27925004||nodules hypoéchogènes||formation nodulaire
+27925004||nodules hypoéchogènes||nodule hyperéchogènes
+27925004||nodules hypoéchogènes||nodule échogène
+27925004||nodules hypoéchogènes||nodule hypoéchogène
+27925004||nodules hypoéchogènes||nodule anéchogène
+27925004||nodules||nodule hyperéchogène
+27925004||nodules||nodule
+27925004||nodules||nodules irréguliers
+27925004||nodules||nodule sous-capsulaire
+27925004||nodules||formation nodulaire
+27925004||nodules||nodule hyperéchogènes
+27925004||nodules||nodule échogène
+27925004||nodules||nodule hypoéchogène
+27925004||nodules||nodule anéchogène
+27925004||nodule hyperéchogène||nodule
+27925004||nodule hyperéchogène||nodules irréguliers
+27925004||nodule hyperéchogène||nodule sous-capsulaire
+27925004||nodule hyperéchogène||formation nodulaire
+27925004||nodule hyperéchogène||nodule hyperéchogènes
+27925004||nodule hyperéchogène||nodule échogène
+27925004||nodule hyperéchogène||nodule hypoéchogène
+27925004||nodule hyperéchogène||nodule anéchogène
+27925004||nodule||nodules irréguliers
+27925004||nodule||nodule sous-capsulaire
+27925004||nodule||formation nodulaire
+27925004||nodule||nodule hyperéchogènes
+27925004||nodule||nodule échogène
+27925004||nodule||nodule hypoéchogène
+27925004||nodule||nodule anéchogène
+27925004||nodules irréguliers||nodule sous-capsulaire
+27925004||nodules irréguliers||formation nodulaire
+27925004||nodules irréguliers||nodule hyperéchogènes
+27925004||nodules irréguliers||nodule échogène
+27925004||nodules irréguliers||nodule hypoéchogène
+27925004||nodules irréguliers||nodule anéchogène
+27925004||nodule sous-capsulaire||formation nodulaire
+27925004||nodule sous-capsulaire||nodule hyperéchogènes
+27925004||nodule sous-capsulaire||nodule échogène
+27925004||nodule sous-capsulaire||nodule hypoéchogène
+27925004||nodule sous-capsulaire||nodule anéchogène
+27925004||formation nodulaire||nodule hyperéchogènes
+27925004||formation nodulaire||nodule échogène
+27925004||formation nodulaire||nodule hypoéchogène
+27925004||formation nodulaire||nodule anéchogène
+27925004||nodule hyperéchogènes||nodule échogène
+27925004||nodule hyperéchogènes||nodule hypoéchogène
+27925004||nodule hyperéchogènes||nodule anéchogène
+27925004||nodule échogène||nodule hypoéchogène
+27925004||nodule échogène||nodule anéchogène
+27925004||nodule hypoéchogène||nodule anéchogène
+197941005||hématurie franche||hématurie macroscopique
+87860000||nodule hypoéchogène dans le testicule||pôle supérieur du teste gauche, évoquant une masse solide
+87860000||nodule hypoéchogène dans le testicule||masse non douloureuse dans le testicule droit
+87860000||nodule hypoéchogène dans le testicule||masse testiculaire
+87860000||nodule hypoéchogène dans le testicule||tumeur testiculaire bilatérale
+87860000||nodule hypoéchogène dans le testicule||les testicules sont engloutis par la fibrose et la masse tumorale
+87860000||nodule hypoéchogène dans le testicule||nodule échogène dans le testicule
+87860000||nodule hypoéchogène dans le testicule||nodule hyperéchogène dans le testicule
+87860000||nodule hypoéchogène dans le testicule||nodule anéchogène dans le testicule
+87860000||nodule hypoéchogène dans le testicule||nodule hyperéchogènes dans le testicule
+87860000||nodule hypoéchogène dans le testicule||les testicules seront engloutis par la fibrose et la masse tumorale
+87860000||nodule hypoéchogène dans le testicule||les testicules semblent engloutis par la fibrose et la masse tumorale
+87860000||pôle supérieur du teste gauche, évoquant une masse solide||masse non douloureuse dans le testicule droit
+87860000||pôle supérieur du teste gauche, évoquant une masse solide||masse testiculaire
+87860000||pôle supérieur du teste gauche, évoquant une masse solide||tumeur testiculaire bilatérale
+87860000||pôle supérieur du teste gauche, évoquant une masse solide||les testicules sont engloutis par la fibrose et la masse tumorale
+87860000||pôle supérieur du teste gauche, évoquant une masse solide||nodule échogène dans le testicule
+87860000||pôle supérieur du teste gauche, évoquant une masse solide||nodule hyperéchogène dans le testicule
+87860000||pôle supérieur du teste gauche, évoquant une masse solide||nodule anéchogène dans le testicule
+87860000||pôle supérieur du teste gauche, évoquant une masse solide||nodule hyperéchogènes dans le testicule
+87860000||pôle supérieur du teste gauche, évoquant une masse solide||les testicules seront engloutis par la fibrose et la masse tumorale
+87860000||pôle supérieur du teste gauche, évoquant une masse solide||les testicules semblent engloutis par la fibrose et la masse tumorale
+87860000||masse non douloureuse dans le testicule droit||masse testiculaire
+87860000||masse non douloureuse dans le testicule droit||tumeur testiculaire bilatérale
+87860000||masse non douloureuse dans le testicule droit||les testicules sont engloutis par la fibrose et la masse tumorale
+87860000||masse non douloureuse dans le testicule droit||nodule échogène dans le testicule
+87860000||masse non douloureuse dans le testicule droit||nodule hyperéchogène dans le testicule
+87860000||masse non douloureuse dans le testicule droit||nodule anéchogène dans le testicule
+87860000||masse non douloureuse dans le testicule droit||nodule hyperéchogènes dans le testicule
+87860000||masse non douloureuse dans le testicule droit||les testicules seront engloutis par la fibrose et la masse tumorale
+87860000||masse non douloureuse dans le testicule droit||les testicules semblent engloutis par la fibrose et la masse tumorale
+87860000||masse testiculaire||tumeur testiculaire bilatérale
+87860000||masse testiculaire||les testicules sont engloutis par la fibrose et la masse tumorale
+87860000||masse testiculaire||nodule échogène dans le testicule
+87860000||masse testiculaire||nodule hyperéchogène dans le testicule
+87860000||masse testiculaire||nodule anéchogène dans le testicule
+87860000||masse testiculaire||nodule hyperéchogènes dans le testicule
+87860000||masse testiculaire||les testicules seront engloutis par la fibrose et la masse tumorale
+87860000||masse testiculaire||les testicules semblent engloutis par la fibrose et la masse tumorale
+87860000||tumeur testiculaire bilatérale||les testicules sont engloutis par la fibrose et la masse tumorale
+87860000||tumeur testiculaire bilatérale||nodule échogène dans le testicule
+87860000||tumeur testiculaire bilatérale||nodule hyperéchogène dans le testicule
+87860000||tumeur testiculaire bilatérale||nodule anéchogène dans le testicule
+87860000||tumeur testiculaire bilatérale||nodule hyperéchogènes dans le testicule
+87860000||tumeur testiculaire bilatérale||les testicules seront engloutis par la fibrose et la masse tumorale
+87860000||tumeur testiculaire bilatérale||les testicules semblent engloutis par la fibrose et la masse tumorale
+87860000||les testicules sont engloutis par la fibrose et la masse tumorale||nodule échogène dans le testicule
+87860000||les testicules sont engloutis par la fibrose et la masse tumorale||nodule hyperéchogène dans le testicule
+87860000||les testicules sont engloutis par la fibrose et la masse tumorale||nodule anéchogène dans le testicule
+87860000||les testicules sont engloutis par la fibrose et la masse tumorale||nodule hyperéchogènes dans le testicule
+87860000||les testicules sont engloutis par la fibrose et la masse tumorale||les testicules seront engloutis par la fibrose et la masse tumorale
+87860000||les testicules sont engloutis par la fibrose et la masse tumorale||les testicules semblent engloutis par la fibrose et la masse tumorale
+87860000||nodule échogène dans le testicule||nodule hyperéchogène dans le testicule
+87860000||nodule échogène dans le testicule||nodule anéchogène dans le testicule
+87860000||nodule échogène dans le testicule||nodule hyperéchogènes dans le testicule
+87860000||nodule échogène dans le testicule||les testicules seront engloutis par la fibrose et la masse tumorale
+87860000||nodule échogène dans le testicule||les testicules semblent engloutis par la fibrose et la masse tumorale
+87860000||nodule hyperéchogène dans le testicule||nodule anéchogène dans le testicule
+87860000||nodule hyperéchogène dans le testicule||nodule hyperéchogènes dans le testicule
+87860000||nodule hyperéchogène dans le testicule||les testicules seront engloutis par la fibrose et la masse tumorale
+87860000||nodule hyperéchogène dans le testicule||les testicules semblent engloutis par la fibrose et la masse tumorale
+87860000||nodule anéchogène dans le testicule||nodule hyperéchogènes dans le testicule
+87860000||nodule anéchogène dans le testicule||les testicules seront engloutis par la fibrose et la masse tumorale
+87860000||nodule anéchogène dans le testicule||les testicules semblent engloutis par la fibrose et la masse tumorale
+87860000||nodule hyperéchogènes dans le testicule||les testicules seront engloutis par la fibrose et la masse tumorale
+87860000||nodule hyperéchogènes dans le testicule||les testicules semblent engloutis par la fibrose et la masse tumorale
+87860000||les testicules seront engloutis par la fibrose et la masse tumorale||les testicules semblent engloutis par la fibrose et la masse tumorale
+300493001||testicules normaux||le testicule droit était de taille et de consistance normales
+399406009||marqueurs tumoraux négatifs||marqueurs testiculaires négatifs
+399406009||marqueurs tumoraux négatifs||les marqueurs tumoraux étaient négatifs
+399406009||marqueurs tumoraux négatifs||les marqueurs tumoraux sériques étaient à des niveaux normaux
+399406009||marqueurs tumoraux négatifs||marqueurs tumoraux positifs
+399406009||marqueurs tumoraux négatifs||marqueurs testiculaires positifs
+399406009||marqueurs tumoraux négatifs||les marqueurs tumoraux semblaient négatifs
+399406009||marqueurs tumoraux négatifs||les marqueurs tumoraux devaient négatifs
+399406009||marqueurs tumoraux négatifs||les marqueurs tumoraux étaients négatifs
+399406009||marqueurs tumoraux négatifs||les marqueurs tumoraux furent négatifs
+399406009||marqueurs tumoraux négatifs||les marqueurs tumoraux restaient négatifs
+399406009||marqueurs testiculaires négatifs||les marqueurs tumoraux étaient négatifs
+399406009||marqueurs testiculaires négatifs||les marqueurs tumoraux sériques étaient à des niveaux normaux
+399406009||marqueurs testiculaires négatifs||marqueurs tumoraux positifs
+399406009||marqueurs testiculaires négatifs||marqueurs testiculaires positifs
+399406009||marqueurs testiculaires négatifs||les marqueurs tumoraux semblaient négatifs
+399406009||marqueurs testiculaires négatifs||les marqueurs tumoraux devaient négatifs
+399406009||marqueurs testiculaires négatifs||les marqueurs tumoraux étaients négatifs
+399406009||marqueurs testiculaires négatifs||les marqueurs tumoraux furent négatifs
+399406009||marqueurs testiculaires négatifs||les marqueurs tumoraux restaient négatifs
+399406009||les marqueurs tumoraux étaient négatifs||les marqueurs tumoraux sériques étaient à des niveaux normaux
+399406009||les marqueurs tumoraux étaient négatifs||marqueurs tumoraux positifs
+399406009||les marqueurs tumoraux étaient négatifs||marqueurs testiculaires positifs
+399406009||les marqueurs tumoraux étaient négatifs||les marqueurs tumoraux semblaient négatifs
+399406009||les marqueurs tumoraux étaient négatifs||les marqueurs tumoraux devaient négatifs
+399406009||les marqueurs tumoraux étaient négatifs||les marqueurs tumoraux étaients négatifs
+399406009||les marqueurs tumoraux étaient négatifs||les marqueurs tumoraux furent négatifs
+399406009||les marqueurs tumoraux étaient négatifs||les marqueurs tumoraux restaient négatifs
+399406009||les marqueurs tumoraux sériques étaient à des niveaux normaux||marqueurs tumoraux positifs
+399406009||les marqueurs tumoraux sériques étaient à des niveaux normaux||marqueurs testiculaires positifs
+399406009||les marqueurs tumoraux sériques étaient à des niveaux normaux||les marqueurs tumoraux semblaient négatifs
+399406009||les marqueurs tumoraux sériques étaient à des niveaux normaux||les marqueurs tumoraux devaient négatifs
+399406009||les marqueurs tumoraux sériques étaient à des niveaux normaux||les marqueurs tumoraux étaients négatifs
+399406009||les marqueurs tumoraux sériques étaient à des niveaux normaux||les marqueurs tumoraux furent négatifs
+399406009||les marqueurs tumoraux sériques étaient à des niveaux normaux||les marqueurs tumoraux restaient négatifs
+399406009||marqueurs tumoraux positifs||marqueurs testiculaires positifs
+399406009||marqueurs tumoraux positifs||les marqueurs tumoraux semblaient négatifs
+399406009||marqueurs tumoraux positifs||les marqueurs tumoraux devaient négatifs
+399406009||marqueurs tumoraux positifs||les marqueurs tumoraux étaients négatifs
+399406009||marqueurs tumoraux positifs||les marqueurs tumoraux furent négatifs
+399406009||marqueurs tumoraux positifs||les marqueurs tumoraux restaient négatifs
+399406009||marqueurs testiculaires positifs||les marqueurs tumoraux semblaient négatifs
+399406009||marqueurs testiculaires positifs||les marqueurs tumoraux devaient négatifs
+399406009||marqueurs testiculaires positifs||les marqueurs tumoraux étaients négatifs
+399406009||marqueurs testiculaires positifs||les marqueurs tumoraux furent négatifs
+399406009||marqueurs testiculaires positifs||les marqueurs tumoraux restaient négatifs
+399406009||les marqueurs tumoraux semblaient négatifs||les marqueurs tumoraux devaient négatifs
+399406009||les marqueurs tumoraux semblaient négatifs||les marqueurs tumoraux étaients négatifs
+399406009||les marqueurs tumoraux semblaient négatifs||les marqueurs tumoraux furent négatifs
+399406009||les marqueurs tumoraux semblaient négatifs||les marqueurs tumoraux restaient négatifs
+399406009||les marqueurs tumoraux devaient négatifs||les marqueurs tumoraux étaients négatifs
+399406009||les marqueurs tumoraux devaient négatifs||les marqueurs tumoraux furent négatifs
+399406009||les marqueurs tumoraux devaient négatifs||les marqueurs tumoraux restaient négatifs
+399406009||les marqueurs tumoraux étaients négatifs||les marqueurs tumoraux furent négatifs
+399406009||les marqueurs tumoraux étaients négatifs||les marqueurs tumoraux restaient négatifs
+399406009||les marqueurs tumoraux furent négatifs||les marqueurs tumoraux restaient négatifs
+408573005||la scintigraphie thyroïdienne était normale||études radiologiques normales
+76849009||hyperémie conjonctivale mixte||hyperémie conjonctivale
+76849009||hyperémie conjonctivale mixte||injection conjonctivale
+76849009||hyperémie conjonctivale||injection conjonctivale
+79890006||anorexie||anorexie modérée
+79890006||anorexie||perte d'appétit
+79890006||anorexie||hyporexie
+79890006||anorexie modérée||perte d'appétit
+79890006||anorexie modérée||hyporexie
+79890006||perte d'appétit||hyporexie
+7358000||syndrome mictionnel||syndrome mictionnel irritatif
+7358000||syndrome mictionnel||syndrôme mictionnel
+7358000||syndrome mictionnel||Syndrome mictionnel
+7358000||syndrome mictionnel||syndrôme mictionnel irritatif
+7358000||syndrome mictionnel||Syndrome mictionnel irritatif
+7358000||syndrome mictionnel irritatif||syndrôme mictionnel
+7358000||syndrome mictionnel irritatif||Syndrome mictionnel
+7358000||syndrome mictionnel irritatif||syndrôme mictionnel irritatif
+7358000||syndrome mictionnel irritatif||Syndrome mictionnel irritatif
+7358000||syndrôme mictionnel||Syndrome mictionnel
+7358000||syndrôme mictionnel||syndrôme mictionnel irritatif
+7358000||syndrôme mictionnel||Syndrome mictionnel irritatif
+7358000||Syndrome mictionnel||syndrôme mictionnel irritatif
+7358000||Syndrome mictionnel||Syndrome mictionnel irritatif
+7358000||syndrôme mictionnel irritatif||Syndrome mictionnel irritatif
+110279003||sans maladie||intervalle sans maladie
+399122003||dysphagie progressive||dysphagie
+399122003||dysphagie progressive||dysphagie graduelle
+399122003||dysphagie||dysphagie graduelle
+8644006||sensation de plénitude||lourdeur postprandiale
+8644006||sensation de plénitude||lourdeur post-prandiale
+8644006||sensation de plénitude||lourdeur postprandial
+8644006||lourdeur postprandiale||lourdeur post-prandiale
+8644006||lourdeur postprandiale||lourdeur postprandial
+8644006||lourdeur post-prandiale||lourdeur postprandial
+267045008||symptômes gastro-intestinaux||manifestations gastro-intestinales
+267045008||symptômes gastro-intestinaux||symptomes gastro-intestinaux
+267045008||symptômes gastro-intestinaux||manifestions gastro-intestinales
+267045008||manifestations gastro-intestinales||symptomes gastro-intestinaux
+267045008||manifestations gastro-intestinales||manifestions gastro-intestinales
+267045008||symptomes gastro-intestinaux||manifestions gastro-intestinales
+419099009||succès||mort
+419099009||succès||la mort
+419099009||succès||exitus
+419099009||succès||décédé
+419099009||mort||la mort
+419099009||mort||exitus
+419099009||mort||décédé
+419099009||la mort||exitus
+419099009||la mort||décédé
+419099009||exitus||décédé
+74474003||hémorragie gastro-intestinale massive||hémorragie gastro-intestinale
+131148009||sang||hémorragie
+22253000||douleur||douloureux
+72970002||l'examen clinique et les signes vitaux étaient normaux||les signes vitaux étaient normaux
+72970002||l'examen clinique et les signes vitaux étaient normaux||l'examen clinique et les signes vitaux semblaient normaux
+72970002||l'examen clinique et les signes vitaux étaient normaux||l'examen clinique et les signes vitaux devaient normaux
+72970002||l'examen clinique et les signes vitaux étaient normaux||l'examen clinique et les signes vitaux étaients normaux
+72970002||l'examen clinique et les signes vitaux étaient normaux||l'examen clinique et les signes vitaux furent normaux
+72970002||l'examen clinique et les signes vitaux étaient normaux||l'examen clinique et les signes vitaux restaient normaux
+72970002||l'examen clinique et les signes vitaux étaient normaux||les signes vitaux semblaient normaux
+72970002||l'examen clinique et les signes vitaux étaient normaux||les signes vitaux devaient normaux
+72970002||l'examen clinique et les signes vitaux étaient normaux||les signes vitaux étaients normaux
+72970002||l'examen clinique et les signes vitaux étaient normaux||les signes vitaux furent normaux
+72970002||l'examen clinique et les signes vitaux étaient normaux||les signes vitaux restaient normaux
+72970002||les signes vitaux étaient normaux||l'examen clinique et les signes vitaux semblaient normaux
+72970002||les signes vitaux étaient normaux||l'examen clinique et les signes vitaux devaient normaux
+72970002||les signes vitaux étaient normaux||l'examen clinique et les signes vitaux étaients normaux
+72970002||les signes vitaux étaient normaux||l'examen clinique et les signes vitaux furent normaux
+72970002||les signes vitaux étaient normaux||l'examen clinique et les signes vitaux restaient normaux
+72970002||les signes vitaux étaient normaux||les signes vitaux semblaient normaux
+72970002||les signes vitaux étaient normaux||les signes vitaux devaient normaux
+72970002||les signes vitaux étaient normaux||les signes vitaux étaients normaux
+72970002||les signes vitaux étaient normaux||les signes vitaux furent normaux
+72970002||les signes vitaux étaient normaux||les signes vitaux restaient normaux
+72970002||l'examen clinique et les signes vitaux semblaient normaux||l'examen clinique et les signes vitaux devaient normaux
+72970002||l'examen clinique et les signes vitaux semblaient normaux||l'examen clinique et les signes vitaux étaients normaux
+72970002||l'examen clinique et les signes vitaux semblaient normaux||l'examen clinique et les signes vitaux furent normaux
+72970002||l'examen clinique et les signes vitaux semblaient normaux||l'examen clinique et les signes vitaux restaient normaux
+72970002||l'examen clinique et les signes vitaux semblaient normaux||les signes vitaux semblaient normaux
+72970002||l'examen clinique et les signes vitaux semblaient normaux||les signes vitaux devaient normaux
+72970002||l'examen clinique et les signes vitaux semblaient normaux||les signes vitaux étaients normaux
+72970002||l'examen clinique et les signes vitaux semblaient normaux||les signes vitaux furent normaux
+72970002||l'examen clinique et les signes vitaux semblaient normaux||les signes vitaux restaient normaux
+72970002||l'examen clinique et les signes vitaux devaient normaux||l'examen clinique et les signes vitaux étaients normaux
+72970002||l'examen clinique et les signes vitaux devaient normaux||l'examen clinique et les signes vitaux furent normaux
+72970002||l'examen clinique et les signes vitaux devaient normaux||l'examen clinique et les signes vitaux restaient normaux
+72970002||l'examen clinique et les signes vitaux devaient normaux||les signes vitaux semblaient normaux
+72970002||l'examen clinique et les signes vitaux devaient normaux||les signes vitaux devaient normaux
+72970002||l'examen clinique et les signes vitaux devaient normaux||les signes vitaux étaients normaux
+72970002||l'examen clinique et les signes vitaux devaient normaux||les signes vitaux furent normaux
+72970002||l'examen clinique et les signes vitaux devaient normaux||les signes vitaux restaient normaux
+72970002||l'examen clinique et les signes vitaux étaients normaux||l'examen clinique et les signes vitaux furent normaux
+72970002||l'examen clinique et les signes vitaux étaients normaux||l'examen clinique et les signes vitaux restaient normaux
+72970002||l'examen clinique et les signes vitaux étaients normaux||les signes vitaux semblaient normaux
+72970002||l'examen clinique et les signes vitaux étaients normaux||les signes vitaux devaient normaux
+72970002||l'examen clinique et les signes vitaux étaients normaux||les signes vitaux étaients normaux
+72970002||l'examen clinique et les signes vitaux étaients normaux||les signes vitaux furent normaux
+72970002||l'examen clinique et les signes vitaux étaients normaux||les signes vitaux restaient normaux
+72970002||l'examen clinique et les signes vitaux furent normaux||l'examen clinique et les signes vitaux restaient normaux
+72970002||l'examen clinique et les signes vitaux furent normaux||les signes vitaux semblaient normaux
+72970002||l'examen clinique et les signes vitaux furent normaux||les signes vitaux devaient normaux
+72970002||l'examen clinique et les signes vitaux furent normaux||les signes vitaux étaients normaux
+72970002||l'examen clinique et les signes vitaux furent normaux||les signes vitaux furent normaux
+72970002||l'examen clinique et les signes vitaux furent normaux||les signes vitaux restaient normaux
+72970002||l'examen clinique et les signes vitaux restaient normaux||les signes vitaux semblaient normaux
+72970002||l'examen clinique et les signes vitaux restaient normaux||les signes vitaux devaient normaux
+72970002||l'examen clinique et les signes vitaux restaient normaux||les signes vitaux étaients normaux
+72970002||l'examen clinique et les signes vitaux restaient normaux||les signes vitaux furent normaux
+72970002||l'examen clinique et les signes vitaux restaient normaux||les signes vitaux restaient normaux
+72970002||les signes vitaux semblaient normaux||les signes vitaux devaient normaux
+72970002||les signes vitaux semblaient normaux||les signes vitaux étaients normaux
+72970002||les signes vitaux semblaient normaux||les signes vitaux furent normaux
+72970002||les signes vitaux semblaient normaux||les signes vitaux restaient normaux
+72970002||les signes vitaux devaient normaux||les signes vitaux étaients normaux
+72970002||les signes vitaux devaient normaux||les signes vitaux furent normaux
+72970002||les signes vitaux devaient normaux||les signes vitaux restaient normaux
+72970002||les signes vitaux étaients normaux||les signes vitaux furent normaux
+72970002||les signes vitaux étaients normaux||les signes vitaux restaient normaux
+72970002||les signes vitaux furent normaux||les signes vitaux restaient normaux
+13791008||asthénie modérée||asthénie
+13791008||asthénie modérée||faiblesse généralisée
+13791008||asthénie||faiblesse généralisée
+83128009||oligurie||oligoanurie
+37125009||mydriase réactive||mydriatique
+37125009||mydriase réactive||mydriase
+37125009||mydriase réactive||pupilles légèrement mydriatiques
+37125009||mydriase réactive||mydriatiques
+37125009||mydriase réactive||pupilles légérement mydriatiques
+37125009||mydriase réactive||pupilles légèrement mydriatique
+37125009||mydriatique||mydriase
+37125009||mydriatique||pupilles légèrement mydriatiques
+37125009||mydriatique||mydriatiques
+37125009||mydriatique||pupilles légérement mydriatiques
+37125009||mydriatique||pupilles légèrement mydriatique
+37125009||mydriase||pupilles légèrement mydriatiques
+37125009||mydriase||mydriatiques
+37125009||mydriase||pupilles légérement mydriatiques
+37125009||mydriase||pupilles légèrement mydriatique
+37125009||pupilles légèrement mydriatiques||mydriatiques
+37125009||pupilles légèrement mydriatiques||pupilles légérement mydriatiques
+37125009||pupilles légèrement mydriatiques||pupilles légèrement mydriatique
+37125009||mydriatiques||pupilles légérement mydriatiques
+37125009||mydriatiques||pupilles légèrement mydriatique
+37125009||pupilles légérement mydriatiques||pupilles légèrement mydriatique
+300474003||diurèse spontanée||diurèse maintenue
+300474003||diurèse spontanée||diurèse préservée
+300474003||diurèse maintenue||diurèse préservée
+275723000||détérioration clinique||aggravation de l'état général
+275723000||détérioration clinique||dégradation clinique
+275723000||aggravation de l'état général||dégradation clinique
+414478003||légère augmentation du nombre de leucocytes||leucocytose
+414478003||légère augmentation du nombre de leucocytes||légère diminution du nombre de leucocytes
+414478003||leucocytose||légère diminution du nombre de leucocytes
+314983004||aggravation de la fonction rénale||détérioration progressive de la fonction rénale
+314983004||aggravation de la fonction rénale||dégradation progressive de la fonction rénale
+314983004||détérioration progressive de la fonction rénale||dégradation progressive de la fonction rénale
+440027000||infiltrat cornéen||inclusion cornéenne
+27194006||œdème cornéen||œdème cornéen modéré
+27194006||œdème cornéen||oedème cornéen
+27194006||œdème cornéen||oedème cornéen modéré
+27194006||œdème cornéen modéré||oedème cornéen
+27194006||œdème cornéen modéré||oedème cornéen modéré
+27194006||oedème cornéen||oedème cornéen modéré
+274643008||pâleur||pâleur de la peau
+389026000||liquide ascitique||ascite
+93457003||liquide péritonéal||liquide libre dans la cavité péritonéale
+93457003||liquide péritonéal||liquide rétropéritonéal
+93457003||liquide libre dans la cavité péritonéale||liquide rétropéritonéal
+119247004||hypoalbuminémie sévère||hypoalbuminémie
+119247004||hypoalbuminémie sévère||albuminémie sévère
+119247004||hypoalbuminémie sévère||albuminémie
+119247004||hypoalbuminémie||albuminémie sévère
+119247004||hypoalbuminémie||albuminémie
+119247004||albuminémie sévère||albuminémie
+5291005||hypocalcémie sévère||hypocalcémie
+5291005||hypocalcémie sévère||Hypocalcémie sévère
+5291005||hypocalcémie sévère||Hypocalcémie
+5291005||hypocalcémie||Hypocalcémie sévère
+5291005||hypocalcémie||Hypocalcémie
+5291005||Hypocalcémie sévère||Hypocalcémie
+386789004||éosinophilie||éosinophilie périphérique
+386789004||éosinophilie||hyperéosinophilie
+386789004||éosinophilie||éosinophile
+386789004||éosinophilie||hyperéosinophilie périphérique
+386789004||éosinophilie||éosinophile périphérique
+386789004||éosinophilie périphérique||hyperéosinophilie
+386789004||éosinophilie périphérique||éosinophile
+386789004||éosinophilie périphérique||hyperéosinophilie périphérique
+386789004||éosinophilie périphérique||éosinophile périphérique
+386789004||hyperéosinophilie||éosinophile
+386789004||hyperéosinophilie||hyperéosinophilie périphérique
+386789004||hyperéosinophilie||éosinophile périphérique
+386789004||éosinophile||hyperéosinophilie périphérique
+386789004||éosinophile||éosinophile périphérique
+386789004||hyperéosinophilie périphérique||éosinophile périphérique
+278683009||une bonne occlusion dentaire||occlusion stable et reproductible
+278683009||une bonne occlusion dentaire||une excellente occlusion dentaire
+278683009||une bonne occlusion dentaire||une mauvaise occlusion dentaire
+278683009||occlusion stable et reproductible||une excellente occlusion dentaire
+278683009||occlusion stable et reproductible||une mauvaise occlusion dentaire
+278683009||une excellente occlusion dentaire||une mauvaise occlusion dentaire
+91019004||paresthésie||paresthésies
+91019004||paresthésie||Paresthésies
+91019004||paresthésies||Paresthésies
+301936006||le pôle antérieur était normal dans les deux yeux||bonne profondeur de la chambre antérieure
+301936006||le pôle antérieur était normal dans les deux yeux||excellente profondeur de la chambre antérieure
+301936006||le pôle antérieur était normal dans les deux yeux||mauvaise profondeur de la chambre antérieure
+301936006||bonne profondeur de la chambre antérieure||excellente profondeur de la chambre antérieure
+301936006||bonne profondeur de la chambre antérieure||mauvaise profondeur de la chambre antérieure
+301936006||excellente profondeur de la chambre antérieure||mauvaise profondeur de la chambre antérieure
+225581002||mauvaise vision||baisse de la vision
+225581002||mauvaise vision||bonne vision
+225581002||mauvaise vision||hausse de la vision
+225581002||baisse de la vision||bonne vision
+225581002||baisse de la vision||hausse de la vision
+225581002||bonne vision||hausse de la vision
+103251002||la motilité oculaire extrinsèque et intrinsèque était normale||motilité oculaire extrinsèque et intrinsèque
+103251002||la motilité oculaire extrinsèque et intrinsèque était normale||la motilité extrinsèque et intrinsèque était normale
+103251002||motilité oculaire extrinsèque et intrinsèque||la motilité extrinsèque et intrinsèque était normale
+24982008||diplopie binoculaire horizontale||diplopie horizontale
+24982008||diplopie binoculaire horizontale||diplopie
+24982008||diplopie binoculaire horizontale||diplopie binoculaire verticale
+24982008||diplopie binoculaire horizontale||diplopie verticale
+24982008||diplopie horizontale||diplopie
+24982008||diplopie horizontale||diplopie binoculaire verticale
+24982008||diplopie horizontale||diplopie verticale
+24982008||diplopie||diplopie binoculaire verticale
+24982008||diplopie||diplopie verticale
+24982008||diplopie binoculaire verticale||diplopie verticale
+1003721002||arthralgies dans les deux genoux||douleur au genou
+1003721002||arthralgies dans les deux genoux||arthralgies dans les trois genoux
+1003721002||arthralgies dans les deux genoux||arthralgies dans les quatre genoux
+1003721002||arthralgies dans les deux genoux||arthralgies dans les cinq genoux
+1003721002||arthralgies dans les deux genoux||arthralgies dans les six genoux
+1003721002||douleur au genou||arthralgies dans les trois genoux
+1003721002||douleur au genou||arthralgies dans les quatre genoux
+1003721002||douleur au genou||arthralgies dans les cinq genoux
+1003721002||douleur au genou||arthralgies dans les six genoux
+1003721002||arthralgies dans les trois genoux||arthralgies dans les quatre genoux
+1003721002||arthralgies dans les trois genoux||arthralgies dans les cinq genoux
+1003721002||arthralgies dans les trois genoux||arthralgies dans les six genoux
+1003721002||arthralgies dans les quatre genoux||arthralgies dans les cinq genoux
+1003721002||arthralgies dans les quatre genoux||arthralgies dans les six genoux
+1003721002||arthralgies dans les cinq genoux||arthralgies dans les six genoux
+300855001||masse intestinale||tumeur intraluminale
+23149001||crépitation du cortex vestibulaire||sensation de crépitation au niveau infra-orbitaire
+23149001||crépitation du cortex vestibulaire||crépitations du cortex vestibulaire
+23149001||crépitation du cortex vestibulaire||sensation de crépitations au niveau infra-orbitaire
+23149001||sensation de crépitation au niveau infra-orbitaire||crépitations du cortex vestibulaire
+23149001||sensation de crépitation au niveau infra-orbitaire||sensation de crépitations au niveau infra-orbitaire
+23149001||crépitations du cortex vestibulaire||sensation de crépitations au niveau infra-orbitaire
+309088003||nodules solides dans les deux reins||masse rénale
+309088003||nodules solides dans les deux reins||masse de 5 cm de diamètre dans le rein gauche
+309088003||nodules solides dans les deux reins||masses rénales
+309088003||nodules solides dans les deux reins||masse solide dans le pôle supérieur du rein
+309088003||nodules solides dans les deux reins||nodules solides dans les trois reins
+309088003||nodules solides dans les deux reins||nodules solides dans les quatre reins
+309088003||nodules solides dans les deux reins||nodules solides dans les cinq reins
+309088003||nodules solides dans les deux reins||nodules solides dans les six reins
+309088003||nodules solides dans les deux reins||masse de 6 cm de diamètre dans le rein gauche
+309088003||nodules solides dans les deux reins||masse de 4 cm de diamètre dans le rein gauche
+309088003||nodules solides dans les deux reins||masse de 3 cm de diamètre dans le rein gauche
+309088003||nodules solides dans les deux reins||masse de 7 cm de diamètre dans le rein gauche
+309088003||nodules solides dans les deux reins||masse de 8 cm de diamètre dans le rein gauche
+309088003||nodules solides dans les deux reins||masse solide dans le pôle inférieur du rein
+309088003||masse rénale||masse de 5 cm de diamètre dans le rein gauche
+309088003||masse rénale||masses rénales
+309088003||masse rénale||masse solide dans le pôle supérieur du rein
+309088003||masse rénale||nodules solides dans les trois reins
+309088003||masse rénale||nodules solides dans les quatre reins
+309088003||masse rénale||nodules solides dans les cinq reins
+309088003||masse rénale||nodules solides dans les six reins
+309088003||masse rénale||masse de 6 cm de diamètre dans le rein gauche
+309088003||masse rénale||masse de 4 cm de diamètre dans le rein gauche
+309088003||masse rénale||masse de 3 cm de diamètre dans le rein gauche
+309088003||masse rénale||masse de 7 cm de diamètre dans le rein gauche
+309088003||masse rénale||masse de 8 cm de diamètre dans le rein gauche
+309088003||masse rénale||masse solide dans le pôle inférieur du rein
+309088003||masse de 5 cm de diamètre dans le rein gauche||masses rénales
+309088003||masse de 5 cm de diamètre dans le rein gauche||masse solide dans le pôle supérieur du rein
+309088003||masse de 5 cm de diamètre dans le rein gauche||nodules solides dans les trois reins
+309088003||masse de 5 cm de diamètre dans le rein gauche||nodules solides dans les quatre reins
+309088003||masse de 5 cm de diamètre dans le rein gauche||nodules solides dans les cinq reins
+309088003||masse de 5 cm de diamètre dans le rein gauche||nodules solides dans les six reins
+309088003||masse de 5 cm de diamètre dans le rein gauche||masse de 6 cm de diamètre dans le rein gauche
+309088003||masse de 5 cm de diamètre dans le rein gauche||masse de 4 cm de diamètre dans le rein gauche
+309088003||masse de 5 cm de diamètre dans le rein gauche||masse de 3 cm de diamètre dans le rein gauche
+309088003||masse de 5 cm de diamètre dans le rein gauche||masse de 7 cm de diamètre dans le rein gauche
+309088003||masse de 5 cm de diamètre dans le rein gauche||masse de 8 cm de diamètre dans le rein gauche
+309088003||masse de 5 cm de diamètre dans le rein gauche||masse solide dans le pôle inférieur du rein
+309088003||masses rénales||masse solide dans le pôle supérieur du rein
+309088003||masses rénales||nodules solides dans les trois reins
+309088003||masses rénales||nodules solides dans les quatre reins
+309088003||masses rénales||nodules solides dans les cinq reins
+309088003||masses rénales||nodules solides dans les six reins
+309088003||masses rénales||masse de 6 cm de diamètre dans le rein gauche
+309088003||masses rénales||masse de 4 cm de diamètre dans le rein gauche
+309088003||masses rénales||masse de 3 cm de diamètre dans le rein gauche
+309088003||masses rénales||masse de 7 cm de diamètre dans le rein gauche
+309088003||masses rénales||masse de 8 cm de diamètre dans le rein gauche
+309088003||masses rénales||masse solide dans le pôle inférieur du rein
+309088003||masse solide dans le pôle supérieur du rein||nodules solides dans les trois reins
+309088003||masse solide dans le pôle supérieur du rein||nodules solides dans les quatre reins
+309088003||masse solide dans le pôle supérieur du rein||nodules solides dans les cinq reins
+309088003||masse solide dans le pôle supérieur du rein||nodules solides dans les six reins
+309088003||masse solide dans le pôle supérieur du rein||masse de 6 cm de diamètre dans le rein gauche
+309088003||masse solide dans le pôle supérieur du rein||masse de 4 cm de diamètre dans le rein gauche
+309088003||masse solide dans le pôle supérieur du rein||masse de 3 cm de diamètre dans le rein gauche
+309088003||masse solide dans le pôle supérieur du rein||masse de 7 cm de diamètre dans le rein gauche
+309088003||masse solide dans le pôle supérieur du rein||masse de 8 cm de diamètre dans le rein gauche
+309088003||masse solide dans le pôle supérieur du rein||masse solide dans le pôle inférieur du rein
+309088003||nodules solides dans les trois reins||nodules solides dans les quatre reins
+309088003||nodules solides dans les trois reins||nodules solides dans les cinq reins
+309088003||nodules solides dans les trois reins||nodules solides dans les six reins
+309088003||nodules solides dans les trois reins||masse de 6 cm de diamètre dans le rein gauche
+309088003||nodules solides dans les trois reins||masse de 4 cm de diamètre dans le rein gauche
+309088003||nodules solides dans les trois reins||masse de 3 cm de diamètre dans le rein gauche
+309088003||nodules solides dans les trois reins||masse de 7 cm de diamètre dans le rein gauche
+309088003||nodules solides dans les trois reins||masse de 8 cm de diamètre dans le rein gauche
+309088003||nodules solides dans les trois reins||masse solide dans le pôle inférieur du rein
+309088003||nodules solides dans les quatre reins||nodules solides dans les cinq reins
+309088003||nodules solides dans les quatre reins||nodules solides dans les six reins
+309088003||nodules solides dans les quatre reins||masse de 6 cm de diamètre dans le rein gauche
+309088003||nodules solides dans les quatre reins||masse de 4 cm de diamètre dans le rein gauche
+309088003||nodules solides dans les quatre reins||masse de 3 cm de diamètre dans le rein gauche
+309088003||nodules solides dans les quatre reins||masse de 7 cm de diamètre dans le rein gauche
+309088003||nodules solides dans les quatre reins||masse de 8 cm de diamètre dans le rein gauche
+309088003||nodules solides dans les quatre reins||masse solide dans le pôle inférieur du rein
+309088003||nodules solides dans les cinq reins||nodules solides dans les six reins
+309088003||nodules solides dans les cinq reins||masse de 6 cm de diamètre dans le rein gauche
+309088003||nodules solides dans les cinq reins||masse de 4 cm de diamètre dans le rein gauche
+309088003||nodules solides dans les cinq reins||masse de 3 cm de diamètre dans le rein gauche
+309088003||nodules solides dans les cinq reins||masse de 7 cm de diamètre dans le rein gauche
+309088003||nodules solides dans les cinq reins||masse de 8 cm de diamètre dans le rein gauche
+309088003||nodules solides dans les cinq reins||masse solide dans le pôle inférieur du rein
+309088003||nodules solides dans les six reins||masse de 6 cm de diamètre dans le rein gauche
+309088003||nodules solides dans les six reins||masse de 4 cm de diamètre dans le rein gauche
+309088003||nodules solides dans les six reins||masse de 3 cm de diamètre dans le rein gauche
+309088003||nodules solides dans les six reins||masse de 7 cm de diamètre dans le rein gauche
+309088003||nodules solides dans les six reins||masse de 8 cm de diamètre dans le rein gauche
+309088003||nodules solides dans les six reins||masse solide dans le pôle inférieur du rein
+309088003||masse de 6 cm de diamètre dans le rein gauche||masse de 4 cm de diamètre dans le rein gauche
+309088003||masse de 6 cm de diamètre dans le rein gauche||masse de 3 cm de diamètre dans le rein gauche
+309088003||masse de 6 cm de diamètre dans le rein gauche||masse de 7 cm de diamètre dans le rein gauche
+309088003||masse de 6 cm de diamètre dans le rein gauche||masse de 8 cm de diamètre dans le rein gauche
+309088003||masse de 6 cm de diamètre dans le rein gauche||masse solide dans le pôle inférieur du rein
+309088003||masse de 4 cm de diamètre dans le rein gauche||masse de 3 cm de diamètre dans le rein gauche
+309088003||masse de 4 cm de diamètre dans le rein gauche||masse de 7 cm de diamètre dans le rein gauche
+309088003||masse de 4 cm de diamètre dans le rein gauche||masse de 8 cm de diamètre dans le rein gauche
+309088003||masse de 4 cm de diamètre dans le rein gauche||masse solide dans le pôle inférieur du rein
+309088003||masse de 3 cm de diamètre dans le rein gauche||masse de 7 cm de diamètre dans le rein gauche
+309088003||masse de 3 cm de diamètre dans le rein gauche||masse de 8 cm de diamètre dans le rein gauche
+309088003||masse de 3 cm de diamètre dans le rein gauche||masse solide dans le pôle inférieur du rein
+309088003||masse de 7 cm de diamètre dans le rein gauche||masse de 8 cm de diamètre dans le rein gauche
+309088003||masse de 7 cm de diamètre dans le rein gauche||masse solide dans le pôle inférieur du rein
+309088003||masse de 8 cm de diamètre dans le rein gauche||masse solide dans le pôle inférieur du rein
+271823003||tachypnée||tachypnée persistante
+271823003||tachypnée||polypnée
+271823003||tachypnée||bradypnée
+271823003||tachypnée||polypnée persistante
+271823003||tachypnée||bradypnée persistante
+271823003||tachypnée persistante||polypnée
+271823003||tachypnée persistante||bradypnée
+271823003||tachypnée persistante||polypnée persistante
+271823003||tachypnée persistante||bradypnée persistante
+271823003||polypnée||bradypnée
+271823003||polypnée||polypnée persistante
+271823003||polypnée||bradypnée persistante
+271823003||bradypnée||polypnée persistante
+271823003||bradypnée||bradypnée persistante
+271823003||polypnée persistante||bradypnée persistante
+89362005||perte de poids de 12 kilogrammes||perdre du poids
+89362005||perte de poids de 12 kilogrammes||une perte de poids d'environ 8 kg
+89362005||perte de poids de 12 kilogrammes||perte de poids
+89362005||perte de poids de 12 kilogrammes||perte de poids de 7 kg
+89362005||perte de poids de 12 kilogrammes||perte de poids de 5 kg
+89362005||perte de poids de 12 kilogrammes||perte de poids de 15 kg
+89362005||perte de poids de 12 kilogrammes||perte de poids de 13 kilogrammes
+89362005||perte de poids de 12 kilogrammes||perte de poids de 16 kilogrammes
+89362005||perte de poids de 12 kilogrammes||perte de poids de 11 kilogrammes
+89362005||perte de poids de 12 kilogrammes||perte de poids de 14 kilogrammes
+89362005||perte de poids de 12 kilogrammes||perte de poids de 18 kilogrammes
+89362005||perte de poids de 12 kilogrammes||perdre du poid
+89362005||perte de poids de 12 kilogrammes||une perte de poid d'environ 8 kg
+89362005||perte de poids de 12 kilogrammes||perte de poid
+89362005||perte de poids de 12 kilogrammes||perte de poids de 7 Kg
+89362005||perte de poids de 12 kilogrammes||perte de poids de 7 kg.
+89362005||perte de poids de 12 kilogrammes||perte de poids de 8 kg
+89362005||perte de poids de 12 kilogrammes||perte de poids de 9 kg
+89362005||perte de poids de 12 kilogrammes||perte de poids de 6 kg
+89362005||perte de poids de 12 kilogrammes||perte de poids de 4 kg
+89362005||perte de poids de 12 kilogrammes||perte de poid de 7 kg
+89362005||perte de poids de 12 kilogrammes||perte de poids de 5 Kg
+89362005||perte de poids de 12 kilogrammes||perte de poids de 5 kg.
+89362005||perte de poids de 12 kilogrammes||perte de poid de 5 kg
+89362005||perte de poids de 12 kilogrammes||perte de poids de 15 Kg
+89362005||perte de poids de 12 kilogrammes||perte de poids de 15 kg.
+89362005||perte de poids de 12 kilogrammes||perte de poid de 15 kg
+89362005||perdre du poids||une perte de poids d'environ 8 kg
+89362005||perdre du poids||perte de poids
+89362005||perdre du poids||perte de poids de 7 kg
+89362005||perdre du poids||perte de poids de 5 kg
+89362005||perdre du poids||perte de poids de 15 kg
+89362005||perdre du poids||perte de poids de 13 kilogrammes
+89362005||perdre du poids||perte de poids de 16 kilogrammes
+89362005||perdre du poids||perte de poids de 11 kilogrammes
+89362005||perdre du poids||perte de poids de 14 kilogrammes
+89362005||perdre du poids||perte de poids de 18 kilogrammes
+89362005||perdre du poids||perdre du poid
+89362005||perdre du poids||une perte de poid d'environ 8 kg
+89362005||perdre du poids||perte de poid
+89362005||perdre du poids||perte de poids de 7 Kg
+89362005||perdre du poids||perte de poids de 7 kg.
+89362005||perdre du poids||perte de poids de 8 kg
+89362005||perdre du poids||perte de poids de 9 kg
+89362005||perdre du poids||perte de poids de 6 kg
+89362005||perdre du poids||perte de poids de 4 kg
+89362005||perdre du poids||perte de poid de 7 kg
+89362005||perdre du poids||perte de poids de 5 Kg
+89362005||perdre du poids||perte de poids de 5 kg.
+89362005||perdre du poids||perte de poid de 5 kg
+89362005||perdre du poids||perte de poids de 15 Kg
+89362005||perdre du poids||perte de poids de 15 kg.
+89362005||perdre du poids||perte de poid de 15 kg
+89362005||une perte de poids d'environ 8 kg||perte de poids
+89362005||une perte de poids d'environ 8 kg||perte de poids de 7 kg
+89362005||une perte de poids d'environ 8 kg||perte de poids de 5 kg
+89362005||une perte de poids d'environ 8 kg||perte de poids de 15 kg
+89362005||une perte de poids d'environ 8 kg||perte de poids de 13 kilogrammes
+89362005||une perte de poids d'environ 8 kg||perte de poids de 16 kilogrammes
+89362005||une perte de poids d'environ 8 kg||perte de poids de 11 kilogrammes
+89362005||une perte de poids d'environ 8 kg||perte de poids de 14 kilogrammes
+89362005||une perte de poids d'environ 8 kg||perte de poids de 18 kilogrammes
+89362005||une perte de poids d'environ 8 kg||perdre du poid
+89362005||une perte de poids d'environ 8 kg||une perte de poid d'environ 8 kg
+89362005||une perte de poids d'environ 8 kg||perte de poid
+89362005||une perte de poids d'environ 8 kg||perte de poids de 7 Kg
+89362005||une perte de poids d'environ 8 kg||perte de poids de 7 kg.
+89362005||une perte de poids d'environ 8 kg||perte de poids de 8 kg
+89362005||une perte de poids d'environ 8 kg||perte de poids de 9 kg
+89362005||une perte de poids d'environ 8 kg||perte de poids de 6 kg
+89362005||une perte de poids d'environ 8 kg||perte de poids de 4 kg
+89362005||une perte de poids d'environ 8 kg||perte de poid de 7 kg
+89362005||une perte de poids d'environ 8 kg||perte de poids de 5 Kg
+89362005||une perte de poids d'environ 8 kg||perte de poids de 5 kg.
+89362005||une perte de poids d'environ 8 kg||perte de poid de 5 kg
+89362005||une perte de poids d'environ 8 kg||perte de poids de 15 Kg
+89362005||une perte de poids d'environ 8 kg||perte de poids de 15 kg.
+89362005||une perte de poids d'environ 8 kg||perte de poid de 15 kg
+89362005||perte de poids||perte de poids de 7 kg
+89362005||perte de poids||perte de poids de 5 kg
+89362005||perte de poids||perte de poids de 15 kg
+89362005||perte de poids||perte de poids de 13 kilogrammes
+89362005||perte de poids||perte de poids de 16 kilogrammes
+89362005||perte de poids||perte de poids de 11 kilogrammes
+89362005||perte de poids||perte de poids de 14 kilogrammes
+89362005||perte de poids||perte de poids de 18 kilogrammes
+89362005||perte de poids||perdre du poid
+89362005||perte de poids||une perte de poid d'environ 8 kg
+89362005||perte de poids||perte de poid
+89362005||perte de poids||perte de poids de 7 Kg
+89362005||perte de poids||perte de poids de 7 kg.
+89362005||perte de poids||perte de poids de 8 kg
+89362005||perte de poids||perte de poids de 9 kg
+89362005||perte de poids||perte de poids de 6 kg
+89362005||perte de poids||perte de poids de 4 kg
+89362005||perte de poids||perte de poid de 7 kg
+89362005||perte de poids||perte de poids de 5 Kg
+89362005||perte de poids||perte de poids de 5 kg.
+89362005||perte de poids||perte de poid de 5 kg
+89362005||perte de poids||perte de poids de 15 Kg
+89362005||perte de poids||perte de poids de 15 kg.
+89362005||perte de poids||perte de poid de 15 kg
+89362005||perte de poids de 7 kg||perte de poids de 5 kg
+89362005||perte de poids de 7 kg||perte de poids de 15 kg
+89362005||perte de poids de 7 kg||perte de poids de 13 kilogrammes
+89362005||perte de poids de 7 kg||perte de poids de 16 kilogrammes
+89362005||perte de poids de 7 kg||perte de poids de 11 kilogrammes
+89362005||perte de poids de 7 kg||perte de poids de 14 kilogrammes
+89362005||perte de poids de 7 kg||perte de poids de 18 kilogrammes
+89362005||perte de poids de 7 kg||perdre du poid
+89362005||perte de poids de 7 kg||une perte de poid d'environ 8 kg
+89362005||perte de poids de 7 kg||perte de poid
+89362005||perte de poids de 7 kg||perte de poids de 7 Kg
+89362005||perte de poids de 7 kg||perte de poids de 7 kg.
+89362005||perte de poids de 7 kg||perte de poids de 8 kg
+89362005||perte de poids de 7 kg||perte de poids de 9 kg
+89362005||perte de poids de 7 kg||perte de poids de 6 kg
+89362005||perte de poids de 7 kg||perte de poids de 4 kg
+89362005||perte de poids de 7 kg||perte de poid de 7 kg
+89362005||perte de poids de 7 kg||perte de poids de 5 Kg
+89362005||perte de poids de 7 kg||perte de poids de 5 kg.
+89362005||perte de poids de 7 kg||perte de poid de 5 kg
+89362005||perte de poids de 7 kg||perte de poids de 15 Kg
+89362005||perte de poids de 7 kg||perte de poids de 15 kg.
+89362005||perte de poids de 7 kg||perte de poid de 15 kg
+89362005||perte de poids de 5 kg||perte de poids de 15 kg
+89362005||perte de poids de 5 kg||perte de poids de 13 kilogrammes
+89362005||perte de poids de 5 kg||perte de poids de 16 kilogrammes
+89362005||perte de poids de 5 kg||perte de poids de 11 kilogrammes
+89362005||perte de poids de 5 kg||perte de poids de 14 kilogrammes
+89362005||perte de poids de 5 kg||perte de poids de 18 kilogrammes
+89362005||perte de poids de 5 kg||perdre du poid
+89362005||perte de poids de 5 kg||une perte de poid d'environ 8 kg
+89362005||perte de poids de 5 kg||perte de poid
+89362005||perte de poids de 5 kg||perte de poids de 7 Kg
+89362005||perte de poids de 5 kg||perte de poids de 7 kg.
+89362005||perte de poids de 5 kg||perte de poids de 8 kg
+89362005||perte de poids de 5 kg||perte de poids de 9 kg
+89362005||perte de poids de 5 kg||perte de poids de 6 kg
+89362005||perte de poids de 5 kg||perte de poids de 4 kg
+89362005||perte de poids de 5 kg||perte de poid de 7 kg
+89362005||perte de poids de 5 kg||perte de poids de 5 Kg
+89362005||perte de poids de 5 kg||perte de poids de 5 kg.
+89362005||perte de poids de 5 kg||perte de poid de 5 kg
+89362005||perte de poids de 5 kg||perte de poids de 15 Kg
+89362005||perte de poids de 5 kg||perte de poids de 15 kg.
+89362005||perte de poids de 5 kg||perte de poid de 15 kg
+89362005||perte de poids de 15 kg||perte de poids de 13 kilogrammes
+89362005||perte de poids de 15 kg||perte de poids de 16 kilogrammes
+89362005||perte de poids de 15 kg||perte de poids de 11 kilogrammes
+89362005||perte de poids de 15 kg||perte de poids de 14 kilogrammes
+89362005||perte de poids de 15 kg||perte de poids de 18 kilogrammes
+89362005||perte de poids de 15 kg||perdre du poid
+89362005||perte de poids de 15 kg||une perte de poid d'environ 8 kg
+89362005||perte de poids de 15 kg||perte de poid
+89362005||perte de poids de 15 kg||perte de poids de 7 Kg
+89362005||perte de poids de 15 kg||perte de poids de 7 kg.
+89362005||perte de poids de 15 kg||perte de poids de 8 kg
+89362005||perte de poids de 15 kg||perte de poids de 9 kg
+89362005||perte de poids de 15 kg||perte de poids de 6 kg
+89362005||perte de poids de 15 kg||perte de poids de 4 kg
+89362005||perte de poids de 15 kg||perte de poid de 7 kg
+89362005||perte de poids de 15 kg||perte de poids de 5 Kg
+89362005||perte de poids de 15 kg||perte de poids de 5 kg.
+89362005||perte de poids de 15 kg||perte de poid de 5 kg
+89362005||perte de poids de 15 kg||perte de poids de 15 Kg
+89362005||perte de poids de 15 kg||perte de poids de 15 kg.
+89362005||perte de poids de 15 kg||perte de poid de 15 kg
+89362005||perte de poids de 13 kilogrammes||perte de poids de 16 kilogrammes
+89362005||perte de poids de 13 kilogrammes||perte de poids de 11 kilogrammes
+89362005||perte de poids de 13 kilogrammes||perte de poids de 14 kilogrammes
+89362005||perte de poids de 13 kilogrammes||perte de poids de 18 kilogrammes
+89362005||perte de poids de 13 kilogrammes||perdre du poid
+89362005||perte de poids de 13 kilogrammes||une perte de poid d'environ 8 kg
+89362005||perte de poids de 13 kilogrammes||perte de poid
+89362005||perte de poids de 13 kilogrammes||perte de poids de 7 Kg
+89362005||perte de poids de 13 kilogrammes||perte de poids de 7 kg.
+89362005||perte de poids de 13 kilogrammes||perte de poids de 8 kg
+89362005||perte de poids de 13 kilogrammes||perte de poids de 9 kg
+89362005||perte de poids de 13 kilogrammes||perte de poids de 6 kg
+89362005||perte de poids de 13 kilogrammes||perte de poids de 4 kg
+89362005||perte de poids de 13 kilogrammes||perte de poid de 7 kg
+89362005||perte de poids de 13 kilogrammes||perte de poids de 5 Kg
+89362005||perte de poids de 13 kilogrammes||perte de poids de 5 kg.
+89362005||perte de poids de 13 kilogrammes||perte de poid de 5 kg
+89362005||perte de poids de 13 kilogrammes||perte de poids de 15 Kg
+89362005||perte de poids de 13 kilogrammes||perte de poids de 15 kg.
+89362005||perte de poids de 13 kilogrammes||perte de poid de 15 kg
+89362005||perte de poids de 16 kilogrammes||perte de poids de 11 kilogrammes
+89362005||perte de poids de 16 kilogrammes||perte de poids de 14 kilogrammes
+89362005||perte de poids de 16 kilogrammes||perte de poids de 18 kilogrammes
+89362005||perte de poids de 16 kilogrammes||perdre du poid
+89362005||perte de poids de 16 kilogrammes||une perte de poid d'environ 8 kg
+89362005||perte de poids de 16 kilogrammes||perte de poid
+89362005||perte de poids de 16 kilogrammes||perte de poids de 7 Kg
+89362005||perte de poids de 16 kilogrammes||perte de poids de 7 kg.
+89362005||perte de poids de 16 kilogrammes||perte de poids de 8 kg
+89362005||perte de poids de 16 kilogrammes||perte de poids de 9 kg
+89362005||perte de poids de 16 kilogrammes||perte de poids de 6 kg
+89362005||perte de poids de 16 kilogrammes||perte de poids de 4 kg
+89362005||perte de poids de 16 kilogrammes||perte de poid de 7 kg
+89362005||perte de poids de 16 kilogrammes||perte de poids de 5 Kg
+89362005||perte de poids de 16 kilogrammes||perte de poids de 5 kg.
+89362005||perte de poids de 16 kilogrammes||perte de poid de 5 kg
+89362005||perte de poids de 16 kilogrammes||perte de poids de 15 Kg
+89362005||perte de poids de 16 kilogrammes||perte de poids de 15 kg.
+89362005||perte de poids de 16 kilogrammes||perte de poid de 15 kg
+89362005||perte de poids de 11 kilogrammes||perte de poids de 14 kilogrammes
+89362005||perte de poids de 11 kilogrammes||perte de poids de 18 kilogrammes
+89362005||perte de poids de 11 kilogrammes||perdre du poid
+89362005||perte de poids de 11 kilogrammes||une perte de poid d'environ 8 kg
+89362005||perte de poids de 11 kilogrammes||perte de poid
+89362005||perte de poids de 11 kilogrammes||perte de poids de 7 Kg
+89362005||perte de poids de 11 kilogrammes||perte de poids de 7 kg.
+89362005||perte de poids de 11 kilogrammes||perte de poids de 8 kg
+89362005||perte de poids de 11 kilogrammes||perte de poids de 9 kg
+89362005||perte de poids de 11 kilogrammes||perte de poids de 6 kg
+89362005||perte de poids de 11 kilogrammes||perte de poids de 4 kg
+89362005||perte de poids de 11 kilogrammes||perte de poid de 7 kg
+89362005||perte de poids de 11 kilogrammes||perte de poids de 5 Kg
+89362005||perte de poids de 11 kilogrammes||perte de poids de 5 kg.
+89362005||perte de poids de 11 kilogrammes||perte de poid de 5 kg
+89362005||perte de poids de 11 kilogrammes||perte de poids de 15 Kg
+89362005||perte de poids de 11 kilogrammes||perte de poids de 15 kg.
+89362005||perte de poids de 11 kilogrammes||perte de poid de 15 kg
+89362005||perte de poids de 14 kilogrammes||perte de poids de 18 kilogrammes
+89362005||perte de poids de 14 kilogrammes||perdre du poid
+89362005||perte de poids de 14 kilogrammes||une perte de poid d'environ 8 kg
+89362005||perte de poids de 14 kilogrammes||perte de poid
+89362005||perte de poids de 14 kilogrammes||perte de poids de 7 Kg
+89362005||perte de poids de 14 kilogrammes||perte de poids de 7 kg.
+89362005||perte de poids de 14 kilogrammes||perte de poids de 8 kg
+89362005||perte de poids de 14 kilogrammes||perte de poids de 9 kg
+89362005||perte de poids de 14 kilogrammes||perte de poids de 6 kg
+89362005||perte de poids de 14 kilogrammes||perte de poids de 4 kg
+89362005||perte de poids de 14 kilogrammes||perte de poid de 7 kg
+89362005||perte de poids de 14 kilogrammes||perte de poids de 5 Kg
+89362005||perte de poids de 14 kilogrammes||perte de poids de 5 kg.
+89362005||perte de poids de 14 kilogrammes||perte de poid de 5 kg
+89362005||perte de poids de 14 kilogrammes||perte de poids de 15 Kg
+89362005||perte de poids de 14 kilogrammes||perte de poids de 15 kg.
+89362005||perte de poids de 14 kilogrammes||perte de poid de 15 kg
+89362005||perte de poids de 18 kilogrammes||perdre du poid
+89362005||perte de poids de 18 kilogrammes||une perte de poid d'environ 8 kg
+89362005||perte de poids de 18 kilogrammes||perte de poid
+89362005||perte de poids de 18 kilogrammes||perte de poids de 7 Kg
+89362005||perte de poids de 18 kilogrammes||perte de poids de 7 kg.
+89362005||perte de poids de 18 kilogrammes||perte de poids de 8 kg
+89362005||perte de poids de 18 kilogrammes||perte de poids de 9 kg
+89362005||perte de poids de 18 kilogrammes||perte de poids de 6 kg
+89362005||perte de poids de 18 kilogrammes||perte de poids de 4 kg
+89362005||perte de poids de 18 kilogrammes||perte de poid de 7 kg
+89362005||perte de poids de 18 kilogrammes||perte de poids de 5 Kg
+89362005||perte de poids de 18 kilogrammes||perte de poids de 5 kg.
+89362005||perte de poids de 18 kilogrammes||perte de poid de 5 kg
+89362005||perte de poids de 18 kilogrammes||perte de poids de 15 Kg
+89362005||perte de poids de 18 kilogrammes||perte de poids de 15 kg.
+89362005||perte de poids de 18 kilogrammes||perte de poid de 15 kg
+89362005||perdre du poid||une perte de poid d'environ 8 kg
+89362005||perdre du poid||perte de poid
+89362005||perdre du poid||perte de poids de 7 Kg
+89362005||perdre du poid||perte de poids de 7 kg.
+89362005||perdre du poid||perte de poids de 8 kg
+89362005||perdre du poid||perte de poids de 9 kg
+89362005||perdre du poid||perte de poids de 6 kg
+89362005||perdre du poid||perte de poids de 4 kg
+89362005||perdre du poid||perte de poid de 7 kg
+89362005||perdre du poid||perte de poids de 5 Kg
+89362005||perdre du poid||perte de poids de 5 kg.
+89362005||perdre du poid||perte de poid de 5 kg
+89362005||perdre du poid||perte de poids de 15 Kg
+89362005||perdre du poid||perte de poids de 15 kg.
+89362005||perdre du poid||perte de poid de 15 kg
+89362005||une perte de poid d'environ 8 kg||perte de poid
+89362005||une perte de poid d'environ 8 kg||perte de poids de 7 Kg
+89362005||une perte de poid d'environ 8 kg||perte de poids de 7 kg.
+89362005||une perte de poid d'environ 8 kg||perte de poids de 8 kg
+89362005||une perte de poid d'environ 8 kg||perte de poids de 9 kg
+89362005||une perte de poid d'environ 8 kg||perte de poids de 6 kg
+89362005||une perte de poid d'environ 8 kg||perte de poids de 4 kg
+89362005||une perte de poid d'environ 8 kg||perte de poid de 7 kg
+89362005||une perte de poid d'environ 8 kg||perte de poids de 5 Kg
+89362005||une perte de poid d'environ 8 kg||perte de poids de 5 kg.
+89362005||une perte de poid d'environ 8 kg||perte de poid de 5 kg
+89362005||une perte de poid d'environ 8 kg||perte de poids de 15 Kg
+89362005||une perte de poid d'environ 8 kg||perte de poids de 15 kg.
+89362005||une perte de poid d'environ 8 kg||perte de poid de 15 kg
+89362005||perte de poid||perte de poids de 7 Kg
+89362005||perte de poid||perte de poids de 7 kg.
+89362005||perte de poid||perte de poids de 8 kg
+89362005||perte de poid||perte de poids de 9 kg
+89362005||perte de poid||perte de poids de 6 kg
+89362005||perte de poid||perte de poids de 4 kg
+89362005||perte de poid||perte de poid de 7 kg
+89362005||perte de poid||perte de poids de 5 Kg
+89362005||perte de poid||perte de poids de 5 kg.
+89362005||perte de poid||perte de poid de 5 kg
+89362005||perte de poid||perte de poids de 15 Kg
+89362005||perte de poid||perte de poids de 15 kg.
+89362005||perte de poid||perte de poid de 15 kg
+89362005||perte de poids de 7 Kg||perte de poids de 7 kg.
+89362005||perte de poids de 7 Kg||perte de poids de 8 kg
+89362005||perte de poids de 7 Kg||perte de poids de 9 kg
+89362005||perte de poids de 7 Kg||perte de poids de 6 kg
+89362005||perte de poids de 7 Kg||perte de poids de 4 kg
+89362005||perte de poids de 7 Kg||perte de poid de 7 kg
+89362005||perte de poids de 7 Kg||perte de poids de 5 Kg
+89362005||perte de poids de 7 Kg||perte de poids de 5 kg.
+89362005||perte de poids de 7 Kg||perte de poid de 5 kg
+89362005||perte de poids de 7 Kg||perte de poids de 15 Kg
+89362005||perte de poids de 7 Kg||perte de poids de 15 kg.
+89362005||perte de poids de 7 Kg||perte de poid de 15 kg
+89362005||perte de poids de 7 kg.||perte de poids de 8 kg
+89362005||perte de poids de 7 kg.||perte de poids de 9 kg
+89362005||perte de poids de 7 kg.||perte de poids de 6 kg
+89362005||perte de poids de 7 kg.||perte de poids de 4 kg
+89362005||perte de poids de 7 kg.||perte de poid de 7 kg
+89362005||perte de poids de 7 kg.||perte de poids de 5 Kg
+89362005||perte de poids de 7 kg.||perte de poids de 5 kg.
+89362005||perte de poids de 7 kg.||perte de poid de 5 kg
+89362005||perte de poids de 7 kg.||perte de poids de 15 Kg
+89362005||perte de poids de 7 kg.||perte de poids de 15 kg.
+89362005||perte de poids de 7 kg.||perte de poid de 15 kg
+89362005||perte de poids de 8 kg||perte de poids de 9 kg
+89362005||perte de poids de 8 kg||perte de poids de 6 kg
+89362005||perte de poids de 8 kg||perte de poids de 4 kg
+89362005||perte de poids de 8 kg||perte de poid de 7 kg
+89362005||perte de poids de 8 kg||perte de poids de 5 Kg
+89362005||perte de poids de 8 kg||perte de poids de 5 kg.
+89362005||perte de poids de 8 kg||perte de poid de 5 kg
+89362005||perte de poids de 8 kg||perte de poids de 15 Kg
+89362005||perte de poids de 8 kg||perte de poids de 15 kg.
+89362005||perte de poids de 8 kg||perte de poid de 15 kg
+89362005||perte de poids de 9 kg||perte de poids de 6 kg
+89362005||perte de poids de 9 kg||perte de poids de 4 kg
+89362005||perte de poids de 9 kg||perte de poid de 7 kg
+89362005||perte de poids de 9 kg||perte de poids de 5 Kg
+89362005||perte de poids de 9 kg||perte de poids de 5 kg.
+89362005||perte de poids de 9 kg||perte de poid de 5 kg
+89362005||perte de poids de 9 kg||perte de poids de 15 Kg
+89362005||perte de poids de 9 kg||perte de poids de 15 kg.
+89362005||perte de poids de 9 kg||perte de poid de 15 kg
+89362005||perte de poids de 6 kg||perte de poids de 4 kg
+89362005||perte de poids de 6 kg||perte de poid de 7 kg
+89362005||perte de poids de 6 kg||perte de poids de 5 Kg
+89362005||perte de poids de 6 kg||perte de poids de 5 kg.
+89362005||perte de poids de 6 kg||perte de poid de 5 kg
+89362005||perte de poids de 6 kg||perte de poids de 15 Kg
+89362005||perte de poids de 6 kg||perte de poids de 15 kg.
+89362005||perte de poids de 6 kg||perte de poid de 15 kg
+89362005||perte de poids de 4 kg||perte de poid de 7 kg
+89362005||perte de poids de 4 kg||perte de poids de 5 Kg
+89362005||perte de poids de 4 kg||perte de poids de 5 kg.
+89362005||perte de poids de 4 kg||perte de poid de 5 kg
+89362005||perte de poids de 4 kg||perte de poids de 15 Kg
+89362005||perte de poids de 4 kg||perte de poids de 15 kg.
+89362005||perte de poids de 4 kg||perte de poid de 15 kg
+89362005||perte de poid de 7 kg||perte de poids de 5 Kg
+89362005||perte de poid de 7 kg||perte de poids de 5 kg.
+89362005||perte de poid de 7 kg||perte de poid de 5 kg
+89362005||perte de poid de 7 kg||perte de poids de 15 Kg
+89362005||perte de poid de 7 kg||perte de poids de 15 kg.
+89362005||perte de poid de 7 kg||perte de poid de 15 kg
+89362005||perte de poids de 5 Kg||perte de poids de 5 kg.
+89362005||perte de poids de 5 Kg||perte de poid de 5 kg
+89362005||perte de poids de 5 Kg||perte de poids de 15 Kg
+89362005||perte de poids de 5 Kg||perte de poids de 15 kg.
+89362005||perte de poids de 5 Kg||perte de poid de 15 kg
+89362005||perte de poids de 5 kg.||perte de poid de 5 kg
+89362005||perte de poids de 5 kg.||perte de poids de 15 Kg
+89362005||perte de poids de 5 kg.||perte de poids de 15 kg.
+89362005||perte de poids de 5 kg.||perte de poid de 15 kg
+89362005||perte de poid de 5 kg||perte de poids de 15 Kg
+89362005||perte de poid de 5 kg||perte de poids de 15 kg.
+89362005||perte de poid de 5 kg||perte de poid de 15 kg
+89362005||perte de poids de 15 Kg||perte de poids de 15 kg.
+89362005||perte de poids de 15 Kg||perte de poid de 15 kg
+89362005||perte de poids de 15 kg.||perte de poid de 15 kg
+53298000||hématurie||hématurie anémique totale
+90708001||rétention dans le pôle supérieur gauche||atteinte rénale
+90708001||rétention dans le pôle supérieur gauche||rétention dans le pôle supérieur droite
+90708001||rétention dans le pôle supérieur gauche||rétention dans le pôle inférieur gauche
+90708001||atteinte rénale||rétention dans le pôle supérieur droite
+90708001||atteinte rénale||rétention dans le pôle inférieur gauche
+90708001||rétention dans le pôle supérieur droite||rétention dans le pôle inférieur gauche
+359746009||cliniquement stable||stable
+271594007||syncope||épisode syncopal
+204676004||muqueuse gastrique hétérotopique||muqueuse gastrique ectopique
+95545007||diarrhée sanglante||selles diarrhéiques, parfois accompagnées de sang
+165406005||paramètres normaux des trois séries hématologiques||hémogramme normal
+165406005||paramètres normaux des trois séries hématologiques||paramètres normaux des quatre séries hématologiques
+165406005||paramètres normaux des trois séries hématologiques||paramètres normaux des deux séries hématologiques
+165406005||paramètres normaux des trois séries hématologiques||paramètres normaux des cinq séries hématologiques
+165406005||paramètres normaux des trois séries hématologiques||paramètres normaux des six séries hématologiques
+165406005||paramètres normaux des trois séries hématologiques||paramètres normaux des huit séries hématologiques
+165406005||hémogramme normal||paramètres normaux des quatre séries hématologiques
+165406005||hémogramme normal||paramètres normaux des deux séries hématologiques
+165406005||hémogramme normal||paramètres normaux des cinq séries hématologiques
+165406005||hémogramme normal||paramètres normaux des six séries hématologiques
+165406005||hémogramme normal||paramètres normaux des huit séries hématologiques
+165406005||paramètres normaux des quatre séries hématologiques||paramètres normaux des deux séries hématologiques
+165406005||paramètres normaux des quatre séries hématologiques||paramètres normaux des cinq séries hématologiques
+165406005||paramètres normaux des quatre séries hématologiques||paramètres normaux des six séries hématologiques
+165406005||paramètres normaux des quatre séries hématologiques||paramètres normaux des huit séries hématologiques
+165406005||paramètres normaux des deux séries hématologiques||paramètres normaux des cinq séries hématologiques
+165406005||paramètres normaux des deux séries hématologiques||paramètres normaux des six séries hématologiques
+165406005||paramètres normaux des deux séries hématologiques||paramètres normaux des huit séries hématologiques
+165406005||paramètres normaux des cinq séries hématologiques||paramètres normaux des six séries hématologiques
+165406005||paramètres normaux des cinq séries hématologiques||paramètres normaux des huit séries hématologiques
+165406005||paramètres normaux des six séries hématologiques||paramètres normaux des huit séries hématologiques
+443371007||faible niveau de conscience||obnubilation
+443371007||faible niveau de conscience||diminution de l'état de conscience
+443371007||faible niveau de conscience||augmentation de l'état de conscience
+443371007||obnubilation||diminution de l'état de conscience
+443371007||obnubilation||augmentation de l'état de conscience
+443371007||diminution de l'état de conscience||augmentation de l'état de conscience
+249545003||irritation péritonéale principalement dans l'hypogastre et la fosse iliaque gauche||défense abdominale
+249545003||irritation péritonéale principalement dans l'hypogastre et la fosse iliaque gauche||défense à la palpation
+249545003||irritation péritonéale principalement dans l'hypogastre et la fosse iliaque gauche||défense
+249545003||irritation péritonéale principalement dans l'hypogastre et la fosse iliaque gauche||péritonisme
+249545003||défense abdominale||défense à la palpation
+249545003||défense abdominale||défense
+249545003||défense abdominale||péritonisme
+249545003||défense à la palpation||défense
+249545003||défense à la palpation||péritonisme
+249545003||défense||péritonisme
+249339005||pyramide nasale étroite||narines étroites
+9589009||difficulté à se déplacer||difficultés à marcher
+34095006||déshydraté||déshydratation
+91175000||crise||crises
+91175000||crise||épisode convulsif
+91175000||crise||épisodes convulsifs
+91175000||crises||épisode convulsif
+91175000||crises||épisodes convulsifs
+91175000||épisode convulsif||épisodes convulsifs
+21454007||hémorragie sous-arachnoïdienne frontopariétale droite||hémorragie sous-arachnoïdienne minime dans la région suprasylvienne gauche
+21454007||hémorragie sous-arachnoïdienne frontopariétale droite||hémorragie sous-arachnoïdienne
+21454007||hémorragie sous-arachnoïdienne frontopariétale droite||hémorragie sous-arachnoïdien frontopariétale droite
+21454007||hémorragie sous-arachnoïdienne frontopariétale droite||hémorragie sous-arachnoïdiens frontopariétale droite
+21454007||hémorragie sous-arachnoïdienne frontopariétale droite||hémorragie arachnoïdiennes frontopariétale droite
+21454007||hémorragie sous-arachnoïdienne frontopariétale droite||hémorragie arachnoïdien frontopariétale droite
+21454007||hémorragie sous-arachnoïdienne frontopariétale droite||hémorragie arachnoïdiens frontopariétale droite
+21454007||hémorragie sous-arachnoïdienne frontopariétale droite||hémorragie sous-arachnoïdienne frontopariétale gauche
+21454007||hémorragie sous-arachnoïdienne frontopariétale droite||hémorragie sous-arachnoïdienne minime dans la région suprasylvienne droite
+21454007||hémorragie sous-arachnoïdienne frontopariétale droite||hémorragie sous-arachnoïdien
+21454007||hémorragie sous-arachnoïdienne frontopariétale droite||hémorragie sous-arachnoïdiens
+21454007||hémorragie sous-arachnoïdienne frontopariétale droite||hémorragie arachnoïdiennes
+21454007||hémorragie sous-arachnoïdienne frontopariétale droite||hémorragie arachnoïdien
+21454007||hémorragie sous-arachnoïdienne frontopariétale droite||hémorragie arachnoïdiens
+21454007||hémorragie sous-arachnoïdienne minime dans la région suprasylvienne gauche||hémorragie sous-arachnoïdienne
+21454007||hémorragie sous-arachnoïdienne minime dans la région suprasylvienne gauche||hémorragie sous-arachnoïdien frontopariétale droite
+21454007||hémorragie sous-arachnoïdienne minime dans la région suprasylvienne gauche||hémorragie sous-arachnoïdiens frontopariétale droite
+21454007||hémorragie sous-arachnoïdienne minime dans la région suprasylvienne gauche||hémorragie arachnoïdiennes frontopariétale droite
+21454007||hémorragie sous-arachnoïdienne minime dans la région suprasylvienne gauche||hémorragie arachnoïdien frontopariétale droite
+21454007||hémorragie sous-arachnoïdienne minime dans la région suprasylvienne gauche||hémorragie arachnoïdiens frontopariétale droite
+21454007||hémorragie sous-arachnoïdienne minime dans la région suprasylvienne gauche||hémorragie sous-arachnoïdienne frontopariétale gauche
+21454007||hémorragie sous-arachnoïdienne minime dans la région suprasylvienne gauche||hémorragie sous-arachnoïdienne minime dans la région suprasylvienne droite
+21454007||hémorragie sous-arachnoïdienne minime dans la région suprasylvienne gauche||hémorragie sous-arachnoïdien
+21454007||hémorragie sous-arachnoïdienne minime dans la région suprasylvienne gauche||hémorragie sous-arachnoïdiens
+21454007||hémorragie sous-arachnoïdienne minime dans la région suprasylvienne gauche||hémorragie arachnoïdiennes
+21454007||hémorragie sous-arachnoïdienne minime dans la région suprasylvienne gauche||hémorragie arachnoïdien
+21454007||hémorragie sous-arachnoïdienne minime dans la région suprasylvienne gauche||hémorragie arachnoïdiens
+21454007||hémorragie sous-arachnoïdienne||hémorragie sous-arachnoïdien frontopariétale droite
+21454007||hémorragie sous-arachnoïdienne||hémorragie sous-arachnoïdiens frontopariétale droite
+21454007||hémorragie sous-arachnoïdienne||hémorragie arachnoïdiennes frontopariétale droite
+21454007||hémorragie sous-arachnoïdienne||hémorragie arachnoïdien frontopariétale droite
+21454007||hémorragie sous-arachnoïdienne||hémorragie arachnoïdiens frontopariétale droite
+21454007||hémorragie sous-arachnoïdienne||hémorragie sous-arachnoïdienne frontopariétale gauche
+21454007||hémorragie sous-arachnoïdienne||hémorragie sous-arachnoïdienne minime dans la région suprasylvienne droite
+21454007||hémorragie sous-arachnoïdienne||hémorragie sous-arachnoïdien
+21454007||hémorragie sous-arachnoïdienne||hémorragie sous-arachnoïdiens
+21454007||hémorragie sous-arachnoïdienne||hémorragie arachnoïdiennes
+21454007||hémorragie sous-arachnoïdienne||hémorragie arachnoïdien
+21454007||hémorragie sous-arachnoïdienne||hémorragie arachnoïdiens
+21454007||hémorragie sous-arachnoïdien frontopariétale droite||hémorragie sous-arachnoïdiens frontopariétale droite
+21454007||hémorragie sous-arachnoïdien frontopariétale droite||hémorragie arachnoïdiennes frontopariétale droite
+21454007||hémorragie sous-arachnoïdien frontopariétale droite||hémorragie arachnoïdien frontopariétale droite
+21454007||hémorragie sous-arachnoïdien frontopariétale droite||hémorragie arachnoïdiens frontopariétale droite
+21454007||hémorragie sous-arachnoïdien frontopariétale droite||hémorragie sous-arachnoïdienne frontopariétale gauche
+21454007||hémorragie sous-arachnoïdien frontopariétale droite||hémorragie sous-arachnoïdienne minime dans la région suprasylvienne droite
+21454007||hémorragie sous-arachnoïdien frontopariétale droite||hémorragie sous-arachnoïdien
+21454007||hémorragie sous-arachnoïdien frontopariétale droite||hémorragie sous-arachnoïdiens
+21454007||hémorragie sous-arachnoïdien frontopariétale droite||hémorragie arachnoïdiennes
+21454007||hémorragie sous-arachnoïdien frontopariétale droite||hémorragie arachnoïdien
+21454007||hémorragie sous-arachnoïdien frontopariétale droite||hémorragie arachnoïdiens
+21454007||hémorragie sous-arachnoïdiens frontopariétale droite||hémorragie arachnoïdiennes frontopariétale droite
+21454007||hémorragie sous-arachnoïdiens frontopariétale droite||hémorragie arachnoïdien frontopariétale droite
+21454007||hémorragie sous-arachnoïdiens frontopariétale droite||hémorragie arachnoïdiens frontopariétale droite
+21454007||hémorragie sous-arachnoïdiens frontopariétale droite||hémorragie sous-arachnoïdienne frontopariétale gauche
+21454007||hémorragie sous-arachnoïdiens frontopariétale droite||hémorragie sous-arachnoïdienne minime dans la région suprasylvienne droite
+21454007||hémorragie sous-arachnoïdiens frontopariétale droite||hémorragie sous-arachnoïdien
+21454007||hémorragie sous-arachnoïdiens frontopariétale droite||hémorragie sous-arachnoïdiens
+21454007||hémorragie sous-arachnoïdiens frontopariétale droite||hémorragie arachnoïdiennes
+21454007||hémorragie sous-arachnoïdiens frontopariétale droite||hémorragie arachnoïdien
+21454007||hémorragie sous-arachnoïdiens frontopariétale droite||hémorragie arachnoïdiens
+21454007||hémorragie arachnoïdiennes frontopariétale droite||hémorragie arachnoïdien frontopariétale droite
+21454007||hémorragie arachnoïdiennes frontopariétale droite||hémorragie arachnoïdiens frontopariétale droite
+21454007||hémorragie arachnoïdiennes frontopariétale droite||hémorragie sous-arachnoïdienne frontopariétale gauche
+21454007||hémorragie arachnoïdiennes frontopariétale droite||hémorragie sous-arachnoïdienne minime dans la région suprasylvienne droite
+21454007||hémorragie arachnoïdiennes frontopariétale droite||hémorragie sous-arachnoïdien
+21454007||hémorragie arachnoïdiennes frontopariétale droite||hémorragie sous-arachnoïdiens
+21454007||hémorragie arachnoïdiennes frontopariétale droite||hémorragie arachnoïdiennes
+21454007||hémorragie arachnoïdiennes frontopariétale droite||hémorragie arachnoïdien
+21454007||hémorragie arachnoïdiennes frontopariétale droite||hémorragie arachnoïdiens
+21454007||hémorragie arachnoïdien frontopariétale droite||hémorragie arachnoïdiens frontopariétale droite
+21454007||hémorragie arachnoïdien frontopariétale droite||hémorragie sous-arachnoïdienne frontopariétale gauche
+21454007||hémorragie arachnoïdien frontopariétale droite||hémorragie sous-arachnoïdienne minime dans la région suprasylvienne droite
+21454007||hémorragie arachnoïdien frontopariétale droite||hémorragie sous-arachnoïdien
+21454007||hémorragie arachnoïdien frontopariétale droite||hémorragie sous-arachnoïdiens
+21454007||hémorragie arachnoïdien frontopariétale droite||hémorragie arachnoïdiennes
+21454007||hémorragie arachnoïdien frontopariétale droite||hémorragie arachnoïdien
+21454007||hémorragie arachnoïdien frontopariétale droite||hémorragie arachnoïdiens
+21454007||hémorragie arachnoïdiens frontopariétale droite||hémorragie sous-arachnoïdienne frontopariétale gauche
+21454007||hémorragie arachnoïdiens frontopariétale droite||hémorragie sous-arachnoïdienne minime dans la région suprasylvienne droite
+21454007||hémorragie arachnoïdiens frontopariétale droite||hémorragie sous-arachnoïdien
+21454007||hémorragie arachnoïdiens frontopariétale droite||hémorragie sous-arachnoïdiens
+21454007||hémorragie arachnoïdiens frontopariétale droite||hémorragie arachnoïdiennes
+21454007||hémorragie arachnoïdiens frontopariétale droite||hémorragie arachnoïdien
+21454007||hémorragie arachnoïdiens frontopariétale droite||hémorragie arachnoïdiens
+21454007||hémorragie sous-arachnoïdienne frontopariétale gauche||hémorragie sous-arachnoïdienne minime dans la région suprasylvienne droite
+21454007||hémorragie sous-arachnoïdienne frontopariétale gauche||hémorragie sous-arachnoïdien
+21454007||hémorragie sous-arachnoïdienne frontopariétale gauche||hémorragie sous-arachnoïdiens
+21454007||hémorragie sous-arachnoïdienne frontopariétale gauche||hémorragie arachnoïdiennes
+21454007||hémorragie sous-arachnoïdienne frontopariétale gauche||hémorragie arachnoïdien
+21454007||hémorragie sous-arachnoïdienne frontopariétale gauche||hémorragie arachnoïdiens
+21454007||hémorragie sous-arachnoïdienne minime dans la région suprasylvienne droite||hémorragie sous-arachnoïdien
+21454007||hémorragie sous-arachnoïdienne minime dans la région suprasylvienne droite||hémorragie sous-arachnoïdiens
+21454007||hémorragie sous-arachnoïdienne minime dans la région suprasylvienne droite||hémorragie arachnoïdiennes
+21454007||hémorragie sous-arachnoïdienne minime dans la région suprasylvienne droite||hémorragie arachnoïdien
+21454007||hémorragie sous-arachnoïdienne minime dans la région suprasylvienne droite||hémorragie arachnoïdiens
+21454007||hémorragie sous-arachnoïdien||hémorragie sous-arachnoïdiens
+21454007||hémorragie sous-arachnoïdien||hémorragie arachnoïdiennes
+21454007||hémorragie sous-arachnoïdien||hémorragie arachnoïdien
+21454007||hémorragie sous-arachnoïdien||hémorragie arachnoïdiens
+21454007||hémorragie sous-arachnoïdiens||hémorragie arachnoïdiennes
+21454007||hémorragie sous-arachnoïdiens||hémorragie arachnoïdien
+21454007||hémorragie sous-arachnoïdiens||hémorragie arachnoïdiens
+21454007||hémorragie arachnoïdiennes||hémorragie arachnoïdien
+21454007||hémorragie arachnoïdiennes||hémorragie arachnoïdiens
+21454007||hémorragie arachnoïdien||hémorragie arachnoïdiens
+128139000||réaction inflammatoire||l'inflammation
+703630003||œil rouge sévère||œil rouge
+703630003||œil rouge sévère||oeil rouge sévère
+703630003||œil rouge sévère||œil jaune sévère
+703630003||œil rouge sévère||oeil rouge
+703630003||œil rouge sévère||œil jaune
+703630003||œil rouge||oeil rouge sévère
+703630003||œil rouge||œil jaune sévère
+703630003||œil rouge||oeil rouge
+703630003||œil rouge||œil jaune
+703630003||oeil rouge sévère||œil jaune sévère
+703630003||oeil rouge sévère||oeil rouge
+703630003||oeil rouge sévère||œil jaune
+703630003||œil jaune sévère||oeil rouge
+703630003||œil jaune sévère||œil jaune
+703630003||oeil rouge||œil jaune
+14310000||rhinorrhée verdâtre||rhinorrhée purulente
+14310000||rhinorrhée verdâtre||rhinorrhée jaunâtre
+14310000||rhinorrhée verdâtre||rhinorrhée brunâtre
+14310000||rhinorrhée verdâtre||rhinorrhée grisâtre
+14310000||rhinorrhée purulente||rhinorrhée jaunâtre
+14310000||rhinorrhée purulente||rhinorrhée brunâtre
+14310000||rhinorrhée purulente||rhinorrhée grisâtre
+14310000||rhinorrhée jaunâtre||rhinorrhée brunâtre
+14310000||rhinorrhée jaunâtre||rhinorrhée grisâtre
+14310000||rhinorrhée brunâtre||rhinorrhée grisâtre
+18265008||exophtalmie bilatérale||proptose oculaire
+18265008||exophtalmie bilatérale||Exophtalmie bilatérale
+18265008||proptose oculaire||Exophtalmie bilatérale
+28998008||hémorragie maculaire||hémorragies rétiniennes
+285384003||détérioration progressive de l'état général||détérioration de l'état général
+285384003||détérioration progressive de l'état général||dégradation progressive de l'état général
+285384003||détérioration progressive de l'état général||détérioration graduelle de l'état général
+285384003||détérioration progressive de l'état général||dégradation de l'état général
+285384003||détérioration de l'état général||dégradation progressive de l'état général
+285384003||détérioration de l'état général||détérioration graduelle de l'état général
+285384003||détérioration de l'état général||dégradation de l'état général
+285384003||dégradation progressive de l'état général||détérioration graduelle de l'état général
+285384003||dégradation progressive de l'état général||dégradation de l'état général
+285384003||détérioration graduelle de l'état général||dégradation de l'état général
+279093005||douleurs coliques||colique
+309530007||masse hilaire||image de 3 cm dans le hile
+309530007||masse hilaire||image de 2 cm dans le hile
+309530007||masse hilaire||image de 4 cm dans le hile
+309530007||masse hilaire||image de 5 cm dans le hile
+309530007||masse hilaire||image de 6 cm dans le hile
+309530007||masse hilaire||image de 7 cm dans le hile
+309530007||image de 3 cm dans le hile||image de 2 cm dans le hile
+309530007||image de 3 cm dans le hile||image de 4 cm dans le hile
+309530007||image de 3 cm dans le hile||image de 5 cm dans le hile
+309530007||image de 3 cm dans le hile||image de 6 cm dans le hile
+309530007||image de 3 cm dans le hile||image de 7 cm dans le hile
+309530007||image de 2 cm dans le hile||image de 4 cm dans le hile
+309530007||image de 2 cm dans le hile||image de 5 cm dans le hile
+309530007||image de 2 cm dans le hile||image de 6 cm dans le hile
+309530007||image de 2 cm dans le hile||image de 7 cm dans le hile
+309530007||image de 4 cm dans le hile||image de 5 cm dans le hile
+309530007||image de 4 cm dans le hile||image de 6 cm dans le hile
+309530007||image de 4 cm dans le hile||image de 7 cm dans le hile
+309530007||image de 5 cm dans le hile||image de 6 cm dans le hile
+309530007||image de 5 cm dans le hile||image de 7 cm dans le hile
+309530007||image de 6 cm dans le hile||image de 7 cm dans le hile
+79922009||épigastralgie||douleur épigastrique
+79922009||épigastralgie||douleur épigastre
+79922009||épigastralgie||douleur épigastriques
+79922009||douleur épigastrique||douleur épigastre
+79922009||douleur épigastrique||douleur épigastriques
+79922009||douleur épigastre||douleur épigastriques
+249939004||faiblesse musculaire proximale des bras et des jambes||faiblesse musculaire proximale
+386689009||hypothermie systémique||hypothermie
+445249002||images nodulaires dans le lobe supérieur||images nodulaires dans les deux champs pulmonaires
+445249002||images nodulaires dans le lobe supérieur||images nodulaires dans le lobe inférieur
+445249002||images nodulaires dans les deux champs pulmonaires||images nodulaires dans le lobe inférieur
+170728008||déficit de l'acuité visuelle||mauvaise acuité visuelle
+170728008||déficit de l'acuité visuelle||diminution de l'acuité visuelle
+170728008||déficit de l'acuité visuelle||bonne acuité visuelle
+170728008||déficit de l'acuité visuelle||augmentation de l'acuité visuelle
+170728008||mauvaise acuité visuelle||diminution de l'acuité visuelle
+170728008||mauvaise acuité visuelle||bonne acuité visuelle
+170728008||mauvaise acuité visuelle||augmentation de l'acuité visuelle
+170728008||diminution de l'acuité visuelle||bonne acuité visuelle
+170728008||diminution de l'acuité visuelle||augmentation de l'acuité visuelle
+170728008||bonne acuité visuelle||augmentation de l'acuité visuelle
+82020005||hypomagnésémie légère||hypomagnésémie
+82020005||hypomagnésémie légère||Hypomagnésémie légère
+82020005||hypomagnésémie légère||Hypomagnésémie
+82020005||hypomagnésémie||Hypomagnésémie légère
+82020005||hypomagnésémie||Hypomagnésémie
+82020005||Hypomagnésémie légère||Hypomagnésémie
+398212009||selles liquides||diarrhée aqueuse
+11092001||tachycardie||tachycardie sinusale
+11092001||tachycardie||tachycardie sinusales
+11092001||tachycardie sinusale||tachycardie sinusales
+247156002||accumulation de liquide sous-rétinien||exsudat sous-rétinien
+708118007||culture négative||la culture du liquide péricardique était stérile
+708118007||culture négative||cultures négatives répétées
+708118007||culture négative||culture positive
+708118007||culture négative||cultures positives répétées
+708118007||la culture du liquide péricardique était stérile||cultures négatives répétées
+708118007||la culture du liquide péricardique était stérile||culture positive
+708118007||la culture du liquide péricardique était stérile||cultures positives répétées
+708118007||cultures négatives répétées||culture positive
+708118007||cultures négatives répétées||cultures positives répétées
+708118007||culture positive||cultures positives répétées
+300561007||urètre bulbaire normal||études urologiques normales
+300561007||urètre bulbaire normal||urètre bulbaires normal
+300561007||études urologiques normales||urètre bulbaires normal
+75753009||caillots||caillot
+249244000||flaccidité du pénis||flaccidité
+41652007||douleur oculaire||douleur oculaire bilatérale
+409668002||photophobie intense||photophobie
+168289002||cultures cornéennes négatives pour les bactéries, les champignons, les virus et les parasites||les cultures cornéennes étaient négatives
+168289002||cultures cornéennes négatives pour les bactéries, les champignons, les virus et les parasites||cultures cornéennes positives pour les bactéries, les champignons, les virus et les parasites
+168289002||cultures cornéennes négatives pour les bactéries, les champignons, les virus et les parasites||les cultures cornéennes semblaient négatives
+168289002||cultures cornéennes négatives pour les bactéries, les champignons, les virus et les parasites||les cultures cornéennes devaient négatives
+168289002||cultures cornéennes négatives pour les bactéries, les champignons, les virus et les parasites||les cultures cornéennes étaients négatives
+168289002||cultures cornéennes négatives pour les bactéries, les champignons, les virus et les parasites||les cultures cornéennes furent négatives
+168289002||cultures cornéennes négatives pour les bactéries, les champignons, les virus et les parasites||les cultures cornéennes restaient négatives
+168289002||les cultures cornéennes étaient négatives||cultures cornéennes positives pour les bactéries, les champignons, les virus et les parasites
+168289002||les cultures cornéennes étaient négatives||les cultures cornéennes semblaient négatives
+168289002||les cultures cornéennes étaient négatives||les cultures cornéennes devaient négatives
+168289002||les cultures cornéennes étaient négatives||les cultures cornéennes étaients négatives
+168289002||les cultures cornéennes étaient négatives||les cultures cornéennes furent négatives
+168289002||les cultures cornéennes étaient négatives||les cultures cornéennes restaient négatives
+168289002||cultures cornéennes positives pour les bactéries, les champignons, les virus et les parasites||les cultures cornéennes semblaient négatives
+168289002||cultures cornéennes positives pour les bactéries, les champignons, les virus et les parasites||les cultures cornéennes devaient négatives
+168289002||cultures cornéennes positives pour les bactéries, les champignons, les virus et les parasites||les cultures cornéennes étaients négatives
+168289002||cultures cornéennes positives pour les bactéries, les champignons, les virus et les parasites||les cultures cornéennes furent négatives
+168289002||cultures cornéennes positives pour les bactéries, les champignons, les virus et les parasites||les cultures cornéennes restaient négatives
+168289002||les cultures cornéennes semblaient négatives||les cultures cornéennes devaient négatives
+168289002||les cultures cornéennes semblaient négatives||les cultures cornéennes étaients négatives
+168289002||les cultures cornéennes semblaient négatives||les cultures cornéennes furent négatives
+168289002||les cultures cornéennes semblaient négatives||les cultures cornéennes restaient négatives
+168289002||les cultures cornéennes devaient négatives||les cultures cornéennes étaients négatives
+168289002||les cultures cornéennes devaient négatives||les cultures cornéennes furent négatives
+168289002||les cultures cornéennes devaient négatives||les cultures cornéennes restaient négatives
+168289002||les cultures cornéennes étaients négatives||les cultures cornéennes furent négatives
+168289002||les cultures cornéennes étaients négatives||les cultures cornéennes restaient négatives
+168289002||les cultures cornéennes furent négatives||les cultures cornéennes restaient négatives
+75229002||hyphéma occupant la moitié de la chambre antérieure||hyphéma
+75229002||hyphéma occupant la moitié de la chambre antérieure||hyphéma occupant la moité de la chambre antérieure
+75229002||hyphéma occupant la moitié de la chambre antérieure||hyphéma occupant la moitié de la chambre postérieure
+75229002||hyphéma||hyphéma occupant la moité de la chambre antérieure
+75229002||hyphéma||hyphéma occupant la moitié de la chambre postérieure
+75229002||hyphéma occupant la moité de la chambre antérieure||hyphéma occupant la moitié de la chambre postérieure
+419326002||limitation dans toutes les positions du regard||limitation du regard
+32566006||dysmétrie||dysmétrie des quatre membres
+32566006||dysmétrie||dysmétrie des trois membres
+32566006||dysmétrie||dysmétrie des cinq membres
+32566006||dysmétrie||dysmétrie des six membres
+32566006||dysmétrie||dysmétrie des huit membres
+32566006||dysmétrie||dysmétrie des deux membres
+32566006||dysmétrie des quatre membres||dysmétrie des trois membres
+32566006||dysmétrie des quatre membres||dysmétrie des cinq membres
+32566006||dysmétrie des quatre membres||dysmétrie des six membres
+32566006||dysmétrie des quatre membres||dysmétrie des huit membres
+32566006||dysmétrie des quatre membres||dysmétrie des deux membres
+32566006||dysmétrie des trois membres||dysmétrie des cinq membres
+32566006||dysmétrie des trois membres||dysmétrie des six membres
+32566006||dysmétrie des trois membres||dysmétrie des huit membres
+32566006||dysmétrie des trois membres||dysmétrie des deux membres
+32566006||dysmétrie des cinq membres||dysmétrie des six membres
+32566006||dysmétrie des cinq membres||dysmétrie des huit membres
+32566006||dysmétrie des cinq membres||dysmétrie des deux membres
+32566006||dysmétrie des six membres||dysmétrie des huit membres
+32566006||dysmétrie des six membres||dysmétrie des deux membres
+32566006||dysmétrie des huit membres||dysmétrie des deux membres
+440299000||masse extrinsèque rétrocardiaque||masse rétro-œsophagienne
+60280003||une pression intraoculaire adéquate||les valeurs de la pression intraoculaire étaient normales
+60280003||une pression intraoculaire adéquate||une pression intraoculaire appropriée
+60280003||une pression intraoculaire adéquate||une pression intraoculaires adéquate
+60280003||une pression intraoculaire adéquate||les valeurs de la pression intraoculaires étaient normales
+60280003||une pression intraoculaire adéquate||les valeurs de la pression intraoculaire semblaient normales
+60280003||une pression intraoculaire adéquate||les valeurs de la pression intraoculaire devaient normales
+60280003||une pression intraoculaire adéquate||les valeurs de la pression intraoculaire étaients normales
+60280003||une pression intraoculaire adéquate||les valeurs de la pression intraoculaire furent normales
+60280003||une pression intraoculaire adéquate||les valeurs de la pression intraoculaire restaient normales
+60280003||les valeurs de la pression intraoculaire étaient normales||une pression intraoculaire appropriée
+60280003||les valeurs de la pression intraoculaire étaient normales||une pression intraoculaires adéquate
+60280003||les valeurs de la pression intraoculaire étaient normales||les valeurs de la pression intraoculaires étaient normales
+60280003||les valeurs de la pression intraoculaire étaient normales||les valeurs de la pression intraoculaire semblaient normales
+60280003||les valeurs de la pression intraoculaire étaient normales||les valeurs de la pression intraoculaire devaient normales
+60280003||les valeurs de la pression intraoculaire étaient normales||les valeurs de la pression intraoculaire étaients normales
+60280003||les valeurs de la pression intraoculaire étaient normales||les valeurs de la pression intraoculaire furent normales
+60280003||les valeurs de la pression intraoculaire étaient normales||les valeurs de la pression intraoculaire restaient normales
+60280003||une pression intraoculaire appropriée||une pression intraoculaires adéquate
+60280003||une pression intraoculaire appropriée||les valeurs de la pression intraoculaires étaient normales
+60280003||une pression intraoculaire appropriée||les valeurs de la pression intraoculaire semblaient normales
+60280003||une pression intraoculaire appropriée||les valeurs de la pression intraoculaire devaient normales
+60280003||une pression intraoculaire appropriée||les valeurs de la pression intraoculaire étaients normales
+60280003||une pression intraoculaire appropriée||les valeurs de la pression intraoculaire furent normales
+60280003||une pression intraoculaire appropriée||les valeurs de la pression intraoculaire restaient normales
+60280003||une pression intraoculaires adéquate||les valeurs de la pression intraoculaires étaient normales
+60280003||une pression intraoculaires adéquate||les valeurs de la pression intraoculaire semblaient normales
+60280003||une pression intraoculaires adéquate||les valeurs de la pression intraoculaire devaient normales
+60280003||une pression intraoculaires adéquate||les valeurs de la pression intraoculaire étaients normales
+60280003||une pression intraoculaires adéquate||les valeurs de la pression intraoculaire furent normales
+60280003||une pression intraoculaires adéquate||les valeurs de la pression intraoculaire restaient normales
+60280003||les valeurs de la pression intraoculaires étaient normales||les valeurs de la pression intraoculaire semblaient normales
+60280003||les valeurs de la pression intraoculaires étaient normales||les valeurs de la pression intraoculaire devaient normales
+60280003||les valeurs de la pression intraoculaires étaient normales||les valeurs de la pression intraoculaire étaients normales
+60280003||les valeurs de la pression intraoculaires étaient normales||les valeurs de la pression intraoculaire furent normales
+60280003||les valeurs de la pression intraoculaires étaient normales||les valeurs de la pression intraoculaire restaient normales
+60280003||les valeurs de la pression intraoculaire semblaient normales||les valeurs de la pression intraoculaire devaient normales
+60280003||les valeurs de la pression intraoculaire semblaient normales||les valeurs de la pression intraoculaire étaients normales
+60280003||les valeurs de la pression intraoculaire semblaient normales||les valeurs de la pression intraoculaire furent normales
+60280003||les valeurs de la pression intraoculaire semblaient normales||les valeurs de la pression intraoculaire restaient normales
+60280003||les valeurs de la pression intraoculaire devaient normales||les valeurs de la pression intraoculaire étaients normales
+60280003||les valeurs de la pression intraoculaire devaient normales||les valeurs de la pression intraoculaire furent normales
+60280003||les valeurs de la pression intraoculaire devaient normales||les valeurs de la pression intraoculaire restaient normales
+60280003||les valeurs de la pression intraoculaire étaients normales||les valeurs de la pression intraoculaire furent normales
+60280003||les valeurs de la pression intraoculaire étaients normales||les valeurs de la pression intraoculaire restaient normales
+60280003||les valeurs de la pression intraoculaire furent normales||les valeurs de la pression intraoculaire restaient normales
+39575007||urine foncée||cholurie
+274667000||douleur hémimandibulaire||douleur lancinante dans le corps mandibulaire
+49650001||dysurie||symptômes urinaires irritatifs
+49650001||dysurie||symptomes urinaires irritatifs
+49650001||symptômes urinaires irritatifs||symptomes urinaires irritatifs
+167221003||analyse d'urine non pathologique||le sédiment urinaire était normal
+167221003||analyse d'urine non pathologique||sédiment normal
+167221003||le sédiment urinaire était normal||sédiment normal
+422773005||instabilité hémodynamique||déstabilisation hémodynamique
+422773005||instabilité hémodynamique||compromis hémodynamique
+422773005||instabilité hémodynamique||altérations hémodynamiques
+422773005||instabilité hémodynamique||instabilité hémodynamiquement
+422773005||instabilité hémodynamique||déstabilisation hémodynamiquement
+422773005||instabilité hémodynamique||compromis hémodynamiquement
+422773005||déstabilisation hémodynamique||compromis hémodynamique
+422773005||déstabilisation hémodynamique||altérations hémodynamiques
+422773005||déstabilisation hémodynamique||instabilité hémodynamiquement
+422773005||déstabilisation hémodynamique||déstabilisation hémodynamiquement
+422773005||déstabilisation hémodynamique||compromis hémodynamiquement
+422773005||compromis hémodynamique||altérations hémodynamiques
+422773005||compromis hémodynamique||instabilité hémodynamiquement
+422773005||compromis hémodynamique||déstabilisation hémodynamiquement
+422773005||compromis hémodynamique||compromis hémodynamiquement
+422773005||altérations hémodynamiques||instabilité hémodynamiquement
+422773005||altérations hémodynamiques||déstabilisation hémodynamiquement
+422773005||altérations hémodynamiques||compromis hémodynamiquement
+422773005||instabilité hémodynamiquement||déstabilisation hémodynamiquement
+422773005||instabilité hémodynamiquement||compromis hémodynamiquement
+422773005||déstabilisation hémodynamiquement||compromis hémodynamiquement
+267727004||perte de vision bilatérale||perte de vision bilatérale, progressive et indolore
+267727004||perte de vision bilatérale||perte de vision bilatérale, graduelle et indolore
+267727004||perte de vision bilatérale, progressive et indolore||perte de vision bilatérale, graduelle et indolore
+9957009||écoulement purulent transurétral||écoulement purulent par le méat urétral
+301367001||douleur abdominale prédominant dans l'hypochondre droit||douleur sourde dans l'hypochondre droit
+301367001||douleur abdominale prédominant dans l'hypochondre droit||douleur abdominale dans l'hypochondre droit
+301367001||douleur sourde dans l'hypochondre droit||douleur abdominale dans l'hypochondre droit
+60728008||l'abdomen était globuleux||distension abdominale
+409609008||infiltrat alvéolaire basal||atteinte du parenchyme basal
+707724006||transaminases élevées||une élévation des enzymes hépatiques
+707724006||transaminases élevées||augmentation progressive des transaminases
+707724006||transaminases élevées||augmentation des transaminases
+707724006||transaminases élevées||hypertransaminémie
+707724006||transaminases élevées||Transaminases élevées
+707724006||transaminases élevées||transaminase élevées
+707724006||transaminases élevées||augmentation graduelle des transaminases
+707724006||transaminases élevées||diminution progressive des transaminases
+707724006||transaminases élevées||augmentation progressive des Transaminases
+707724006||transaminases élevées||augmentation progressive des transaminase
+707724006||transaminases élevées||augmentation des Transaminases
+707724006||transaminases élevées||augmentation des transaminase
+707724006||transaminases élevées||diminution des transaminases
+707724006||une élévation des enzymes hépatiques||augmentation progressive des transaminases
+707724006||une élévation des enzymes hépatiques||augmentation des transaminases
+707724006||une élévation des enzymes hépatiques||hypertransaminémie
+707724006||une élévation des enzymes hépatiques||Transaminases élevées
+707724006||une élévation des enzymes hépatiques||transaminase élevées
+707724006||une élévation des enzymes hépatiques||augmentation graduelle des transaminases
+707724006||une élévation des enzymes hépatiques||diminution progressive des transaminases
+707724006||une élévation des enzymes hépatiques||augmentation progressive des Transaminases
+707724006||une élévation des enzymes hépatiques||augmentation progressive des transaminase
+707724006||une élévation des enzymes hépatiques||augmentation des Transaminases
+707724006||une élévation des enzymes hépatiques||augmentation des transaminase
+707724006||une élévation des enzymes hépatiques||diminution des transaminases
+707724006||augmentation progressive des transaminases||augmentation des transaminases
+707724006||augmentation progressive des transaminases||hypertransaminémie
+707724006||augmentation progressive des transaminases||Transaminases élevées
+707724006||augmentation progressive des transaminases||transaminase élevées
+707724006||augmentation progressive des transaminases||augmentation graduelle des transaminases
+707724006||augmentation progressive des transaminases||diminution progressive des transaminases
+707724006||augmentation progressive des transaminases||augmentation progressive des Transaminases
+707724006||augmentation progressive des transaminases||augmentation progressive des transaminase
+707724006||augmentation progressive des transaminases||augmentation des Transaminases
+707724006||augmentation progressive des transaminases||augmentation des transaminase
+707724006||augmentation progressive des transaminases||diminution des transaminases
+707724006||augmentation des transaminases||hypertransaminémie
+707724006||augmentation des transaminases||Transaminases élevées
+707724006||augmentation des transaminases||transaminase élevées
+707724006||augmentation des transaminases||augmentation graduelle des transaminases
+707724006||augmentation des transaminases||diminution progressive des transaminases
+707724006||augmentation des transaminases||augmentation progressive des Transaminases
+707724006||augmentation des transaminases||augmentation progressive des transaminase
+707724006||augmentation des transaminases||augmentation des Transaminases
+707724006||augmentation des transaminases||augmentation des transaminase
+707724006||augmentation des transaminases||diminution des transaminases
+707724006||hypertransaminémie||Transaminases élevées
+707724006||hypertransaminémie||transaminase élevées
+707724006||hypertransaminémie||augmentation graduelle des transaminases
+707724006||hypertransaminémie||diminution progressive des transaminases
+707724006||hypertransaminémie||augmentation progressive des Transaminases
+707724006||hypertransaminémie||augmentation progressive des transaminase
+707724006||hypertransaminémie||augmentation des Transaminases
+707724006||hypertransaminémie||augmentation des transaminase
+707724006||hypertransaminémie||diminution des transaminases
+707724006||Transaminases élevées||transaminase élevées
+707724006||Transaminases élevées||augmentation graduelle des transaminases
+707724006||Transaminases élevées||diminution progressive des transaminases
+707724006||Transaminases élevées||augmentation progressive des Transaminases
+707724006||Transaminases élevées||augmentation progressive des transaminase
+707724006||Transaminases élevées||augmentation des Transaminases
+707724006||Transaminases élevées||augmentation des transaminase
+707724006||Transaminases élevées||diminution des transaminases
+707724006||transaminase élevées||augmentation graduelle des transaminases
+707724006||transaminase élevées||diminution progressive des transaminases
+707724006||transaminase élevées||augmentation progressive des Transaminases
+707724006||transaminase élevées||augmentation progressive des transaminase
+707724006||transaminase élevées||augmentation des Transaminases
+707724006||transaminase élevées||augmentation des transaminase
+707724006||transaminase élevées||diminution des transaminases
+707724006||augmentation graduelle des transaminases||diminution progressive des transaminases
+707724006||augmentation graduelle des transaminases||augmentation progressive des Transaminases
+707724006||augmentation graduelle des transaminases||augmentation progressive des transaminase
+707724006||augmentation graduelle des transaminases||augmentation des Transaminases
+707724006||augmentation graduelle des transaminases||augmentation des transaminase
+707724006||augmentation graduelle des transaminases||diminution des transaminases
+707724006||diminution progressive des transaminases||augmentation progressive des Transaminases
+707724006||diminution progressive des transaminases||augmentation progressive des transaminase
+707724006||diminution progressive des transaminases||augmentation des Transaminases
+707724006||diminution progressive des transaminases||augmentation des transaminase
+707724006||diminution progressive des transaminases||diminution des transaminases
+707724006||augmentation progressive des Transaminases||augmentation progressive des transaminase
+707724006||augmentation progressive des Transaminases||augmentation des Transaminases
+707724006||augmentation progressive des Transaminases||augmentation des transaminase
+707724006||augmentation progressive des Transaminases||diminution des transaminases
+707724006||augmentation progressive des transaminase||augmentation des Transaminases
+707724006||augmentation progressive des transaminase||augmentation des transaminase
+707724006||augmentation progressive des transaminase||diminution des transaminases
+707724006||augmentation des Transaminases||augmentation des transaminase
+707724006||augmentation des Transaminases||diminution des transaminases
+707724006||augmentation des transaminase||diminution des transaminases
+249585009||gaz bordant la paroi de la vessie||déplacement de la vessie
+45007003||hypotension||hypotension artérielle
+40709005||douleur lombaire||lombalgie
+40709005||douleur lombaire||douleurs lombaires
+40709005||lombalgie||douleurs lombaires
+23924001||oppression thoracique||sensation de nœud rétrosternal
+23924001||oppression thoracique||sensation de noeud rétrosternal
+23924001||sensation de nœud rétrosternal||sensation de noeud rétrosternal
+95255005||hypotonie extrême du globe oculaire||hypotonie oculaire
+95255005||hypotonie extrême du globe oculaire||hypotonie extrème du globe oculaire
+95255005||hypotonie oculaire||hypotonie extrème du globe oculaire
+11833005||toux sèche||toux irritative
+66857006||expectoration hémoptotique||légère expectoration hémoptotique
+89474008||étude d'extension sans maladie||étude d'extension négative
+89474008||étude d'extension sans maladie||l'étude d'extension était normale
+89474008||étude d'extension sans maladie||étude d'extension positive
+89474008||étude d'extension négative||l'étude d'extension était normale
+89474008||étude d'extension négative||étude d'extension positive
+89474008||l'étude d'extension était normale||étude d'extension positive
+431468008||collapsus ventriculaire||effondrement du troisième ventricule
+431468008||collapsus ventriculaire||écroulement du troisième ventricule
+431468008||collapsus ventriculaire||effondrement du deuxième ventricule
+431468008||collapsus ventriculaire||effondrement du quatrième ventricule
+431468008||collapsus ventriculaire||effondrement du cinquième ventricule
+431468008||collapsus ventriculaire||effondrement du sixième ventricule
+431468008||collapsus ventriculaire||effondrement du huitième ventricule
+431468008||effondrement du troisième ventricule||écroulement du troisième ventricule
+431468008||effondrement du troisième ventricule||effondrement du deuxième ventricule
+431468008||effondrement du troisième ventricule||effondrement du quatrième ventricule
+431468008||effondrement du troisième ventricule||effondrement du cinquième ventricule
+431468008||effondrement du troisième ventricule||effondrement du sixième ventricule
+431468008||effondrement du troisième ventricule||effondrement du huitième ventricule
+431468008||écroulement du troisième ventricule||effondrement du deuxième ventricule
+431468008||écroulement du troisième ventricule||effondrement du quatrième ventricule
+431468008||écroulement du troisième ventricule||effondrement du cinquième ventricule
+431468008||écroulement du troisième ventricule||effondrement du sixième ventricule
+431468008||écroulement du troisième ventricule||effondrement du huitième ventricule
+431468008||effondrement du deuxième ventricule||effondrement du quatrième ventricule
+431468008||effondrement du deuxième ventricule||effondrement du cinquième ventricule
+431468008||effondrement du deuxième ventricule||effondrement du sixième ventricule
+431468008||effondrement du deuxième ventricule||effondrement du huitième ventricule
+431468008||effondrement du quatrième ventricule||effondrement du cinquième ventricule
+431468008||effondrement du quatrième ventricule||effondrement du sixième ventricule
+431468008||effondrement du quatrième ventricule||effondrement du huitième ventricule
+431468008||effondrement du cinquième ventricule||effondrement du sixième ventricule
+431468008||effondrement du cinquième ventricule||effondrement du huitième ventricule
+431468008||effondrement du sixième ventricule||effondrement du huitième ventricule
+67307004||circulation collatérale abdominale anormale||circulation collatérale
+70819003||rougeur||peau rougeâtre
+70819003||rougeur||peau jaunâtre
+70819003||peau rougeâtre||peau jaunâtre
+301354004||otodynie||otalgie
+68191002||les fuites d'urine sont rares et nocturnes||incontinence nocturne
+68191002||les fuites d'urine sont rares et nocturnes||incontinence nocture
+68191002||incontinence nocturne||incontinence nocture
+63901009||douleur testiculaire aiguë||légère gêne testiculaire
+63901009||douleur testiculaire aiguë||douleur testiculaire aigüe
+63901009||légère gêne testiculaire||douleur testiculaire aigüe
+57534004||distorsion des vaisseaux rétiniens||diffusion des vaisseaux rétiniens
+57534004||distorsion des vaisseaux rétiniens||distortion des vaisseaux rétiniens
+57534004||diffusion des vaisseaux rétiniens||distortion des vaisseaux rétiniens
+300449001||caillot filiforme dépassant du méat urétéral||uretère normal
+300449001||caillot filiforme dépassant du méat urétéral||uretères normal
+300449001||uretère normal||uretères normal
+235957008||collection péri-pancréatique||collection
+267096005||céphalée bifrontopariétale||céphalée globale, plus intense au niveau frontal
+267096005||céphalée bifrontopariétale||céphalée globale, moins intense au niveau frontal
+267096005||céphalée globale, plus intense au niveau frontal||céphalée globale, moins intense au niveau frontal
+15930381000119104||œdème des deux disques optiques||œdème papillaire bilatéral
+15930381000119104||œdème des deux disques optiques||oedème des deux disques optiques
+15930381000119104||œdème des deux disques optiques||oedème papillaire bilatéral
+15930381000119104||œdème papillaire bilatéral||oedème des deux disques optiques
+15930381000119104||œdème papillaire bilatéral||oedème papillaire bilatéral
+15930381000119104||oedème des deux disques optiques||oedème papillaire bilatéral
+30098003||hyperémie sévère||hyperémie
+398637008||rétine appliquée||épaisseur maculaire normale
+246874003||kératinisation conjonctivale||hyperkératinisation conjonctivale
+282050000||plastron situé dans le jéjunum||masse dans le jéjunum proximal
+300260007||le conduit était perméable||le drainage de la glande parotide gauche est normal
+300260007||le conduit était perméable||le drainage de la glande parotide droite est normal
+300260007||le drainage de la glande parotide gauche est normal||le drainage de la glande parotide droite est normal
+125144008||la tumeur est friable, avec une croissance végétative||masse exophytique d'aspect nodulaire
+237783006||tumeur surrénalienne||masse hypodense surrénalienne

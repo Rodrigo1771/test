@@ -1,0 +1,80 @@
+Language: es
+Distance Threshold: 0.75
+Original data size: 27.6 MB
+Augmented data size: 53.1 MB
+
+Language: es
+Distance Threshold: 0.75
+Original data size: 27.1 MB
+Augmented data size: 34.0 MB
+
+Language: en
+Distance Threshold: 0.75
+Original data size: 26.6 MB
+Augmented data size: 33.7 MB
+
+Language: it
+Distance Threshold: 0.75
+Original data size: 28.4 MB
+Augmented data size: 36.5 MB
+
+Language: es
+Distance Threshold: 0.8
+Original data size: 27.6 MB
+Augmented data size: 44.6 MB
+
+Language: es
+Distance Threshold: 0.8
+Original data size: 27.1 MB
+Augmented data size: 33.4 MB
+
+Language: en
+Distance Threshold: 0.8
+Original data size: 26.6 MB
+Augmented data size: 32.7 MB
+
+Language: it
+Distance Threshold: 0.8
+Original data size: 28.4 MB
+Augmented data size: 36.1 MB
+
+Language: es
+Distance Threshold: 0.85
+Original data size: 27.6 MB
+Augmented data size: 34.4 MB
+
+Language: es
+Distance Threshold: 0.85
+Original data size: 27.1 MB
+Augmented data size: 31.6 MB
+
+Language: en
+Distance Threshold: 0.85
+Original data size: 26.6 MB
+Augmented data size: 29.2 MB
+
+Language: it
+Distance Threshold: 0.85
+Original data size: 28.4 MB
+Augmented data size: 34.5 MB
+
+Language: es
+Distance Threshold: 0.9
+Original data size: 27.6 MB
+Augmented data size: 29.1 MB
+
+Language: es
+Distance Threshold: 0.9
+Original data size: 27.1 MB
+Augmented data size: 28.1 MB
+
+Language: en
+Distance Threshold: 0.9
+Original data size: 26.6 MB
+Augmented data size: 27.0 MB
+
+Language: it
+Distance Threshold: 0.9
+Original data size: 28.4 MB
+Augmented data size: 29.5 MB
+

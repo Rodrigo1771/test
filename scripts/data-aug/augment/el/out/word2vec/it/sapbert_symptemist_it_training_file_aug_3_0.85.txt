@@ -1,0 +1,1474 @@
+81141003||funzione renale normale||la funzione renale è rimasta normale
+81141003||funzione renale normale||funzione renale stabile
+81141003||funzione renale normale||funzione renale conservata
+81141003||funzione renale normale||buona funzione renale
+81141003||funzione renale normale||il rene destro era funzionalmente normale
+81141003||funzione renale normale||buona funzione renale bilaterale
+81141003||funzione renale normale||funzione epatica normale
+81141003||funzione renale normale||la funzione epatica è rimasta normale
+81141003||funzione renale normale||funzione epatica stabile
+81141003||funzione renale normale||funzione epatica conservata
+81141003||funzione renale normale||buona funzione epatica
+81141003||funzione renale normale||il rene sinistro era funzionalmente normale
+81141003||funzione renale normale||buona funzione epatica bilaterale
+81141003||la funzione renale è rimasta normale||funzione renale stabile
+81141003||la funzione renale è rimasta normale||funzione renale conservata
+81141003||la funzione renale è rimasta normale||buona funzione renale
+81141003||la funzione renale è rimasta normale||il rene destro era funzionalmente normale
+81141003||la funzione renale è rimasta normale||buona funzione renale bilaterale
+81141003||la funzione renale è rimasta normale||funzione epatica normale
+81141003||la funzione renale è rimasta normale||la funzione epatica è rimasta normale
+81141003||la funzione renale è rimasta normale||funzione epatica stabile
+81141003||la funzione renale è rimasta normale||funzione epatica conservata
+81141003||la funzione renale è rimasta normale||buona funzione epatica
+81141003||la funzione renale è rimasta normale||il rene sinistro era funzionalmente normale
+81141003||la funzione renale è rimasta normale||buona funzione epatica bilaterale
+81141003||funzione renale stabile||funzione renale conservata
+81141003||funzione renale stabile||buona funzione renale
+81141003||funzione renale stabile||il rene destro era funzionalmente normale
+81141003||funzione renale stabile||buona funzione renale bilaterale
+81141003||funzione renale stabile||funzione epatica normale
+81141003||funzione renale stabile||la funzione epatica è rimasta normale
+81141003||funzione renale stabile||funzione epatica stabile
+81141003||funzione renale stabile||funzione epatica conservata
+81141003||funzione renale stabile||buona funzione epatica
+81141003||funzione renale stabile||il rene sinistro era funzionalmente normale
+81141003||funzione renale stabile||buona funzione epatica bilaterale
+81141003||funzione renale conservata||buona funzione renale
+81141003||funzione renale conservata||il rene destro era funzionalmente normale
+81141003||funzione renale conservata||buona funzione renale bilaterale
+81141003||funzione renale conservata||funzione epatica normale
+81141003||funzione renale conservata||la funzione epatica è rimasta normale
+81141003||funzione renale conservata||funzione epatica stabile
+81141003||funzione renale conservata||funzione epatica conservata
+81141003||funzione renale conservata||buona funzione epatica
+81141003||funzione renale conservata||il rene sinistro era funzionalmente normale
+81141003||funzione renale conservata||buona funzione epatica bilaterale
+81141003||buona funzione renale||il rene destro era funzionalmente normale
+81141003||buona funzione renale||buona funzione renale bilaterale
+81141003||buona funzione renale||funzione epatica normale
+81141003||buona funzione renale||la funzione epatica è rimasta normale
+81141003||buona funzione renale||funzione epatica stabile
+81141003||buona funzione renale||funzione epatica conservata
+81141003||buona funzione renale||buona funzione epatica
+81141003||buona funzione renale||il rene sinistro era funzionalmente normale
+81141003||buona funzione renale||buona funzione epatica bilaterale
+81141003||il rene destro era funzionalmente normale||buona funzione renale bilaterale
+81141003||il rene destro era funzionalmente normale||funzione epatica normale
+81141003||il rene destro era funzionalmente normale||la funzione epatica è rimasta normale
+81141003||il rene destro era funzionalmente normale||funzione epatica stabile
+81141003||il rene destro era funzionalmente normale||funzione epatica conservata
+81141003||il rene destro era funzionalmente normale||buona funzione epatica
+81141003||il rene destro era funzionalmente normale||il rene sinistro era funzionalmente normale
+81141003||il rene destro era funzionalmente normale||buona funzione epatica bilaterale
+81141003||buona funzione renale bilaterale||funzione epatica normale
+81141003||buona funzione renale bilaterale||la funzione epatica è rimasta normale
+81141003||buona funzione renale bilaterale||funzione epatica stabile
+81141003||buona funzione renale bilaterale||funzione epatica conservata
+81141003||buona funzione renale bilaterale||buona funzione epatica
+81141003||buona funzione renale bilaterale||il rene sinistro era funzionalmente normale
+81141003||buona funzione renale bilaterale||buona funzione epatica bilaterale
+81141003||funzione epatica normale||la funzione epatica è rimasta normale
+81141003||funzione epatica normale||funzione epatica stabile
+81141003||funzione epatica normale||funzione epatica conservata
+81141003||funzione epatica normale||buona funzione epatica
+81141003||funzione epatica normale||il rene sinistro era funzionalmente normale
+81141003||funzione epatica normale||buona funzione epatica bilaterale
+81141003||la funzione epatica è rimasta normale||funzione epatica stabile
+81141003||la funzione epatica è rimasta normale||funzione epatica conservata
+81141003||la funzione epatica è rimasta normale||buona funzione epatica
+81141003||la funzione epatica è rimasta normale||il rene sinistro era funzionalmente normale
+81141003||la funzione epatica è rimasta normale||buona funzione epatica bilaterale
+81141003||funzione epatica stabile||funzione epatica conservata
+81141003||funzione epatica stabile||buona funzione epatica
+81141003||funzione epatica stabile||il rene sinistro era funzionalmente normale
+81141003||funzione epatica stabile||buona funzione epatica bilaterale
+81141003||funzione epatica conservata||buona funzione epatica
+81141003||funzione epatica conservata||il rene sinistro era funzionalmente normale
+81141003||funzione epatica conservata||buona funzione epatica bilaterale
+81141003||buona funzione epatica||il rene sinistro era funzionalmente normale
+81141003||buona funzione epatica||buona funzione epatica bilaterale
+81141003||il rene sinistro era funzionalmente normale||buona funzione epatica bilaterale
+87548005||dispepsia flatulenta||dispepsia
+300848003||tumore asintomatico||massa ipoecogena
+300848003||tumore asintomatico||massa
+300848003||tumore asintomatico||masse
+300848003||tumore asintomatico||tumori
+300848003||tumore asintomatico||massa omogenea
+300848003||tumore asintomatico||tumore endofitico
+300848003||tumore asintomatico||la massa era indolore
+300848003||massa ipoecogena||massa
+300848003||massa ipoecogena||masse
+300848003||massa ipoecogena||tumori
+300848003||massa ipoecogena||massa omogenea
+300848003||massa ipoecogena||tumore endofitico
+300848003||massa ipoecogena||la massa era indolore
+300848003||massa||masse
+300848003||massa||tumori
+300848003||massa||massa omogenea
+300848003||massa||tumore endofitico
+300848003||massa||la massa era indolore
+300848003||masse||tumori
+300848003||masse||massa omogenea
+300848003||masse||tumore endofitico
+300848003||masse||la massa era indolore
+300848003||tumori||massa omogenea
+300848003||tumori||tumore endofitico
+300848003||tumori||la massa era indolore
+300848003||massa omogenea||tumore endofitico
+300848003||massa omogenea||la massa era indolore
+300848003||tumore endofitico||la massa era indolore
+300441003||reni di dimensioni ed ecostruttura normali||parenchima renale sinistro conservato
+300441003||reni di dimensioni ed ecostruttura normali||adeguata differenziazione cortico-midollare
+300441003||reni di dimensioni ed ecostruttura normali||distorsione renale
+300441003||reni di dimensioni ed ecostruttura normali||parenchima renale destro conservato
+300441003||reni di dimensioni ed ecostruttura normali||distorsione epatica
+300441003||parenchima renale sinistro conservato||adeguata differenziazione cortico-midollare
+300441003||parenchima renale sinistro conservato||distorsione renale
+300441003||parenchima renale sinistro conservato||parenchima renale destro conservato
+300441003||parenchima renale sinistro conservato||distorsione epatica
+300441003||adeguata differenziazione cortico-midollare||distorsione renale
+300441003||adeguata differenziazione cortico-midollare||parenchima renale destro conservato
+300441003||adeguata differenziazione cortico-midollare||distorsione epatica
+300441003||distorsione renale||parenchima renale destro conservato
+300441003||distorsione renale||distorsione epatica
+300441003||parenchima renale destro conservato||distorsione epatica
+69559004||massa ben circoscritta dietro il rene||massa cistica retroperitoneale destra polilobata
+69559004||massa ben circoscritta dietro il rene||massa solida di 12 cm dietro il rene
+69559004||massa ben circoscritta dietro il rene||tumore retroperitoneale
+69559004||massa ben circoscritta dietro il rene||massa retroperitoneale
+69559004||massa ben circoscritta dietro il rene||masse retroperitoneali
+69559004||massa ben circoscritta dietro il rene||tumore splenico
+69559004||massa ben circoscritta dietro il rene||massa splenico
+69559004||massa ben circoscritta dietro il rene||masse sottomandibolari
+69559004||massa ben circoscritta dietro il rene||masse mediastinici
+69559004||massa cistica retroperitoneale destra polilobata||massa solida di 12 cm dietro il rene
+69559004||massa cistica retroperitoneale destra polilobata||tumore retroperitoneale
+69559004||massa cistica retroperitoneale destra polilobata||massa retroperitoneale
+69559004||massa cistica retroperitoneale destra polilobata||masse retroperitoneali
+69559004||massa cistica retroperitoneale destra polilobata||tumore splenico
+69559004||massa cistica retroperitoneale destra polilobata||massa splenico
+69559004||massa cistica retroperitoneale destra polilobata||masse sottomandibolari
+69559004||massa cistica retroperitoneale destra polilobata||masse mediastinici
+69559004||massa solida di 12 cm dietro il rene||tumore retroperitoneale
+69559004||massa solida di 12 cm dietro il rene||massa retroperitoneale
+69559004||massa solida di 12 cm dietro il rene||masse retroperitoneali
+69559004||massa solida di 12 cm dietro il rene||tumore splenico
+69559004||massa solida di 12 cm dietro il rene||massa splenico
+69559004||massa solida di 12 cm dietro il rene||masse sottomandibolari
+69559004||massa solida di 12 cm dietro il rene||masse mediastinici
+69559004||tumore retroperitoneale||massa retroperitoneale
+69559004||tumore retroperitoneale||masse retroperitoneali
+69559004||tumore retroperitoneale||tumore splenico
+69559004||tumore retroperitoneale||massa splenico
+69559004||tumore retroperitoneale||masse sottomandibolari
+69559004||tumore retroperitoneale||masse mediastinici
+69559004||massa retroperitoneale||masse retroperitoneali
+69559004||massa retroperitoneale||tumore splenico
+69559004||massa retroperitoneale||massa splenico
+69559004||massa retroperitoneale||masse sottomandibolari
+69559004||massa retroperitoneale||masse mediastinici
+69559004||masse retroperitoneali||tumore splenico
+69559004||masse retroperitoneali||massa splenico
+69559004||masse retroperitoneali||masse sottomandibolari
+69559004||masse retroperitoneali||masse mediastinici
+69559004||tumore splenico||massa splenico
+69559004||tumore splenico||masse sottomandibolari
+69559004||tumore splenico||masse mediastinici
+69559004||massa splenico||masse sottomandibolari
+69559004||massa splenico||masse mediastinici
+69559004||masse sottomandibolari||masse mediastinici
+301459008||emodinamicamente stabile||stabilità emodinamica
+62315008||diarrea||diarrea febbrile
+64882008||episodi febbrili||febbre alta
+64882008||episodi febbrili||febbre occasionale
+64882008||episodi febbrili||sindrome febbrile
+64882008||episodi febbrili||picchi febbrili
+64882008||episodi febbrili||aumento della temperatura
+64882008||episodi febbrili||febbre
+64882008||episodi febbrili||febbricitante
+64882008||episodi febbrili||incremento della temperatura
+64882008||febbre alta||febbre occasionale
+64882008||febbre alta||sindrome febbrile
+64882008||febbre alta||picchi febbrili
+64882008||febbre alta||aumento della temperatura
+64882008||febbre alta||febbre
+64882008||febbre alta||febbricitante
+64882008||febbre alta||incremento della temperatura
+64882008||febbre occasionale||sindrome febbrile
+64882008||febbre occasionale||picchi febbrili
+64882008||febbre occasionale||aumento della temperatura
+64882008||febbre occasionale||febbre
+64882008||febbre occasionale||febbricitante
+64882008||febbre occasionale||incremento della temperatura
+64882008||sindrome febbrile||picchi febbrili
+64882008||sindrome febbrile||aumento della temperatura
+64882008||sindrome febbrile||febbre
+64882008||sindrome febbrile||febbricitante
+64882008||sindrome febbrile||incremento della temperatura
+64882008||picchi febbrili||aumento della temperatura
+64882008||picchi febbrili||febbre
+64882008||picchi febbrili||febbricitante
+64882008||picchi febbrili||incremento della temperatura
+64882008||aumento della temperatura||febbre
+64882008||aumento della temperatura||febbricitante
+64882008||aumento della temperatura||incremento della temperatura
+64882008||febbre||febbricitante
+64882008||febbre||incremento della temperatura
+64882008||febbricitante||incremento della temperatura
+52613005||diaforesi||diaforetico
+52613005||diaforesi||sudorazione
+52613005||diaforesi||sudato
+52613005||diaforesi||sudorazione profusa
+52613005||diaforesi||epigastralgia
+52613005||diaforesi||iperpiressia
+52613005||diaforesi||iperidrosi
+52613005||diaforesi||mucosite
+52613005||diaforesi||pirosi
+52613005||diaforetico||sudorazione
+52613005||diaforetico||sudato
+52613005||diaforetico||sudorazione profusa
+52613005||diaforetico||epigastralgia
+52613005||diaforetico||iperpiressia
+52613005||diaforetico||iperidrosi
+52613005||diaforetico||mucosite
+52613005||diaforetico||pirosi
+52613005||sudorazione||sudato
+52613005||sudorazione||sudorazione profusa
+52613005||sudorazione||epigastralgia
+52613005||sudorazione||iperpiressia
+52613005||sudorazione||iperidrosi
+52613005||sudorazione||mucosite
+52613005||sudorazione||pirosi
+52613005||sudato||sudorazione profusa
+52613005||sudato||epigastralgia
+52613005||sudato||iperpiressia
+52613005||sudato||iperidrosi
+52613005||sudato||mucosite
+52613005||sudato||pirosi
+52613005||sudorazione profusa||epigastralgia
+52613005||sudorazione profusa||iperpiressia
+52613005||sudorazione profusa||iperidrosi
+52613005||sudorazione profusa||mucosite
+52613005||sudorazione profusa||pirosi
+52613005||epigastralgia||iperpiressia
+52613005||epigastralgia||iperidrosi
+52613005||epigastralgia||mucosite
+52613005||epigastralgia||pirosi
+52613005||iperpiressia||iperidrosi
+52613005||iperpiressia||mucosite
+52613005||iperpiressia||pirosi
+52613005||iperidrosi||mucosite
+52613005||iperidrosi||pirosi
+52613005||mucosite||pirosi
+271653008||vene giugulari ingurgitate||ingurgito giugulare
+233703007||modello interstiziale nodulare||modello interstiziale
+233703007||modello interstiziale nodulare||prominenza interstiziale
+233703007||modello interstiziale nodulare||modello interstiziale bilaterale
+233703007||modello interstiziale||prominenza interstiziale
+233703007||modello interstiziale||modello interstiziale bilaterale
+233703007||prominenza interstiziale||modello interstiziale bilaterale
+19829001||alterazioni bilaterali e diffuse del parenchima polmonare||coinvolgimento parenchimale del polmone
+19829001||alterazioni bilaterali e diffuse del parenchima polmonare||coinvolgimento vasogenico del polmone
+19829001||coinvolgimento parenchimale del polmone||coinvolgimento vasogenico del polmone
+49233005||dispnea||dispnea di intensità progressiva
+166315009||biochimica normale||biochimica, ioni e transaminasi erano normali
+284520004||crepitii bibasali||crepitii bilaterali diffusi
+75823008||essudato||secrezione
+257552002||segni infiammatori||flogosi
+27925004||formazione nodulare||noduli
+27925004||formazione nodulare||noduli irregolari
+27925004||formazione nodulare||nodulo subcapsulare
+27925004||formazione nodulare||nodulo
+27925004||noduli||noduli irregolari
+27925004||noduli||nodulo subcapsulare
+27925004||noduli||nodulo
+27925004||noduli irregolari||nodulo subcapsulare
+27925004||noduli irregolari||nodulo
+27925004||nodulo subcapsulare||nodulo
+87860000||massa testicolare||massa non dolorosa nel testicolo destro
+87860000||massa testicolare||tumore testicolare bilaterale
+87860000||massa testicolare||nodulo ipoecogeno nel testicolo
+87860000||massa non dolorosa nel testicolo destro||tumore testicolare bilaterale
+87860000||massa non dolorosa nel testicolo destro||nodulo ipoecogeno nel testicolo
+87860000||tumore testicolare bilaterale||nodulo ipoecogeno nel testicolo
+399406009||marcatori testicolari negativi||i marcatori tumorali sierici erano a livelli normali
+399406009||marcatori testicolari negativi||marcatori tumorali normali
+399406009||marcatori testicolari negativi||marcatori tumorali negativi
+399406009||marcatori testicolari negativi||i marcatori tumorali erano negativi
+399406009||i marcatori tumorali sierici erano a livelli normali||marcatori tumorali normali
+399406009||i marcatori tumorali sierici erano a livelli normali||marcatori tumorali negativi
+399406009||i marcatori tumorali sierici erano a livelli normali||i marcatori tumorali erano negativi
+399406009||marcatori tumorali normali||marcatori tumorali negativi
+399406009||marcatori tumorali normali||i marcatori tumorali erano negativi
+399406009||marcatori tumorali negativi||i marcatori tumorali erano negativi
+408573005||studi radiologici normali||i test di imaging erano negativi
+408573005||studi radiologici normali||l'ecografia addominale era normale
+408573005||i test di imaging erano negativi||l'ecografia addominale era normale
+76849009||iniezione congiuntivale||iperemia congiuntivale mista
+76849009||iniezione congiuntivale||iperemia congiuntivale
+76849009||iniezione congiuntivale||papilledema congiuntivale mista
+76849009||iniezione congiuntivale||papilledema congiuntivale
+76849009||iperemia congiuntivale mista||iperemia congiuntivale
+76849009||iperemia congiuntivale mista||papilledema congiuntivale mista
+76849009||iperemia congiuntivale mista||papilledema congiuntivale
+76849009||iperemia congiuntivale||papilledema congiuntivale mista
+76849009||iperemia congiuntivale||papilledema congiuntivale
+76849009||papilledema congiuntivale mista||papilledema congiuntivale
+79890006||perdita di appetito||anoressia
+79890006||perdita di appetito||anoressia moderata
+79890006||anoressia||anoressia moderata
+422400008||vomito autolimitato di durata variabile||vomito
+422400008||vomito autolimitato di durata variabile||nausea
+422400008||vomito||nausea
+168733007||la radiografia del torace era nei limiti della norma||radiografia del torace rigorosamente normale
+168733007||la radiografia del torace era nei limiti della norma||la radiografia del torace non ha mostrato anomalie
+168733007||la radiografia del torace era nei limiti della norma||la radiografia del torace era normale
+168733007||la radiografia del torace era nei limiti della norma||radiografia del torace senza alterazioni patologiche
+168733007||radiografia del torace rigorosamente normale||la radiografia del torace non ha mostrato anomalie
+168733007||radiografia del torace rigorosamente normale||la radiografia del torace era normale
+168733007||radiografia del torace rigorosamente normale||radiografia del torace senza alterazioni patologiche
+168733007||la radiografia del torace non ha mostrato anomalie||la radiografia del torace era normale
+168733007||la radiografia del torace non ha mostrato anomalie||radiografia del torace senza alterazioni patologiche
+168733007||la radiografia del torace era normale||radiografia del torace senza alterazioni patologiche
+563001||nistagmo||nistagmo da abduzione in entrambi gli occhi
+301367001||dolore all'ipocondrio destro||dolore addominale nell'ipocondrio destro
+301367001||dolore all'ipocondrio destro||dolore sordo nell'ipocondrio destro
+301367001||dolore all'ipocondrio destro||dolore addominale prevalentemente nell'ipocondrio destro
+301367001||dolore all'ipocondrio destro||dolore all'ipocondrio sinistro
+301367001||dolore all'ipocondrio destro||dolore addominale nell'ipocondrio sinistro
+301367001||dolore all'ipocondrio destro||dolore sordo nell'ipocondrio sinistro
+301367001||dolore all'ipocondrio destro||dolore addominale prevalentemente nell'ipocondrio sinistro
+301367001||dolore addominale nell'ipocondrio destro||dolore sordo nell'ipocondrio destro
+301367001||dolore addominale nell'ipocondrio destro||dolore addominale prevalentemente nell'ipocondrio destro
+301367001||dolore addominale nell'ipocondrio destro||dolore all'ipocondrio sinistro
+301367001||dolore addominale nell'ipocondrio destro||dolore addominale nell'ipocondrio sinistro
+301367001||dolore addominale nell'ipocondrio destro||dolore sordo nell'ipocondrio sinistro
+301367001||dolore addominale nell'ipocondrio destro||dolore addominale prevalentemente nell'ipocondrio sinistro
+301367001||dolore sordo nell'ipocondrio destro||dolore addominale prevalentemente nell'ipocondrio destro
+301367001||dolore sordo nell'ipocondrio destro||dolore all'ipocondrio sinistro
+301367001||dolore sordo nell'ipocondrio destro||dolore addominale nell'ipocondrio sinistro
+301367001||dolore sordo nell'ipocondrio destro||dolore sordo nell'ipocondrio sinistro
+301367001||dolore sordo nell'ipocondrio destro||dolore addominale prevalentemente nell'ipocondrio sinistro
+301367001||dolore addominale prevalentemente nell'ipocondrio destro||dolore all'ipocondrio sinistro
+301367001||dolore addominale prevalentemente nell'ipocondrio destro||dolore addominale nell'ipocondrio sinistro
+301367001||dolore addominale prevalentemente nell'ipocondrio destro||dolore sordo nell'ipocondrio sinistro
+301367001||dolore addominale prevalentemente nell'ipocondrio destro||dolore addominale prevalentemente nell'ipocondrio sinistro
+301367001||dolore all'ipocondrio sinistro||dolore addominale nell'ipocondrio sinistro
+301367001||dolore all'ipocondrio sinistro||dolore sordo nell'ipocondrio sinistro
+301367001||dolore all'ipocondrio sinistro||dolore addominale prevalentemente nell'ipocondrio sinistro
+301367001||dolore addominale nell'ipocondrio sinistro||dolore sordo nell'ipocondrio sinistro
+301367001||dolore addominale nell'ipocondrio sinistro||dolore addominale prevalentemente nell'ipocondrio sinistro
+301367001||dolore sordo nell'ipocondrio sinistro||dolore addominale prevalentemente nell'ipocondrio sinistro
+237783006||tumore nella zona surrenale||massa surrenale
+237783006||tumore nella zona surrenale||tumore surrenale
+237783006||massa surrenale||tumore surrenale
+399122003||disfagia||disfagia progressiva
+8644006||pesantezza postprandiale||sensazione di pienezza
+267045008||sintomi gastrointestinali||manifestazioni gastrointestinali
+275723000||deterioramento clinico||peggioramento delle condizioni generali
+131148009||sangue||sanguinamento
+131148009||sangue||emorragia
+131148009||sanguinamento||emorragia
+22253000||dolore||doloroso
+22253000||dolore||dolore persistente
+22253000||doloroso||dolore persistente
+72970002||i segni vitali erano normali||l'esame clinico e i segni vitali erano normali
+83128009||oligoanuria||oliguria
+83128009||oligoanuria||anuria
+83128009||oligoanuria||iperpiressia
+83128009||oliguria||anuria
+83128009||oliguria||iperpiressia
+83128009||anuria||iperpiressia
+419099009||successo||morte
+419099009||successo||exitus
+419099009||successo||morto
+419099009||morte||exitus
+419099009||morte||morto
+419099009||exitus||morto
+422773005||emodinamicamente instabile||compromissione emodinamica
+422773005||emodinamicamente instabile||destabilizzazione emodinamica
+422773005||emodinamicamente instabile||instabilità emodinamica
+422773005||compromissione emodinamica||destabilizzazione emodinamica
+422773005||compromissione emodinamica||instabilità emodinamica
+422773005||destabilizzazione emodinamica||instabilità emodinamica
+300474003||diuresi conservata||diuresi spontanea
+246636008||visione offuscata||visione offuscata in entrambi gli occhi
+314983004||peggioramento della funzione renale||progressivo deterioramento della funzione renale
+314983004||peggioramento della funzione renale||peggioramento della funzione epatica
+314983004||peggioramento della funzione renale||progressivo deterioramento della funzione epatica
+314983004||progressivo deterioramento della funzione renale||peggioramento della funzione epatica
+314983004||progressivo deterioramento della funzione renale||progressivo deterioramento della funzione epatica
+314983004||peggioramento della funzione epatica||progressivo deterioramento della funzione epatica
+40733004||focus infettivo||focolai infettivi
+80515008||epatomegalia dolorosa||ingrossamento del fegato
+440027000||infiltrato corneale||inclusione corneale
+27194006||edema corneale moderato||edema corneale
+52985009||liquido ascitico con caratteristiche chilose||ascite chilosa
+389026000||ascite||liquido ascitico
+93457003||liquido peritoneale||liquido libero nella cavità peritoneale
+119247004||ipoalbuminemia||grave ipoalbuminemia
+119247004||ipoalbuminemia||natriemia
+119247004||ipoalbuminemia||l'alcalosi
+119247004||ipoalbuminemia||ipernatriemia
+119247004||ipoalbuminemia||creatinfosfochinasi
+119247004||ipoalbuminemia||iperviscosità
+119247004||ipoalbuminemia||grave natriemia
+119247004||ipoalbuminemia||grave l'alcalosi
+119247004||ipoalbuminemia||grave ipernatriemia
+119247004||ipoalbuminemia||grave creatinfosfochinasi
+119247004||ipoalbuminemia||grave iperviscosità
+119247004||grave ipoalbuminemia||natriemia
+119247004||grave ipoalbuminemia||l'alcalosi
+119247004||grave ipoalbuminemia||ipernatriemia
+119247004||grave ipoalbuminemia||creatinfosfochinasi
+119247004||grave ipoalbuminemia||iperviscosità
+119247004||grave ipoalbuminemia||grave natriemia
+119247004||grave ipoalbuminemia||grave l'alcalosi
+119247004||grave ipoalbuminemia||grave ipernatriemia
+119247004||grave ipoalbuminemia||grave creatinfosfochinasi
+119247004||grave ipoalbuminemia||grave iperviscosità
+119247004||natriemia||l'alcalosi
+119247004||natriemia||ipernatriemia
+119247004||natriemia||creatinfosfochinasi
+119247004||natriemia||iperviscosità
+119247004||natriemia||grave natriemia
+119247004||natriemia||grave l'alcalosi
+119247004||natriemia||grave ipernatriemia
+119247004||natriemia||grave creatinfosfochinasi
+119247004||natriemia||grave iperviscosità
+119247004||l'alcalosi||ipernatriemia
+119247004||l'alcalosi||creatinfosfochinasi
+119247004||l'alcalosi||iperviscosità
+119247004||l'alcalosi||grave natriemia
+119247004||l'alcalosi||grave l'alcalosi
+119247004||l'alcalosi||grave ipernatriemia
+119247004||l'alcalosi||grave creatinfosfochinasi
+119247004||l'alcalosi||grave iperviscosità
+119247004||ipernatriemia||creatinfosfochinasi
+119247004||ipernatriemia||iperviscosità
+119247004||ipernatriemia||grave natriemia
+119247004||ipernatriemia||grave l'alcalosi
+119247004||ipernatriemia||grave ipernatriemia
+119247004||ipernatriemia||grave creatinfosfochinasi
+119247004||ipernatriemia||grave iperviscosità
+119247004||creatinfosfochinasi||iperviscosità
+119247004||creatinfosfochinasi||grave natriemia
+119247004||creatinfosfochinasi||grave l'alcalosi
+119247004||creatinfosfochinasi||grave ipernatriemia
+119247004||creatinfosfochinasi||grave creatinfosfochinasi
+119247004||creatinfosfochinasi||grave iperviscosità
+119247004||iperviscosità||grave natriemia
+119247004||iperviscosità||grave l'alcalosi
+119247004||iperviscosità||grave ipernatriemia
+119247004||iperviscosità||grave creatinfosfochinasi
+119247004||iperviscosità||grave iperviscosità
+119247004||grave natriemia||grave l'alcalosi
+119247004||grave natriemia||grave ipernatriemia
+119247004||grave natriemia||grave creatinfosfochinasi
+119247004||grave natriemia||grave iperviscosità
+119247004||grave l'alcalosi||grave ipernatriemia
+119247004||grave l'alcalosi||grave creatinfosfochinasi
+119247004||grave l'alcalosi||grave iperviscosità
+119247004||grave ipernatriemia||grave creatinfosfochinasi
+119247004||grave ipernatriemia||grave iperviscosità
+119247004||grave creatinfosfochinasi||grave iperviscosità
+386789004||eosinofilia||eosinofilia periferica
+386789004||eosinofilia||leucopenia
+386789004||eosinofilia||granulocitopenia
+386789004||eosinofilia||agranulocitosi
+386789004||eosinofilia||leucopenia periferica
+386789004||eosinofilia||granulocitopenia periferica
+386789004||eosinofilia||agranulocitosi periferica
+386789004||eosinofilia periferica||leucopenia
+386789004||eosinofilia periferica||granulocitopenia
+386789004||eosinofilia periferica||agranulocitosi
+386789004||eosinofilia periferica||leucopenia periferica
+386789004||eosinofilia periferica||granulocitopenia periferica
+386789004||eosinofilia periferica||agranulocitosi periferica
+386789004||leucopenia||granulocitopenia
+386789004||leucopenia||agranulocitosi
+386789004||leucopenia||leucopenia periferica
+386789004||leucopenia||granulocitopenia periferica
+386789004||leucopenia||agranulocitosi periferica
+386789004||granulocitopenia||agranulocitosi
+386789004||granulocitopenia||leucopenia periferica
+386789004||granulocitopenia||granulocitopenia periferica
+386789004||granulocitopenia||agranulocitosi periferica
+386789004||agranulocitosi||leucopenia periferica
+386789004||agranulocitosi||granulocitopenia periferica
+386789004||agranulocitosi||agranulocitosi periferica
+386789004||leucopenia periferica||granulocitopenia periferica
+386789004||leucopenia periferica||agranulocitosi periferica
+386789004||granulocitopenia periferica||agranulocitosi periferica
+278683009||occlusione stabile e ripetibile||buona occlusione dentale
+301936006||il polo anteriore era normale in entrambi gli occhi||buona profondità della camera anteriore
+301936006||il polo anteriore era normale in entrambi gli occhi||il polo posteriore era normale in entrambi gli occhi
+301936006||buona profondità della camera anteriore||il polo posteriore era normale in entrambi gli occhi
+103251002||la motilità oculare estrinseca e intrinseca era normale||motilità oculare estrinseca e intrinseca
+103251002||la motilità oculare estrinseca e intrinseca era normale||la motilità estrinseca e intrinseca era normale
+103251002||motilità oculare estrinseca e intrinseca||la motilità estrinseca e intrinseca era normale
+24982008||diplopia binoculare orizzontale||visione doppia
+24982008||diplopia binoculare orizzontale||diplopia
+24982008||diplopia binoculare orizzontale||diplopia orizzontale
+24982008||diplopia binoculare orizzontale||diplopia binoculare verticale
+24982008||diplopia binoculare orizzontale||diplopia verticale
+24982008||visione doppia||diplopia
+24982008||visione doppia||diplopia orizzontale
+24982008||visione doppia||diplopia binoculare verticale
+24982008||visione doppia||diplopia verticale
+24982008||diplopia||diplopia orizzontale
+24982008||diplopia||diplopia binoculare verticale
+24982008||diplopia||diplopia verticale
+24982008||diplopia orizzontale||diplopia binoculare verticale
+24982008||diplopia orizzontale||diplopia verticale
+24982008||diplopia binoculare verticale||diplopia verticale
+300855001||tumore intraluminale||massa intestinale
+300855001||tumore intraluminale||tumore dell'ischemia
+300855001||tumore intraluminale||tumore dell'acidosi
+300855001||tumore intraluminale||tumore dell'interstizio
+300855001||massa intestinale||tumore dell'ischemia
+300855001||massa intestinale||tumore dell'acidosi
+300855001||massa intestinale||tumore dell'interstizio
+300855001||tumore dell'ischemia||tumore dell'acidosi
+300855001||tumore dell'ischemia||tumore dell'interstizio
+300855001||tumore dell'acidosi||tumore dell'interstizio
+15253005||asimmetria facciale||deviazione della linea mediana del viso
+23149001||crepitazione della corteccia vestibolare||sensazione di crepitio a livello infraorbitale
+63049000||struttura ossea normale||osso sano
+63049000||struttura ossea normale||adeguata formazione di osso longitudinale
+63049000||osso sano||adeguata formazione di osso longitudinale
+271823003||aumento della frequenza respiratoria||tachipnea persistente
+271823003||aumento della frequenza respiratoria||tachipnea
+271823003||aumento della frequenza respiratoria||incremento della frequenza respiratoria
+271823003||aumento della frequenza respiratoria||iperreflessia persistente
+271823003||aumento della frequenza respiratoria||lipotimia persistente
+271823003||aumento della frequenza respiratoria||iperpiressia persistente
+271823003||aumento della frequenza respiratoria||ortopnea persistente
+271823003||aumento della frequenza respiratoria||mioclonie persistente
+271823003||aumento della frequenza respiratoria||iperreflessia
+271823003||aumento della frequenza respiratoria||lipotimia
+271823003||aumento della frequenza respiratoria||iperpiressia
+271823003||aumento della frequenza respiratoria||ortopnea
+271823003||aumento della frequenza respiratoria||mioclonie
+271823003||tachipnea persistente||tachipnea
+271823003||tachipnea persistente||incremento della frequenza respiratoria
+271823003||tachipnea persistente||iperreflessia persistente
+271823003||tachipnea persistente||lipotimia persistente
+271823003||tachipnea persistente||iperpiressia persistente
+271823003||tachipnea persistente||ortopnea persistente
+271823003||tachipnea persistente||mioclonie persistente
+271823003||tachipnea persistente||iperreflessia
+271823003||tachipnea persistente||lipotimia
+271823003||tachipnea persistente||iperpiressia
+271823003||tachipnea persistente||ortopnea
+271823003||tachipnea persistente||mioclonie
+271823003||tachipnea||incremento della frequenza respiratoria
+271823003||tachipnea||iperreflessia persistente
+271823003||tachipnea||lipotimia persistente
+271823003||tachipnea||iperpiressia persistente
+271823003||tachipnea||ortopnea persistente
+271823003||tachipnea||mioclonie persistente
+271823003||tachipnea||iperreflessia
+271823003||tachipnea||lipotimia
+271823003||tachipnea||iperpiressia
+271823003||tachipnea||ortopnea
+271823003||tachipnea||mioclonie
+271823003||incremento della frequenza respiratoria||iperreflessia persistente
+271823003||incremento della frequenza respiratoria||lipotimia persistente
+271823003||incremento della frequenza respiratoria||iperpiressia persistente
+271823003||incremento della frequenza respiratoria||ortopnea persistente
+271823003||incremento della frequenza respiratoria||mioclonie persistente
+271823003||incremento della frequenza respiratoria||iperreflessia
+271823003||incremento della frequenza respiratoria||lipotimia
+271823003||incremento della frequenza respiratoria||iperpiressia
+271823003||incremento della frequenza respiratoria||ortopnea
+271823003||incremento della frequenza respiratoria||mioclonie
+271823003||iperreflessia persistente||lipotimia persistente
+271823003||iperreflessia persistente||iperpiressia persistente
+271823003||iperreflessia persistente||ortopnea persistente
+271823003||iperreflessia persistente||mioclonie persistente
+271823003||iperreflessia persistente||iperreflessia
+271823003||iperreflessia persistente||lipotimia
+271823003||iperreflessia persistente||iperpiressia
+271823003||iperreflessia persistente||ortopnea
+271823003||iperreflessia persistente||mioclonie
+271823003||lipotimia persistente||iperpiressia persistente
+271823003||lipotimia persistente||ortopnea persistente
+271823003||lipotimia persistente||mioclonie persistente
+271823003||lipotimia persistente||iperreflessia
+271823003||lipotimia persistente||lipotimia
+271823003||lipotimia persistente||iperpiressia
+271823003||lipotimia persistente||ortopnea
+271823003||lipotimia persistente||mioclonie
+271823003||iperpiressia persistente||ortopnea persistente
+271823003||iperpiressia persistente||mioclonie persistente
+271823003||iperpiressia persistente||iperreflessia
+271823003||iperpiressia persistente||lipotimia
+271823003||iperpiressia persistente||iperpiressia
+271823003||iperpiressia persistente||ortopnea
+271823003||iperpiressia persistente||mioclonie
+271823003||ortopnea persistente||mioclonie persistente
+271823003||ortopnea persistente||iperreflessia
+271823003||ortopnea persistente||lipotimia
+271823003||ortopnea persistente||iperpiressia
+271823003||ortopnea persistente||ortopnea
+271823003||ortopnea persistente||mioclonie
+271823003||mioclonie persistente||iperreflessia
+271823003||mioclonie persistente||lipotimia
+271823003||mioclonie persistente||iperpiressia
+271823003||mioclonie persistente||ortopnea
+271823003||mioclonie persistente||mioclonie
+271823003||iperreflessia||lipotimia
+271823003||iperreflessia||iperpiressia
+271823003||iperreflessia||ortopnea
+271823003||iperreflessia||mioclonie
+271823003||lipotimia||iperpiressia
+271823003||lipotimia||ortopnea
+271823003||lipotimia||mioclonie
+271823003||iperpiressia||ortopnea
+271823003||iperpiressia||mioclonie
+271823003||ortopnea||mioclonie
+89362005||perdere peso||perdita di circa 15 kg di peso
+89362005||perdere peso||perdita di peso di 5 kg
+89362005||perdere peso||perdita di peso di 15 kg
+89362005||perdere peso||perdita di peso di 7 kg
+89362005||perdere peso||perdita di peso
+89362005||perdita di circa 15 kg di peso||perdita di peso di 5 kg
+89362005||perdita di circa 15 kg di peso||perdita di peso di 15 kg
+89362005||perdita di circa 15 kg di peso||perdita di peso di 7 kg
+89362005||perdita di circa 15 kg di peso||perdita di peso
+89362005||perdita di peso di 5 kg||perdita di peso di 15 kg
+89362005||perdita di peso di 5 kg||perdita di peso di 7 kg
+89362005||perdita di peso di 5 kg||perdita di peso
+89362005||perdita di peso di 15 kg||perdita di peso di 7 kg
+89362005||perdita di peso di 15 kg||perdita di peso
+89362005||perdita di peso di 7 kg||perdita di peso
+53298000||ematuria anemica totale||ematuria
+90708001||ritenzione nel polo superiore sinistro||coinvolgimento renale
+90708001||ritenzione nel polo superiore sinistro||coinvolgimento epatica
+90708001||coinvolgimento renale||coinvolgimento epatica
+359746009||clinicamente stabile||stabile
+271594007||episodio sincopale||sincope
+204676004||mucosa gastrica eterotopica||mucosa gastrica ectopica
+64379006||assunzione ridotta||meno appetito
+64379006||assunzione ridotta||diminuzione dell'assunzione
+64379006||meno appetito||diminuzione dell'assunzione
+88936002||elevazione dei due emidiaframmi||elevazione diaframmatica condizionata dalle grandi dimensioni dei reni
+88936002||elevazione dei due emidiaframmi||elevazione dei tre emidiaframmi
+88936002||elevazione diaframmatica condizionata dalle grandi dimensioni dei reni||elevazione dei tre emidiaframmi
+249562008||spostamento delle anse intestinali||anse intestinali con una piccola quantità di liquido libero
+165406005||parametri normali delle tre serie ematologiche||emogramma normale
+309088003||massa solida nel polo superiore del rene||masse renali
+309088003||massa solida nel polo superiore del rene||massa renale
+309088003||massa solida nel polo superiore del rene||massa di 5 cm di diametro nel rene sinistro
+309088003||massa solida nel polo superiore del rene||massa solida nel polo inferiore del rene
+309088003||massa solida nel polo superiore del rene||massa epatica
+309088003||masse renali||massa renale
+309088003||masse renali||massa di 5 cm di diametro nel rene sinistro
+309088003||masse renali||massa solida nel polo inferiore del rene
+309088003||masse renali||massa epatica
+309088003||massa renale||massa di 5 cm di diametro nel rene sinistro
+309088003||massa renale||massa solida nel polo inferiore del rene
+309088003||massa renale||massa epatica
+309088003||massa di 5 cm di diametro nel rene sinistro||massa solida nel polo inferiore del rene
+309088003||massa di 5 cm di diametro nel rene sinistro||massa epatica
+309088003||massa solida nel polo inferiore del rene||massa epatica
+274643008||pallore||pallore della pelle
+443371007||obnubilamento||diminuzione del livello di coscienza
+443371007||obnubilamento||basso livello di coscienza
+443371007||obnubilamento||progressivo deterioramento del livello di coscienza
+443371007||diminuzione del livello di coscienza||basso livello di coscienza
+443371007||diminuzione del livello di coscienza||progressivo deterioramento del livello di coscienza
+443371007||basso livello di coscienza||progressivo deterioramento del livello di coscienza
+249545003||difesa addominale||difesa alla palpazione
+249545003||difesa addominale||difesa
+249545003||difesa addominale||peritonismo
+249545003||difesa alla palpazione||difesa
+249545003||difesa alla palpazione||peritonismo
+249545003||difesa||peritonismo
+249339005||piramide nasale stretta||narici strette
+9589009||difficoltà di deambulazione||difficoltà a camminare
+135815002||buon aspetto generale||buone condizioni generali
+34095006||disidratazione||disidratato
+91175000||crisi||episodi convulsivi
+91175000||crisi||episodio convulsivo
+91175000||episodi convulsivi||episodio convulsivo
+128139000||infiammazione||reazione infiammatoria
+445088006||edema facciale||edema della mascella superiore
+445088006||edema facciale||edema della mandibola superiore
+445088006||edema della mascella superiore||edema della mandibola superiore
+14310000||rinorrea verdastra||rinorrea purulenta
+14310000||rinorrea verdastra||pirosi verdastra
+14310000||rinorrea verdastra||scialorrea verdastra
+14310000||rinorrea verdastra||mialgie verdastra
+14310000||rinorrea verdastra||epigastralgia verdastra
+14310000||rinorrea verdastra||epigastrico verdastra
+14310000||rinorrea verdastra||pirosi purulenta
+14310000||rinorrea verdastra||scialorrea purulenta
+14310000||rinorrea verdastra||mialgie purulenta
+14310000||rinorrea verdastra||epigastralgia purulenta
+14310000||rinorrea verdastra||epigastrico purulenta
+14310000||rinorrea purulenta||pirosi verdastra
+14310000||rinorrea purulenta||scialorrea verdastra
+14310000||rinorrea purulenta||mialgie verdastra
+14310000||rinorrea purulenta||epigastralgia verdastra
+14310000||rinorrea purulenta||epigastrico verdastra
+14310000||rinorrea purulenta||pirosi purulenta
+14310000||rinorrea purulenta||scialorrea purulenta
+14310000||rinorrea purulenta||mialgie purulenta
+14310000||rinorrea purulenta||epigastralgia purulenta
+14310000||rinorrea purulenta||epigastrico purulenta
+14310000||pirosi verdastra||scialorrea verdastra
+14310000||pirosi verdastra||mialgie verdastra
+14310000||pirosi verdastra||epigastralgia verdastra
+14310000||pirosi verdastra||epigastrico verdastra
+14310000||pirosi verdastra||pirosi purulenta
+14310000||pirosi verdastra||scialorrea purulenta
+14310000||pirosi verdastra||mialgie purulenta
+14310000||pirosi verdastra||epigastralgia purulenta
+14310000||pirosi verdastra||epigastrico purulenta
+14310000||scialorrea verdastra||mialgie verdastra
+14310000||scialorrea verdastra||epigastralgia verdastra
+14310000||scialorrea verdastra||epigastrico verdastra
+14310000||scialorrea verdastra||pirosi purulenta
+14310000||scialorrea verdastra||scialorrea purulenta
+14310000||scialorrea verdastra||mialgie purulenta
+14310000||scialorrea verdastra||epigastralgia purulenta
+14310000||scialorrea verdastra||epigastrico purulenta
+14310000||mialgie verdastra||epigastralgia verdastra
+14310000||mialgie verdastra||epigastrico verdastra
+14310000||mialgie verdastra||pirosi purulenta
+14310000||mialgie verdastra||scialorrea purulenta
+14310000||mialgie verdastra||mialgie purulenta
+14310000||mialgie verdastra||epigastralgia purulenta
+14310000||mialgie verdastra||epigastrico purulenta
+14310000||epigastralgia verdastra||epigastrico verdastra
+14310000||epigastralgia verdastra||pirosi purulenta
+14310000||epigastralgia verdastra||scialorrea purulenta
+14310000||epigastralgia verdastra||mialgie purulenta
+14310000||epigastralgia verdastra||epigastralgia purulenta
+14310000||epigastralgia verdastra||epigastrico purulenta
+14310000||epigastrico verdastra||pirosi purulenta
+14310000||epigastrico verdastra||scialorrea purulenta
+14310000||epigastrico verdastra||mialgie purulenta
+14310000||epigastrico verdastra||epigastralgia purulenta
+14310000||epigastrico verdastra||epigastrico purulenta
+14310000||pirosi purulenta||scialorrea purulenta
+14310000||pirosi purulenta||mialgie purulenta
+14310000||pirosi purulenta||epigastralgia purulenta
+14310000||pirosi purulenta||epigastrico purulenta
+14310000||scialorrea purulenta||mialgie purulenta
+14310000||scialorrea purulenta||epigastralgia purulenta
+14310000||scialorrea purulenta||epigastrico purulenta
+14310000||mialgie purulenta||epigastralgia purulenta
+14310000||mialgie purulenta||epigastrico purulenta
+14310000||epigastralgia purulenta||epigastrico purulenta
+18265008||proptosi oculare||esoftalmo bilaterale
+18265008||proptosi oculare||proptosi di un anno di evoluzione in entrambi gli occhi
+18265008||proptosi oculare||macroglossia oculare
+18265008||proptosi oculare||papilledema oculare
+18265008||proptosi oculare||esoftalmo oculare
+18265008||proptosi oculare||periorbitale oculare
+18265008||proptosi oculare||corioretinite oculare
+18265008||proptosi oculare||proptosi bilaterale
+18265008||proptosi oculare||macrocefalia bilaterale
+18265008||proptosi oculare||uveite bilaterale
+18265008||proptosi oculare||macroglossia bilaterale
+18265008||proptosi oculare||irite bilaterale
+18265008||proptosi oculare||macroglossia di un anno di evoluzione in entrambi gli occhi
+18265008||proptosi oculare||papilledema di un anno di evoluzione in entrambi gli occhi
+18265008||proptosi oculare||esoftalmo di un anno di evoluzione in entrambi gli occhi
+18265008||proptosi oculare||periorbitale di un anno di evoluzione in entrambi gli occhi
+18265008||proptosi oculare||corioretinite di un anno di evoluzione in entrambi gli occhi
+18265008||esoftalmo bilaterale||proptosi di un anno di evoluzione in entrambi gli occhi
+18265008||esoftalmo bilaterale||macroglossia oculare
+18265008||esoftalmo bilaterale||papilledema oculare
+18265008||esoftalmo bilaterale||esoftalmo oculare
+18265008||esoftalmo bilaterale||periorbitale oculare
+18265008||esoftalmo bilaterale||corioretinite oculare
+18265008||esoftalmo bilaterale||proptosi bilaterale
+18265008||esoftalmo bilaterale||macrocefalia bilaterale
+18265008||esoftalmo bilaterale||uveite bilaterale
+18265008||esoftalmo bilaterale||macroglossia bilaterale
+18265008||esoftalmo bilaterale||irite bilaterale
+18265008||esoftalmo bilaterale||macroglossia di un anno di evoluzione in entrambi gli occhi
+18265008||esoftalmo bilaterale||papilledema di un anno di evoluzione in entrambi gli occhi
+18265008||esoftalmo bilaterale||esoftalmo di un anno di evoluzione in entrambi gli occhi
+18265008||esoftalmo bilaterale||periorbitale di un anno di evoluzione in entrambi gli occhi
+18265008||esoftalmo bilaterale||corioretinite di un anno di evoluzione in entrambi gli occhi
+18265008||proptosi di un anno di evoluzione in entrambi gli occhi||macroglossia oculare
+18265008||proptosi di un anno di evoluzione in entrambi gli occhi||papilledema oculare
+18265008||proptosi di un anno di evoluzione in entrambi gli occhi||esoftalmo oculare
+18265008||proptosi di un anno di evoluzione in entrambi gli occhi||periorbitale oculare
+18265008||proptosi di un anno di evoluzione in entrambi gli occhi||corioretinite oculare
+18265008||proptosi di un anno di evoluzione in entrambi gli occhi||proptosi bilaterale
+18265008||proptosi di un anno di evoluzione in entrambi gli occhi||macrocefalia bilaterale
+18265008||proptosi di un anno di evoluzione in entrambi gli occhi||uveite bilaterale
+18265008||proptosi di un anno di evoluzione in entrambi gli occhi||macroglossia bilaterale
+18265008||proptosi di un anno di evoluzione in entrambi gli occhi||irite bilaterale
+18265008||proptosi di un anno di evoluzione in entrambi gli occhi||macroglossia di un anno di evoluzione in entrambi gli occhi
+18265008||proptosi di un anno di evoluzione in entrambi gli occhi||papilledema di un anno di evoluzione in entrambi gli occhi
+18265008||proptosi di un anno di evoluzione in entrambi gli occhi||esoftalmo di un anno di evoluzione in entrambi gli occhi
+18265008||proptosi di un anno di evoluzione in entrambi gli occhi||periorbitale di un anno di evoluzione in entrambi gli occhi
+18265008||proptosi di un anno di evoluzione in entrambi gli occhi||corioretinite di un anno di evoluzione in entrambi gli occhi
+18265008||macroglossia oculare||papilledema oculare
+18265008||macroglossia oculare||esoftalmo oculare
+18265008||macroglossia oculare||periorbitale oculare
+18265008||macroglossia oculare||corioretinite oculare
+18265008||macroglossia oculare||proptosi bilaterale
+18265008||macroglossia oculare||macrocefalia bilaterale
+18265008||macroglossia oculare||uveite bilaterale
+18265008||macroglossia oculare||macroglossia bilaterale
+18265008||macroglossia oculare||irite bilaterale
+18265008||macroglossia oculare||macroglossia di un anno di evoluzione in entrambi gli occhi
+18265008||macroglossia oculare||papilledema di un anno di evoluzione in entrambi gli occhi
+18265008||macroglossia oculare||esoftalmo di un anno di evoluzione in entrambi gli occhi
+18265008||macroglossia oculare||periorbitale di un anno di evoluzione in entrambi gli occhi
+18265008||macroglossia oculare||corioretinite di un anno di evoluzione in entrambi gli occhi
+18265008||papilledema oculare||esoftalmo oculare
+18265008||papilledema oculare||periorbitale oculare
+18265008||papilledema oculare||corioretinite oculare
+18265008||papilledema oculare||proptosi bilaterale
+18265008||papilledema oculare||macrocefalia bilaterale
+18265008||papilledema oculare||uveite bilaterale
+18265008||papilledema oculare||macroglossia bilaterale
+18265008||papilledema oculare||irite bilaterale
+18265008||papilledema oculare||macroglossia di un anno di evoluzione in entrambi gli occhi
+18265008||papilledema oculare||papilledema di un anno di evoluzione in entrambi gli occhi
+18265008||papilledema oculare||esoftalmo di un anno di evoluzione in entrambi gli occhi
+18265008||papilledema oculare||periorbitale di un anno di evoluzione in entrambi gli occhi
+18265008||papilledema oculare||corioretinite di un anno di evoluzione in entrambi gli occhi
+18265008||esoftalmo oculare||periorbitale oculare
+18265008||esoftalmo oculare||corioretinite oculare
+18265008||esoftalmo oculare||proptosi bilaterale
+18265008||esoftalmo oculare||macrocefalia bilaterale
+18265008||esoftalmo oculare||uveite bilaterale
+18265008||esoftalmo oculare||macroglossia bilaterale
+18265008||esoftalmo oculare||irite bilaterale
+18265008||esoftalmo oculare||macroglossia di un anno di evoluzione in entrambi gli occhi
+18265008||esoftalmo oculare||papilledema di un anno di evoluzione in entrambi gli occhi
+18265008||esoftalmo oculare||esoftalmo di un anno di evoluzione in entrambi gli occhi
+18265008||esoftalmo oculare||periorbitale di un anno di evoluzione in entrambi gli occhi
+18265008||esoftalmo oculare||corioretinite di un anno di evoluzione in entrambi gli occhi
+18265008||periorbitale oculare||corioretinite oculare
+18265008||periorbitale oculare||proptosi bilaterale
+18265008||periorbitale oculare||macrocefalia bilaterale
+18265008||periorbitale oculare||uveite bilaterale
+18265008||periorbitale oculare||macroglossia bilaterale
+18265008||periorbitale oculare||irite bilaterale
+18265008||periorbitale oculare||macroglossia di un anno di evoluzione in entrambi gli occhi
+18265008||periorbitale oculare||papilledema di un anno di evoluzione in entrambi gli occhi
+18265008||periorbitale oculare||esoftalmo di un anno di evoluzione in entrambi gli occhi
+18265008||periorbitale oculare||periorbitale di un anno di evoluzione in entrambi gli occhi
+18265008||periorbitale oculare||corioretinite di un anno di evoluzione in entrambi gli occhi
+18265008||corioretinite oculare||proptosi bilaterale
+18265008||corioretinite oculare||macrocefalia bilaterale
+18265008||corioretinite oculare||uveite bilaterale
+18265008||corioretinite oculare||macroglossia bilaterale
+18265008||corioretinite oculare||irite bilaterale
+18265008||corioretinite oculare||macroglossia di un anno di evoluzione in entrambi gli occhi
+18265008||corioretinite oculare||papilledema di un anno di evoluzione in entrambi gli occhi
+18265008||corioretinite oculare||esoftalmo di un anno di evoluzione in entrambi gli occhi
+18265008||corioretinite oculare||periorbitale di un anno di evoluzione in entrambi gli occhi
+18265008||corioretinite oculare||corioretinite di un anno di evoluzione in entrambi gli occhi
+18265008||proptosi bilaterale||macrocefalia bilaterale
+18265008||proptosi bilaterale||uveite bilaterale
+18265008||proptosi bilaterale||macroglossia bilaterale
+18265008||proptosi bilaterale||irite bilaterale
+18265008||proptosi bilaterale||macroglossia di un anno di evoluzione in entrambi gli occhi
+18265008||proptosi bilaterale||papilledema di un anno di evoluzione in entrambi gli occhi
+18265008||proptosi bilaterale||esoftalmo di un anno di evoluzione in entrambi gli occhi
+18265008||proptosi bilaterale||periorbitale di un anno di evoluzione in entrambi gli occhi
+18265008||proptosi bilaterale||corioretinite di un anno di evoluzione in entrambi gli occhi
+18265008||macrocefalia bilaterale||uveite bilaterale
+18265008||macrocefalia bilaterale||macroglossia bilaterale
+18265008||macrocefalia bilaterale||irite bilaterale
+18265008||macrocefalia bilaterale||macroglossia di un anno di evoluzione in entrambi gli occhi
+18265008||macrocefalia bilaterale||papilledema di un anno di evoluzione in entrambi gli occhi
+18265008||macrocefalia bilaterale||esoftalmo di un anno di evoluzione in entrambi gli occhi
+18265008||macrocefalia bilaterale||periorbitale di un anno di evoluzione in entrambi gli occhi
+18265008||macrocefalia bilaterale||corioretinite di un anno di evoluzione in entrambi gli occhi
+18265008||uveite bilaterale||macroglossia bilaterale
+18265008||uveite bilaterale||irite bilaterale
+18265008||uveite bilaterale||macroglossia di un anno di evoluzione in entrambi gli occhi
+18265008||uveite bilaterale||papilledema di un anno di evoluzione in entrambi gli occhi
+18265008||uveite bilaterale||esoftalmo di un anno di evoluzione in entrambi gli occhi
+18265008||uveite bilaterale||periorbitale di un anno di evoluzione in entrambi gli occhi
+18265008||uveite bilaterale||corioretinite di un anno di evoluzione in entrambi gli occhi
+18265008||macroglossia bilaterale||irite bilaterale
+18265008||macroglossia bilaterale||macroglossia di un anno di evoluzione in entrambi gli occhi
+18265008||macroglossia bilaterale||papilledema di un anno di evoluzione in entrambi gli occhi
+18265008||macroglossia bilaterale||esoftalmo di un anno di evoluzione in entrambi gli occhi
+18265008||macroglossia bilaterale||periorbitale di un anno di evoluzione in entrambi gli occhi
+18265008||macroglossia bilaterale||corioretinite di un anno di evoluzione in entrambi gli occhi
+18265008||irite bilaterale||macroglossia di un anno di evoluzione in entrambi gli occhi
+18265008||irite bilaterale||papilledema di un anno di evoluzione in entrambi gli occhi
+18265008||irite bilaterale||esoftalmo di un anno di evoluzione in entrambi gli occhi
+18265008||irite bilaterale||periorbitale di un anno di evoluzione in entrambi gli occhi
+18265008||irite bilaterale||corioretinite di un anno di evoluzione in entrambi gli occhi
+18265008||macroglossia di un anno di evoluzione in entrambi gli occhi||papilledema di un anno di evoluzione in entrambi gli occhi
+18265008||macroglossia di un anno di evoluzione in entrambi gli occhi||esoftalmo di un anno di evoluzione in entrambi gli occhi
+18265008||macroglossia di un anno di evoluzione in entrambi gli occhi||periorbitale di un anno di evoluzione in entrambi gli occhi
+18265008||macroglossia di un anno di evoluzione in entrambi gli occhi||corioretinite di un anno di evoluzione in entrambi gli occhi
+18265008||papilledema di un anno di evoluzione in entrambi gli occhi||esoftalmo di un anno di evoluzione in entrambi gli occhi
+18265008||papilledema di un anno di evoluzione in entrambi gli occhi||periorbitale di un anno di evoluzione in entrambi gli occhi
+18265008||papilledema di un anno di evoluzione in entrambi gli occhi||corioretinite di un anno di evoluzione in entrambi gli occhi
+18265008||esoftalmo di un anno di evoluzione in entrambi gli occhi||periorbitale di un anno di evoluzione in entrambi gli occhi
+18265008||esoftalmo di un anno di evoluzione in entrambi gli occhi||corioretinite di un anno di evoluzione in entrambi gli occhi
+18265008||periorbitale di un anno di evoluzione in entrambi gli occhi||corioretinite di un anno di evoluzione in entrambi gli occhi
+28998008||emorragia maculare||emorragie retiniche
+285384003||progressivo deterioramento delle condizioni generali||deterioramento delle condizioni generali
+309530007||immagine di 3 cm nell'ilo||massa ilare
+309530007||immagine di 3 cm nell'ilo||immagine di 3 cm lienale
+309530007||massa ilare||immagine di 3 cm lienale
+79922009||dolore epigastrico||epigastralgia
+79922009||dolore epigastrico||dolore epigastralgia
+79922009||dolore epigastrico||dolore pirosi
+79922009||dolore epigastrico||dolore disestesia
+79922009||dolore epigastrico||dolore muscoloscheletrico
+79922009||dolore epigastrico||dolore iperreflessia
+79922009||dolore epigastrico||epigastrico
+79922009||dolore epigastrico||pirosi
+79922009||dolore epigastrico||gastroenterici
+79922009||dolore epigastrico||diaforesi
+79922009||dolore epigastrico||iperpiressia
+79922009||epigastralgia||dolore epigastralgia
+79922009||epigastralgia||dolore pirosi
+79922009||epigastralgia||dolore disestesia
+79922009||epigastralgia||dolore muscoloscheletrico
+79922009||epigastralgia||dolore iperreflessia
+79922009||epigastralgia||epigastrico
+79922009||epigastralgia||pirosi
+79922009||epigastralgia||gastroenterici
+79922009||epigastralgia||diaforesi
+79922009||epigastralgia||iperpiressia
+79922009||dolore epigastralgia||dolore pirosi
+79922009||dolore epigastralgia||dolore disestesia
+79922009||dolore epigastralgia||dolore muscoloscheletrico
+79922009||dolore epigastralgia||dolore iperreflessia
+79922009||dolore epigastralgia||epigastrico
+79922009||dolore epigastralgia||pirosi
+79922009||dolore epigastralgia||gastroenterici
+79922009||dolore epigastralgia||diaforesi
+79922009||dolore epigastralgia||iperpiressia
+79922009||dolore pirosi||dolore disestesia
+79922009||dolore pirosi||dolore muscoloscheletrico
+79922009||dolore pirosi||dolore iperreflessia
+79922009||dolore pirosi||epigastrico
+79922009||dolore pirosi||pirosi
+79922009||dolore pirosi||gastroenterici
+79922009||dolore pirosi||diaforesi
+79922009||dolore pirosi||iperpiressia
+79922009||dolore disestesia||dolore muscoloscheletrico
+79922009||dolore disestesia||dolore iperreflessia
+79922009||dolore disestesia||epigastrico
+79922009||dolore disestesia||pirosi
+79922009||dolore disestesia||gastroenterici
+79922009||dolore disestesia||diaforesi
+79922009||dolore disestesia||iperpiressia
+79922009||dolore muscoloscheletrico||dolore iperreflessia
+79922009||dolore muscoloscheletrico||epigastrico
+79922009||dolore muscoloscheletrico||pirosi
+79922009||dolore muscoloscheletrico||gastroenterici
+79922009||dolore muscoloscheletrico||diaforesi
+79922009||dolore muscoloscheletrico||iperpiressia
+79922009||dolore iperreflessia||epigastrico
+79922009||dolore iperreflessia||pirosi
+79922009||dolore iperreflessia||gastroenterici
+79922009||dolore iperreflessia||diaforesi
+79922009||dolore iperreflessia||iperpiressia
+79922009||epigastrico||pirosi
+79922009||epigastrico||gastroenterici
+79922009||epigastrico||diaforesi
+79922009||epigastrico||iperpiressia
+79922009||pirosi||gastroenterici
+79922009||pirosi||diaforesi
+79922009||pirosi||iperpiressia
+79922009||gastroenterici||diaforesi
+79922009||gastroenterici||iperpiressia
+79922009||diaforesi||iperpiressia
+386689009||ipotermia sistemica||ipotermia
+79740000||mughetto||mughetto orale
+11092001||tachicardia||tachicardia sinusale
+11092001||tachicardia||tachicardico
+11092001||tachicardia||bradicardia
+11092001||tachicardia||ipotensione
+11092001||tachicardia||bradicardia sinusale
+11092001||tachicardia||ipotensione sinusale
+11092001||tachicardia sinusale||tachicardico
+11092001||tachicardia sinusale||bradicardia
+11092001||tachicardia sinusale||ipotensione
+11092001||tachicardia sinusale||bradicardia sinusale
+11092001||tachicardia sinusale||ipotensione sinusale
+11092001||tachicardico||bradicardia
+11092001||tachicardico||ipotensione
+11092001||tachicardico||bradicardia sinusale
+11092001||tachicardico||ipotensione sinusale
+11092001||bradicardia||ipotensione
+11092001||bradicardia||bradicardia sinusale
+11092001||bradicardia||ipotensione sinusale
+11092001||ipotensione||bradicardia sinusale
+11092001||ipotensione||ipotensione sinusale
+11092001||bradicardia sinusale||ipotensione sinusale
+271782001||sonnolenza||sonnolento
+37125009||midriasi||midriasi reattiva
+37125009||midriasi||lieve midriasi bilaterale
+37125009||midriasi||pupille leggermente midriatiche
+37125009||midriasi||cicloplegia
+37125009||midriasi||miosi
+37125009||midriasi||cicloplegia reattiva
+37125009||midriasi||miosi reattiva
+37125009||midriasi||lieve cicloplegia bilaterale
+37125009||midriasi||lieve miosi bilaterale
+37125009||midriasi reattiva||lieve midriasi bilaterale
+37125009||midriasi reattiva||pupille leggermente midriatiche
+37125009||midriasi reattiva||cicloplegia
+37125009||midriasi reattiva||miosi
+37125009||midriasi reattiva||cicloplegia reattiva
+37125009||midriasi reattiva||miosi reattiva
+37125009||midriasi reattiva||lieve cicloplegia bilaterale
+37125009||midriasi reattiva||lieve miosi bilaterale
+37125009||lieve midriasi bilaterale||pupille leggermente midriatiche
+37125009||lieve midriasi bilaterale||cicloplegia
+37125009||lieve midriasi bilaterale||miosi
+37125009||lieve midriasi bilaterale||cicloplegia reattiva
+37125009||lieve midriasi bilaterale||miosi reattiva
+37125009||lieve midriasi bilaterale||lieve cicloplegia bilaterale
+37125009||lieve midriasi bilaterale||lieve miosi bilaterale
+37125009||pupille leggermente midriatiche||cicloplegia
+37125009||pupille leggermente midriatiche||miosi
+37125009||pupille leggermente midriatiche||cicloplegia reattiva
+37125009||pupille leggermente midriatiche||miosi reattiva
+37125009||pupille leggermente midriatiche||lieve cicloplegia bilaterale
+37125009||pupille leggermente midriatiche||lieve miosi bilaterale
+37125009||cicloplegia||miosi
+37125009||cicloplegia||cicloplegia reattiva
+37125009||cicloplegia||miosi reattiva
+37125009||cicloplegia||lieve cicloplegia bilaterale
+37125009||cicloplegia||lieve miosi bilaterale
+37125009||miosi||cicloplegia reattiva
+37125009||miosi||miosi reattiva
+37125009||miosi||lieve cicloplegia bilaterale
+37125009||miosi||lieve miosi bilaterale
+37125009||cicloplegia reattiva||miosi reattiva
+37125009||cicloplegia reattiva||lieve cicloplegia bilaterale
+37125009||cicloplegia reattiva||lieve miosi bilaterale
+37125009||miosi reattiva||lieve cicloplegia bilaterale
+37125009||miosi reattiva||lieve miosi bilaterale
+37125009||lieve cicloplegia bilaterale||lieve miosi bilaterale
+26436007||disturbi dell'equilibrio acido-base||anomalie dell'equilibrio acido-base
+22994000||iporeflessia generalizzata||iporeflessia
+106150003||coinvolgimento del nervo alveolare inferiore||nervi cranici normali
+106150003||coinvolgimento del nervo alveolare inferiore||coinvolgimento del nervo alveolare superiore
+106150003||nervi cranici normali||coinvolgimento del nervo alveolare superiore
+102614006||dolore addominale diffuso||dolore addominale generalizzato
+45007003||ipotensione arteriosa||ipotensivo
+45007003||ipotensione arteriosa||ipotensione
+45007003||ipotensione arteriosa||bradicardia arteriosa
+45007003||ipotensione arteriosa||ortostatica arteriosa
+45007003||ipotensione arteriosa||tachicardia arteriosa
+45007003||ipotensione arteriosa||gallamina
+45007003||ipotensione arteriosa||guanetidina
+45007003||ipotensione arteriosa||simpaticomimetici
+45007003||ipotensione arteriosa||desipramina
+45007003||ipotensione arteriosa||dipiridamolo
+45007003||ipotensione arteriosa||bradicardia
+45007003||ipotensione arteriosa||ortostatica
+45007003||ipotensione arteriosa||tachicardia
+45007003||ipotensivo||ipotensione
+45007003||ipotensivo||bradicardia arteriosa
+45007003||ipotensivo||ortostatica arteriosa
+45007003||ipotensivo||tachicardia arteriosa
+45007003||ipotensivo||gallamina
+45007003||ipotensivo||guanetidina
+45007003||ipotensivo||simpaticomimetici
+45007003||ipotensivo||desipramina
+45007003||ipotensivo||dipiridamolo
+45007003||ipotensivo||bradicardia
+45007003||ipotensivo||ortostatica
+45007003||ipotensivo||tachicardia
+45007003||ipotensione||bradicardia arteriosa
+45007003||ipotensione||ortostatica arteriosa
+45007003||ipotensione||tachicardia arteriosa
+45007003||ipotensione||gallamina
+45007003||ipotensione||guanetidina
+45007003||ipotensione||simpaticomimetici
+45007003||ipotensione||desipramina
+45007003||ipotensione||dipiridamolo
+45007003||ipotensione||bradicardia
+45007003||ipotensione||ortostatica
+45007003||ipotensione||tachicardia
+45007003||bradicardia arteriosa||ortostatica arteriosa
+45007003||bradicardia arteriosa||tachicardia arteriosa
+45007003||bradicardia arteriosa||gallamina
+45007003||bradicardia arteriosa||guanetidina
+45007003||bradicardia arteriosa||simpaticomimetici
+45007003||bradicardia arteriosa||desipramina
+45007003||bradicardia arteriosa||dipiridamolo
+45007003||bradicardia arteriosa||bradicardia
+45007003||bradicardia arteriosa||ortostatica
+45007003||bradicardia arteriosa||tachicardia
+45007003||ortostatica arteriosa||tachicardia arteriosa
+45007003||ortostatica arteriosa||gallamina
+45007003||ortostatica arteriosa||guanetidina
+45007003||ortostatica arteriosa||simpaticomimetici
+45007003||ortostatica arteriosa||desipramina
+45007003||ortostatica arteriosa||dipiridamolo
+45007003||ortostatica arteriosa||bradicardia
+45007003||ortostatica arteriosa||ortostatica
+45007003||ortostatica arteriosa||tachicardia
+45007003||tachicardia arteriosa||gallamina
+45007003||tachicardia arteriosa||guanetidina
+45007003||tachicardia arteriosa||simpaticomimetici
+45007003||tachicardia arteriosa||desipramina
+45007003||tachicardia arteriosa||dipiridamolo
+45007003||tachicardia arteriosa||bradicardia
+45007003||tachicardia arteriosa||ortostatica
+45007003||tachicardia arteriosa||tachicardia
+45007003||gallamina||guanetidina
+45007003||gallamina||simpaticomimetici
+45007003||gallamina||desipramina
+45007003||gallamina||dipiridamolo
+45007003||gallamina||bradicardia
+45007003||gallamina||ortostatica
+45007003||gallamina||tachicardia
+45007003||guanetidina||simpaticomimetici
+45007003||guanetidina||desipramina
+45007003||guanetidina||dipiridamolo
+45007003||guanetidina||bradicardia
+45007003||guanetidina||ortostatica
+45007003||guanetidina||tachicardia
+45007003||simpaticomimetici||desipramina
+45007003||simpaticomimetici||dipiridamolo
+45007003||simpaticomimetici||bradicardia
+45007003||simpaticomimetici||ortostatica
+45007003||simpaticomimetici||tachicardia
+45007003||desipramina||dipiridamolo
+45007003||desipramina||bradicardia
+45007003||desipramina||ortostatica
+45007003||desipramina||tachicardia
+45007003||dipiridamolo||bradicardia
+45007003||dipiridamolo||ortostatica
+45007003||dipiridamolo||tachicardia
+45007003||bradicardia||ortostatica
+45007003||bradicardia||tachicardia
+45007003||ortostatica||tachicardia
+708118007||ripetute colture negative||cultura negativa
+708118007||ripetute colture negative||la coltura del liquido pericardico era sterile
+708118007||ripetute colture negative||ripetute coltivazioni negative
+708118007||ripetute colture negative||cultura positiva
+708118007||cultura negativa||la coltura del liquido pericardico era sterile
+708118007||cultura negativa||ripetute coltivazioni negative
+708118007||cultura negativa||cultura positiva
+708118007||la coltura del liquido pericardico era sterile||ripetute coltivazioni negative
+708118007||la coltura del liquido pericardico era sterile||cultura positiva
+708118007||ripetute coltivazioni negative||cultura positiva
+300561007||reni e ureteri normali||uretra bulbare normale
+300561007||reni e ureteri normali||studi urologici normali
+300561007||uretra bulbare normale||studi urologici normali
+74285003||massa pelvica a destra della vescica||massa pelvica subvescicale
+74285003||massa pelvica a destra della vescica||massa pelvica anteriore alla vescica
+74285003||massa pelvica a destra della vescica||massa pelvica posteriore alla vescica
+74285003||massa pelvica subvescicale||massa pelvica anteriore alla vescica
+74285003||massa pelvica subvescicale||massa pelvica posteriore alla vescica
+74285003||massa pelvica anteriore alla vescica||massa pelvica posteriore alla vescica
+274730004||difetti multipli di replezione intravescicale||difetti di riempimento della vescica
+75753009||coaguli||coagulo
+70819003||rossore||pelle rossastra
+111512005||sinechie posteriori||sinechia posteriore
+111512005||sinechie posteriori||sinechie anteriori
+111512005||sinechie posteriori||sinechia anteriore
+111512005||sinechia posteriore||sinechie anteriori
+111512005||sinechia posteriore||sinechia anteriore
+111512005||sinechie anteriori||sinechia anteriore
+267096005||cefalea frontoparietale||cefalea bifrontoparietale
+419326002||limitazione in tutte le posizioni di sguardo||limitazione dello sguardo
+249543005||addome morbido||l'addome era morbido
+32566006||dismetria in tutti e quattro gli arti||dismetria
+32566006||dismetria in tutti e quattro gli arti||emiballismo in tutti e quattro gli arti
+32566006||dismetria in tutti e quattro gli arti||emiballismo
+32566006||dismetria||emiballismo in tutti e quattro gli arti
+32566006||dismetria||emiballismo
+32566006||emiballismo in tutti e quattro gli arti||emiballismo
+301855007||linfonodi||nodi negativi
+440299000||massa retroesofagea||massa estrinseca retrocardiaca
+60280003||pressione intraoculare adeguata||i valori della pressione intraoculare erano normali
+39575007||urina scura||coluria
+734045002||raccolta retroperitoneale||coinvolgimento del grasso peripancreatico
+734045002||raccolta retroperitoneale||raccolta splenico
+734045002||coinvolgimento del grasso peripancreatico||raccolta splenico
+246975001||ittero muco-cutaneo||ittero mucocutaneo indolore
+274667000||dolore emimandibolare||dolore lancinante nel corpo mandibolare
+49650001||disuria||sintomi urinari irritativi
+49650001||disuria||stranguria
+49650001||disuria||pollachiuria
+49650001||disuria||uretrodinia
+49650001||disuria||pirosi
+49650001||disuria||odinofagia
+49650001||disuria||sintomi urinari mucosite
+49650001||disuria||sintomi urinari flogistici
+49650001||disuria||sintomi urinari acneiformi
+49650001||disuria||sintomi urinari anafilattoidi
+49650001||disuria||sintomi urinari settici
+49650001||sintomi urinari irritativi||stranguria
+49650001||sintomi urinari irritativi||pollachiuria
+49650001||sintomi urinari irritativi||uretrodinia
+49650001||sintomi urinari irritativi||pirosi
+49650001||sintomi urinari irritativi||odinofagia
+49650001||sintomi urinari irritativi||sintomi urinari mucosite
+49650001||sintomi urinari irritativi||sintomi urinari flogistici
+49650001||sintomi urinari irritativi||sintomi urinari acneiformi
+49650001||sintomi urinari irritativi||sintomi urinari anafilattoidi
+49650001||sintomi urinari irritativi||sintomi urinari settici
+49650001||stranguria||pollachiuria
+49650001||stranguria||uretrodinia
+49650001||stranguria||pirosi
+49650001||stranguria||odinofagia
+49650001||stranguria||sintomi urinari mucosite
+49650001||stranguria||sintomi urinari flogistici
+49650001||stranguria||sintomi urinari acneiformi
+49650001||stranguria||sintomi urinari anafilattoidi
+49650001||stranguria||sintomi urinari settici
+49650001||pollachiuria||uretrodinia
+49650001||pollachiuria||pirosi
+49650001||pollachiuria||odinofagia
+49650001||pollachiuria||sintomi urinari mucosite
+49650001||pollachiuria||sintomi urinari flogistici
+49650001||pollachiuria||sintomi urinari acneiformi
+49650001||pollachiuria||sintomi urinari anafilattoidi
+49650001||pollachiuria||sintomi urinari settici
+49650001||uretrodinia||pirosi
+49650001||uretrodinia||odinofagia
+49650001||uretrodinia||sintomi urinari mucosite
+49650001||uretrodinia||sintomi urinari flogistici
+49650001||uretrodinia||sintomi urinari acneiformi
+49650001||uretrodinia||sintomi urinari anafilattoidi
+49650001||uretrodinia||sintomi urinari settici
+49650001||pirosi||odinofagia
+49650001||pirosi||sintomi urinari mucosite
+49650001||pirosi||sintomi urinari flogistici
+49650001||pirosi||sintomi urinari acneiformi
+49650001||pirosi||sintomi urinari anafilattoidi
+49650001||pirosi||sintomi urinari settici
+49650001||odinofagia||sintomi urinari mucosite
+49650001||odinofagia||sintomi urinari flogistici
+49650001||odinofagia||sintomi urinari acneiformi
+49650001||odinofagia||sintomi urinari anafilattoidi
+49650001||odinofagia||sintomi urinari settici
+49650001||sintomi urinari mucosite||sintomi urinari flogistici
+49650001||sintomi urinari mucosite||sintomi urinari acneiformi
+49650001||sintomi urinari mucosite||sintomi urinari anafilattoidi
+49650001||sintomi urinari mucosite||sintomi urinari settici
+49650001||sintomi urinari flogistici||sintomi urinari acneiformi
+49650001||sintomi urinari flogistici||sintomi urinari anafilattoidi
+49650001||sintomi urinari flogistici||sintomi urinari settici
+49650001||sintomi urinari acneiformi||sintomi urinari anafilattoidi
+49650001||sintomi urinari acneiformi||sintomi urinari settici
+49650001||sintomi urinari anafilattoidi||sintomi urinari settici
+102568007||debolezza degli arti inferiori||diminuzione della forza in entrambi gli arti inferiori
+21454007||emorragia subaracnoidea frontoparietale destra||emorragia subaracnoidea
+21454007||emorragia subaracnoidea frontoparietale destra||emorragia subaracnoidea frontoparietale sinistra
+21454007||emorragia subaracnoidea||emorragia subaracnoidea frontoparietale sinistra
+9957009||scarico purulento transuretrale||scarico purulento attraverso il meato uretrale
+60728008||distensione addominale||l'addome era globoso
+707724006||enzimi epatici elevati||transaminasi elevate
+707724006||enzimi epatici elevati||transaminasi leggermente elevate
+707724006||enzimi epatici elevati||ipertransaminemia
+707724006||enzimi epatici elevati||valori elevati di transaminasi
+707724006||enzimi epatici elevati||aumento progressivo delle transaminasi
+707724006||enzimi epatici elevati||aumento delle transaminasi
+707724006||enzimi epatici elevati||incremento progressivo delle transaminasi
+707724006||enzimi epatici elevati||incremento delle transaminasi
+707724006||transaminasi elevate||transaminasi leggermente elevate
+707724006||transaminasi elevate||ipertransaminemia
+707724006||transaminasi elevate||valori elevati di transaminasi
+707724006||transaminasi elevate||aumento progressivo delle transaminasi
+707724006||transaminasi elevate||aumento delle transaminasi
+707724006||transaminasi elevate||incremento progressivo delle transaminasi
+707724006||transaminasi elevate||incremento delle transaminasi
+707724006||transaminasi leggermente elevate||ipertransaminemia
+707724006||transaminasi leggermente elevate||valori elevati di transaminasi
+707724006||transaminasi leggermente elevate||aumento progressivo delle transaminasi
+707724006||transaminasi leggermente elevate||aumento delle transaminasi
+707724006||transaminasi leggermente elevate||incremento progressivo delle transaminasi
+707724006||transaminasi leggermente elevate||incremento delle transaminasi
+707724006||ipertransaminemia||valori elevati di transaminasi
+707724006||ipertransaminemia||aumento progressivo delle transaminasi
+707724006||ipertransaminemia||aumento delle transaminasi
+707724006||ipertransaminemia||incremento progressivo delle transaminasi
+707724006||ipertransaminemia||incremento delle transaminasi
+707724006||valori elevati di transaminasi||aumento progressivo delle transaminasi
+707724006||valori elevati di transaminasi||aumento delle transaminasi
+707724006||valori elevati di transaminasi||incremento progressivo delle transaminasi
+707724006||valori elevati di transaminasi||incremento delle transaminasi
+707724006||aumento progressivo delle transaminasi||aumento delle transaminasi
+707724006||aumento progressivo delle transaminasi||incremento progressivo delle transaminasi
+707724006||aumento progressivo delle transaminasi||incremento delle transaminasi
+707724006||aumento delle transaminasi||incremento progressivo delle transaminasi
+707724006||aumento delle transaminasi||incremento delle transaminasi
+707724006||incremento progressivo delle transaminasi||incremento delle transaminasi
+409609008||infiltrato alveolare basale||coinvolgimento parenchimale basale
+409609008||infiltrato alveolare basale||infiltrati
+409609008||infiltrato alveolare basale||coinvolgimento vasogenico basale
+409609008||coinvolgimento parenchimale basale||infiltrati
+409609008||coinvolgimento parenchimale basale||coinvolgimento vasogenico basale
+409609008||infiltrati||coinvolgimento vasogenico basale
+166558007||lattato deidrogenasi e alfa-fetoproteina normali||alfa-fetoproteina normale
+166558007||lattato deidrogenasi e alfa-fetoproteina normali||lattato deidrogenasi e microalbuminuria normali
+166558007||lattato deidrogenasi e alfa-fetoproteina normali||lattato deidrogenasi e calcidiolo normali
+166558007||lattato deidrogenasi e alfa-fetoproteina normali||lattato reduttasi e alfa-fetoproteina normali
+166558007||lattato deidrogenasi e alfa-fetoproteina normali||lattato enzima e alfa-fetoproteina normali
+166558007||lattato deidrogenasi e alfa-fetoproteina normali||microalbuminuria normale
+166558007||lattato deidrogenasi e alfa-fetoproteina normali||calcidiolo normale
+166558007||alfa-fetoproteina normale||lattato deidrogenasi e microalbuminuria normali
+166558007||alfa-fetoproteina normale||lattato deidrogenasi e calcidiolo normali
+166558007||alfa-fetoproteina normale||lattato reduttasi e alfa-fetoproteina normali
+166558007||alfa-fetoproteina normale||lattato enzima e alfa-fetoproteina normali
+166558007||alfa-fetoproteina normale||microalbuminuria normale
+166558007||alfa-fetoproteina normale||calcidiolo normale
+166558007||lattato deidrogenasi e microalbuminuria normali||lattato deidrogenasi e calcidiolo normali
+166558007||lattato deidrogenasi e microalbuminuria normali||lattato reduttasi e alfa-fetoproteina normali
+166558007||lattato deidrogenasi e microalbuminuria normali||lattato enzima e alfa-fetoproteina normali
+166558007||lattato deidrogenasi e microalbuminuria normali||microalbuminuria normale
+166558007||lattato deidrogenasi e microalbuminuria normali||calcidiolo normale
+166558007||lattato deidrogenasi e calcidiolo normali||lattato reduttasi e alfa-fetoproteina normali
+166558007||lattato deidrogenasi e calcidiolo normali||lattato enzima e alfa-fetoproteina normali
+166558007||lattato deidrogenasi e calcidiolo normali||microalbuminuria normale
+166558007||lattato deidrogenasi e calcidiolo normali||calcidiolo normale
+166558007||lattato reduttasi e alfa-fetoproteina normali||lattato enzima e alfa-fetoproteina normali
+166558007||lattato reduttasi e alfa-fetoproteina normali||microalbuminuria normale
+166558007||lattato reduttasi e alfa-fetoproteina normali||calcidiolo normale
+166558007||lattato enzima e alfa-fetoproteina normali||microalbuminuria normale
+166558007||lattato enzima e alfa-fetoproteina normali||calcidiolo normale
+166558007||microalbuminuria normale||calcidiolo normale
+369757002||massa solida con aree emorragiche||massa solida
+40709005||lombalgia||dolore lombare
+11934000||ptosi||ptosi totale
+11934000||ptosi||ptosi palpebrale
+11934000||ptosi totale||ptosi palpebrale
+35013009||materiale purulento||scarico purulento
+300287006||massa esofagea||tumore esofageo vegetante e ulcerato
+423341008||edema papillare||papilledema
+423341008||edema papillare||edema del disco ottico
+423341008||edema papillare||livedo
+423341008||edema papillare||atelectasia
+423341008||edema papillare||neurogeno
+423341008||edema papillare||ipoestesia
+423341008||edema papillare||eritromelalgia
+423341008||papilledema||edema del disco ottico
+423341008||papilledema||livedo
+423341008||papilledema||atelectasia
+423341008||papilledema||neurogeno
+423341008||papilledema||ipoestesia
+423341008||papilledema||eritromelalgia
+423341008||edema del disco ottico||livedo
+423341008||edema del disco ottico||atelectasia
+423341008||edema del disco ottico||neurogeno
+423341008||edema del disco ottico||ipoestesia
+423341008||edema del disco ottico||eritromelalgia
+423341008||livedo||atelectasia
+423341008||livedo||neurogeno
+423341008||livedo||ipoestesia
+423341008||livedo||eritromelalgia
+423341008||atelectasia||neurogeno
+423341008||atelectasia||ipoestesia
+423341008||atelectasia||eritromelalgia
+423341008||neurogeno||ipoestesia
+423341008||neurogeno||eritromelalgia
+423341008||ipoestesia||eritromelalgia
+11833005||tosse secca||tosse irritativa
+11833005||tosse secca||tosse mucosite
+11833005||tosse secca||tosse balanite
+11833005||tosse secca||tosse laringospasmo
+11833005||tosse secca||tosse broncorrea
+11833005||tosse secca||tosse vasomotoria
+11833005||tosse irritativa||tosse mucosite
+11833005||tosse irritativa||tosse balanite
+11833005||tosse irritativa||tosse laringospasmo
+11833005||tosse irritativa||tosse broncorrea
+11833005||tosse irritativa||tosse vasomotoria
+11833005||tosse mucosite||tosse balanite
+11833005||tosse mucosite||tosse laringospasmo
+11833005||tosse mucosite||tosse broncorrea
+11833005||tosse mucosite||tosse vasomotoria
+11833005||tosse balanite||tosse laringospasmo
+11833005||tosse balanite||tosse broncorrea
+11833005||tosse balanite||tosse vasomotoria
+11833005||tosse laringospasmo||tosse broncorrea
+11833005||tosse laringospasmo||tosse vasomotoria
+11833005||tosse broncorrea||tosse vasomotoria
+89474008||studio di estensione negativo||lo studio di estensione era normale
+89458003||stuporoso||stupore
+431468008||collasso del terzo ventricolo||collasso ventricolare
+431468008||collasso del terzo ventricolo||collasso del quarto ventricolo
+431468008||collasso del terzo ventricolo||collasso del quinto ventricolo
+431468008||collasso del terzo ventricolo||collasso atriale
+431468008||collasso ventricolare||collasso del quarto ventricolo
+431468008||collasso ventricolare||collasso del quinto ventricolo
+431468008||collasso ventricolare||collasso atriale
+431468008||collasso del quarto ventricolo||collasso del quinto ventricolo
+431468008||collasso del quarto ventricolo||collasso atriale
+431468008||collasso del quinto ventricolo||collasso atriale
+50960005||raccolta di sangue||focolai emorragici
+50960005||raccolta di sangue||focolai ischemici
+50960005||focolai emorragici||focolai ischemici
+235771005||nodulo duro sulla punta dell'appendice||singolo nodulo di 1 x 1,5 cm situato nell'appendice
+155876003||rene destro non funzionante||annullamento renale
+155876003||rene destro non funzionante||annullamento epatica
+155876003||annullamento renale||annullamento epatica
+301354004||otalgia||otodinia
+445249002||noduli polmonari multipli||immagini nodulari nel lobo superiore
+445249002||noduli polmonari multipli||immagini nodulari nel lobo inferiore
+445249002||immagini nodulari nel lobo superiore||immagini nodulari nel lobo inferiore
+169254007||l'ecografia renale non ha mostrato anomalie||l'ecografia renale era normale
+169254007||l'ecografia renale non ha mostrato anomalie||l'ecografia epatica non ha mostrato anomalie
+169254007||l'ecografia renale non ha mostrato anomalie||l'ecografia epatica era normale
+169254007||l'ecografia renale era normale||l'ecografia epatica non ha mostrato anomalie
+169254007||l'ecografia renale era normale||l'ecografia epatica era normale
+169254007||l'ecografia epatica non ha mostrato anomalie||l'ecografia epatica era normale
+57534004||distorsione dei vasi retinici||diffusione dei vasi retinici
+8148005||intensa chemosi generalizzata||chemosi congiuntivale
+76114004||deficit funzionale dell'unità renale||ritardo funzionale del rene
+76114004||deficit funzionale dell'unità renale||deficit funzionale dell'unità epatica
+76114004||ritardo funzionale del rene||deficit funzionale dell'unità epatica
+300449001||indennità dell'uretere distale||uretere normale
+300449001||indennità dell'uretere distale||indennità dell'uretere prossimale
+300449001||uretere normale||indennità dell'uretere prossimale
+247348008||dolore alla palpazione||doloroso alla palpazione
+128295000||infiammazione oculare||infiammazione intraoculare
+15930381000119104||papilledema bilaterale||edema di entrambi i dischi ottici
+15930381000119104||papilledema bilaterale||livedo bilaterale
+15930381000119104||papilledema bilaterale||atelectasia bilaterale
+15930381000119104||papilledema bilaterale||neurogeno bilaterale
+15930381000119104||papilledema bilaterale||ipoestesia bilaterale
+15930381000119104||papilledema bilaterale||eritromelalgia bilaterale
+15930381000119104||edema di entrambi i dischi ottici||livedo bilaterale
+15930381000119104||edema di entrambi i dischi ottici||atelectasia bilaterale
+15930381000119104||edema di entrambi i dischi ottici||neurogeno bilaterale
+15930381000119104||edema di entrambi i dischi ottici||ipoestesia bilaterale
+15930381000119104||edema di entrambi i dischi ottici||eritromelalgia bilaterale
+15930381000119104||livedo bilaterale||atelectasia bilaterale
+15930381000119104||livedo bilaterale||neurogeno bilaterale
+15930381000119104||livedo bilaterale||ipoestesia bilaterale
+15930381000119104||livedo bilaterale||eritromelalgia bilaterale
+15930381000119104||atelectasia bilaterale||neurogeno bilaterale
+15930381000119104||atelectasia bilaterale||ipoestesia bilaterale
+15930381000119104||atelectasia bilaterale||eritromelalgia bilaterale
+15930381000119104||neurogeno bilaterale||ipoestesia bilaterale
+15930381000119104||neurogeno bilaterale||eritromelalgia bilaterale
+15930381000119104||ipoestesia bilaterale||eritromelalgia bilaterale
+30098003||iperemia||grave iperemia
+30098003||iperemia||papilledema
+30098003||iperemia||grave papilledema
+30098003||grave iperemia||papilledema
+30098003||grave iperemia||grave papilledema
+30098003||papilledema||grave papilledema
+398637008||retina applicata||spessore maculare normale
+166602006||funzione epatica normale||profilo epatico, erano normali
+166602006||funzione epatica normale||funzione renale normale
+166602006||profilo epatico, erano normali||funzione renale normale
+246874003||ipercheratinizzazione congiuntivale||cheratinizzazione congiuntivale
+282050000||massa nel digiuno prossimale||plastron situato nel digiuno
+282050000||massa nel digiuno prossimale||massa nel digiuno distale
+282050000||plastron situato nel digiuno||massa nel digiuno distale

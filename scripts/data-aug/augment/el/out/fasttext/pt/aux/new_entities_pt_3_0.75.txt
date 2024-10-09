@@ -1,0 +1,566 @@
+81141003: boa função renal -> ótima função renal
+81141003: boa função renal bilateral -> ótima função renal bilateral
+81141003: função renal preservada -> função renal preservado
+87548005: dispepsia flatulenta -> dispepsia flatulento
+87548005: dispepsia flatulenta -> dispepsia flatulencia
+87548005: dispepsia flatulenta -> dispepsia flatulentas
+87548005: dispepsia flatulenta -> Dispepsia flatulenta
+87548005: dispepsia flatulenta -> dispepsias flatulenta
+87548005: dispepsia -> Dispepsia
+87548005: dispepsia -> dispepsias
+300441003: parênquima renal esquerdo preservado -> parênquima renal esquerdo conservado
+300441003: parênquima renal esquerdo preservado -> parênquima renal esquerdo preservada
+69559004: massas retroperitoneais -> massas peritoneais
+69559004: massas retroperitoneais -> massas retroperitoneal
+69559004: massa retroperitoneal de cerca de 8 cm, com ecogenicidade heterogénea e vascularização marcada -> massa retroperitoneal de cerca de 9 cm, com ecogenicidade heterogénea e vascularização marcada
+69559004: massa retroperitoneal de cerca de 8 cm, com ecogenicidade heterogénea e vascularização marcada -> massa retroperitoneal de cerca de 7 cm, com ecogenicidade heterogénea e vascularização marcada
+69559004: massa retroperitoneal de cerca de 8 cm, com ecogenicidade heterogénea e vascularização marcada -> massa retroperitoneal de cerca de 6 cm, com ecogenicidade heterogénea e vascularização marcada
+69559004: massa retroperitoneal de cerca de 8 cm, com ecogenicidade heterogénea e vascularização marcada -> massa retroperitoneal de cerca de 5 cm, com ecogenicidade heterogénea e vascularização marcada
+69559004: massa retroperitoneal de cerca de 8 cm, com ecogenicidade heterogénea e vascularização marcada -> massa retroperitoneal de cerca de 4 cm, com ecogenicidade heterogénea e vascularização marcada
+69559004: massa retroperitoneal de cerca de 8 cm, com ecogenicidade heterogénea e vascularização marcada -> massa retroperitoneal de aproximadamente de 8 cm, com ecogenicidade heterogénea e vascularização marcada
+69559004: massa retroperitoneal de cerca de 8 cm, com ecogenicidade heterogénea e vascularização marcada -> massa retroperitoneal de cerca de 8 cm, com ecogenicidade heterogénea e vascularidade marcada
+69559004: massa sólida de 12 cm atrás do rim -> massa sólida de 11 cm atrás do rim
+69559004: massa sólida de 12 cm atrás do rim -> massa sólida de 13 cm atrás do rim
+69559004: massa sólida de 12 cm atrás do rim -> massa sólida de 14 cm atrás do rim
+69559004: massa sólida de 12 cm atrás do rim -> massa sólida de 16 cm atrás do rim
+69559004: massa sólida de 12 cm atrás do rim -> massa sólida de 15 cm atrás do rim
+69559004: massa bem circunscrita atrás do rim -> massa muito circunscrita atrás do rim
+69559004: massa bem circunscrita atrás do rim -> massa razoavelmente circunscrita atrás do rim
+69559004: massa retroperitoneal -> massa retroperitoneais
+69559004: massa retroperitoneal -> massa extraperitoneal
+69559004: massa retroperitoneal -> massa retroperitonial
+69559004: massa retroperitoneal -> massa peritoneal
+69559004: tumor retroperitoneal -> tumor retroperitoneais
+69559004: tumor retroperitoneal -> tumor extraperitoneal
+69559004: tumor retroperitoneal -> tumor retroperitonial
+69559004: tumor retroperitoneal -> tumor peritoneal
+300848003: tumores -> cânceres
+300848003: massa radiolúcida com trabeculações -> massa radiolúcidas com trabeculações
+300848003: tumor assintomático -> tumor assintomática
+300848003: tumor assintomático -> tumor assintomáticos
+300848003: massa homogénea -> massa homogênea
+301459008: hemodinamicamente estável -> hemodinamica estável
+301459008: estabilidade hemodinâmica -> estabilidade hemodinâmico
+62315008: diarreia -> diarréia
+62315008: diarreia -> diarreias
+62315008: diarreia febril -> diarréia febril
+62315008: diarreia febril -> diarreias febril
+64882008: episódios febris -> espisódios febris
+64882008: episódios febris -> epsódios febris
+64882008: episódios febris -> epísódios febris
+64882008: episódios febris -> episodios febris
+64882008: febre alta -> febre baixa
+64882008: febre alta -> febre altíssima
+64882008: síndrome febril -> Síndrome febril
+64882008: síndrome febril -> sindrome febril
+64882008: síndrome febril -> síndroma febril
+64882008: aumento da temperatura -> diminuição da temperatura
+64882008: aumento da temperatura -> oaumento da temperatura
+64882008: aumento da temperatura -> incremento da temperatura
+64882008: aumento da temperatura -> umaumento da temperatura
+64882008: aumento da temperatura -> aumento da atemperatura
+64882008: aumento da temperatura -> aumento da temperaturas
+64882008: aumento da temperatura -> aumento da Temperatura
+233703007: padrão intersticial nodular -> padrão intersticial nodulares
+233703007: padrão intersticial nodular -> padrão intersticial vilonodular
+49233005: sensação de dispneia -> sensação de dispnéia
+49233005: sensação de dispneia -> sensação de Dispneia
+49233005: dispneia -> dispnéia
+49233005: dispneia -> Dispneia
+49233005: dispneia de intensidade progressiva -> dispnéia de intensidade progressiva
+49233005: dispneia de intensidade progressiva -> Dispneia de intensidade progressiva
+284520004: crepitações bilaterais difusas -> crepitação bilaterais difusas
+75823008: exsudado -> exsudada
+75823008: exsudado -> exsudados
+75823008: exsudado -> exsudato
+75823008: exsudado -> exsudativo
+75823008: secreção -> Secreção
+27925004: formação nodular -> formação nodulares
+27925004: formação nodular -> formação vilonodular
+197941005: hematúria macroscópica -> Hematúria macroscópica
+197941005: hematúria macroscópica -> hematúrias macroscópica
+197941005: hematúria macroscópica -> hematúria microscópica
+197941005: hematúria franca -> Hematúria franca
+197941005: hematúria franca -> hematúrias franca
+87860000: massa de 8 cm no teste -> massa de 8 cm no testes
+87860000: massa de 8 cm no teste -> massa de 8 cm no Teste
+87860000: massa não dolorosa no testículo direito -> massa não dolorida no testículo direito
+87860000: massa não dolorosa no testículo direito -> massa não penosa no testículo direito
+399406009: os marcadores tumorais eram negativos -> os marcadores tumorais foram negativos
+399406009: os marcadores tumorais eram negativos -> os marcadores tumorais eram-lhes negativos
+399406009: os marcadores tumorais eram negativos -> os marcadores tumorais eram-nos negativos
+399406009: os marcadores tumorais eram negativos -> os marcadores tumorais eram-me negativos
+399406009: os marcadores tumorais eram negativos -> os marcadores tumorais seriam negativos
+399406009: marcadores tumorais negativos -> marcadores tumorais positivos
+399406009: marcadores tumorais normais -> marcadores tumorais anormais
+399406009: marcadores testiculares negativos -> marcadores testiculares positivos
+399406009: marcadores testiculares negativos -> marcadores testiculos negativos
+170728008: diminuição da acuidade visual -> redução da acuidade visual
+170728008: diminuição da acuidade visual -> aumento da acuidade visual
+170728008: défice de acuidade visual -> défices de acuidade visual
+170728008: perda progressiva da acuidade visual -> aperda progressiva da acuidade visual
+170728008: perda de acuidade visual no olho esquerdo -> aperda de acuidade visual no olho esquerdo
+76849009: hiperemia conjuntival -> Hiperemia conjuntival
+76849009: hiperemia conjuntival mista -> Hiperemia conjuntival mista
+79890006: hiporexia -> hiperpirexia
+79890006: perda de apetite -> aperda de apetite
+79890006: anorexia -> Anorexia
+79890006: anorexia -> bulimia
+79890006: anorexia moderada -> Anorexia moderada
+79890006: anorexia moderada -> bulimia moderada
+422400008: vómitos -> vômitos
+237783006: tumor adrenal -> tumor supra-renal
+237783006: tumor adrenal -> tumor adrenocortical
+237783006: massa adrenal -> massa supra-renal
+237783006: massa adrenal -> massa adrenocortical
+399122003: disfagia -> Disfagia
+399122003: disfagia progressiva -> Disfagia progressiva
+267045008: manifestações gastrointestinais -> manisfestações gastrointestinais
+267045008: manifestações gastrointestinais -> Manifestações gastrointestinais
+267045008: manifestações gastrointestinais -> manifestações gastrintestinais
+267045008: manifestações gastrointestinais -> manifestações gastro-intestinais
+267045008: sintomas gastrointestinais -> sintomas gastrintestinais
+267045008: sintomas gastrointestinais -> sintomas gastro-intestinais
+267045008: sintomas gastrointestinais -> sintomasA gastrointestinais
+419099009: morreu -> faleceu
+419099009: morreu -> Morreu
+419099009: sucesso -> êxito
+74474003: hemorragia gastrointestinal maciça -> hemorragia gastrintestinal maciça
+74474003: hemorragia gastrointestinal maciça -> hemorragia gastro-intestinal maciça
+74474003: hemorragia gastrointestinal maciça -> hemorragia intestinal maciça
+74474003: hemorragia gastrointestinal maciça -> hemorragia Gastrointestinal maciça
+74474003: hemorragia gastrointestinal maciça -> hemorragia gastrointestinal massiva
+74474003: hemorragia gastrointestinal -> hemorragia gastrintestinal
+74474003: hemorragia gastrointestinal -> hemorragia gastro-intestinal
+74474003: hemorragia gastrointestinal -> hemorragia intestinal
+74474003: hemorragia gastrointestinal -> hemorragia Gastrointestinal
+275723000: agravamento do estado geral -> desagravamento do estado geral
+275723000: deterioração clínica -> degradação clínica
+275723000: deterioração clínica -> deteriorização clínica
+275723000: deterioração clínica -> deterioração clinica
+131148009: sangue -> sangue.O
+131148009: sangue -> sangue.E
+22253000: doloroso -> dolorido
+22253000: doloroso -> penoso
+72970002: o exame clínico e os sinais vitais eram normais -> o exame clinico e os sinais vitais eram normais
+72970002: os sinais vitais estavam normais -> os sinais vitais estavam anormais
+13791008: fraqueza generalizada -> debilidade generalizada
+83128009: oligúria -> Oligúria
+83128009: oligúria -> oligúrica
+83128009: oligúria -> anúria
+422773005: instabilidade hemodinâmica -> instabilidade hemodinâmico
+422773005: desestabilização hemodinâmica -> desestabilização hemodinâmico
+422773005: compromisso hemodinâmico -> compromisso Hemodinâmico
+422773005: compromisso hemodinâmico -> compromisso hemodinâmica
+422773005: compromisso hemodinâmico -> compromisso hemodialítico
+422773005: compromisso hemodinâmico -> compromisso volêmico
+422773005: alterações hemodinâmicas -> alterações Hemodinâmicas
+422773005: alterações hemodinâmicas -> alterações eletrocardiográficas
+422773005: alterações hemodinâmicas -> alterações cardiológicas
+422773005: alterações hemodinâmicas -> alterações hemodinâmicos
+422773005: alterações hemodinâmicas -> alterações pressóricas
+422773005: alterações hemodinâmicas -> modificações hemodinâmicas
+422773005: alterações hemodinâmicas -> mudanças hemodinâmicas
+422773005: alterações hemodinâmicas -> Alterações hemodinâmicas
+422773005: hemodinamicamente instável -> hemodinamica instável
+300474003: diurese espontânea -> diurese expontânea
+300474003: diurese espontânea -> Diurese espontânea
+300474003: diurese mantida -> Diurese mantida
+300474003: diurese preservada -> Diurese preservada
+300474003: diurese preservada -> diurese preservado
+314983004: agravamento da função renal -> desagravamento da função renal
+80515008: aumento do fígado -> diminuição do fígado
+80515008: aumento do fígado -> oaumento do fígado
+80515008: aumento do fígado -> incremento do fígado
+80515008: aumento do fígado -> umaumento do fígado
+80515008: hepatomegalia dolorosa -> Hepatomegalia dolorosa
+80515008: hepatomegalia dolorosa -> hepatoesplenomegalia dolorosa
+80515008: hepatomegalia dolorosa -> hepatomegalia dolorida
+80515008: hepatomegalia dolorosa -> hepatomegalia penosa
+78341006: leucócitos polimorfonucleares e muco abundante -> leucócitos mononucleares e muco abundante
+78341006: leucócitos polimorfonucleares e muco abundante -> Leucócitos polimorfonucleares e muco abundante
+78341006: leucócitos polimorfonucleares e muco abundante -> neutrófilos polimorfonucleares e muco abundante
+78341006: leucócitos polimorfonucleares e muco abundante -> leucócito polimorfonucleares e muco abundante
+78341006: neutrofilia -> neutrofilos
+52985009: líquido ascítico com características quilosas -> líquido ascítico com caraterísticas quilosas
+52985009: líquido ascítico com características quilosas -> líquido ascítico com caracterísitcas quilosas
+52985009: líquido ascítico com características quilosas -> líquido ascítico com caracteristicas quilosas
+52985009: líquido ascítico com características quilosas -> líquido ascítico com particularidades quilosas
+52985009: líquido ascítico com características quilosas -> liquido ascítico com características quilosas
+389026000: líquido ascítico -> liquido ascítico
+5291005: hipocalcemia -> Hipocalcemia
+5291005: hipocalcemia -> hipercalcemia
+5291005: hipocalcemia -> calcemia
+5291005: hipocalcemia -> Hipercalcemia
+5291005: hipocalcemia -> hipocalcémia
+5291005: hipocalcemia grave -> Hipocalcemia grave
+5291005: hipocalcemia grave -> hipercalcemia grave
+5291005: hipocalcemia grave -> calcemia grave
+5291005: hipocalcemia grave -> Hipercalcemia grave
+5291005: hipocalcemia grave -> hipocalcémia grave
+5291005: hipocalcemia grave -> hipocalcemia gravíssimo
+5291005: hipocalcemia grave -> hipocalcemia gravíssima
+5291005: hipocalcemia grave -> hipocalcemia grave.O
+386789004: eosinofilia -> Eosinofilia
+386789004: eosinofilia periférica -> Eosinofilia periférica
+278683009: boa oclusão dentária -> ótima oclusão dentária
+301936006: o pólo anterior era normal em ambos os olhos -> o polo anterior era normal em ambos os olhos
+301936006: o pólo anterior era normal em ambos os olhos -> o pólo anterior era normal em ambos os osolhos
+301936006: o pólo anterior era normal em ambos os olhos -> o pólo anterior era normal em ambos os olhinhos
+301936006: o pólo anterior era normal em ambos os olhos -> o pólo anterior parecia normal em ambos os olhos
+301936006: boa profundidade da câmara anterior -> ótima profundidade da câmara anterior
+103251002: a motilidade ocular extrínseca e intrínseca era normal -> a motilidade ocular extrínseca e intrínseca parecia normal
+24982008: diplopia -> Diplopia
+24982008: diplopia horizontal -> diplopia vertical
+24982008: diplopia horizontal -> Diplopia horizontal
+24982008: diplopia binocular horizontal -> diplopia binocular vertical
+24982008: diplopia binocular horizontal -> diplopia binoculares horizontal
+24982008: diplopia binocular horizontal -> Diplopia binocular horizontal
+300855001: massa intestinal -> massa gastrointestinal
+300855001: tumor intraluminal -> tumor intraluminais
+300855001: tumor intraluminal -> tumor luminal
+15253005: assimetria facial -> Assimetria facial
+63049000: osso saudável -> osso saúdavel
+63049000: osso saudável -> osso saudáve
+63049000: osso saudável -> osso saudavel
+63049000: formação óssea longitudinal adequada -> formação óssea.A longitudinal adequada
+63049000: formação óssea longitudinal adequada -> formação óssea longitudinal apropriada
+63049000: formação óssea longitudinal adequada -> formação óssea longitudinal correta
+63049000: estrutura óssea normal -> estrutra óssea normal
+63049000: estrutura óssea normal -> estrutura óssea.A normal
+309088003: massa sólida no pólo superior do rim -> massa sólida no pólo inferior do rim
+271823003: taquipneia -> taquipnéia
+271823003: taquipneia -> Taquipneia
+271823003: taquipneia -> hiperpnéia
+271823003: taquipneia persistente -> taquipnéia persistente
+271823003: taquipneia persistente -> Taquipneia persistente
+271823003: taquipneia persistente -> hiperpnéia persistente
+271823003: aumento da frequência respiratória -> diminuição da frequência respiratória
+271823003: aumento da frequência respiratória -> oaumento da frequência respiratória
+271823003: aumento da frequência respiratória -> incremento da frequência respiratória
+271823003: aumento da frequência respiratória -> umaumento da frequência respiratória
+271823003: aumento da frequência respiratória -> aumento da freqüência respiratória
+271823003: aumento da frequência respiratória -> aumento da frequencia respiratória
+89362005: perda de peso de 15 kg -> perda de peso de 15 Kg
+89362005: perda de peso de 15 kg -> perda de peso de 15 kg.
+89362005: perda de peso de 15 kg -> aperda de peso de 15 kg
+89362005: perda de peso de 15 kg -> perda de peso de 20 kg
+89362005: perda de peso de 15 kg -> perda de peso de 14 kg
+89362005: perda de peso de 15 kg -> perda de peso de 16 kg
+89362005: perda de peso de 15 kg -> perda de peso de 12 kg
+89362005: perda de peso de 15 kg -> perda de peso de 13 kg
+89362005: perda de peso -> aperda de peso
+89362005: perda de cerca de 15 kg de peso -> aperda de cerca de 15 kg de peso
+89362005: perda de cerca de 15 kg de peso -> perda de cerca de 15 Kg de peso
+89362005: perda de cerca de 15 kg de peso -> perda de cerca de 15 kg. de peso
+89362005: perda de peso de 7 kg -> perda de peso de 7 Kg
+89362005: perda de peso de 7 kg -> perda de peso de 7 kg.
+89362005: perda de peso de 7 kg -> aperda de peso de 7 kg
+89362005: perda de peso de 5 kg -> aperda de peso de 5 kg
+89362005: perda de peso de 5 kg -> perda de peso de 6 kg
+89362005: perda de peso de 5 kg -> perda de peso de 4 kg
+89362005: perda de peso de 5 kg -> perda de peso de 3 kg
+89362005: perda de peso de 5 kg -> perda de peso de 8 kg
+89362005: perda de 23% do seu peso habitual -> aperda de 23% do seu peso habitual
+89362005: perda de trinta quilos de peso -> perda de trinta kilos de peso
+89362005: perda de trinta quilos de peso -> perda de trinta kgs de peso
+89362005: perda de trinta quilos de peso -> aperda de trinta quilos de peso
+53298000: hematúria -> Hematúria
+53298000: hematúria -> hematúrias
+53298000: hematúria anémica total -> hematúria anémico total
+53298000: hematúria anémica total -> Hematúria anémica total
+53298000: hematúria anémica total -> hematúrias anémica total
+90708001: retenção no pólo superior esquerdo -> retenção no pólo inferior esquerdo
+90708001: retenção no pólo superior esquerdo -> retenção no polo superior esquerdo
+90708001: retenção no pólo superior esquerdo -> Retenção no pólo superior esquerdo
+271594007: episódio sincopal -> episodio sincopal
+271594007: episódio sincopal -> epísódio sincopal
+271594007: episódio sincopal -> espisódio sincopal
+271594007: episódio sincopal -> epsódio sincopal
+204676004: mucosa gástrica ectópica -> mucosa naso-gástrica ectópica
+204676004: mucosa gástrica ectópica -> mucosa gástrica ectópicas
+204676004: mucosa gástrica ectópica -> mucosa gástrica Ectópica
+204676004: mucosa gástrica heterotópica -> mucosa gástrica heterotópico
+204676004: mucosa gástrica heterotópica -> mucosa naso-gástrica heterotópica
+300401007: aumento gradual da circunferência abdominal -> diminuição gradual da circunferência abdominal
+300401007: aumento gradual da circunferência abdominal -> oaumento gradual da circunferência abdominal
+300401007: aumento gradual da circunferência abdominal -> incremento gradual da circunferência abdominal
+300401007: aumento gradual da circunferência abdominal -> umaumento gradual da circunferência abdominal
+300401007: aumento do perímetro abdominal -> diminuição do perímetro abdominal
+300401007: aumento do perímetro abdominal -> oaumento do perímetro abdominal
+300401007: aumento do perímetro abdominal -> incremento do perímetro abdominal
+300401007: aumento do perímetro abdominal -> umaumento do perímetro abdominal
+165406005: hemograma normal -> Hemograma normal
+165406005: hemograma normal -> hemogramas normal
+165406005: parâmetros normais das três séries hematológicas -> parâmetros anormais das três séries hematológicas
+165406005: parâmetros normais das três séries hematológicas -> parâmetros normais dessas três séries hematológicas
+165406005: parâmetros normais das três séries hematológicas -> parâmetros normais destas três séries hematológicas
+443371007: diminuição do nível de consciência -> redução do nível de consciência
+443371007: diminuição do nível de consciência -> aumento do nível de consciência
+443371007: diminuição do nível de consciência -> diminuição do nivel de consciência
+443371007: deterioração progressiva do nível de consciência -> deterioração progressiva do nivel de consciência
+443371007: baixo nível de consciência -> baixo nivel de consciência
+443371007: obnubilação -> obnubila
+443371007: obnubilação -> obnubilada
+249545003: defesa à palpação -> defesa á palpação
+249545003: defesa à palpação -> defesa à apalpação
+249545003: defesa à palpação -> defesa à palpação.
+249545003: defesa à palpação -> defesa à Palpação
+249339005: pirâmide nasal estreita -> piramide nasal estreita
+34095006: sinais de esgotamento hidrossalino -> sinais de esgotamento hidrossalina
+703630003: olho vermelho grave -> olho amarelo grave
+703630003: olho vermelho grave -> olho azul grave
+703630003: olho vermelho grave -> olho roxo grave
+703630003: olho vermelho grave -> olho vermelhor grave
+703630003: olho vermelho grave -> olho vermelho gravíssimo
+703630003: olho vermelho grave -> olho vermelho gravíssima
+703630003: olho vermelho grave -> olho vermelho grave.O
+703630003: olho vermelho -> olho amarelo
+703630003: olho vermelho -> olho azul
+703630003: olho vermelho -> olho roxo
+703630003: olho vermelho -> olho vermelhor
+445088006: edema do maxilar superior -> edema do mandíbula superior
+445088006: edema do maxilar superior -> edema do maxilar inferior
+14310000: rinorreia esverdeada -> rinorreia amarelada
+14310000: rinorreia esverdeada -> rinorreia azulada
+14310000: rinorreia esverdeada -> rinorreia avermelhada
+14310000: rinorreia esverdeada -> rinorreia acinzentada
+14310000: rinorreia esverdeada -> rinorreia alaranjada
+14310000: rinorreia esverdeada -> rinorréia esverdeada
+14310000: rinorreia purulenta -> rinorreia purulento
+14310000: rinorreia purulenta -> rinorreia mucopurulenta
+14310000: rinorreia purulenta -> rinorreia purulentas
+14310000: rinorreia purulenta -> rinorréia purulenta
+91175000: episódios convulsivos -> espisódios convulsivos
+91175000: episódios convulsivos -> epsódios convulsivos
+91175000: episódios convulsivos -> epísódios convulsivos
+91175000: episódios convulsivos -> episodios convulsivos
+91175000: episódio convulsivo -> episodio convulsivo
+91175000: episódio convulsivo -> epísódio convulsivo
+91175000: episódio convulsivo -> espisódio convulsivo
+91175000: episódio convulsivo -> epsódio convulsivo
+18265008: proptose de um ano de evolução em ambos os olhos -> proptose de um ano de evolução em ambos os osolhos
+18265008: proptose de um ano de evolução em ambos os olhos -> proptose de um ano de evolução em ambos os olhinhos
+18265008: proptose de um ano de evolução em ambos os olhos -> proptose de um ano de evolução em Ambos os olhos
+18265008: proptose de um ano de evolução em ambos os olhos -> proptose de um mês de evolução em ambos os olhos
+18265008: proptose de um ano de evolução em ambos os olhos -> proptose de um semestre de evolução em ambos os olhos
+285384003: deterioração progressiva do estado geral -> degradação progressiva do estado geral
+285384003: deterioração progressiva do estado geral -> deteriorização progressiva do estado geral
+285384003: deterioração do seu estado geral -> degradação do seu estado geral
+285384003: deterioração do seu estado geral -> deteriorização do seu estado geral
+285384003: deterioração do estado geral -> degradação do estado geral
+285384003: deterioração do estado geral -> deteriorização do estado geral
+309530007: massa hilar -> massa hilares
+249939004: fraqueza muscular proximal -> debilidade muscular proximal
+386689009: hipotermia sistémica -> Hipotermia sistémica
+386689009: hipotermia -> Hipotermia
+445249002: imagens nodulares no lobo superior -> imagens nodulares no lobo inferior
+445249002: imagens nodulares em ambos os campos pulmonares -> imagens nodulares em Ambos os campos pulmonares
+445249002: imagens nodulares em ambos os campos pulmonares -> fotografias nodulares em ambos os campos pulmonares
+713514005: fraqueza dos membros -> debilidade dos membros
+713514005: fraqueza dos membros -> fraqueza dos integrantes
+713514005: fraqueza dos membros -> fraqueza dos Membros
+713514005: fraqueza muscular nos quatro membros -> debilidade muscular nos quatro membros
+713514005: fraqueza muscular nos quatro membros -> fraqueza muscular nos quatro integrantes
+713514005: fraqueza muscular nos quatro membros -> fraqueza muscular nos quatro Membros
+22994000: hiporreflexia generalizada -> arreflexia generalizada
+22994000: hiporreflexia generalizada -> hiperreflexia generalizada
+22994000: hiporreflexia -> arreflexia
+22994000: hiporreflexia -> hiperreflexia
+106150003: envolvimento do nervo alveolar inferior -> envolvimento do nervo alveolar superior
+106150003: nervos cranianos normais -> nervos cranianos anormais
+52613005: diaforético -> diaforética
+11092001: taquicárdico -> taquicárdica
+11092001: taquicárdico -> taquicárdia
+11092001: taquicardia -> taquicardias
+11092001: taquicardia sinusal -> taquicardia Sinusal
+11092001: taquicardia sinusal -> taquicardia nasossinusal
+11092001: taquicardia sinusal -> taquicardias sinusal
+45007003: hipotenso -> hipotensa
+45007003: hipotenso -> hipotensivo
+45007003: hipotenso -> hipotensos
+45007003: hipotenso -> hipotensiva
+45007003: hipotenso -> hipotensor
+45007003: hipotensão -> Hipotensão
+45007003: hipotensão arterial -> Hipotensão arterial
+45007003: hipotensão arterial -> hipotenso arterial
+45007003: hipotensão arterial -> hipotensa arterial
+708118007: as culturas de sangue eram estéreis -> as culturas de sangue foram estéreis
+708118007: as culturas de sangue eram estéreis -> as culturas de sangue eram-lhes estéreis
+708118007: as culturas de sangue eram estéreis -> as culturas de sangue eram-nos estéreis
+708118007: as culturas de sangue eram estéreis -> as culturas de sangue eram-me estéreis
+708118007: as culturas de sangue eram estéreis -> as culturas de sangue seriam estéreis
+708118007: as culturas de sangue eram estéreis -> as culturas de sangue.O eram estéreis
+708118007: as culturas de sangue eram estéreis -> as culturas de sangue.E eram estéreis
+708118007: cultura negativa -> cultura positiva
+300561007: estudos urológicos normais -> estudos cardiológicos normais
+300561007: estudos urológicos normais -> estudos urológicos anormais
+300561007: rins e ureteres normais -> rins e ureteres anormais
+300561007: rins e ureteres normais -> rins e ureter normais
+300561007: uretra bulbar normal -> uretral bulbar normal
+74285003: massa pélvica à direita da bexiga -> massa pélvica à esquerda da bexiga
+74285003: massa pélvica à direita da bexiga -> massa pélvica à direira da bexiga
+74285003: massa pélvica à direita da bexiga -> massa pélvica à esqueda da bexiga
+75753009: coágulos -> Coágulos
+75753009: coágulos -> trombos
+409668002: fotofobia -> Fotofobia
+409668002: fotofobia intensa -> Fotofobia intensa
+248503005: edema epitelial microcístico -> edema subepitelial microcístico
+707724006: transaminases ligeiramente elevadas -> Transaminases ligeiramente elevadas
+707724006: transaminases ligeiramente elevadas -> transaminase ligeiramente elevadas
+707724006: transaminases ligeiramente elevadas -> Transaminase ligeiramente elevadas
+707724006: transaminases ligeiramente elevadas -> transaminases levemente elevadas
+707724006: transaminases ligeiramente elevadas -> transaminases ligeiramente altas
+707724006: transaminases ligeiramente elevadas -> transaminases ligeiramente baixas
+707724006: aumento progressivo das transaminases -> diminuição progressivo das transaminases
+707724006: aumento progressivo das transaminases -> oaumento progressivo das transaminases
+707724006: aumento progressivo das transaminases -> incremento progressivo das transaminases
+707724006: aumento progressivo das transaminases -> umaumento progressivo das transaminases
+707724006: aumento progressivo das transaminases -> aumento progressivo dessas transaminases
+707724006: aumento progressivo das transaminases -> aumento progressivo destas transaminases
+707724006: aumento progressivo das transaminases -> aumento progressivo das Transaminases
+707724006: aumento progressivo das transaminases -> aumento progressivo das transaminase
+707724006: aumento progressivo das transaminases -> aumento progressivo das Transaminase
+707724006: enzimas hepáticas elevadas -> enzimas hepáticas altas
+707724006: enzimas hepáticas elevadas -> enzimas hepáticas baixas
+707724006: aumento das transaminases -> diminuição das transaminases
+707724006: aumento das transaminases -> oaumento das transaminases
+707724006: aumento das transaminases -> incremento das transaminases
+707724006: aumento das transaminases -> umaumento das transaminases
+707724006: aumento das transaminases -> aumento dessas transaminases
+707724006: aumento das transaminases -> aumento destas transaminases
+707724006: aumento das transaminases -> aumento das Transaminases
+707724006: aumento das transaminases -> aumento das transaminase
+707724006: aumento das transaminases -> aumento das Transaminase
+707724006: transaminases elevadas -> transaminases altas
+707724006: transaminases elevadas -> transaminases baixas
+707724006: transaminases elevadas -> Transaminases elevadas
+707724006: transaminases elevadas -> transaminase elevadas
+707724006: transaminases elevadas -> Transaminase elevadas
+70819003: pele avermelhada -> pele alaranjada
+70819003: pele avermelhada -> pele azulada
+70819003: pele avermelhada -> pele amarelada
+70819003: pele avermelhada -> pele esverdeada
+70819003: pele avermelhada -> pele esbranquiçada
+70819003: vermelhidão -> Vermelhidão
+111512005: sinéquias posteriores -> sinéquias subsequentes
+111512005: sinéquias posteriores -> sinéquias anteriores
+111512005: sinéquias posteriores -> sinéquias subseqüentes
+111512005: sinéquias posteriores -> Petéquias posteriores
+75229002: hifema que ocupa metade da câmara anterior -> hifema que ocupa metade da camara anterior
+32566006: dismetria nos quatro membros -> dismetria nos quatro integrantes
+32566006: dismetria nos quatro membros -> dismetria nos quatro Membros
+32566006: dismetria nos quatro membros -> dismetria nos três membros
+32566006: dismetria nos quatro membros -> dismetria nos cinco membros
+32566006: dismetria nos quatro membros -> dismetria nos seis membros
+32566006: dismetria nos quatro membros -> dismetria nos oito membros
+32566006: dismetria nos quatro membros -> dismetria nos sete membros
+301855007: nós negativos -> nós positivos
+301855007: gânglios linfáticos -> glânglios linfáticos
+301855007: gânglios linfáticos -> Gânglios linfáticos
+102568007: diminuição da força em ambos os membros inferiores -> diminuição da força em Ambos os membros inferiores
+102568007: diminuição da força em ambos os membros inferiores -> diminuição da força em ambos os membros superiores
+102568007: fraqueza dos membros inferiores -> fraqueza dos integrantes inferiores
+102568007: fraqueza dos membros inferiores -> fraqueza dos Membros inferiores
+102568007: fraqueza dos membros inferiores -> debilidade dos membros inferiores
+301151001: os pulsos distais foram preservados -> os pulsos distais Foram preservados
+301151001: os pulsos distais foram preservados -> os pulsos distais eforam preservados
+301151001: os pulsos distais foram preservados -> os pulsos distais eram preservados
+301151001: os pulsos distais foram preservados -> os pulsos distais são preservados
+301151001: os pulsos distais foram preservados -> os pulsos distais queforam preservados
+301151001: os pulsos distais foram preservados -> os pulsos distais foram conservados
+9957009: descarga purulenta transuretral -> descarga purulento transuretral
+9957009: descarga purulenta transuretral -> descarga mucopurulenta transuretral
+9957009: descarga purulenta transuretral -> descarga purulentas transuretral
+9957009: descarga purulenta através do meato uretral -> descarga purulenta através do meato uretra
+9957009: descarga purulenta através do meato uretral -> descarga purulenta através do meato periuretral
+9957009: descarga purulenta através do meato uretral -> descarga purulento através do meato uretral
+9957009: descarga purulenta através do meato uretral -> descarga mucopurulenta através do meato uretral
+9957009: descarga purulenta através do meato uretral -> descarga purulentas através do meato uretral
+9957009: descarga purulenta através do meato uretral -> descarga purulenta Através do meato uretral
+301367001: dor abdominal predominantemente no hipocôndrio direito -> dor abdominal predominantemente no Hipocôndrio direito
+301367001: dor abdominal no hipocôndrio direito -> dor abdominal no Hipocôndrio direito
+301367001: dor no hipocôndrio direito -> dor no Hipocôndrio direito
+60728008: o abdómen era globular -> o abdómen era globulares
+60728008: o abdómen era globular -> o abdómen parecia globular
+60728008: o abdómen era globular -> o abdómem era globular
+409609008: infiltrado alveolar-intersticial bilateral -> infiltrada alveolar-intersticial bilateral
+409609008: infiltrado alveolar basal -> infiltrada alveolar basal
+369757002: massa sólida com áreas hemorrágicas -> massa sólida com emáreas hemorrágicas
+79922009: dor epigástrica -> dor epigástrico
+79922009: dor epigástrica -> dor epigástricas
+79922009: dor epigástrica -> dor epigástrio
+79922009: dor epigástrica -> dor hipogástrica
+79922009: dor epigástrica -> dor epigástricos
+79922009: epigastralgia -> gastralgia
+11934000: ptose -> Ptose
+11934000: ptose total -> Ptose total
+37125009: midríase -> Midríase
+37125009: midríase -> miose
+37125009: midríase reactiva -> Midríase reactiva
+37125009: midríase reactiva -> miose reactiva
+35013009: material purulento -> material mucopurulento
+35013009: material purulento -> material purulenta
+35013009: descarga purulenta -> descarga purulento
+35013009: descarga purulenta -> descarga mucopurulenta
+35013009: descarga purulenta -> descarga purulentas
+249250005: glande, bem como uma sensação de anestesia local -> glande, muito como uma sensação de anestesia local
+249250005: glande, bem como uma sensação de anestesia local -> glande, razoavelmente como uma sensação de anestesia local
+95255005: hipotonia ocular -> Hipotonia ocular
+95255005: hipotonia extrema do globo ocular -> hipotonia estrema do globo ocular
+95255005: hipotonia extrema do globo ocular -> Hipotonia extrema do globo ocular
+423341008: papiledema -> Papiledema
+64730000: ritmo sinusal normal -> rítmo sinusal normal
+64730000: ritmo sinusal normal -> rítimo sinusal normal
+64730000: ritmo sinusal normal -> ritmo Sinusal normal
+64730000: ritmo sinusal normal -> ritmo nasossinusal normal
+64730000: a auscultação cardíaca era rítmica -> a auscultação cardíaca parecia rítmica
+64730000: a auscultação cardíaca era rítmica -> a auscultação cardíaca era ritmica
+64379006: diminuição da ingestão -> redução da ingestão
+64379006: diminuição da ingestão -> aumento da ingestão
+64379006: diminuição da ingestão -> diminuição da ingesta
+431468008: colapso do terceiro ventrículo -> colapso do terceiro ventrículos
+431468008: colapso do terceiro ventrículo -> colapso do terceiro Ventrículo
+431468008: colapso do terceiro ventrículo -> colapso do quinto ventrículo
+431468008: colapso do terceiro ventrículo -> colapso do oitavo ventrículo
+431468008: colapso do terceiro ventrículo -> colapso do sexto ventrículo
+431468008: colapso do terceiro ventrículo -> colapso do primeiro ventrículo
+431468008: colapso do terceiro ventrículo -> colapso do nono ventrículo
+431468008: colapso ventricular -> colapso biventricular
+57534004: difusão dos vasos da retina -> disseminação dos vasos da retina
+57534004: difusão dos vasos da retina -> propagação dos vasos da retina
+300449001: ureter normal -> ureteral normal
+300449001: ureter normal -> ureteres normal
+300449001: indemnização do ureter distal -> indemnizações do ureter distal
+300449001: indemnização do ureter distal -> indemnizado do ureter distal
+300449001: indemnização do ureter distal -> indemnização do ureteral distal
+300449001: indemnização do ureter distal -> indemnização do ureteres distal
+15930381000119104: edema de ambos os discos ópticos -> edema de Ambos os discos ópticos
+15930381000119104: edema de ambos os discos ópticos -> edema de ambos os discos óticos
+15930381000119104: papiledema bilateral -> Papiledema bilateral
+30098003: hiperemia -> Hiperemia
+30098003: hiperemia grave -> Hiperemia grave
+30098003: hiperemia grave -> hiperemia gravíssimo
+30098003: hiperemia grave -> hiperemia gravíssima
+30098003: hiperemia grave -> hiperemia grave.O
+398637008: espessura macular normal -> expessura macular normal
+68600005: hemoglobinúria -> Hemoglobinúria
+68600005: hemoglobinúria -> mioglobinúria
+68600005: hemoglobinúria -> albuminúria
+68600005: hemoglobinúria -> metahemoglobinemia
+68600005: hemoglobinúria -> cistinúria
+68600005: hemoglobinúria macroscópica -> hemoglobinúria microscópica
+68600005: hemoglobinúria macroscópica -> Hemoglobinúria macroscópica
+68600005: hemoglobinúria macroscópica -> mioglobinúria macroscópica
+68600005: hemoglobinúria macroscópica -> albuminúria macroscópica
+68600005: hemoglobinúria macroscópica -> metahemoglobinemia macroscópica
+68600005: hemoglobinúria macroscópica -> cistinúria macroscópica
+282050000: massa no jejuno proximal -> massa no jejuno-íleo proximal
+282050000: plastrão localizado no jejuno -> plastrão situado no jejuno
+282050000: plastrão localizado no jejuno -> plastrão localizada no jejuno
+282050000: plastrão localizado no jejuno -> plastrão Localizado no jejuno
+300260007: a drenagem da glândula parótida esquerda é normal -> a drenagem da glândula parótida direita é normal
+300260007: a drenagem da glândula parótida esquerda é normal -> a drenagem da glândula parótida esquerda.A é normal
+300260007: a drenagem da glândula parótida esquerda é normal -> a drenagem da glândula parótidas esquerda é normal
+300260007: a drenagem da glândula parótida esquerda é normal -> a drenagem da glândula Parótida esquerda é normal
+300260007: a conduta era permeável -> a conduta parecia permeável

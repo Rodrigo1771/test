@@ -1,0 +1,25 @@
+300848003: radiolucent mass with trabeculations -> radiolucent mass with trabeculation
+300848003: tumours -> tumors
+301459008: haemodynamic stability -> hemodynamic stability
+49233005: dyspnoea -> dyspnea
+49233005: dyspnoea of progressive intensity -> dyspnea of progressive intensity
+422773005: haemodynamic compromise -> hemodynamic compromise
+422773005: haemodynamic destabilisation -> hemodynamic destabilisation
+422773005: haemodynamic instability -> hemodynamic instability
+422773005: haemodynamic alterations -> hemodynamic alterations
+24982008: horizontal binocular diplopia -> vertical binocular diplopia
+24982008: horizontal diplopia -> vertical diplopia
+89362005: loss of about 15 kg of weight -> loss of about 20 kg of weight
+89362005: loss of about 15 kg of weight -> loss of about 25 kg of weight
+89362005: loss of about 15 kg of weight -> loss of about 10 kg of weight
+89362005: loss of about 15 kg of weight -> loss of about 14 kg of weight
+89362005: loss of about 15 kg of weight -> loss of about 13 kg of weight
+33958003: induration of the distal third of the penile shaft -> induration of the proximal third of the penile shaft
+165406005: normal parameters of the three haematological series -> normal parameters of the four haematological series
+165406005: normal parameters of the three haematological series -> normal parameters of the two haematological series
+165406005: normal parameters of the three haematological series -> normal parameters of the five haematological series
+165406005: normal parameters of the three haematological series -> normal parameters of the six haematological series
+165406005: normal parameters of the three haematological series -> normal parameters of the seven haematological series
+301151001: distal pulses were preserved -> proximal pulses were preserved
+301151001: distal pulses present -> proximal pulses present
+369757002: solid mass with haemorrhagic areas -> solid mass with hemorrhagic areas

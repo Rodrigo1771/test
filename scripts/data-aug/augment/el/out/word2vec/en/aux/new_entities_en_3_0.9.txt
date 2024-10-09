@@ -1,0 +1,32 @@
+300848003: asymptomatic tumour -> asymptomatic tumor
+300848003: endophytic tumour -> endophytic tumor
+300848003: tumours -> tumors
+69559004: retroperitoneal tumour -> retroperitoneal tumor
+87860000: bilateral testicular tumour -> bilateral testicular tumor
+87860000: testicles are engulfed by fibrosis and the tumour mass -> testicles are engulfed by fibrosis and the tumor mass
+399406009: negative tumour markers -> negative tumor markers
+399406009: tumour markers were negative -> tumor markers were negative
+422400008: vomiting -> nausea
+422400008: self-limited vomiting of variable duration -> self-limited nausea of variable duration
+237783006: adrenal tumour -> adrenal tumor
+300855001: intraluminal tumour -> intraluminal tumor
+33958003: induration of the distal third of the penile shaft -> induration of the proximal third of the penile shaft
+165406005: normal parameters of the three haematological series -> normal parameters of the four haematological series
+165406005: normal parameters of the three haematological series -> normal parameters of the two haematological series
+165406005: normal parameters of the three haematological series -> normal parameters of the five haematological series
+14310000: greenish rhinorrhoea -> yellowish rhinorrhoea
+14310000: greenish rhinorrhoea -> pinkish rhinorrhoea
+14310000: greenish rhinorrhoea -> reddish rhinorrhoea
+14310000: greenish rhinorrhoea -> brownish rhinorrhoea
+14310000: greenish rhinorrhoea -> purplish rhinorrhoea
+248503005: microcystic epithelial oedema -> microcystic epithelium oedema
+70819003: reddish skin -> yellowish skin
+70819003: reddish skin -> reddish-brown skin
+70819003: reddish skin -> greenish skin
+70819003: reddish skin -> pinkish skin
+70819003: reddish skin -> purplish skin
+301151001: distal pulses were preserved -> proximal pulses were preserved
+301151001: distal pulses present -> proximal pulses present
+431468008: collapse of the third ventricle -> collapse of the third ventricles
+431468008: collapse of the third ventricle -> collapse of the second ventricle
+431468008: collapse of the third ventricle -> collapse of the fourth ventricle

@@ -1,0 +1,608 @@
+81141003||boa função renal||função renal normal
+81141003||boa função renal||função renal estável
+81141003||boa função renal||função renal bilateral normal
+81141003||boa função renal||boa função renal bilateral
+81141003||boa função renal||função renal preservada
+81141003||função renal normal||função renal estável
+81141003||função renal normal||função renal bilateral normal
+81141003||função renal normal||boa função renal bilateral
+81141003||função renal normal||função renal preservada
+81141003||função renal estável||função renal bilateral normal
+81141003||função renal estável||boa função renal bilateral
+81141003||função renal estável||função renal preservada
+81141003||função renal bilateral normal||boa função renal bilateral
+81141003||função renal bilateral normal||função renal preservada
+81141003||boa função renal bilateral||função renal preservada
+87548005||dispepsia flatulenta||dispepsia
+300441003||parênquima renal esquerdo preservado||hipointensidade de sinal no córtex renal
+300441003||parênquima renal esquerdo preservado||distorção renal
+300441003||hipointensidade de sinal no córtex renal||distorção renal
+69559004||massas retroperitoneais||massa retroperitoneal de cerca de 8 cm, com ecogenicidade heterogénea e vascularização marcada
+69559004||massas retroperitoneais||massa sólida de 12 cm atrás do rim
+69559004||massas retroperitoneais||massa bem circunscrita atrás do rim
+69559004||massas retroperitoneais||massa retroperitoneal
+69559004||massas retroperitoneais||tumor retroperitoneal
+69559004||massas retroperitoneais||massa retroperitoneal de cerca de 9 cm, com ecogenicidade heterogénea e vascularização marcada
+69559004||massas retroperitoneais||massa retroperitoneal de cerca de 7 cm, com ecogenicidade heterogénea e vascularização marcada
+69559004||massas retroperitoneais||massa retroperitoneal de cerca de 6 cm, com ecogenicidade heterogénea e vascularização marcada
+69559004||massas retroperitoneais||massa retroperitoneal de cerca de 5 cm, com ecogenicidade heterogénea e vascularização marcada
+69559004||massas retroperitoneais||massa retroperitoneal de cerca de 4 cm, com ecogenicidade heterogénea e vascularização marcada
+69559004||massas retroperitoneais||massa sólida de 11 cm atrás do rim
+69559004||massas retroperitoneais||massa sólida de 13 cm atrás do rim
+69559004||massas retroperitoneais||massa sólida de 14 cm atrás do rim
+69559004||massas retroperitoneais||massa sólida de 16 cm atrás do rim
+69559004||massas retroperitoneais||massa sólida de 15 cm atrás do rim
+69559004||massa retroperitoneal de cerca de 8 cm, com ecogenicidade heterogénea e vascularização marcada||massa sólida de 12 cm atrás do rim
+69559004||massa retroperitoneal de cerca de 8 cm, com ecogenicidade heterogénea e vascularização marcada||massa bem circunscrita atrás do rim
+69559004||massa retroperitoneal de cerca de 8 cm, com ecogenicidade heterogénea e vascularização marcada||massa retroperitoneal
+69559004||massa retroperitoneal de cerca de 8 cm, com ecogenicidade heterogénea e vascularização marcada||tumor retroperitoneal
+69559004||massa retroperitoneal de cerca de 8 cm, com ecogenicidade heterogénea e vascularização marcada||massa retroperitoneal de cerca de 9 cm, com ecogenicidade heterogénea e vascularização marcada
+69559004||massa retroperitoneal de cerca de 8 cm, com ecogenicidade heterogénea e vascularização marcada||massa retroperitoneal de cerca de 7 cm, com ecogenicidade heterogénea e vascularização marcada
+69559004||massa retroperitoneal de cerca de 8 cm, com ecogenicidade heterogénea e vascularização marcada||massa retroperitoneal de cerca de 6 cm, com ecogenicidade heterogénea e vascularização marcada
+69559004||massa retroperitoneal de cerca de 8 cm, com ecogenicidade heterogénea e vascularização marcada||massa retroperitoneal de cerca de 5 cm, com ecogenicidade heterogénea e vascularização marcada
+69559004||massa retroperitoneal de cerca de 8 cm, com ecogenicidade heterogénea e vascularização marcada||massa retroperitoneal de cerca de 4 cm, com ecogenicidade heterogénea e vascularização marcada
+69559004||massa retroperitoneal de cerca de 8 cm, com ecogenicidade heterogénea e vascularização marcada||massa sólida de 11 cm atrás do rim
+69559004||massa retroperitoneal de cerca de 8 cm, com ecogenicidade heterogénea e vascularização marcada||massa sólida de 13 cm atrás do rim
+69559004||massa retroperitoneal de cerca de 8 cm, com ecogenicidade heterogénea e vascularização marcada||massa sólida de 14 cm atrás do rim
+69559004||massa retroperitoneal de cerca de 8 cm, com ecogenicidade heterogénea e vascularização marcada||massa sólida de 16 cm atrás do rim
+69559004||massa retroperitoneal de cerca de 8 cm, com ecogenicidade heterogénea e vascularização marcada||massa sólida de 15 cm atrás do rim
+69559004||massa sólida de 12 cm atrás do rim||massa bem circunscrita atrás do rim
+69559004||massa sólida de 12 cm atrás do rim||massa retroperitoneal
+69559004||massa sólida de 12 cm atrás do rim||tumor retroperitoneal
+69559004||massa sólida de 12 cm atrás do rim||massa retroperitoneal de cerca de 9 cm, com ecogenicidade heterogénea e vascularização marcada
+69559004||massa sólida de 12 cm atrás do rim||massa retroperitoneal de cerca de 7 cm, com ecogenicidade heterogénea e vascularização marcada
+69559004||massa sólida de 12 cm atrás do rim||massa retroperitoneal de cerca de 6 cm, com ecogenicidade heterogénea e vascularização marcada
+69559004||massa sólida de 12 cm atrás do rim||massa retroperitoneal de cerca de 5 cm, com ecogenicidade heterogénea e vascularização marcada
+69559004||massa sólida de 12 cm atrás do rim||massa retroperitoneal de cerca de 4 cm, com ecogenicidade heterogénea e vascularização marcada
+69559004||massa sólida de 12 cm atrás do rim||massa sólida de 11 cm atrás do rim
+69559004||massa sólida de 12 cm atrás do rim||massa sólida de 13 cm atrás do rim
+69559004||massa sólida de 12 cm atrás do rim||massa sólida de 14 cm atrás do rim
+69559004||massa sólida de 12 cm atrás do rim||massa sólida de 16 cm atrás do rim
+69559004||massa sólida de 12 cm atrás do rim||massa sólida de 15 cm atrás do rim
+69559004||massa bem circunscrita atrás do rim||massa retroperitoneal
+69559004||massa bem circunscrita atrás do rim||tumor retroperitoneal
+69559004||massa bem circunscrita atrás do rim||massa retroperitoneal de cerca de 9 cm, com ecogenicidade heterogénea e vascularização marcada
+69559004||massa bem circunscrita atrás do rim||massa retroperitoneal de cerca de 7 cm, com ecogenicidade heterogénea e vascularização marcada
+69559004||massa bem circunscrita atrás do rim||massa retroperitoneal de cerca de 6 cm, com ecogenicidade heterogénea e vascularização marcada
+69559004||massa bem circunscrita atrás do rim||massa retroperitoneal de cerca de 5 cm, com ecogenicidade heterogénea e vascularização marcada
+69559004||massa bem circunscrita atrás do rim||massa retroperitoneal de cerca de 4 cm, com ecogenicidade heterogénea e vascularização marcada
+69559004||massa bem circunscrita atrás do rim||massa sólida de 11 cm atrás do rim
+69559004||massa bem circunscrita atrás do rim||massa sólida de 13 cm atrás do rim
+69559004||massa bem circunscrita atrás do rim||massa sólida de 14 cm atrás do rim
+69559004||massa bem circunscrita atrás do rim||massa sólida de 16 cm atrás do rim
+69559004||massa bem circunscrita atrás do rim||massa sólida de 15 cm atrás do rim
+69559004||massa retroperitoneal||tumor retroperitoneal
+69559004||massa retroperitoneal||massa retroperitoneal de cerca de 9 cm, com ecogenicidade heterogénea e vascularização marcada
+69559004||massa retroperitoneal||massa retroperitoneal de cerca de 7 cm, com ecogenicidade heterogénea e vascularização marcada
+69559004||massa retroperitoneal||massa retroperitoneal de cerca de 6 cm, com ecogenicidade heterogénea e vascularização marcada
+69559004||massa retroperitoneal||massa retroperitoneal de cerca de 5 cm, com ecogenicidade heterogénea e vascularização marcada
+69559004||massa retroperitoneal||massa retroperitoneal de cerca de 4 cm, com ecogenicidade heterogénea e vascularização marcada
+69559004||massa retroperitoneal||massa sólida de 11 cm atrás do rim
+69559004||massa retroperitoneal||massa sólida de 13 cm atrás do rim
+69559004||massa retroperitoneal||massa sólida de 14 cm atrás do rim
+69559004||massa retroperitoneal||massa sólida de 16 cm atrás do rim
+69559004||massa retroperitoneal||massa sólida de 15 cm atrás do rim
+69559004||tumor retroperitoneal||massa retroperitoneal de cerca de 9 cm, com ecogenicidade heterogénea e vascularização marcada
+69559004||tumor retroperitoneal||massa retroperitoneal de cerca de 7 cm, com ecogenicidade heterogénea e vascularização marcada
+69559004||tumor retroperitoneal||massa retroperitoneal de cerca de 6 cm, com ecogenicidade heterogénea e vascularização marcada
+69559004||tumor retroperitoneal||massa retroperitoneal de cerca de 5 cm, com ecogenicidade heterogénea e vascularização marcada
+69559004||tumor retroperitoneal||massa retroperitoneal de cerca de 4 cm, com ecogenicidade heterogénea e vascularização marcada
+69559004||tumor retroperitoneal||massa sólida de 11 cm atrás do rim
+69559004||tumor retroperitoneal||massa sólida de 13 cm atrás do rim
+69559004||tumor retroperitoneal||massa sólida de 14 cm atrás do rim
+69559004||tumor retroperitoneal||massa sólida de 16 cm atrás do rim
+69559004||tumor retroperitoneal||massa sólida de 15 cm atrás do rim
+69559004||massa retroperitoneal de cerca de 9 cm, com ecogenicidade heterogénea e vascularização marcada||massa retroperitoneal de cerca de 7 cm, com ecogenicidade heterogénea e vascularização marcada
+69559004||massa retroperitoneal de cerca de 9 cm, com ecogenicidade heterogénea e vascularização marcada||massa retroperitoneal de cerca de 6 cm, com ecogenicidade heterogénea e vascularização marcada
+69559004||massa retroperitoneal de cerca de 9 cm, com ecogenicidade heterogénea e vascularização marcada||massa retroperitoneal de cerca de 5 cm, com ecogenicidade heterogénea e vascularização marcada
+69559004||massa retroperitoneal de cerca de 9 cm, com ecogenicidade heterogénea e vascularização marcada||massa retroperitoneal de cerca de 4 cm, com ecogenicidade heterogénea e vascularização marcada
+69559004||massa retroperitoneal de cerca de 9 cm, com ecogenicidade heterogénea e vascularização marcada||massa sólida de 11 cm atrás do rim
+69559004||massa retroperitoneal de cerca de 9 cm, com ecogenicidade heterogénea e vascularização marcada||massa sólida de 13 cm atrás do rim
+69559004||massa retroperitoneal de cerca de 9 cm, com ecogenicidade heterogénea e vascularização marcada||massa sólida de 14 cm atrás do rim
+69559004||massa retroperitoneal de cerca de 9 cm, com ecogenicidade heterogénea e vascularização marcada||massa sólida de 16 cm atrás do rim
+69559004||massa retroperitoneal de cerca de 9 cm, com ecogenicidade heterogénea e vascularização marcada||massa sólida de 15 cm atrás do rim
+69559004||massa retroperitoneal de cerca de 7 cm, com ecogenicidade heterogénea e vascularização marcada||massa retroperitoneal de cerca de 6 cm, com ecogenicidade heterogénea e vascularização marcada
+69559004||massa retroperitoneal de cerca de 7 cm, com ecogenicidade heterogénea e vascularização marcada||massa retroperitoneal de cerca de 5 cm, com ecogenicidade heterogénea e vascularização marcada
+69559004||massa retroperitoneal de cerca de 7 cm, com ecogenicidade heterogénea e vascularização marcada||massa retroperitoneal de cerca de 4 cm, com ecogenicidade heterogénea e vascularização marcada
+69559004||massa retroperitoneal de cerca de 7 cm, com ecogenicidade heterogénea e vascularização marcada||massa sólida de 11 cm atrás do rim
+69559004||massa retroperitoneal de cerca de 7 cm, com ecogenicidade heterogénea e vascularização marcada||massa sólida de 13 cm atrás do rim
+69559004||massa retroperitoneal de cerca de 7 cm, com ecogenicidade heterogénea e vascularização marcada||massa sólida de 14 cm atrás do rim
+69559004||massa retroperitoneal de cerca de 7 cm, com ecogenicidade heterogénea e vascularização marcada||massa sólida de 16 cm atrás do rim
+69559004||massa retroperitoneal de cerca de 7 cm, com ecogenicidade heterogénea e vascularização marcada||massa sólida de 15 cm atrás do rim
+69559004||massa retroperitoneal de cerca de 6 cm, com ecogenicidade heterogénea e vascularização marcada||massa retroperitoneal de cerca de 5 cm, com ecogenicidade heterogénea e vascularização marcada
+69559004||massa retroperitoneal de cerca de 6 cm, com ecogenicidade heterogénea e vascularização marcada||massa retroperitoneal de cerca de 4 cm, com ecogenicidade heterogénea e vascularização marcada
+69559004||massa retroperitoneal de cerca de 6 cm, com ecogenicidade heterogénea e vascularização marcada||massa sólida de 11 cm atrás do rim
+69559004||massa retroperitoneal de cerca de 6 cm, com ecogenicidade heterogénea e vascularização marcada||massa sólida de 13 cm atrás do rim
+69559004||massa retroperitoneal de cerca de 6 cm, com ecogenicidade heterogénea e vascularização marcada||massa sólida de 14 cm atrás do rim
+69559004||massa retroperitoneal de cerca de 6 cm, com ecogenicidade heterogénea e vascularização marcada||massa sólida de 16 cm atrás do rim
+69559004||massa retroperitoneal de cerca de 6 cm, com ecogenicidade heterogénea e vascularização marcada||massa sólida de 15 cm atrás do rim
+69559004||massa retroperitoneal de cerca de 5 cm, com ecogenicidade heterogénea e vascularização marcada||massa retroperitoneal de cerca de 4 cm, com ecogenicidade heterogénea e vascularização marcada
+69559004||massa retroperitoneal de cerca de 5 cm, com ecogenicidade heterogénea e vascularização marcada||massa sólida de 11 cm atrás do rim
+69559004||massa retroperitoneal de cerca de 5 cm, com ecogenicidade heterogénea e vascularização marcada||massa sólida de 13 cm atrás do rim
+69559004||massa retroperitoneal de cerca de 5 cm, com ecogenicidade heterogénea e vascularização marcada||massa sólida de 14 cm atrás do rim
+69559004||massa retroperitoneal de cerca de 5 cm, com ecogenicidade heterogénea e vascularização marcada||massa sólida de 16 cm atrás do rim
+69559004||massa retroperitoneal de cerca de 5 cm, com ecogenicidade heterogénea e vascularização marcada||massa sólida de 15 cm atrás do rim
+69559004||massa retroperitoneal de cerca de 4 cm, com ecogenicidade heterogénea e vascularização marcada||massa sólida de 11 cm atrás do rim
+69559004||massa retroperitoneal de cerca de 4 cm, com ecogenicidade heterogénea e vascularização marcada||massa sólida de 13 cm atrás do rim
+69559004||massa retroperitoneal de cerca de 4 cm, com ecogenicidade heterogénea e vascularização marcada||massa sólida de 14 cm atrás do rim
+69559004||massa retroperitoneal de cerca de 4 cm, com ecogenicidade heterogénea e vascularização marcada||massa sólida de 16 cm atrás do rim
+69559004||massa retroperitoneal de cerca de 4 cm, com ecogenicidade heterogénea e vascularização marcada||massa sólida de 15 cm atrás do rim
+69559004||massa sólida de 11 cm atrás do rim||massa sólida de 13 cm atrás do rim
+69559004||massa sólida de 11 cm atrás do rim||massa sólida de 14 cm atrás do rim
+69559004||massa sólida de 11 cm atrás do rim||massa sólida de 16 cm atrás do rim
+69559004||massa sólida de 11 cm atrás do rim||massa sólida de 15 cm atrás do rim
+69559004||massa sólida de 13 cm atrás do rim||massa sólida de 14 cm atrás do rim
+69559004||massa sólida de 13 cm atrás do rim||massa sólida de 16 cm atrás do rim
+69559004||massa sólida de 13 cm atrás do rim||massa sólida de 15 cm atrás do rim
+69559004||massa sólida de 14 cm atrás do rim||massa sólida de 16 cm atrás do rim
+69559004||massa sólida de 14 cm atrás do rim||massa sólida de 15 cm atrás do rim
+69559004||massa sólida de 16 cm atrás do rim||massa sólida de 15 cm atrás do rim
+300848003||tumores||massa
+300848003||tumores||massa hipoecogénica
+300848003||tumores||massa radiolúcida com trabeculações
+300848003||tumores||tumor assintomático
+300848003||tumores||massa homogénea
+300848003||tumores||massas
+300848003||massa||massa hipoecogénica
+300848003||massa||massa radiolúcida com trabeculações
+300848003||massa||tumor assintomático
+300848003||massa||massa homogénea
+300848003||massa||massas
+300848003||massa hipoecogénica||massa radiolúcida com trabeculações
+300848003||massa hipoecogénica||tumor assintomático
+300848003||massa hipoecogénica||massa homogénea
+300848003||massa hipoecogénica||massas
+300848003||massa radiolúcida com trabeculações||tumor assintomático
+300848003||massa radiolúcida com trabeculações||massa homogénea
+300848003||massa radiolúcida com trabeculações||massas
+300848003||tumor assintomático||massa homogénea
+300848003||tumor assintomático||massas
+300848003||massa homogénea||massas
+301459008||hemodinamicamente estável||estabilidade hemodinâmica
+62315008||diarreia||diarreia febril
+25064002||dores de cabeça||dor de cabeça
+64882008||episódios febris||febril
+64882008||episódios febris||febre alta
+64882008||episódios febris||febre ocasional
+64882008||episódios febris||febre
+64882008||episódios febris||síndrome febril
+64882008||episódios febris||aumento da temperatura
+64882008||febril||febre alta
+64882008||febril||febre ocasional
+64882008||febril||febre
+64882008||febril||síndrome febril
+64882008||febril||aumento da temperatura
+64882008||febre alta||febre ocasional
+64882008||febre alta||febre
+64882008||febre alta||síndrome febril
+64882008||febre alta||aumento da temperatura
+64882008||febre ocasional||febre
+64882008||febre ocasional||síndrome febril
+64882008||febre ocasional||aumento da temperatura
+64882008||febre||síndrome febril
+64882008||febre||aumento da temperatura
+64882008||síndrome febril||aumento da temperatura
+233703007||padrão intersticial bilateral||padrão intersticial nodular
+233703007||padrão intersticial bilateral||proeminência intersticial
+233703007||padrão intersticial bilateral||padrão intersticial
+233703007||padrão intersticial nodular||proeminência intersticial
+233703007||padrão intersticial nodular||padrão intersticial
+233703007||proeminência intersticial||padrão intersticial
+49233005||sensação de dispneia||dispneia
+49233005||sensação de dispneia||dispneia de intensidade progressiva
+49233005||sensação de dispneia||dificuldade respiratória
+49233005||dispneia||dispneia de intensidade progressiva
+49233005||dispneia||dificuldade respiratória
+49233005||dispneia de intensidade progressiva||dificuldade respiratória
+284520004||crepitações pulmonares basais bilaterais||crepitações bilaterais difusas
+75823008||exsudado||secreção
+27925004||formação nodular||nódulo hiperecóico
+27925004||formação nodular||nódulos
+27925004||formação nodular||nódulos irregulares
+27925004||formação nodular||nódulo subcapsular
+27925004||formação nodular||nódulo
+27925004||nódulo hiperecóico||nódulos
+27925004||nódulo hiperecóico||nódulos irregulares
+27925004||nódulo hiperecóico||nódulo subcapsular
+27925004||nódulo hiperecóico||nódulo
+27925004||nódulos||nódulos irregulares
+27925004||nódulos||nódulo subcapsular
+27925004||nódulos||nódulo
+27925004||nódulos irregulares||nódulo subcapsular
+27925004||nódulos irregulares||nódulo
+27925004||nódulo subcapsular||nódulo
+197941005||hematúria macroscópica||hematúria franca
+87860000||massa de 8 cm no teste||tumor testicular bilateral
+87860000||massa de 8 cm no teste||massa não dolorosa no testículo direito
+87860000||massa de 8 cm no teste||massa testicular
+87860000||tumor testicular bilateral||massa não dolorosa no testículo direito
+87860000||tumor testicular bilateral||massa testicular
+87860000||massa não dolorosa no testículo direito||massa testicular
+399406009||os marcadores tumorais eram negativos||marcadores tumorais negativos
+399406009||os marcadores tumorais eram negativos||marcadores tumorais normais
+399406009||os marcadores tumorais eram negativos||marcadores testiculares negativos
+399406009||marcadores tumorais negativos||marcadores tumorais normais
+399406009||marcadores tumorais negativos||marcadores testiculares negativos
+399406009||marcadores tumorais normais||marcadores testiculares negativos
+170728008||diminuição da acuidade visual||défice de acuidade visual
+170728008||diminuição da acuidade visual||fraca acuidade visual
+170728008||diminuição da acuidade visual||perda progressiva da acuidade visual
+170728008||diminuição da acuidade visual||perda de acuidade visual no olho esquerdo
+170728008||défice de acuidade visual||fraca acuidade visual
+170728008||défice de acuidade visual||perda progressiva da acuidade visual
+170728008||défice de acuidade visual||perda de acuidade visual no olho esquerdo
+170728008||fraca acuidade visual||perda progressiva da acuidade visual
+170728008||fraca acuidade visual||perda de acuidade visual no olho esquerdo
+170728008||perda progressiva da acuidade visual||perda de acuidade visual no olho esquerdo
+76849009||hiperemia conjuntival||hiperemia conjuntival mista
+79890006||hiporexia||perda de apetite
+79890006||hiporexia||anorexia
+79890006||hiporexia||anorexia moderada
+79890006||perda de apetite||anorexia
+79890006||perda de apetite||anorexia moderada
+79890006||anorexia||anorexia moderada
+422400008||vómito||vómitos
+237783006||tumor adrenal||massa adrenal
+399122003||disfagia||disfagia progressiva
+267045008||manifestações gastrointestinais||sintomas gastrointestinais
+419099009||morreu||morte
+419099009||morreu||sucesso
+419099009||morte||sucesso
+74474003||hemorragia gastrointestinal maciça||hemorragia gastrointestinal
+275723000||agravamento do estado geral||deterioração clínica
+131148009||sangue||hemorragia
+45850009||continência diurna||continente
+22253000||dor||doloroso
+22253000||dor||dor persistente
+22253000||doloroso||dor persistente
+72970002||o exame clínico e os sinais vitais eram normais||os sinais vitais estavam normais
+13791008||astenia moderada||fraqueza generalizada
+13791008||astenia moderada||astenia
+13791008||fraqueza generalizada||astenia
+83128009||oligoanúria||oligúria
+422773005||instabilidade hemodinâmica||desestabilização hemodinâmica
+422773005||instabilidade hemodinâmica||compromisso hemodinâmico
+422773005||instabilidade hemodinâmica||alterações hemodinâmicas
+422773005||instabilidade hemodinâmica||hemodinamicamente instável
+422773005||desestabilização hemodinâmica||compromisso hemodinâmico
+422773005||desestabilização hemodinâmica||alterações hemodinâmicas
+422773005||desestabilização hemodinâmica||hemodinamicamente instável
+422773005||compromisso hemodinâmico||alterações hemodinâmicas
+422773005||compromisso hemodinâmico||hemodinamicamente instável
+422773005||alterações hemodinâmicas||hemodinamicamente instável
+300474003||diurese espontânea||diurese mantida
+300474003||diurese espontânea||diurese preservada
+300474003||diurese mantida||diurese preservada
+314983004||agravamento da função renal||deterioração progressiva da função renal
+80515008||aumento do fígado||hepatomegalia dolorosa
+78341006||leucócitos polimorfonucleares e muco abundante||neutrofilia
+52985009||ascite quilosa||líquido ascítico com características quilosas
+389026000||líquido ascítico||ascite
+5291005||hipocalcemia||hipocalcemia grave
+5291005||hipocalcemia||Hipocalcemia
+5291005||hipocalcemia||Hipocalcemia grave
+5291005||hipocalcemia grave||Hipocalcemia
+5291005||hipocalcemia grave||Hipocalcemia grave
+5291005||Hipocalcemia||Hipocalcemia grave
+386789004||eosinofilia||eosinofilia periférica
+278683009||oclusão estável e repetível||boa oclusão dentária
+301936006||o pólo anterior era normal em ambos os olhos||boa profundidade da câmara anterior
+301936006||o pólo anterior era normal em ambos os olhos||o polo anterior era normal em ambos os olhos
+301936006||boa profundidade da câmara anterior||o polo anterior era normal em ambos os olhos
+103251002||a motilidade extrínseca e intrínseca era normal||motilidade ocular extrínseca e intrínseca
+103251002||a motilidade extrínseca e intrínseca era normal||a motilidade ocular extrínseca e intrínseca era normal
+103251002||motilidade ocular extrínseca e intrínseca||a motilidade ocular extrínseca e intrínseca era normal
+24982008||diplopia||diplopia horizontal
+24982008||diplopia||visão dupla
+24982008||diplopia||diplopia binocular horizontal
+24982008||diplopia||diplopia vertical
+24982008||diplopia||diplopia binocular vertical
+24982008||diplopia horizontal||visão dupla
+24982008||diplopia horizontal||diplopia binocular horizontal
+24982008||diplopia horizontal||diplopia vertical
+24982008||diplopia horizontal||diplopia binocular vertical
+24982008||visão dupla||diplopia binocular horizontal
+24982008||visão dupla||diplopia vertical
+24982008||visão dupla||diplopia binocular vertical
+24982008||diplopia binocular horizontal||diplopia vertical
+24982008||diplopia binocular horizontal||diplopia binocular vertical
+24982008||diplopia vertical||diplopia binocular vertical
+300855001||massa intestinal||tumor intraluminal
+15253005||assimetria facial||desvio da linha média facial
+63049000||osso saudável||formação óssea longitudinal adequada
+63049000||osso saudável||estrutura óssea normal
+63049000||formação óssea longitudinal adequada||estrutura óssea normal
+309088003||massa renal||massas renais
+309088003||massa renal||nódulos sólidos em ambos os rins
+309088003||massa renal||massa sólida no pólo superior do rim
+309088003||massas renais||nódulos sólidos em ambos os rins
+309088003||massas renais||massa sólida no pólo superior do rim
+309088003||nódulos sólidos em ambos os rins||massa sólida no pólo superior do rim
+271823003||taquipneia||taquipneia persistente
+271823003||taquipneia||aumento da frequência respiratória
+271823003||taquipneia||aumento da freqüência respiratória
+271823003||taquipneia persistente||aumento da frequência respiratória
+271823003||taquipneia persistente||aumento da freqüência respiratória
+271823003||aumento da frequência respiratória||aumento da freqüência respiratória
+89362005||perda de peso de 15 kg||perda de peso
+89362005||perda de peso de 15 kg||perda de cerca de 15 kg de peso
+89362005||perda de peso de 15 kg||perda de peso de 7 kg
+89362005||perda de peso de 15 kg||perda de peso de 5 kg
+89362005||perda de peso de 15 kg||perda de 23% do seu peso habitual
+89362005||perda de peso de 15 kg||perder peso
+89362005||perda de peso de 15 kg||perda de trinta quilos de peso
+89362005||perda de peso de 15 kg||perda de peso de 20 kg
+89362005||perda de peso de 15 kg||perda de peso de 14 kg
+89362005||perda de peso de 15 kg||perda de peso de 16 kg
+89362005||perda de peso de 15 kg||perda de peso de 12 kg
+89362005||perda de peso de 15 kg||perda de peso de 13 kg
+89362005||perda de peso de 15 kg||perda de peso de 6 kg
+89362005||perda de peso de 15 kg||perda de peso de 4 kg
+89362005||perda de peso de 15 kg||perda de peso de 3 kg
+89362005||perda de peso de 15 kg||perda de peso de 8 kg
+89362005||perda de peso||perda de cerca de 15 kg de peso
+89362005||perda de peso||perda de peso de 7 kg
+89362005||perda de peso||perda de peso de 5 kg
+89362005||perda de peso||perda de 23% do seu peso habitual
+89362005||perda de peso||perder peso
+89362005||perda de peso||perda de trinta quilos de peso
+89362005||perda de peso||perda de peso de 20 kg
+89362005||perda de peso||perda de peso de 14 kg
+89362005||perda de peso||perda de peso de 16 kg
+89362005||perda de peso||perda de peso de 12 kg
+89362005||perda de peso||perda de peso de 13 kg
+89362005||perda de peso||perda de peso de 6 kg
+89362005||perda de peso||perda de peso de 4 kg
+89362005||perda de peso||perda de peso de 3 kg
+89362005||perda de peso||perda de peso de 8 kg
+89362005||perda de cerca de 15 kg de peso||perda de peso de 7 kg
+89362005||perda de cerca de 15 kg de peso||perda de peso de 5 kg
+89362005||perda de cerca de 15 kg de peso||perda de 23% do seu peso habitual
+89362005||perda de cerca de 15 kg de peso||perder peso
+89362005||perda de cerca de 15 kg de peso||perda de trinta quilos de peso
+89362005||perda de cerca de 15 kg de peso||perda de peso de 20 kg
+89362005||perda de cerca de 15 kg de peso||perda de peso de 14 kg
+89362005||perda de cerca de 15 kg de peso||perda de peso de 16 kg
+89362005||perda de cerca de 15 kg de peso||perda de peso de 12 kg
+89362005||perda de cerca de 15 kg de peso||perda de peso de 13 kg
+89362005||perda de cerca de 15 kg de peso||perda de peso de 6 kg
+89362005||perda de cerca de 15 kg de peso||perda de peso de 4 kg
+89362005||perda de cerca de 15 kg de peso||perda de peso de 3 kg
+89362005||perda de cerca de 15 kg de peso||perda de peso de 8 kg
+89362005||perda de peso de 7 kg||perda de peso de 5 kg
+89362005||perda de peso de 7 kg||perda de 23% do seu peso habitual
+89362005||perda de peso de 7 kg||perder peso
+89362005||perda de peso de 7 kg||perda de trinta quilos de peso
+89362005||perda de peso de 7 kg||perda de peso de 20 kg
+89362005||perda de peso de 7 kg||perda de peso de 14 kg
+89362005||perda de peso de 7 kg||perda de peso de 16 kg
+89362005||perda de peso de 7 kg||perda de peso de 12 kg
+89362005||perda de peso de 7 kg||perda de peso de 13 kg
+89362005||perda de peso de 7 kg||perda de peso de 6 kg
+89362005||perda de peso de 7 kg||perda de peso de 4 kg
+89362005||perda de peso de 7 kg||perda de peso de 3 kg
+89362005||perda de peso de 7 kg||perda de peso de 8 kg
+89362005||perda de peso de 5 kg||perda de 23% do seu peso habitual
+89362005||perda de peso de 5 kg||perder peso
+89362005||perda de peso de 5 kg||perda de trinta quilos de peso
+89362005||perda de peso de 5 kg||perda de peso de 20 kg
+89362005||perda de peso de 5 kg||perda de peso de 14 kg
+89362005||perda de peso de 5 kg||perda de peso de 16 kg
+89362005||perda de peso de 5 kg||perda de peso de 12 kg
+89362005||perda de peso de 5 kg||perda de peso de 13 kg
+89362005||perda de peso de 5 kg||perda de peso de 6 kg
+89362005||perda de peso de 5 kg||perda de peso de 4 kg
+89362005||perda de peso de 5 kg||perda de peso de 3 kg
+89362005||perda de peso de 5 kg||perda de peso de 8 kg
+89362005||perda de 23% do seu peso habitual||perder peso
+89362005||perda de 23% do seu peso habitual||perda de trinta quilos de peso
+89362005||perda de 23% do seu peso habitual||perda de peso de 20 kg
+89362005||perda de 23% do seu peso habitual||perda de peso de 14 kg
+89362005||perda de 23% do seu peso habitual||perda de peso de 16 kg
+89362005||perda de 23% do seu peso habitual||perda de peso de 12 kg
+89362005||perda de 23% do seu peso habitual||perda de peso de 13 kg
+89362005||perda de 23% do seu peso habitual||perda de peso de 6 kg
+89362005||perda de 23% do seu peso habitual||perda de peso de 4 kg
+89362005||perda de 23% do seu peso habitual||perda de peso de 3 kg
+89362005||perda de 23% do seu peso habitual||perda de peso de 8 kg
+89362005||perder peso||perda de trinta quilos de peso
+89362005||perder peso||perda de peso de 20 kg
+89362005||perder peso||perda de peso de 14 kg
+89362005||perder peso||perda de peso de 16 kg
+89362005||perder peso||perda de peso de 12 kg
+89362005||perder peso||perda de peso de 13 kg
+89362005||perder peso||perda de peso de 6 kg
+89362005||perder peso||perda de peso de 4 kg
+89362005||perder peso||perda de peso de 3 kg
+89362005||perder peso||perda de peso de 8 kg
+89362005||perda de trinta quilos de peso||perda de peso de 20 kg
+89362005||perda de trinta quilos de peso||perda de peso de 14 kg
+89362005||perda de trinta quilos de peso||perda de peso de 16 kg
+89362005||perda de trinta quilos de peso||perda de peso de 12 kg
+89362005||perda de trinta quilos de peso||perda de peso de 13 kg
+89362005||perda de trinta quilos de peso||perda de peso de 6 kg
+89362005||perda de trinta quilos de peso||perda de peso de 4 kg
+89362005||perda de trinta quilos de peso||perda de peso de 3 kg
+89362005||perda de trinta quilos de peso||perda de peso de 8 kg
+89362005||perda de peso de 20 kg||perda de peso de 14 kg
+89362005||perda de peso de 20 kg||perda de peso de 16 kg
+89362005||perda de peso de 20 kg||perda de peso de 12 kg
+89362005||perda de peso de 20 kg||perda de peso de 13 kg
+89362005||perda de peso de 20 kg||perda de peso de 6 kg
+89362005||perda de peso de 20 kg||perda de peso de 4 kg
+89362005||perda de peso de 20 kg||perda de peso de 3 kg
+89362005||perda de peso de 20 kg||perda de peso de 8 kg
+89362005||perda de peso de 14 kg||perda de peso de 16 kg
+89362005||perda de peso de 14 kg||perda de peso de 12 kg
+89362005||perda de peso de 14 kg||perda de peso de 13 kg
+89362005||perda de peso de 14 kg||perda de peso de 6 kg
+89362005||perda de peso de 14 kg||perda de peso de 4 kg
+89362005||perda de peso de 14 kg||perda de peso de 3 kg
+89362005||perda de peso de 14 kg||perda de peso de 8 kg
+89362005||perda de peso de 16 kg||perda de peso de 12 kg
+89362005||perda de peso de 16 kg||perda de peso de 13 kg
+89362005||perda de peso de 16 kg||perda de peso de 6 kg
+89362005||perda de peso de 16 kg||perda de peso de 4 kg
+89362005||perda de peso de 16 kg||perda de peso de 3 kg
+89362005||perda de peso de 16 kg||perda de peso de 8 kg
+89362005||perda de peso de 12 kg||perda de peso de 13 kg
+89362005||perda de peso de 12 kg||perda de peso de 6 kg
+89362005||perda de peso de 12 kg||perda de peso de 4 kg
+89362005||perda de peso de 12 kg||perda de peso de 3 kg
+89362005||perda de peso de 12 kg||perda de peso de 8 kg
+89362005||perda de peso de 13 kg||perda de peso de 6 kg
+89362005||perda de peso de 13 kg||perda de peso de 4 kg
+89362005||perda de peso de 13 kg||perda de peso de 3 kg
+89362005||perda de peso de 13 kg||perda de peso de 8 kg
+89362005||perda de peso de 6 kg||perda de peso de 4 kg
+89362005||perda de peso de 6 kg||perda de peso de 3 kg
+89362005||perda de peso de 6 kg||perda de peso de 8 kg
+89362005||perda de peso de 4 kg||perda de peso de 3 kg
+89362005||perda de peso de 4 kg||perda de peso de 8 kg
+89362005||perda de peso de 3 kg||perda de peso de 8 kg
+53298000||hematúria||hematúria anémica total
+90708001||retenção no pólo superior esquerdo||envolvimento renal
+90708001||retenção no pólo superior esquerdo||retenção no polo superior esquerdo
+90708001||envolvimento renal||retenção no polo superior esquerdo
+359746009||clinicamente estável||estável
+271594007||síncope||episódio sincopal
+204676004||mucosa gástrica ectópica||mucosa gástrica heterotópica
+300401007||aumento gradual da circunferência abdominal||aumento do perímetro abdominal
+165406005||hemograma normal||parâmetros normais das três séries hematológicas
+274643008||palidez cutânea||palidez
+443371007||diminuição do nível de consciência||deterioração progressiva do nível de consciência
+443371007||diminuição do nível de consciência||baixo nível de consciência
+443371007||diminuição do nível de consciência||obnubilação
+443371007||deterioração progressiva do nível de consciência||baixo nível de consciência
+443371007||deterioração progressiva do nível de consciência||obnubilação
+443371007||baixo nível de consciência||obnubilação
+249545003||defesa||defesa à palpação
+249545003||defesa||peritonismo
+249545003||defesa||defesa abdominal
+249545003||defesa à palpação||peritonismo
+249545003||defesa à palpação||defesa abdominal
+249545003||peritonismo||defesa abdominal
+249339005||narinas estreitas||pirâmide nasal estreita
+34095006||sinais de esgotamento hidrossalino||desidratado
+34095006||sinais de esgotamento hidrossalino||desidratação
+34095006||desidratado||desidratação
+703630003||olho vermelho grave||olho vermelho
+445088006||edema do maxilar superior||edema na hemicara
+445088006||edema do maxilar superior||edema facial
+445088006||edema na hemicara||edema facial
+14310000||rinorreia esverdeada||rinorreia purulenta
+91175000||episódios convulsivos||convulsões
+91175000||episódios convulsivos||convulsão
+91175000||episódios convulsivos||episódio convulsivo
+91175000||convulsões||convulsão
+91175000||convulsões||episódio convulsivo
+91175000||convulsão||episódio convulsivo
+18265008||proptose de um ano de evolução em ambos os olhos||proptose ocular
+28998008||hemorragia macular||hemorragias da retina
+285384003||deterioração progressiva do estado geral||deterioração do seu estado geral
+285384003||deterioração progressiva do estado geral||deterioração do estado geral
+285384003||deterioração do seu estado geral||deterioração do estado geral
+309530007||imagem de 3 cm no hilo||massa hilar
+249939004||fraqueza muscular proximal||fraqueza muscular proximal nos braços e pernas
+386689009||hipotermia sistémica||hipotermia
+445249002||imagens nodulares no lobo superior||imagens nodulares em ambos os campos pulmonares
+271782001||sonolento||sonolência
+713514005||fraqueza dos membros||fraqueza muscular nos quatro membros
+22994000||hiporreflexia generalizada||hiporreflexia
+24199005||agitado||agitação
+106150003||envolvimento do nervo alveolar inferior||nervos cranianos normais
+52613005||diaforese||diaforético
+52613005||diaforese||suado
+52613005||diaforético||suado
+11092001||taquicárdico||taquicardia
+11092001||taquicárdico||taquicardia sinusal
+11092001||taquicardia||taquicardia sinusal
+102614006||dor abdominal generalizada||dor abdominal difusa
+45007003||hipotenso||hipotensão
+45007003||hipotenso||hipotensão arterial
+45007003||hipotenso||hipotensa
+45007003||hipotensão||hipotensão arterial
+45007003||hipotensão||hipotensa
+45007003||hipotensão arterial||hipotensa
+708118007||as culturas de sangue eram estéreis||cultura negativa
+300561007||estudos urológicos normais||rins e ureteres normais
+300561007||estudos urológicos normais||uretra bulbar normal
+300561007||rins e ureteres normais||uretra bulbar normal
+74285003||massa pélvica anterior à bexiga||massa pélvica subvesical
+74285003||massa pélvica anterior à bexiga||massa pélvica à direita da bexiga
+74285003||massa pélvica anterior à bexiga||massa pélvica à esquerda da bexiga
+74285003||massa pélvica subvesical||massa pélvica à direita da bexiga
+74285003||massa pélvica subvesical||massa pélvica à esquerda da bexiga
+74285003||massa pélvica à direita da bexiga||massa pélvica à esquerda da bexiga
+75753009||coágulos||coágulo
+41652007||dor ocular ligeira||dor ocular bilateral
+409668002||fotofobia||fotofobia intensa
+248503005||córnea central predominantemente manchada com edema ligeiro||edema epitelial microcístico
+707724006||transaminases ligeiramente elevadas||aumento progressivo das transaminases
+707724006||transaminases ligeiramente elevadas||enzimas hepáticas elevadas
+707724006||transaminases ligeiramente elevadas||aumento das transaminases
+707724006||transaminases ligeiramente elevadas||transaminases elevadas
+707724006||transaminases ligeiramente elevadas||hipertransaminemia
+707724006||aumento progressivo das transaminases||enzimas hepáticas elevadas
+707724006||aumento progressivo das transaminases||aumento das transaminases
+707724006||aumento progressivo das transaminases||transaminases elevadas
+707724006||aumento progressivo das transaminases||hipertransaminemia
+707724006||enzimas hepáticas elevadas||aumento das transaminases
+707724006||enzimas hepáticas elevadas||transaminases elevadas
+707724006||enzimas hepáticas elevadas||hipertransaminemia
+707724006||aumento das transaminases||transaminases elevadas
+707724006||aumento das transaminases||hipertransaminemia
+707724006||transaminases elevadas||hipertransaminemia
+70819003||pele avermelhada||vermelhidão
+111512005||sinéquias posteriores||sinéquia posterior
+75229002||hifema que ocupa metade da câmara anterior||hifema
+32566006||dismetria||dismetria nos quatro membros
+32566006||dismetria||dismetria nos três membros
+32566006||dismetria||dismetria nos cinco membros
+32566006||dismetria||dismetria nos seis membros
+32566006||dismetria nos quatro membros||dismetria nos três membros
+32566006||dismetria nos quatro membros||dismetria nos cinco membros
+32566006||dismetria nos quatro membros||dismetria nos seis membros
+32566006||dismetria nos três membros||dismetria nos cinco membros
+32566006||dismetria nos três membros||dismetria nos seis membros
+32566006||dismetria nos cinco membros||dismetria nos seis membros
+301855007||nós negativos||gânglios linfáticos
+440299000||massa retroesofágica||massa extrínseca retrocardíaca
+39575007||colúria||urina escura
+165232002||incontinência urinária||incontinência ligeira a moderada
+102568007||diminuição da força em ambos os membros inferiores||fraqueza dos membros inferiores
+301151001||pulsos distais presentes||os pulsos distais foram preservados
+9957009||descarga purulenta transuretral||descarga purulenta através do meato uretral
+301367001||dor abdominal predominantemente no hipocôndrio direito||dor abdominal no hipocôndrio direito
+301367001||dor abdominal predominantemente no hipocôndrio direito||dor no hipocôndrio direito
+301367001||dor abdominal no hipocôndrio direito||dor no hipocôndrio direito
+60728008||o abdómen era globular||distensão abdominal
+409609008||infiltrado alveolar-intersticial bilateral||infiltrado alveolar basal
+369757002||massa sólida||massa sólida com áreas hemorrágicas
+79922009||dor epigástrica||epigastralgia
+11934000||ptose||ptose total
+37125009||midríase||midríase reactiva
+35013009||material purulento||descarga purulenta
+249250005||respeitou a glande||glande, bem como uma sensação de anestesia local
+95255005||hipotonia ocular||hipotonia extrema do globo ocular
+423341008||papiledema||edema papilar
+64730000||ritmo sinusal normal||a auscultação cardíaca era rítmica
+64379006||diminuição da ingestão||menos apetite
+431468008||colapso do terceiro ventrículo||colapso ventricular
+67307004||circulação colateral||circulação colateral abdominal anormal
+155876003||anulação renal||anulação funcional da unidade renal
+57534004||difusão dos vasos da retina||distorção dos vasos da retina
+300449001||ureter normal||indemnização do ureter distal
+15930381000119104||edema de ambos os discos ópticos||papiledema bilateral
+30098003||hiperemia||hiperemia grave
+398637008||retina aplicada||espessura macular normal
+68600005||hemoglobinúria||hemoglobinúria macroscópica
+68600005||hemoglobinúria||Hemoglobinúria
+68600005||hemoglobinúria||Hemoglobinúria macroscópica
+68600005||hemoglobinúria macroscópica||Hemoglobinúria
+68600005||hemoglobinúria macroscópica||Hemoglobinúria macroscópica
+68600005||Hemoglobinúria||Hemoglobinúria macroscópica
+282050000||massa no jejuno proximal||plastrão localizado no jejuno
+300260007||a drenagem da glândula parótida esquerda é normal||a conduta era permeável
+300260007||a drenagem da glândula parótida esquerda é normal||a drenagem da glândula parótida direita é normal
+300260007||a conduta era permeável||a drenagem da glândula parótida direita é normal

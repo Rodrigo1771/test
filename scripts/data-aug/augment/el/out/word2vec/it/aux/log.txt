@@ -1,0 +1,20 @@
+Language: it
+Distance Threshold: 0.75
+Original data size: 24.1 kB
+Augmented data size: 869.2 kB
+
+Language: it
+Distance Threshold: 0.8
+Original data size: 24.1 kB
+Augmented data size: 369.7 kB
+
+Language: it
+Distance Threshold: 0.85
+Original data size: 24.1 kB
+Augmented data size: 86.0 kB
+
+Language: it
+Distance Threshold: 0.9
+Original data size: 24.1 kB
+Augmented data size: 30.5 kB
+

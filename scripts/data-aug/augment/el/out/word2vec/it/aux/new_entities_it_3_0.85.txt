@@ -1,0 +1,184 @@
+81141003: funzione renale normale -> funzione epatica normale
+81141003: la funzione renale è rimasta normale -> la funzione epatica è rimasta normale
+81141003: funzione renale stabile -> funzione epatica stabile
+81141003: funzione renale conservata -> funzione epatica conservata
+81141003: buona funzione renale -> buona funzione epatica
+81141003: il rene destro era funzionalmente normale -> il rene sinistro era funzionalmente normale
+81141003: buona funzione renale bilaterale -> buona funzione epatica bilaterale
+300441003: parenchima renale sinistro conservato -> parenchima renale destro conservato
+300441003: distorsione renale -> distorsione epatica
+69559004: tumore retroperitoneale -> tumore splenico
+69559004: massa retroperitoneale -> massa splenico
+69559004: masse retroperitoneali -> masse sottomandibolari
+69559004: masse retroperitoneali -> masse mediastinici
+64882008: aumento della temperatura -> incremento della temperatura
+52613005: diaforesi -> epigastralgia
+52613005: diaforesi -> iperpiressia
+52613005: diaforesi -> iperidrosi
+52613005: diaforesi -> mucosite
+52613005: diaforesi -> pirosi
+19829001: coinvolgimento parenchimale del polmone -> coinvolgimento vasogenico del polmone
+76849009: iperemia congiuntivale mista -> papilledema congiuntivale mista
+76849009: iperemia congiuntivale -> papilledema congiuntivale
+422400008: vomito -> nausea
+301367001: dolore all'ipocondrio destro -> dolore all'ipocondrio sinistro
+301367001: dolore addominale nell'ipocondrio destro -> dolore addominale nell'ipocondrio sinistro
+301367001: dolore sordo nell'ipocondrio destro -> dolore sordo nell'ipocondrio sinistro
+301367001: dolore addominale prevalentemente nell'ipocondrio destro -> dolore addominale prevalentemente nell'ipocondrio sinistro
+83128009: oliguria -> anuria
+83128009: oliguria -> iperpiressia
+314983004: peggioramento della funzione renale -> peggioramento della funzione epatica
+314983004: progressivo deterioramento della funzione renale -> progressivo deterioramento della funzione epatica
+119247004: ipoalbuminemia -> natriemia
+119247004: ipoalbuminemia -> l'alcalosi
+119247004: ipoalbuminemia -> ipernatriemia
+119247004: ipoalbuminemia -> creatinfosfochinasi
+119247004: ipoalbuminemia -> iperviscosità
+119247004: grave ipoalbuminemia -> grave natriemia
+119247004: grave ipoalbuminemia -> grave l'alcalosi
+119247004: grave ipoalbuminemia -> grave ipernatriemia
+119247004: grave ipoalbuminemia -> grave creatinfosfochinasi
+119247004: grave ipoalbuminemia -> grave iperviscosità
+386789004: eosinofilia -> leucopenia
+386789004: eosinofilia -> granulocitopenia
+386789004: eosinofilia -> agranulocitosi
+386789004: eosinofilia periferica -> leucopenia periferica
+386789004: eosinofilia periferica -> granulocitopenia periferica
+386789004: eosinofilia periferica -> agranulocitosi periferica
+301936006: il polo anteriore era normale in entrambi gli occhi -> il polo posteriore era normale in entrambi gli occhi
+24982008: diplopia binoculare orizzontale -> diplopia binoculare verticale
+24982008: diplopia orizzontale -> diplopia verticale
+300855001: tumore intraluminale -> tumore dell'ischemia
+300855001: tumore intraluminale -> tumore dell'acidosi
+300855001: tumore intraluminale -> tumore dell'interstizio
+271823003: aumento della frequenza respiratoria -> incremento della frequenza respiratoria
+271823003: tachipnea persistente -> iperreflessia persistente
+271823003: tachipnea persistente -> lipotimia persistente
+271823003: tachipnea persistente -> iperpiressia persistente
+271823003: tachipnea persistente -> ortopnea persistente
+271823003: tachipnea persistente -> mioclonie persistente
+271823003: tachipnea -> iperreflessia
+271823003: tachipnea -> lipotimia
+271823003: tachipnea -> iperpiressia
+271823003: tachipnea -> ortopnea
+271823003: tachipnea -> mioclonie
+90708001: coinvolgimento renale -> coinvolgimento epatica
+88936002: elevazione dei due emidiaframmi -> elevazione dei tre emidiaframmi
+309088003: massa solida nel polo superiore del rene -> massa solida nel polo inferiore del rene
+309088003: massa renale -> massa epatica
+445088006: edema della mascella superiore -> edema della mandibola superiore
+14310000: rinorrea verdastra -> pirosi verdastra
+14310000: rinorrea verdastra -> scialorrea verdastra
+14310000: rinorrea verdastra -> mialgie verdastra
+14310000: rinorrea verdastra -> epigastralgia verdastra
+14310000: rinorrea verdastra -> epigastrico verdastra
+14310000: rinorrea purulenta -> pirosi purulenta
+14310000: rinorrea purulenta -> scialorrea purulenta
+14310000: rinorrea purulenta -> mialgie purulenta
+14310000: rinorrea purulenta -> epigastralgia purulenta
+14310000: rinorrea purulenta -> epigastrico purulenta
+18265008: proptosi oculare -> macroglossia oculare
+18265008: proptosi oculare -> papilledema oculare
+18265008: proptosi oculare -> esoftalmo oculare
+18265008: proptosi oculare -> periorbitale oculare
+18265008: proptosi oculare -> corioretinite oculare
+18265008: esoftalmo bilaterale -> proptosi bilaterale
+18265008: esoftalmo bilaterale -> macrocefalia bilaterale
+18265008: esoftalmo bilaterale -> uveite bilaterale
+18265008: esoftalmo bilaterale -> macroglossia bilaterale
+18265008: esoftalmo bilaterale -> irite bilaterale
+18265008: proptosi di un anno di evoluzione in entrambi gli occhi -> macroglossia di un anno di evoluzione in entrambi gli occhi
+18265008: proptosi di un anno di evoluzione in entrambi gli occhi -> papilledema di un anno di evoluzione in entrambi gli occhi
+18265008: proptosi di un anno di evoluzione in entrambi gli occhi -> esoftalmo di un anno di evoluzione in entrambi gli occhi
+18265008: proptosi di un anno di evoluzione in entrambi gli occhi -> periorbitale di un anno di evoluzione in entrambi gli occhi
+18265008: proptosi di un anno di evoluzione in entrambi gli occhi -> corioretinite di un anno di evoluzione in entrambi gli occhi
+309530007: immagine di 3 cm nell'ilo -> immagine di 3 cm lienale
+79922009: dolore epigastrico -> dolore epigastralgia
+79922009: dolore epigastrico -> dolore pirosi
+79922009: dolore epigastrico -> dolore disestesia
+79922009: dolore epigastrico -> dolore muscoloscheletrico
+79922009: dolore epigastrico -> dolore iperreflessia
+79922009: epigastralgia -> epigastrico
+79922009: epigastralgia -> pirosi
+79922009: epigastralgia -> gastroenterici
+79922009: epigastralgia -> diaforesi
+79922009: epigastralgia -> iperpiressia
+11092001: tachicardia -> bradicardia
+11092001: tachicardia -> ipotensione
+11092001: tachicardia sinusale -> bradicardia sinusale
+11092001: tachicardia sinusale -> ipotensione sinusale
+37125009: midriasi -> cicloplegia
+37125009: midriasi -> miosi
+37125009: midriasi reattiva -> cicloplegia reattiva
+37125009: midriasi reattiva -> miosi reattiva
+37125009: lieve midriasi bilaterale -> lieve cicloplegia bilaterale
+37125009: lieve midriasi bilaterale -> lieve miosi bilaterale
+106150003: coinvolgimento del nervo alveolare inferiore -> coinvolgimento del nervo alveolare superiore
+45007003: ipotensione arteriosa -> bradicardia arteriosa
+45007003: ipotensione arteriosa -> ortostatica arteriosa
+45007003: ipotensione arteriosa -> tachicardia arteriosa
+45007003: ipotensivo -> gallamina
+45007003: ipotensivo -> guanetidina
+45007003: ipotensivo -> simpaticomimetici
+45007003: ipotensivo -> desipramina
+45007003: ipotensivo -> dipiridamolo
+45007003: ipotensione -> bradicardia
+45007003: ipotensione -> ortostatica
+45007003: ipotensione -> tachicardia
+708118007: ripetute colture negative -> ripetute coltivazioni negative
+708118007: cultura negativa -> cultura positiva
+74285003: massa pelvica anteriore alla vescica -> massa pelvica posteriore alla vescica
+111512005: sinechie posteriori -> sinechie anteriori
+111512005: sinechia posteriore -> sinechia anteriore
+32566006: dismetria in tutti e quattro gli arti -> emiballismo in tutti e quattro gli arti
+32566006: dismetria -> emiballismo
+734045002: raccolta retroperitoneale -> raccolta splenico
+49650001: disuria -> stranguria
+49650001: disuria -> pollachiuria
+49650001: disuria -> uretrodinia
+49650001: disuria -> pirosi
+49650001: disuria -> odinofagia
+49650001: sintomi urinari irritativi -> sintomi urinari mucosite
+49650001: sintomi urinari irritativi -> sintomi urinari flogistici
+49650001: sintomi urinari irritativi -> sintomi urinari acneiformi
+49650001: sintomi urinari irritativi -> sintomi urinari anafilattoidi
+49650001: sintomi urinari irritativi -> sintomi urinari settici
+21454007: emorragia subaracnoidea frontoparietale destra -> emorragia subaracnoidea frontoparietale sinistra
+707724006: aumento progressivo delle transaminasi -> incremento progressivo delle transaminasi
+707724006: aumento delle transaminasi -> incremento delle transaminasi
+409609008: coinvolgimento parenchimale basale -> coinvolgimento vasogenico basale
+166558007: lattato deidrogenasi e alfa-fetoproteina normali -> lattato deidrogenasi e microalbuminuria normali
+166558007: lattato deidrogenasi e alfa-fetoproteina normali -> lattato deidrogenasi e calcidiolo normali
+166558007: lattato deidrogenasi e alfa-fetoproteina normali -> lattato reduttasi e alfa-fetoproteina normali
+166558007: lattato deidrogenasi e alfa-fetoproteina normali -> lattato enzima e alfa-fetoproteina normali
+166558007: alfa-fetoproteina normale -> microalbuminuria normale
+166558007: alfa-fetoproteina normale -> calcidiolo normale
+423341008: papilledema -> livedo
+423341008: papilledema -> atelectasia
+423341008: papilledema -> neurogeno
+423341008: papilledema -> ipoestesia
+423341008: papilledema -> eritromelalgia
+11833005: tosse irritativa -> tosse mucosite
+11833005: tosse irritativa -> tosse balanite
+11833005: tosse irritativa -> tosse laringospasmo
+11833005: tosse irritativa -> tosse broncorrea
+11833005: tosse irritativa -> tosse vasomotoria
+431468008: collasso del terzo ventricolo -> collasso del quarto ventricolo
+431468008: collasso del terzo ventricolo -> collasso del quinto ventricolo
+431468008: collasso ventricolare -> collasso atriale
+50960005: focolai emorragici -> focolai ischemici
+155876003: annullamento renale -> annullamento epatica
+445249002: immagini nodulari nel lobo superiore -> immagini nodulari nel lobo inferiore
+169254007: l'ecografia renale non ha mostrato anomalie -> l'ecografia epatica non ha mostrato anomalie
+169254007: l'ecografia renale era normale -> l'ecografia epatica era normale
+76114004: deficit funzionale dell'unità renale -> deficit funzionale dell'unità epatica
+300449001: indennità dell'uretere distale -> indennità dell'uretere prossimale
+15930381000119104: papilledema bilaterale -> livedo bilaterale
+15930381000119104: papilledema bilaterale -> atelectasia bilaterale
+15930381000119104: papilledema bilaterale -> neurogeno bilaterale
+15930381000119104: papilledema bilaterale -> ipoestesia bilaterale
+15930381000119104: papilledema bilaterale -> eritromelalgia bilaterale
+30098003: iperemia -> papilledema
+30098003: grave iperemia -> grave papilledema
+166602006: funzione epatica normale -> funzione renale normale
+282050000: massa nel digiuno prossimale -> massa nel digiuno distale

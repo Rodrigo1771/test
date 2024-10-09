@@ -1,0 +1,24 @@
+300441003: parenchyme rénal gauche préservé -> parenchyme rénal droite préservé
+83128009: oligurie -> anurie
+225581002: baisse de la vision -> hausse de la vision
+1003721002: arthralgies dans les deux genoux -> arthralgies dans les trois genoux
+309088003: nodules solides dans les deux reins -> nodules solides dans les trois reins
+90708001: rétention dans le pôle supérieur gauche -> rétention dans le pôle supérieur droite
+165406005: paramètres normaux des trois séries hématologiques -> paramètres normaux des quatre séries hématologiques
+165406005: paramètres normaux des trois séries hématologiques -> paramètres normaux des deux séries hématologiques
+165406005: paramètres normaux des trois séries hématologiques -> paramètres normaux des cinq séries hématologiques
+21454007: hémorragie sous-arachnoïdienne frontopariétale droite -> hémorragie sous-arachnoïdienne frontopariétale gauche
+21454007: hémorragie sous-arachnoïdienne minime dans la région suprasylvienne gauche -> hémorragie sous-arachnoïdienne minime dans la région suprasylvienne droite
+14310000: rhinorrhée verdâtre -> rhinorrhée jaunâtre
+14310000: rhinorrhée verdâtre -> rhinorrhée rougeâtre
+32566006: dysmétrie des quatre membres -> dysmétrie des trois membres
+32566006: dysmétrie des quatre membres -> dysmétrie des cinq membres
+32566006: dysmétrie des quatre membres -> dysmétrie des six membres
+32566006: dysmétrie des quatre membres -> dysmétrie des huit membres
+431468008: effondrement du troisième ventricule -> effondrement du deuxième ventricule
+431468008: effondrement du troisième ventricule -> effondrement du quatrième ventricule
+70819003: peau rougeâtre -> peau jaunâtre
+70819003: peau rougeâtre -> peau grisâtre
+70819003: peau rougeâtre -> peau verdâtre
+70819003: peau rougeâtre -> peau blanchâtre
+300260007: le drainage de la glande parotide gauche est normal -> le drainage de la glande parotide droite est normal

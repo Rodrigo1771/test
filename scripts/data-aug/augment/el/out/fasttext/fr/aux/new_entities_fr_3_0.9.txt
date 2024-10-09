@@ -1,0 +1,60 @@
+300848003: masse hypoéchogène -> masse échogène
+300441003: parenchyme rénal gauche préservé -> parenchyme rénal droite préservé
+69559004: masse rétropéritonéale d'environ 8 cm, avec une échogénicité hétérogène et une vascularisation marquée -> masse rétropéritonéale d'environ 9 cm, avec une échogénicité hétérogène et une vascularisation marquée
+69559004: masse rétropéritonéale d'environ 8 cm, avec une échogénicité hétérogène et une vascularisation marquée -> masse rétropéritonéale d'environ 7 cm, avec une échogénicité hétérogène et une vascularisation marquée
+69559004: masse rétropéritonéale d'environ 8 cm, avec une échogénicité hétérogène et une vascularisation marquée -> masse rétropéritonéale d'environ 6 cm, avec une échogénicité hétérogène et une vascularisation marquée
+69559004: masse rétropéritonéale d'environ 8 cm, avec une échogénicité hétérogène et une vascularisation marquée -> masse rétropéritonéale d'environ 4 cm, avec une échogénicité hétérogène et une vascularisation marquée
+69559004: masse rétropéritonéale d'environ 8 cm, avec une échogénicité hétérogène et une vascularisation marquée -> masse rétropéritonéale d'environ 5 cm, avec une échogénicité hétérogène et une vascularisation marquée
+69559004: masse solide de 12 cm derrière le rein -> masse solide de 13 cm derrière le rein
+69559004: masse solide de 12 cm derrière le rein -> masse solide de 16 cm derrière le rein
+69559004: masse solide de 12 cm derrière le rein -> masse solide de 11 cm derrière le rein
+69559004: masse solide de 12 cm derrière le rein -> masse solide de 14 cm derrière le rein
+69559004: masse solide de 12 cm derrière le rein -> masse solide de 18 cm derrière le rein
+27925004: nodule hyperéchogène -> nodule hyperéchogènes
+27925004: nodule hyperéchogène -> nodule échogène
+87860000: nodule hypoéchogène dans le testicule -> nodule échogène dans le testicule
+24982008: diplopie binoculaire horizontale -> diplopie binoculaire verticale
+24982008: diplopie horizontale -> diplopie verticale
+1003721002: arthralgies dans les deux genoux -> arthralgies dans les trois genoux
+309088003: nodules solides dans les deux reins -> nodules solides dans les trois reins
+309088003: masse de 5 cm de diamètre dans le rein gauche -> masse de 6 cm de diamètre dans le rein gauche
+309088003: masse de 5 cm de diamètre dans le rein gauche -> masse de 4 cm de diamètre dans le rein gauche
+309088003: masse de 5 cm de diamètre dans le rein gauche -> masse de 3 cm de diamètre dans le rein gauche
+309088003: masse de 5 cm de diamètre dans le rein gauche -> masse de 7 cm de diamètre dans le rein gauche
+309088003: masse de 5 cm de diamètre dans le rein gauche -> masse de 8 cm de diamètre dans le rein gauche
+89362005: perte de poids de 12 kilogrammes -> perte de poids de 13 kilogrammes
+89362005: perte de poids de 12 kilogrammes -> perte de poids de 16 kilogrammes
+89362005: perte de poids de 12 kilogrammes -> perte de poids de 11 kilogrammes
+89362005: perte de poids de 12 kilogrammes -> perte de poids de 14 kilogrammes
+89362005: perte de poids de 12 kilogrammes -> perte de poids de 18 kilogrammes
+89362005: perte de poids de 7 kg -> perte de poids de 8 kg
+89362005: perte de poids de 7 kg -> perte de poids de 9 kg
+89362005: perte de poids de 7 kg -> perte de poids de 6 kg
+89362005: perte de poids de 7 kg -> perte de poids de 4 kg
+90708001: rétention dans le pôle supérieur gauche -> rétention dans le pôle supérieur droite
+165406005: paramètres normaux des trois séries hématologiques -> paramètres normaux des quatre séries hématologiques
+165406005: paramètres normaux des trois séries hématologiques -> paramètres normaux des deux séries hématologiques
+165406005: paramètres normaux des trois séries hématologiques -> paramètres normaux des cinq séries hématologiques
+165406005: paramètres normaux des trois séries hématologiques -> paramètres normaux des six séries hématologiques
+21454007: hémorragie sous-arachnoïdienne frontopariétale droite -> hémorragie sous-arachnoïdien frontopariétale droite
+21454007: hémorragie sous-arachnoïdienne frontopariétale droite -> hémorragie sous-arachnoïdiens frontopariétale droite
+21454007: hémorragie sous-arachnoïdienne frontopariétale droite -> hémorragie sous-arachnoïdienne frontopariétale gauche
+21454007: hémorragie sous-arachnoïdienne minime dans la région suprasylvienne gauche -> hémorragie sous-arachnoïdienne minime dans la région suprasylvienne droite
+21454007: hémorragie sous-arachnoïdienne -> hémorragie sous-arachnoïdien
+21454007: hémorragie sous-arachnoïdienne -> hémorragie sous-arachnoïdiens
+703630003: œil rouge sévère -> oeil rouge sévère
+703630003: œil rouge -> oeil rouge
+309530007: image de 3 cm dans le hile -> image de 2 cm dans le hile
+309530007: image de 3 cm dans le hile -> image de 4 cm dans le hile
+309530007: image de 3 cm dans le hile -> image de 5 cm dans le hile
+309530007: image de 3 cm dans le hile -> image de 6 cm dans le hile
+309530007: image de 3 cm dans le hile -> image de 7 cm dans le hile
+32566006: dysmétrie des quatre membres -> dysmétrie des trois membres
+32566006: dysmétrie des quatre membres -> dysmétrie des cinq membres
+32566006: dysmétrie des quatre membres -> dysmétrie des six membres
+32566006: dysmétrie des quatre membres -> dysmétrie des huit membres
+431468008: effondrement du troisième ventricule -> effondrement du deuxième ventricule
+431468008: effondrement du troisième ventricule -> effondrement du quatrième ventricule
+431468008: effondrement du troisième ventricule -> effondrement du cinquième ventricule
+63901009: douleur testiculaire aiguë -> douleur testiculaire aigüe
+300260007: le drainage de la glande parotide gauche est normal -> le drainage de la glande parotide droite est normal

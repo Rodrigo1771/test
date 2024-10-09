@@ -1,0 +1,139 @@
+81141003: good bilateral renal function -> good bi-lateral renal function
+300848003: hypoechoic mass -> hyperechoic mass
+300848003: asymptomatic tumour -> asymptomatic tumor
+300848003: endophytic tumour -> endophytic tumor
+300848003: radiolucent mass with trabeculations -> radiolucent mass with trabeculation
+300848003: tumours -> tumors
+300441003: signal hypointensity in the renal cortex -> signals hypointensity in the renal cortex
+69559004: retroperitoneal tumour -> retroperitoneal tumor
+301459008: haemodynamically stable -> hemodynamically stable
+301459008: haemodynamic stability -> hemodynamic stability
+25064002: severe headache -> severe headaches
+64882008: occasional fever -> occassional fever
+87361006: leukocytes with left shift -> leucocytes with left shift
+233703007: bilateral interstitial pattern -> bi-lateral interstitial pattern
+19829001: bilateral and diffuse alterations of the lung parenchyma -> bi-lateral and diffuse alterations of the lung parenchyma
+49233005: dyspnoea -> dyspnea
+49233005: dyspnoea of progressive intensity -> dyspnea of progressive intensity
+284520004: diffuse bilateral crackles -> diffuse bi-lateral crackles
+27925004: hyperechoic nodule -> hypoechoic nodule
+27925004: hyperechoic nodule -> hyperechogenic nodule
+27925004: hypoechoic nodules -> hyperechoic nodules
+87860000: bilateral testicular tumour -> bilateral testicular tumor
+87860000: bilateral testicular tumour -> bi-lateral testicular tumour
+87860000: testicles are engulfed by fibrosis and the tumour mass -> testicles are engulfed by fibrosis and the tumor mass
+399406009: negative tumour markers -> negative tumor markers
+399406009: negative tumour markers -> negative tumour marker
+399406009: negative testicular markers -> negative testicular marker
+399406009: serum tumour markers were at normal levels -> serum tumour marker were at normal levels
+399406009: tumour markers were negative -> tumor markers were negative
+408573005: thyroid scan was normal -> thryoid scan was normal
+170728008: decreased visual acuity -> increased visual acuity
+170728008: decrease in visual acuity -> increase in visual acuity
+76849009: mixed conjunctival hyperemia -> mixed conjunctival hyperaemia
+76849009: conjunctival hyperemia -> conjunctival hyperaemia
+237783006: adrenal hypodense mass -> adrenal hypodensity mass
+237783006: adrenal tumour -> adrenal tumor
+8644006: postprandial heaviness -> post-prandial heaviness
+267045008: gastrointestinal symptoms -> gastro-intestinal symptoms
+267045008: gastrointestinal manifestations -> gastro-intestinal manifestations
+131148009: haemorrhage -> hemorrhage
+37125009: mild bilateral mydriasis -> mild bi-lateral mydriasis
+37125009: mydriatic -> mydriatics
+37125009: slightly mydriatic pupils -> slightly mydriatics pupils
+37125009: slightly mydriatic pupils -> slighly mydriatic pupils
+422773005: haemodynamically unstable -> hemodynamically unstable
+422773005: haemodynamically unstable -> haemodynamically instable
+422773005: haemodynamic compromise -> hemodynamic compromise
+422773005: haemodynamic destabilisation -> haemodynamic destabilization
+422773005: haemodynamic destabilisation -> hemodynamic destabilisation
+422773005: haemodynamic instability -> hemodynamic instability
+422773005: haemodynamic alterations -> hemodynamic alterations
+78341006: polymorphonuclear leukocytes and abundant mucus -> polymorphonuclear leukocytes and abundant mucous
+27194006: corneal oedema -> corneal edema
+27194006: moderate corneal oedema -> moderate corneal edema
+118435004: oedema in small bowel loops -> edema in small bowel loops
+5291005: hypocalcaemia -> hypocalcemia
+5291005: hypocalcaemia -> hypercalcaemia
+5291005: severe hypocalcaemia -> severe hypocalcemia
+5291005: severe hypocalcaemia -> severe hypercalcaemia
+225581002: decreased vision -> increased vision
+24982008: horizontal binocular diplopia -> vertical binocular diplopia
+24982008: horizontal diplopia -> vertical diplopia
+24982008: double vision -> triple vision
+300855001: intraluminal tumour -> intraluminal tumor
+271823003: tachypnoea -> tachypnea
+271823003: persistent tachypnoea -> persistent tachypnea
+89362005: loss of about 15 kg of weight -> loss of about 20 kg of weight
+89362005: loss of about 15 kg of weight -> loss of about 25 kg of weight
+89362005: loss of about 15 kg of weight -> loss of about 10 kg of weight
+89362005: loss of about 15 kg of weight -> loss of about 14 kg of weight
+89362005: loss of about 15 kg of weight -> loss of about 13 kg of weight
+53298000: haematuria -> hematuria
+53298000: total anaemic haematuria -> total anaemic hematuria
+33958003: induration of the distal third of the penile shaft -> induration of the proximal third of the penile shaft
+95545007: diarrhoeal stools, sometimes accompanied by blood -> diarrheal stools, sometimes accompanied by blood
+64379006: decreased intake -> increased intake
+165406005: normal parameters of the three haematological series -> normal parameters of the four haematological series
+165406005: normal parameters of the three haematological series -> normal parameters of the two haematological series
+165406005: normal parameters of the three haematological series -> normal parameters of the five haematological series
+165406005: normal parameters of the three haematological series -> normal parameters of the six haematological series
+165406005: normal parameters of the three haematological series -> normal parameters of the seven haematological series
+443371007: decreased level of consciousness -> increased level of consciousness
+443371007: decreased level of consciousness -> decreased level of conciousness
+443371007: low level of consciousness -> low level of conciousness
+443371007: progressive deterioration of the level of consciousness -> progressive deterioration of the level of conciousness
+9589009: difficulty in walking -> difficultly in walking
+9589009: difficulty in ambulation -> difficultly in ambulation
+14310000: purulent rhinorrhoea -> purulent rhinorrhea
+14310000: purulent rhinorrhoea -> purulence rhinorrhoea
+14310000: greenish rhinorrhoea -> yellowish rhinorrhoea
+14310000: greenish rhinorrhoea -> bluish rhinorrhoea
+14310000: greenish rhinorrhoea -> grayish rhinorrhoea
+14310000: greenish rhinorrhoea -> purplish rhinorrhoea
+14310000: greenish rhinorrhoea -> greenish rhinorrhea
+18265008: bilateral exophthalmos -> bi-lateral exophthalmos
+28998008: macular haemorrhage -> macular hemorrhage
+298721005: gadolinium uptake at the joint of the manubrium with the sternal body -> Gadolinium uptake at the joint of the manubrium with the sternal body
+163586006: somatic and neurological examinations were normal -> somatic and neurologic examinations were normal
+248503005: microcystic epithelial oedema -> microcystic epithelial edema
+248503005: microcystic epithelial oedema -> microcystic epithelium oedema
+248503005: central predominantly tarnished cornea with mild oedema -> central predominantly tarnished cornea with mild edema
+707724006: slightly elevated transaminases -> slighly elevated transaminases
+707724006: slightly elevated transaminases -> slightly elevated transaminase
+707724006: elevated transaminase values -> elevated aminotransferase values
+707724006: elevated transaminase values -> elevated transaminases values
+707724006: elevated transaminases -> elevated transaminase
+70819003: reddish skin -> brownish skin
+70819003: reddish skin -> yellowish skin
+70819003: reddish skin -> reddish-brown skin
+70819003: reddish skin -> brownish-red skin
+267096005: bifrontoparietal headache -> bifrontoparietal headaches
+267096005: frontoparietal headache -> frontoparietal headaches
+60280003: adequate intraocular pressure -> adequate intra-ocular pressure
+60280003: intraocular pressure values were normal -> intra-ocular pressure values were normal
+300357002: hypodense peripancreatic halo -> hypodensity peripancreatic halo
+167221003: no alterations in the sediment -> no alterations in the sediments
+167221003: normal sediment -> normal sediments
+301151001: distal pulses were preserved -> proximal pulses were preserved
+301151001: distal pulses present -> proximal pulses present
+9957009: transurethral purulent discharge -> transurethral purulence discharge
+9957009: purulent discharge through the urethral meatus -> purulence discharge through the urethral meatus
+409609008: bilateral alveolar-interstitial infiltrate -> bi-lateral alveolar-interstitial infiltrate
+369757002: solid mass with haemorrhagic areas -> solid mass with hemorrhagic areas
+11934000: eyelid ptosis -> eye-lid ptosis
+300287006: oesophageal mass -> esophageal mass
+300287006: vegetating and ulcerated oesophageal tumour -> vegetating and ulcerated esophageal tumour
+330007: occipital headache -> occipital headaches
+423341008: papillary oedema -> papillary edema
+423341008: optic disc oedema -> optic disc edema
+423341008: papilledema -> Papilledema
+431468008: collapse of the third ventricle -> collapse of the fourth ventricle
+169254007: renal ultrasound showed no abnormalities -> renal ultra-sound showed no abnormalities
+15930381000119104: oedema of both optic discs -> edema of both optic discs
+15930381000119104: bilateral papilledema -> bilateral Papilledema
+15930381000119104: bilateral papilledema -> bi-lateral papilledema
+30098003: severe hyperemia -> severe hyperaemia
+30098003: hyperemia -> hyperaemia
+118434000: decrease in the volume of the gastric chamber -> increase in the volume of the gastric chamber
+300260007: drainage of the left parotid gland is normal -> drainage of the left parotid glands is normal

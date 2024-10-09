@@ -1,0 +1,78 @@
+442635007: cultivo positivo para pseudomona aureaginosa -> cultivo positivo para peptostreptococcus aureaginosa
+442635007: cultivo positivo para pseudomona aureaginosa -> cultivo positivo para jejuni aureaginosa
+442635007: cultivo positivo para pseudomona aureaginosa -> cultivo positivo para enterocolitica aureaginosa
+442635007: positivo en las cuatro que se realizan para leuconostoc spp. -> positivo en las tres que se realizan para leuconostoc spp.
+442635007: positivo en las cuatro que se realizan para leuconostoc spp. -> positivo en las cinco que se realizan para leuconostoc spp.
+442635007: positivo en las cuatro que se realizan para leuconostoc spp. -> positivo en las seis que se realizan para leuconostoc spp.
+442635007: positivo en las cuatro que se realizan para leuconostoc spp. -> positivo en las ocho que se realizan para leuconostoc spp.
+442635007: cultivo dieron positivo para escherichia coli -> cultivo dieron positivo para escherichia escherichia
+1003721002: artralgias en ambas rodillas -> mialgias en ambas rodillas
+80515008: hepatomegalia dolorosa -> esplenomegalia dolorosa
+64730000: auscultación cardiaca estaba rítmica -> auscultación cardíaca estaba rítmica
+64730000: auscultación cardiaca rítmica -> auscultación cardíaca rítmica
+64730000: auscultación cardíaca es rítmica -> auscultación cardiaca es rítmica
+249274008: leve síntomatologia miccional -> leve síntomatologia polaquiuria
+249274008: clínica miccional -> clínica polaquiuria
+300449001: indemnidad del uréter distal -> indemnidad del uréter proximal
+431468008: colapso del tercer ventrículo -> colapso del segundo ventrículo
+431468008: colapso del tercer ventrículo -> colapso del cuarto ventrículo
+248690009: crepitación a la auscultación cardíaca -> crepitación a la auscultación cardiaca
+713514005: debilidad muscular en las cuatro extremidades -> debilidad muscular en las tres extremidades
+713514005: debilidad muscular en las cuatro extremidades -> debilidad muscular en las cinco extremidades
+713514005: debilidad muscular en las cuatro extremidades -> debilidad muscular en las seis extremidades
+713514005: debilidad muscular en las cuatro extremidades -> debilidad muscular en las ocho extremidades
+249939004: debilidad en musculatura proximal -> debilidad en musculatura distal
+249939004: debilidad muscular proximal en brazos y piernas -> debilidad muscular distal en brazos y piernas
+52613005: diaforesis -> sialorrea
+32566006: dismetria en las cuatro extremidades -> dismetria en las tres extremidades
+32566006: dismetria en las cuatro extremidades -> dismetria en las cinco extremidades
+32566006: dismetria en las cuatro extremidades -> dismetria en las seis extremidades
+32566006: dismetria en las cuatro extremidades -> dismetria en las ocho extremidades
+162052001: dolor en fosa ilíaca izquierda -> dolor en fosa ilíaca derecha
+162050009: dolor en flanco/fosa renal derecha que le irradia hasta teste ipsilateral -> dolor en flanco/fosa renal izquierda que le irradia hasta teste ipsilateral
+15930381000119104: papiledema bilateral -> hipoestesia bilateral
+423341008: papiledema -> hipoestesia
+424372002: edema distal de la extremidad -> edema proximal de la extremidad
+88936002: elevación de los dos hemidiafragmas -> elevación de los tres hemidiafragmas
+304370001: engrosamiento de las válvulas conniventes a nivel de yeyuno -> engrosamiento de las válvulas actinomorfo a nivel de yeyuno
+165840002: factor reumatoide negativo -> factor artritis negativo
+309088003: masa renal derecha en polo inferior -> masa renal izquierda en polo inferior
+823013008: tumoración inguinoescrotal derecha muy dolorosa -> tumoración inguinoescrotal izquierda muy dolorosa
+8730001000004107: hemocultivos crece un e. coli -> hemocultivos crece un e. escherichia
+8730001000004107: hemocultivos seriados en los que se aisló de forma persistente neisseria sicca -> hemocultivos seriados en los que se aisló de forma persistente meningitidis sicca
+165406005: parámetros normales de las tres series hematológicas -> parámetros normales de las cuatro series hematológicas
+165406005: parámetros normales de las tres series hematológicas -> parámetros normales de las dos series hematológicas
+165406005: parámetros normales de las tres series hematológicas -> parámetros normales de las cinco series hematológicas
+165406005: parámetros normales de las tres series hematológicas -> parámetros normales de las seis series hematológicas
+21454007: hemorragia subaracnoidea frontoparietal derecha -> hemorragia subaracnoidea frontoparietal izquierda
+4996001: hipofosfatemia grave -> hipocalemia grave
+4996001: hipofosfatemia grave -> hipoproteinemia grave
+429783005: hipoestesia parcheada en las extremidades inferiores -> papiledema parcheada en las extremidades inferiores
+59931005: inversión de la onda t en derivaciones iii y avf -> inversión de la onda t en derivaciones iv y avf
+59931005: inversión de la onda t en derivaciones iii y avf -> inversión de la onda t en derivaciones ii y avf
+87361006: leucocitosis con marcada desviación izquierda -> leucocitosis con marcada desviación derecha
+87361006: leucocitosis de 26.500/mm3 con desviación a la izquierda -> leucocitosis de 26.500/mm3 con desviación a la derecha
+87361006: leucocitosis con importante desviación izquierda -> leucocitosis con importante desviación derecha
+87361006: leucocitos con desviación izquierda -> leucocitos con desviación derecha
+87361006: leucocitosis con desviación a la izquierda -> leucocitosis con desviación a la derecha
+56681004: obliteración de iv ventrículo -> obliteración de iii ventrículo
+69559004: masa quística polilobulada retroperitoneal derecha -> masa quística polilobulada retroperitoneal izquierda
+282050000: masa en yeyuno proximal -> masa en yeyuno distal
+282050000: yeyuno proximal una tumoración, friable y ulcerada -> yeyuno distal una tumoración, friable y ulcerada
+74285003: masa pélvica situada a la derecha de la vejiga -> masa pélvica situada a la izquierda de la vejiga
+17450006: mioclonías en miembros inferiores -> atetosis en miembros inferiores
+17450006: mioclonías generalizadas -> atetosis generalizadas
+232209000: narina izquierda por disminución de la permeabilidad -> narina derecha por disminución de la permeabilidad
+422400008: vómitos autolimitados de duración variable -> náuseas autolimitados de duración variable
+422400008: vómitos -> náuseas
+422587007: náuseas -> vómitos
+89362005: pérdida de treinta libras de peso -> pérdida de cuarenta libras de peso
+302215000: trombopenia -> granulocitopenia
+302215000: trombopenia -> pancitopenia
+698594003: signos de insuficiencia cardiaca -> signos de insuficiencia cardíaca
+7358000: síndrome miccional irritativo -> síndrome polaquiuria irritativo
+7358000: sintomatología miccional -> sintomatología polaquiuria
+7358000: síndrome miccional -> síndrome polaquiuria
+300861003: tumoración localizada en la unión de los segmentos iv y v -> tumoración localizada en la unión de los segmentos iii y v
+300365004: vómitos pospandriales -> náuseas pospandriales
+300365004: vómitos alimenticios -> náuseas alimenticios
