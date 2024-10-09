@@ -4,8 +4,8 @@
 # each of them the script "container_handler.sh" with the respective language as attribute.
 
 GITHUB_TOKEN=$(grep 'gh_token' config | cut -d'=' -f2)
-TASK="el"  # [ner, el]
-ARGS=("es" "en" "fr" "it" "pt")  # {ner: [multicardioner, cantemist, symptemist], el: [es, en, fr, it, pt]}
+TASK="ner"  # [ner, el]
+ARGS=("cantemist" "symptemist" "multicardioner")  # {ner: [cantemist, symptemist, multicardioner], el: [es, en, fr, it, pt]}
 MODEL_TYPE="word2vec"  # [word2vec, fasttext]
 ALLOCATION_TIME="24"  # in hours
 
