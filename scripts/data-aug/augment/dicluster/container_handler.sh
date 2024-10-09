@@ -4,9 +4,9 @@
 # NER or an EL dataset. It builds and runs a container, and then retrieves the augmented dataset.
 
 GITHUB_TOKEN=$1
-TASK=$1
-ARG=$2
-MODEL_TYPE=$3
+TASK=$2
+ARG=$3
+MODEL_TYPE=$4
 
 # Build and run the container that augments either a NER or an EL dataset
 docker rm augment-data-container && docker rmi augment-data-image:latest
@@ -16,6 +16,7 @@ docker run --name "augment-data-container" "augment-data-image"
 # Source and destination dirs for all results
 SOURCE_DIR="/usr/src/app/test/scripts/data-aug/augment/${TASK}/out/${MODEL_TYPE}/${ARG}"
 DEST_DIR="out/${TASK}/${MODEL_TYPE}/${ARG}"
+mkdir -p "${DEST_DIR}"
 
 # Extract dataset from the container
 docker start augment-data-container > /dev/null

@@ -10,36 +10,36 @@ random.seed(0)
 data_paths = {
     'multicardioner': [
         {
-            'input_file_path': '../../../ner/conll-parsing/multicardioner-parse/out/distemist_train.conll',
+            'input_file_path': '../../../ner/conll-parse/multicardioner-parse/out/distemist_train.conll',
             'output_file_path': 'out/multicardioner/distemist_train_aug.conll',
             'lang': 'es'
         },
         {
-            'input_file_path': '../../../ner/conll-parsing/multicardioner-parse/out/drugtemist_train.conll',
+            'input_file_path': '../../../ner/conll-parse/multicardioner-parse/out/drugtemist_train.conll',
             'output_file_path': 'out/multicardioner/drugtemist_train_aug.conll',
             'lang': 'es'
         },
         {
-            'input_file_path': '../../../ner/conll-parsing/multicardioner-parse/out/drugtemist_train_en.conll',
+            'input_file_path': '../../../ner/conll-parse/multicardioner-parse/out/drugtemist_train_en.conll',
             'output_file_path': 'out/multicardioner/drugtemist_train_en_aug.conll',
             'lang': 'en'
         },
         {
-            'input_file_path': '../../../ner/conll-parsing/multicardioner-parse/out/drugtemist_train_it.conll',
+            'input_file_path': '../../../ner/conll-parse/multicardioner-parse/out/drugtemist_train_it.conll',
             'output_file_path': 'out/multicardioner/drugtemist_train_it_aug.conll',
             'lang': 'it'
         },
     ],
     'symptemist': [
         {
-            'input_file_path': '../../../ner/conll-parsing/symptemist-parse/out/train.conll',
+            'input_file_path': '../../../ner/conll-parse/symptemist-parse/out/train.conll',
             'output_file_path': 'out/symptemist/train_aug.conll',
             'lang': 'es'
         }
     ],
     'cantemist': [
         {
-            'input_file_path': '../../../ner/conll-parsing/cantemist-parse/out/train.conll',
+            'input_file_path': '../../../ner/conll-parse/cantemist-parse/out/train.conll',
             'output_file_path': 'out/cantemist/train_aug.conll',
             'lang': 'es'
         }
@@ -96,7 +96,7 @@ def get_file_size(file_path):
 
 
 def build_combined_distemist_and_drugtemist_aug_file(distemist_augmented_dict, drugtemist_augmented_dict, augment_factor, distance_threshold):
-    combined_dataset_normal_data = load_data('../../../ner/conll-parsing/multicardioner-parse/out/combined_train.conll')
+    combined_dataset_normal_data = load_data('../../../ner/conll-parse/multicardioner-parse/out/combined_train.conll')
     combined_train_aug_file_path = f"out/multicardioner/combined_train_aug_{augment_factor}_{distance_threshold}.conll"
 
     def inject_additional_entity_types_and_write_to_file(f, sentences, sentence_idx, entity_type):
