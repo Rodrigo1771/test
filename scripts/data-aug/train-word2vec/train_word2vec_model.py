@@ -51,7 +51,7 @@ def make_wordvectors(args):
     print(f'Vocab size: {len(model.wv.index_to_key)}')
 
     os.makedirs('out', exist_ok=True)
-    model.save(f'out/{args.lang}_word2vec_model')
+    model.save(f'out/{args.lang}/{args.lang}_word2vec_model')
 
     if args.save_vocab_and_vectors_tsv:
         with open(f'data/{args.lang}/{args.lang}_vocab_and_vectors.tsv', 'w', encoding='utf-8') as fout:

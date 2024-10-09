@@ -12,7 +12,7 @@ docker build --no-cache -f Dockerfile -t "word2vec-training-pipeline-image" --bu
 docker run --name "word2vec-training-pipeline-container" "word2vec-training-pipeline-image"
 
 # Source and destination dirs for all results
-SOURCE_DIR="/usr/src/app/test/scripts/data-aug/train/out/${LANG}"
+SOURCE_DIR="/usr/src/app/test/scripts/data-aug/train-word2vec/out/${LANG}"
 DEST_DIR="out/${LANG}"
 mkdir -p "${DEST_DIR}"
 
