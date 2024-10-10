@@ -1,5 +1,6 @@
 # The Entity Linking Pipeline
 
+
 - sapbert in "models" dir
 - dataset in "datasets" dir
 - running it in the di cluster vs running it locally
