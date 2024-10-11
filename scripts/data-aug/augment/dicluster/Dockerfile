@@ -23,19 +23,17 @@ ENV PATH="/usr/src/app/venv/bin:$PATH"
 RUN pip3 install --no-cache-dir tqdm humanize gensim
 
 # Get arguments
-ARG GITHUB_TOKEN
 ARG TASK
 ARG ARG
 ARG MODEL_TYPE
 
 # Set environment variables
-ENV GITHUB_TOKEN=$GITHUB_TOKEN
 ENV TASK=$TASK
 ENV ARG=$ARG
 ENV MODEL_TYPE=$MODEL_TYPE
 
 # Clone GitHub repo
-RUN git clone https://Rodrigo1771:"$GITHUB_TOKEN"@github.com/Rodrigo1771/test
+RUN git clone https://github.com/Rodrigo1771/test
 
 # Copy models to container
 COPY models/word2vec /usr/src/app/test/scripts/data-aug/train-word2vec/out

@@ -91,7 +91,7 @@ Then, execute the node allocator like:
 ./node_allocator.sh
 ```
 
-This script contains four variables (`GITHUB_TOKEN` should not be modified):
+This script contains four variables:
 
 - `TASK`: Possible values are `ner` and `el`.
 - `ARGS`: Represents the arguments for either the NER script or the EL script: if `TASK`=`ner`, possible values are `symptemist`, `cantemist` and `multicardioner`; if `TASK`=`el`, possible values are `en`, `es`, `fr`, `it` and `pt`.

@@ -3,15 +3,14 @@
 # This script handles the spawn and output retrieval of a Docker container that trains a model.
 # It builds and runs a container, and then retrieves both the results file and the trained model.
 
-GITHUB_TOKEN=$1
-DATASET=$2
-LANG=$3
-MODE=$4
-MODEL_TYPE=$5
+DATASET=$1
+LANG=$2
+MODE=$3
+MODEL_TYPE=$4
 
 # Build and run the container that performs hyperparameter search
 docker rm el-pipeline-container && docker rmi el-pipeline-image:latest
-docker build --no-cache -f Dockerfile -t "el-pipeline-image" --build-arg GITHUB_TOKEN="${GITHUB_TOKEN}" --build-arg DATASET="${DATASET}" --build-arg LANG="${LANG}" --build-arg MODE="${MODE}" --build-arg MODEL_TYPE="${MODEL_TYPE}" .
+docker build --no-cache -f Dockerfile -t "el-pipeline-image" --build-arg DATASET="${DATASET}" --build-arg LANG="${LANG}" --build-arg MODE="${MODE}" --build-arg MODEL_TYPE="${MODEL_TYPE}" .
 docker run --gpus all --name "el-pipeline-container" "el-pipeline-image"
 
 # Source and destination dirs for all results

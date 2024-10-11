@@ -26,15 +26,13 @@ ENV PATH="/usr/src/app/venv/bin:$PATH"
 RUN pip3 install --no-cache-dir tqdm regex lxml humanize gensim numpy
 
 # Get arguments
-ARG GITHUB_TOKEN
 ARG LANG
 
 # Set environment variables
-ENV GITHUB_TOKEN=$GITHUB_TOKEN
 ENV LANG=$LANG
 
 # Clone GitHub repo
-RUN git clone https://Rodrigo1771:"$GITHUB_TOKEN"@github.com/Rodrigo1771/test
+RUN git clone https://github.com/Rodrigo1771/test
 
 # Run the training pipeline script
 CMD ["bash", "-c", "source venv/bin/activate && cd test/scripts/data-aug/train-word2vec && ./training_pipeline.sh ${LANG}"]

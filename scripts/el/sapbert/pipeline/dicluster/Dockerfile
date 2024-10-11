@@ -19,21 +19,19 @@ RUN apt-get update && apt-get install -y \
 RUN pip3 install --no-cache-dir torch tqdm numpy pandas pytorch_metric_learning transformers sentencepiece protobuf
 
 # Get arguments
-ARG GITHUB_TOKEN
 ARG DATASET
 ARG LANG
 ARG MODE
 ARG MODEL_TYPE
 
 # Set environment variables
-ENV GITHUB_TOKEN=$GITHUB_TOKEN
 ENV DATASET=$DATASET
 ENV LANG=$LANG
 ENV MODE=$MODE
 ENV MODEL_TYPE=$MODEL_TYPE
 
 # Clone GitHub repo
-RUN git clone https://Rodrigo1771:"$GITHUB_TOKEN"@github.com/Rodrigo1771/test
+RUN git clone https://github.com/Rodrigo1771/test
 
 # Run either the hyperparameter search or the final training and evaluation script
 CMD if [ "$MODE" = "hyperparameter-search" ]; then \
