@@ -29,9 +29,10 @@ echo ""
 
 # Train model
 mkdir -p "/out/${MODEL_ID#*/}/${DATASET}/"
+HF_USERNAME=$(grep 'hf_username' ../../config | cut -d'=' -f2)
 python3 ner_train.py \
   --model_name_or_path "$MODEL_ID" \
-  --dataset_name "$DATASET-ner" \
+  --dataset_name "$HF_USERNAME/$DATASET-ner" \
   --output_dir "/out/${MODEL_ID#*/}/${DATASET}/" \
   --do_train \
   --do_eval \

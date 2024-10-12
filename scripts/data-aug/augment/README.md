@@ -66,7 +66,6 @@ The augmented datasets will be saved in `ner/out/{MODEL_TYPE}/{DATASET}/` for NE
 
 Run the pipeline from the DI Cluster by first copying the following files and folders to the cluster (put it all inside a folder of your choosing):
 - The contents of the `dicluster/` folder. 
-- The `scripts/config` file with your credentials.
 - The contents of the `scripts/data-aug/train-word2vec/out/` folder into a folder of name `models/word2vec/`.
 - The contents of the `scripts/data-aug/fasttext-models/` folder into a folder of name `models/fasttext/`.
 
