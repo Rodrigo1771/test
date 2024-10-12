@@ -1,4 +1,4 @@
-# Loading script for the DrugTEMIST NER dataset. 
+# Loading script for the DrugTEMIST Spanish NER dataset.
 import datasets
 
 
@@ -12,31 +12,31 @@ _DESCRIPTION = """\
 https://temu.bsc.es/multicardioner/
 """
 
-_URL = "https://huggingface.co/datasets/Rodrigo1771/drugtemist-ner/resolve/main/"
+_URL = "https://huggingface.co/datasets/<HF_USERNAME>/drugtemist-es-ner/resolve/main/"
 _TRAINING_FILE = "train.conll"
 _DEV_FILE = "dev.conll"
 _TEST_FILE = "test.conll"
 
-class DrugTEMISTNERConfig(datasets.BuilderConfig):
-    """BuilderConfig for DrugTEMIST NER dataset"""
+class DrugTEMISTESNERConfig(datasets.BuilderConfig):
+    """BuilderConfig for DrugTEMIST Spanish NER dataset"""
 
     def __init__(self, **kwargs):
-        """BuilderConfig for DrugTEMIST NER.
+        """BuilderConfig for DrugTEMIST Spanish NER.
 
         Args:
           **kwargs: keyword arguments forwarded to super.
         """
-        super(DrugTEMISTNERConfig, self).__init__(**kwargs)
+        super(DrugTEMISTESNERConfig, self).__init__(**kwargs)
 
 
-class DrugTEMISTNER(datasets.GeneratorBasedBuilder):
-    """DrugTEMIST NER dataset."""
+class DrugTEMISTESNER(datasets.GeneratorBasedBuilder):
+    """DrugTEMIST Spanish NER dataset."""
 
     BUILDER_CONFIGS = [
-        DrugTEMISTNERConfig(
-            name="DrugTEMIST NER", 
+        DrugTEMISTESNERConfig(
+            name="DrugTEMIST Spanish NER",
             version=datasets.Version("1.0.0"), 
-            description="DrugTEMIST NER dataset"),
+            description="DrugTEMIST Spanish NER dataset"),
     ]
 
     def _info(self):
@@ -95,7 +95,7 @@ class DrugTEMISTNER(datasets.GeneratorBasedBuilder):
                         tokens = []
                         ner_tags = []
                 else:
-                    # DrugTEMIST tokens are tab separated
+                    # DrugTEMIST Spanish tokens are tab separated
                     splits = line.split("\t")
                     tokens.append(splits[0])
                     ner_tags.append(splits[-1].rstrip())

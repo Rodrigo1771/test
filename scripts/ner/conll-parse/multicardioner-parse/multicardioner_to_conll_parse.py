@@ -522,7 +522,7 @@ def write_files_correct_imperfect_entities(tuples_dict, mode):
                     f.write('\n')
                 else:
                     indexes_to_skip.append(i)
-    for name, tuples in zip(['distemist', 'drugtemist'], tuples_dict[1:]):
+    for name, tuples in zip(['distemist', 'drugtemist_es'], tuples_dict[1:]):
         with open(f'out/{name}_{mode}.conll', 'w') as f:
             for i, (word, filename, span, final_label) in enumerate(tuples):
                 f.write(f'{word}\t{filename}\t{span}\t{final_label}\n')
@@ -598,11 +598,11 @@ def main():
     )
 
     # This dictionary holds the final splits
-    training_tuples = [ combined_training_file_tuples, distemist_train_tuples, drugtemist_train_tuples ]
-    dev_tuples = [ combined_validation_file_tuples, distemist_dev_tuples, drugtemist_dev_tuples ]
+    training_tuples = [combined_training_file_tuples, distemist_train_tuples, drugtemist_train_tuples]
+    dev_tuples = [combined_validation_file_tuples, distemist_dev_tuples, drugtemist_dev_tuples]
     independent_datasets_and_line_tuples_processed = {
         "distemist_test": datasets_and_line_tuples_preprocessed["distemist_test"],
-        "drugtemist_test": datasets_and_line_tuples_preprocessed["drugtemist_es_test"],
+        "drugtemist_es_test": datasets_and_line_tuples_preprocessed["drugtemist_es_test"],
         "drugtemist_en_train": drugtemist_train_en,
         "drugtemist_en_dev": drugtemist_dev_en,
         "drugtemist_en_test": datasets_and_line_tuples_preprocessed["drugtemist_en_test"],

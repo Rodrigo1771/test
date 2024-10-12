@@ -84,7 +84,7 @@ def main():
         'cantemist': "../../../datasets/cantemist/test-set/cantemist-ner",
         'symptemist': "../../../datasets/symptemist/symptemist_test/subtask1-ner/brat",
         'distemist': "../../../datasets/multicardioner/track1/cardioccc_test/brat",
-        'drugtemist': "../../../datasets/multicardioner/track2/cardioccc_test/es/brat",
+        'drugtemist-es': "../../../datasets/multicardioner/track2/cardioccc_test/es/brat",
         'drugtemist-en': "../../../datasets/multicardioner/track2/cardioccc_test/en/brat",
         'drugtemist-it': "../../../datasets/multicardioner/track2/cardioccc_test/it/brat",
     }

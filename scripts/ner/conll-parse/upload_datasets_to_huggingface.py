@@ -15,9 +15,9 @@ datasets_and_info = {
         'conll_files_dir': 'multicardioner-parse/out/',
         'loading_script': 'multicardioner-parse/loading-scripts/distemist_loading_script.py'
     },
-    'drugtemist': {
+    'drugtemist-es': {
         'conll_files_dir': 'multicardioner-parse/out/',
-        'loading_script': 'multicardioner-parse/loading-scripts/drugtemist_loading_script.py'
+        'loading_script': 'multicardioner-parse/loading-scripts/drugtemist-es_loading_script.py'
     },
     'drugtemist-en': {
         'conll_files_dir': 'multicardioner-parse/out/',
@@ -49,10 +49,17 @@ api = HfApi()
 with open(".gitattributes", "w") as temp_file:
     temp_file.write("*.conll filter=lfs diff=lfs merge=lfs -text")
 
+for dataset, _ in tqdm(datasets_and_info.items()):
+    hf_repo_id = f'{hf_username}/{dataset}-ner'
+    api.delete_repo(repo_id=hf_repo_id, missing_ok=True, repo_type='dataset', token=hf_token)
+
 # Upload datasets
 for dataset, info in tqdm(datasets_and_info.items()):
+    # Create repo
     hf_repo_id = f'{hf_username}/{dataset}-ner'
     api.create_repo(repo_id=hf_repo_id, exist_ok=True, repo_type='dataset', token=hf_token)
+
+    # Upload .gitattributes
     api.upload_file(
         path_or_fileobj='.gitattributes',
         path_in_repo='.gitattributes',
@@ -60,6 +67,13 @@ for dataset, info in tqdm(datasets_and_info.items()):
         repo_type='dataset',
         token=hf_token
     )
+
+    # Update and upload loading script
+    with open(os.path.join(info["loading_script"]), 'r') as f:
+        data = f.read()
+    data = data.replace('<HF_USERNAME>', hf_username)
+    with open(os.path.join(info["loading_script"]), 'w') as f:
+        f.write(data)
     api.upload_file(
         path_or_fileobj=f'{info["loading_script"]}',
         path_in_repo=f'{dataset}-ner.py',
@@ -67,6 +81,13 @@ for dataset, info in tqdm(datasets_and_info.items()):
         repo_type='dataset',
         token=hf_token
     )
+    with open(os.path.join(info["loading_script"]), 'r') as f:
+        data = f.read()
+    data = data.replace(hf_username, '<HF_USERNAME>')
+    with open(os.path.join(info["loading_script"]), 'w') as f:
+        f.write(data)
+
+    # Upload splits
     for split in ['train', 'dev', 'test']:
         if 'multicardioner' not in info["conll_files_dir"]:
             local_path = f'{info["conll_files_dir"]}/{split}.conll'

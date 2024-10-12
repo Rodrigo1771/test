@@ -16,7 +16,7 @@ RUN apt-get update && apt-get install -y \
     && rm -rf /var/lib/apt/lists/*
 
 # Install Python dependencies
-RUN pip3 install --no-cache-dir transformers[torch] datasets evaluate seqeval
+RUN pip3 install --no-cache-dir transformers[torch] datasets evaluate seqeval pandas tqdm
 
 # Get arguments
 ARG DATASET
