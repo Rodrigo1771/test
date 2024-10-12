@@ -2,6 +2,34 @@ import os
 import re
 import json
 import glob
+import pandas as pd
+
+
+data_dirs = {
+    'cantemist': {
+        'brat': '../../../datasets/cantemist/test-set/cantemist-ner',
+    },
+    'symptemist': {
+        'brat': '../../../datasets/symptemist/symptemist_test/subtask1-ner/brat',
+        'tsv': '../../../datasets/symptemist/symptemist_test/subtask1-ner/tsv/symptemist_tsv_test_subtask1.tsv'
+    },
+    'distemist': {
+        'brat': '../../../datasets/multicardioner/track1/cardioccc_test/brat',
+        'tsv': '../../../datasets/multicardioner/track1/cardioccc_test/tsv/multicardioner_track1_cardioccc_test.tsv'
+    },
+    'drugtemist-es': {
+        'brat': "../../../datasets/multicardioner/track2/cardioccc_test/es/brat",
+        'tsv': '../../../datasets/multicardioner/track2/cardioccc_test/es/tsv/multicardioner_track2_cardioccc_test_es.tsv'
+    },
+    'drugtemist-en': {
+        'brat': "../../../datasets/multicardioner/track2/cardioccc_test/en/brat",
+        'tsv': '../../../datasets/multicardioner/track2/cardioccc_test/en/tsv/multicardioner_track2_cardioccc_test_en.tsv'
+    },
+    'drugtemist-it': {
+        'brat': "../../../datasets/multicardioner/track2/cardioccc_test/it/brat",
+        'tsv': '../../../datasets/multicardioner/track2/cardioccc_test/it/tsv/multicardioner_track2_cardioccc_test_it.tsv'
+    },
+}
 
 
 # Parse a directory of .ann and .txt files into a list of tuples of the following format:
@@ -79,26 +107,59 @@ def parse_dir(data_dir, files):
     return ret
 
 
-def main():
-    data_dirs = {
-        'cantemist': "../../../datasets/cantemist/test-set/cantemist-ner",
-        'symptemist': "../../../datasets/symptemist/symptemist_test/subtask1-ner/brat",
-        'distemist': "../../../datasets/multicardioner/track1/cardioccc_test/brat",
-        'drugtemist-es': "../../../datasets/multicardioner/track2/cardioccc_test/es/brat",
-        'drugtemist-en': "../../../datasets/multicardioner/track2/cardioccc_test/en/brat",
-        'drugtemist-it': "../../../datasets/multicardioner/track2/cardioccc_test/it/brat",
-    }
-    for name, data_dir in data_dirs.items():
+def build_cantemist_tsv(brat_path):
+    ann_files = glob.glob(os.path.join(brat_path, '*.ann'))
+    ann_files = [filename.split('/')[-1] for filename in sorted(ann_files, key=lambda x: x.lower())]
+
+    data = []
+    for ann_file in ann_files:
+        filename = os.path.basename(ann_file)[:-4]
+        with open(os.path.join(brat_path, ann_file), 'r') as f:
+            for line in f:
+                parts = line.strip().split('\t')
+                if len(parts) == 3:
+                    mark, label_and_spans, text = parts
+                    label, start_span, end_span = label_and_spans.split(' ')
+                    data.append([filename, label, start_span, end_span, text])
+
+    df = pd.DataFrame(data, columns=['filename', 'label', 'start_span', 'end_span', 'text'])
+
+    # Extract the numeric part of the filename for sorting, save it as an auxiliary column, and then drop it when sorted
+    df['file_num'] = df['filename'].apply(lambda x: int(re.search(r'\d+', x).group()))
+    df = df.sort_values(by=['file_num', 'start_span'])
+    df = df.drop(columns=['file_num'])
+
+    return df
+
+
+def build_ner_test_file_reference_tsv(name, paths):
+    if name == 'cantemist':
+        df = build_cantemist_tsv(paths['brat'])
+    else:
+        tsv_file_path = paths['tsv']
+        df = pd.read_csv(tsv_file_path, delimiter='\t')
         if name == 'symptemist':
-            files = glob.glob(os.path.join(data_dir, '*.ann')) + glob.glob(os.path.join(data_dir, '*.txt'))
+            df = df.drop('ann_id', axis=1)
+
+    reference_tsvs_dir_path = '../../../eval-libs/ner/testset-reference-tsvs/'
+    os.makedirs(os.path.dirname(reference_tsvs_dir_path), exist_ok=True)
+    df.to_csv(os.path.join(reference_tsvs_dir_path, f'{name}_testset_reference.tsv'), sep='\t', index=False)
+    return df
+
+
+def main():
+    for name, paths in data_dirs.items():
+        if name == 'symptemist':
+            files = glob.glob(os.path.join(paths['brat'], '*.ann')) + glob.glob(os.path.join(paths['brat'], '*.txt'))
             files = [filename.split('/')[-1] for filename in sorted(files, key=lambda x: x.lower())]
         else:
-            files = [f for f in os.listdir(data_dir) if os.path.isfile(os.path.join(data_dir, f))]
+            files = [f for f in os.listdir(paths['brat']) if os.path.isfile(os.path.join(paths['brat'], f))]
             files = list(sorted(files, key=lambda x: (int(re.search(r'\d+', x).group()), x.split('.')[-1])))
-        tuples = parse_dir(data_dir, files)
+        tuples = parse_dir(paths['brat'], files)
         os.makedirs('out', exist_ok=True)
         with open(f"out/{name}_testset_phrases.json", 'w') as f:
             json.dump(tuples, f, indent=4)
+        build_ner_test_file_reference_tsv(name, paths)
 
 
 if __name__ == '__main__':

@@ -16,7 +16,7 @@ paths_per_language = {
         'gazetteer_file_path': '../../../../datasets/symptemist/symptemist_gazetteer/symptemist_gazetter_snomed_ES_v2.tsv'
             if lang == 'es' else None,
         'output_dir': f'out/{mode}/{lang}',
-        'gold_standard_file_path': f'../../../../eval-libs/el/test-file-reference-tsvs/symptemist_{lang}_test_file_reference.tsv',
+        'gold_standard_file_path': f'../../../../eval-libs/el/testset-reference-tsvs/symptemist-{lang}_testset_reference.tsv',
     }
     for lang in languages
 }

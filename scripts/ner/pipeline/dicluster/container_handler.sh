@@ -13,7 +13,7 @@ docker run --gpus all --name "ner-pipeline-container" "ner-pipeline-image"
 
 # Source and destination dirs for all results
 SOURCE_DIR="/usr/src/app/test/scripts/ner/pipeline/out"
-RESULTS_FILE="*_final_results.json"
+RESULTS_FILE="${MODEL#*/}-${DATASET}_final_results.json"
 DEST_DIR="out"
 mkdir -p ${DEST_DIR}
 

@@ -84,6 +84,6 @@ echo ""
 
 # Evaluate the model on the official evaluation library
 cd ../../../eval-libs/ner/ && python3 evaluate.py \
-  -r "test-file-reference-tsvs/${DATASET}_${LANG}_test_file_reference.tsv" \
+  -r "testset-reference-tsvs/${DATASET}_${LANG}_testset_reference.tsv" \
   -p "../../scripts/ner/pipeline/out/predictions/${MODEL_ID#*/}-${DATASET}_predictions.tsv" \
   -o "../../scripts/ner/pipeline/out/${MODEL_ID#*/}-${DATASET}_final_results.json"
