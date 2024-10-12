@@ -51,5 +51,5 @@ python3 ner_train.py \
 
 # Upload the model to Hugging Face
 cd ../../../scripts/utils/ && python3 upload_model_to_huggingface.py \
-  --local_model_dir "out/${MODEL_ID#*/}/${DATASET}" \
+  --local_model_dir "../ner/pipeline/out/${MODEL_ID#*/}/${DATASET}" \
   --task "ner"
