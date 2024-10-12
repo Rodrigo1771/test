@@ -26,9 +26,9 @@ def get_labels(argument):
     elif 'symptemist' in argument.lower():
         return ['B-SINTOMA', 'I-SINTOMA']
     else:
-        raise ("If --input_file_conll or --input_file_json are set, the option 'dataset' has to be one of the "
+        raise ("If --input_file_path_conll or --input_file_path_json are set, the option 'dataset' has to be one of the "
                "following: 'distemist', 'drugtemist-es', 'drugtemist-it', 'drugtemist-en', 'cantemist', 'symptemist'. "
-               "If --input_dir is set, the --model_name has to have either 'distemist' or 'drugtemist' in its name.")
+               "If --input_dir_path is set, the --model_name has to have either 'distemist' or 'drugtemist' in its name.")
 
 
 # Process predictions for each example
@@ -146,21 +146,21 @@ def get_examples_filenames_and_spans_from_conll_file(dev_file_path):
 
 def main(args):
     pipe = initialize_pipeline(args.model_name)
-    if args.input_dir:
+    if args.input_dir_path:
         labels = get_labels(args.model_name)
-    elif args.input_file_json:
-        labels = get_labels(args.input_file_json)
+    elif args.input_file_path_json:
+        labels = get_labels(args.input_file_path_json)
     else:
-        labels = get_labels(args.input_file_conll)
+        labels = get_labels(args.input_file_path_conll)
 
     # Ensure output directory exists
-    output_dir = '/'.join(args.output_file.split('/')[:-1])
+    output_dir = '/'.join(args.output_file_path.split('/')[:-1])
     os.makedirs(output_dir, exist_ok=True)
 
     # Accumulate all predictions
     all_results = []
-    if args.input_file_json:
-        with open(args.input_file_json, 'r') as f:
+    if args.input_file_path_json:
+        with open(args.input_file_path_json, 'r') as f:
             examples = json.load(f)
         with tqdm(total=len(examples), desc="Obtaining predictions") as pbar:
             for example in examples:
@@ -169,15 +169,15 @@ def main(args):
                 all_results.extend(results)
                 pbar.update(1)
     else:
-        if args.input_file_conll:
-            files, _ = get_examples_filenames_and_spans_from_conll_file(args.input_file_conll)
+        if args.input_file_path_conll:
+            files, _ = get_examples_filenames_and_spans_from_conll_file(args.input_file_path_conll)
             dirs = [
                 '../../datasets/multicardioner/track2/drugtemist_train/es/brat',
                 '../../datasets/multicardioner/track2/cardioccc_dev/es/brat'
             ]
         else:
-            files = list(sorted(os.listdir(args.input_dir), key=lambda x: int(re.search(r'\d+', x).group())))
-            dirs = [args.input_dir]
+            files = list(sorted(os.listdir(args.input_dir_path), key=lambda x: int(re.search(r'\d+', x).group())))
+            dirs = [args.input_dir_path]
 
         with tqdm(total=len(files), desc="Obtaining predictions") as pbar:
             for filename in files:
@@ -196,8 +196,8 @@ def main(args):
     all_results = combine_split_entities(all_results)
     all_results = combine_BIO_entities(all_results)
 
-    if args.input_file_conll:
-        _, dev_set_example_spans = get_examples_filenames_and_spans_from_conll_file(args.input_file_conll)
+    if args.input_file_path_conll:
+        _, dev_set_example_spans = get_examples_filenames_and_spans_from_conll_file(args.input_file_path_conll)
         new_all_results = []
         for result in all_results:
             for example_span in dev_set_example_spans[result['filename'].removesuffix('.txt')]:
@@ -206,30 +206,38 @@ def main(args):
                     continue
         all_results = new_all_results
 
-    # Write all results to a single CSV file
+    # Write TSV and JSON files
     all_results = sorted(all_results, key=lambda x: (x['filename'], x['start']))
-    with open(args.output_file, 'w', newline='', encoding='utf-8') as csvfile:
+    with (
+        open(args.predictions_file_path, 'w', newline='', encoding='utf-8') as csvfile,
+        open(args.output_file_path, 'w') as jsonfile
+    ):
         fieldnames = ['filename', 'label', 'start_span', 'end_span', 'text']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames, delimiter='\t')
         writer.writeheader()
         with tqdm(total=len(all_results), desc="Saving results") as pbar:
+            all_predictions_dict = {'predictions': []}
             for result in all_results:
-                writer.writerow({
+                prediction_dict = {
                     'filename': result['filename'],
-                    'label': result['entity'].split('-')[-1], 
+                    'label': result['entity'].split('-')[-1],
                     'start_span': result['start'],
                     'end_span': result['end'],
                     'text': result['word']
-                })
+                }
+                all_predictions_dict['predictions'].append(prediction_dict)
+                writer.writerow(prediction_dict)
                 pbar.update(1)
+            json.dump(all_predictions_dict, jsonfile, indent=4)
 
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Perform token classification inference on a collection of files")
     parser.add_argument("--model_name", type=str, help="Name of the model to use for inference", required=True)
-    parser.add_argument("--input_file_conll", type=str, help="Validation file (a devset) containing examples to perform inference on")
-    parser.add_argument("--input_file_json", type=str, help="Json file (a testset) containing examples (phrases) to perform inference on")
-    parser.add_argument("--input_dir", type=str, help="Directory (the test+background folder) containing input files to perform inference on")
-    parser.add_argument("--output_file", type=str, help="File path to the final predictions table", required=True)
+    parser.add_argument("--input_file_path_conll", type=str, help="Validation file (a devset) containing examples to perform inference on")
+    parser.add_argument("--input_file_path_json", type=str, help="Json file (a testset) containing examples (phrases) to perform inference on")
+    parser.add_argument("--input_dir_path", type=str, help="Directory (the test+background folder) containing input files to perform inference on")
+    parser.add_argument("--output_file_path", type=str, help="File path of the final results file", required=True)
+    parser.add_argument("--predictions_file_path", type=str, help="File path of the predictions table", required=True)
     args = parser.parse_args()
     main(args)

@@ -1,6 +1,6 @@
-import utils
 import pandas as pd
 from argparse import ArgumentParser
+from utils import calculate_f1score, write_results
 
 
 def main(argv=None):
@@ -21,17 +21,17 @@ def main(argv=None):
     df_preds = df_preds.drop_duplicates(subset=["filename", "label", "start_span", "end_span"]).reset_index(drop=True)
 
     # Calculate results
-    calculate_ner(df_gs, df_preds, args.output_file, args.task)
+    calculate_ner(df_gs, df_preds, args.output_file)
 
 
-def calculate_ner(df_gs, df_preds, output_path, task):
+def calculate_ner(df_gs, df_preds, output_path):
     # Group annotations by filename
     list_gs_per_doc = df_gs.groupby('filename').apply(
         lambda x: x[["filename", 'start_span', 'end_span', "text",  "label"]].values.tolist())
     list_preds_per_doc = df_preds.groupby('filename').apply(
         lambda x: x[["filename", 'start_span', 'end_span', "text", "label"]].values.tolist())
-    scores = utils.calculate_fscore(list_gs_per_doc, list_preds_per_doc)
-    utils.write_results(task, scores, output_path)
+    scores = calculate_f1score(list_gs_per_doc, list_preds_per_doc)
+    write_results(scores, output_path)
 
 
 if __name__ == "__main__":

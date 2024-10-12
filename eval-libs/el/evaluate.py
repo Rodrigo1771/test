@@ -1,6 +1,6 @@
 import pandas as pd
 from argparse import ArgumentParser
-from utils import calculate_scores, write_results
+from utils import calculate_accuracy, write_results
 
 
 def main(argv=None):
@@ -25,7 +25,7 @@ def calculate_norm(df_gs, df_preds, output_path):
         "filename", 'start_span', 'end_span', "text", "label", "code"]].values.tolist()).to_list()
     list_preds_per_doc = df_preds.groupby('filename').apply(
         lambda x: x[["filename", 'start_span', 'end_span', "text", "label", "code"]].values.tolist()).to_list()
-    scores = calculate_scores(list_gs_per_doc, list_preds_per_doc, 'norm')
+    scores = calculate_accuracy(list_gs_per_doc, list_preds_per_doc, 'norm')
     write_results(scores, output_path)
 
 

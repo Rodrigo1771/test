@@ -4,11 +4,7 @@ import copy
 
 
 # METRICS
-def calculate_scores(gold_standard, predictions, task):
-    """
-    Calculate micro-averaged precision, recall and f-score from two pandas dataframe
-    Depending on the task, do some different pre-processing to the data
-    """
+def calculate_accuracy(gold_standard, predictions, task):
     # Cumulative true positives, false positives, false negatives
     total_tp, total_fp, total_fn = 0, 0, 0
     total_overlap_tp, total_overlap_fp, total_overlap_fn = 0, 0, 0

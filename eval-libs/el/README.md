@@ -5,7 +5,7 @@ This evaluation library is heavily based on the [SympTEMIST Official Evaluation 
 - We removed the score computations for the NER and CODING subtasks, and only left the methods that compute the accuracy obtained in the EL subtask.
 - We rewrote the `utils.write_results` method to simply log that accuracy in a JSON file.
 
-The key point is: **we did not alter any method related to the EL accuracy computation in any way**.
+The key point is: **we did not alter any method related to the EL accuracy computation in any way** (and it probably still has some left over legacy code related to the NER and CODING subtasks).
 
 ## Usage Instructions
 
