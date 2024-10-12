@@ -30,7 +30,6 @@ echo ""
 python3 ner_train.py \
   --model_name_or_path "$MODEL_ID" \
   --dataset_name "$DATASET-ner" \
-  --output_dir "/out/${MODEL_ID#*/}/${DATASET}/" 2>&1 | tee "/out/${MODEL_ID#*/}/${DATASET}/train.log" \
   --do_train \
   --do_eval \
   --do_predict \
@@ -43,7 +42,8 @@ python3 ner_train.py \
   --load_best_model_at_end \
   --metric_for_best_model f1 \
   --disable_tqdm \
-  --seed 42
+  --seed 42 \
+  --output_dir "/out/${MODEL_ID#*/}/${DATASET}/" 2>&1 | tee "/out/${MODEL_ID#*/}/${DATASET}/train.log"
 
 # Upload the model to Hugging Face
 BEST_MODEL_CHECKPOINT_DIR=$(python3 get_best_checkpoint_dir.py --output_dir "/out/${MODEL_ID#*/}/${DATASET}/")
