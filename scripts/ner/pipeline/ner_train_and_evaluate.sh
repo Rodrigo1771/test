@@ -74,7 +74,7 @@ echo ""
 HF_REPO_NAME="${HF_USERNAME}/${MODEL_ID#*/}-${DATASET}-ner"
 cd ../ner/pipeline && python3 ner_predict.py \
   --model_name "${HF_REPO_NAME}" \
-  --input_file_json "phrase-parse/out/${DATASET}_testset_phrases.json" \
+  --input_file_json "../phrase-parse/out/${DATASET}_testset_phrases.json" \
   --output_file "out/predictions/${MODEL_ID#*/}-${DATASET}-predictions.tsv"
 
 echo ""

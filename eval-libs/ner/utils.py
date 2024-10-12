@@ -1,10 +1,5 @@
-"""
-MultiCardioNER evaluation library main script.
-Heavily based on the MedProcNER library, which is in turn based on the DisTEMIST and MEDDOPLACE evaluation scripts.
-@author: salva
-"""
-import json
 import os
+import json
 
 
 def inside_threshold(gold_start_span, pred_start_span, gold_end_span, pred_end_span, threshold_1=20, threshold_2=5):
@@ -150,55 +145,6 @@ def calculate_fscore(gold_standard, predictions):
     }
 
     return scores
-
-
-def check_top_false_negative_presence_in_training_data(data, task):
-    conll_file_path, dir_paths = '', []
-    if task in ['track1', 'track2_es']:
-        conll_file_path = '../../scripts/ner/conll-parsing/multicardioner-parse/out/drugtemist_train.conll'
-        dir_paths = ['../multicardioner/track1/distemist_train/brat', '../multicardioner/track1/cardioccc_dev/brat']
-    elif task == 'track2_it':
-        conll_file_path = '../../scripts/ner/conll-parsing/multicardioner-parse/out/drugtemist_train_it.conll'
-        dir_paths = ['../multicardioner/track2/drugtemist_train/it/brat', '../multicardioner/track2/cardioccc_dev/it/brat']
-    elif task == 'track2_en':
-        conll_file_path = '../../scripts/ner/conll-parsing/multicardioner-parse/out/drugtemist_train_en.conll'
-        dir_paths = ['../multicardioner/track2/drugtemist_train/en/brat', '../multicardioner/track2/cardioccc_dev/en/brat']
-    elif task == 'symptemist':
-        conll_file_path = '../../scripts/ner/conll-parsing/symptemist-parse/out/train.conll'
-        dir_paths = ['../symptemist/train/subtask1-ner/brat']
-    elif task == 'cantemist':
-        conll_file_path = '../../scripts/ner/conll-parsing/cantemist-parse/out/train.conll'
-        dir_paths = ['../cantemist/train-set/cantemist-ner']
-    else:
-        print('IMPOSSIBLEEEEE')
-
-    # Get filenames from training file.
-    with open(conll_file_path, 'r') as f:
-        lines = f.readlines()
-    filenames = []
-    for i, line in enumerate(lines):
-        if line == '\n':
-            filenames.append(lines[i - 1].split('\t')[1])
-    filenames = list(set(filenames))
-
-    # Read the contents of the files in filenames.
-    contents = []
-    for filename in filenames:
-        for dir_path in dir_paths:
-            path = os.path.join(dir_path, filename + '.txt')
-            if os.path.exists(path):
-                with open(path, 'r', encoding='utf-8') as file:
-                    contents.append(file.read())
-                    break
-
-    # Check entity presence in files
-    result = {}
-    for entity, count in data['fn_freq'].items():
-        if count > 10:
-            found = any(entity in content for content in contents)
-            presence = 'Present' if found else 'Not Present'
-            result[entity] = {'frequency': count, 'present_in_training_data': presence}
-    data['fn_freq'] = result
 
 
 def write_results(task, scores, output_path, verbose=False):

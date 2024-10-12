@@ -31,7 +31,6 @@ def calculate_ner(df_gs, df_preds, output_path, task):
     list_preds_per_doc = df_preds.groupby('filename').apply(
         lambda x: x[["filename", 'start_span', 'end_span', "text", "label"]].values.tolist())
     scores = utils.calculate_fscore(list_gs_per_doc, list_preds_per_doc)
-    utils.check_top_false_negative_presence_in_training_data(scores, task)
     utils.write_results(task, scores, output_path)
 
 
