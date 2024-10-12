@@ -1,7 +1,7 @@
 #!/bin/bash
 
-MODEL_ID=$1
-DATASET=$2
+DATASET=$1
+MODEL_ID=$2
 
 # Verify inputs (MODEL_ID is not checked because theoretically you could try any model)
 DATASETS="symptemist cantemist distemist drugtemist-es drugtemist-en drugtemist-it"
