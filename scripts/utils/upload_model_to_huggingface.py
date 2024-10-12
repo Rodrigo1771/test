@@ -23,6 +23,7 @@ LOGGER.addHandler(console)
 if args.task == 'ner':
     path_parts = args.local_model_dir.split('/')
     model_name, dataset = path_parts[-2], path_parts[-1]
+    print(path_parts)
     hf_repo_id = f"{model_name}-{dataset}-ner"
 elif args.task == 'el':
     path_parts = args.local_model_dir.split('/')
