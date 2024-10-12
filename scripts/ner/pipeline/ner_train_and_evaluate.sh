@@ -75,8 +75,8 @@ HF_REPO_NAME="${HF_USERNAME}/${MODEL_ID#*/}-${DATASET}-ner"
 cd ../ner/pipeline && python3 ner_predict.py \
   --model_name "${HF_REPO_NAME}" \
   --input_file_path_json "../phrase-parse/out/${DATASET}_testset_phrases.json" \
-  --output_file_path "out/${MODEL_ID#*/}-${DATASET}-final_results.json" \
-  --predictions_file_path "out/predictions/${MODEL_ID#*/}-${DATASET}-predictions.tsv"
+  --output_file_path "out/${MODEL_ID#*/}-${DATASET}_final_results.json" \
+  --predictions_file_path "out/predictions/${MODEL_ID#*/}-${DATASET}_predictions.tsv"
 
 echo ""
 echo ">>> [2.2] EVALUATING MODEL"
@@ -85,5 +85,5 @@ echo ""
 # Evaluate the model on the official evaluation library
 cd ../../../eval-libs/ner/ && python3 evaluate.py \
   -r "test-file-reference-tsvs/${DATASET}_${LANG}_test_file_reference.tsv" \
-  -p "../../scripts/ner/pipeline/out/predictions/${MODEL_ID#*/}-${DATASET}-predictions.tsv" \
-  -o "../../scripts/ner/pipeline/out/${MODEL_ID#*/}-${DATASET}-final_results.json"
+  -p "../../scripts/ner/pipeline/out/predictions/${MODEL_ID#*/}-${DATASET}_predictions.tsv" \
+  -o "../../scripts/ner/pipeline/out/${MODEL_ID#*/}-${DATASET}_final_results.json"
