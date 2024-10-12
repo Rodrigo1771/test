@@ -97,6 +97,7 @@ for DISTANCE_THRESHOLD in "${DISTANCE_THRESHOLDS[@]}"; do
     # Upload the model to Hugging Face
     cd ../../../scripts/utils/ && python3 upload_model_to_huggingface.py \
       --local_model_dir "../el/sapbert/pipeline/out/${DATASET}/final-model-aug/${MODEL_TYPE}/${LANG}/${MODEL_ID#*/}_${EPOCHS}_${BATCH_SIZE}_${LEARNING_RATE}_${DISTANCE_THRESHOLD}" \
+      --task "el" \
       --augmented_dataset "$MODEL_TYPE"
 
 

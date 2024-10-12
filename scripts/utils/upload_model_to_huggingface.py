@@ -7,6 +7,7 @@ from huggingface_hub import HfApi, HfFolder
 # Parser
 parser = argparse.ArgumentParser()
 parser.add_argument("--local_model_dir", type=str, required=True)
+parser.add_argument("--task", type=str, required=True)
 parser.add_argument("--augmented_dataset", type=str)
 args = parser.parse_args()
 
@@ -19,14 +20,21 @@ console.setFormatter(fmt)
 LOGGER.addHandler(console)
 
 # Build hf repo id
-path_parts = args.local_model_dir.split('/')
-model_name_parts = path_parts[-1].split('_')
-model_name_parts = model_name_parts[:-4] if args.augmented_dataset else model_name_parts[:-3]
-model_name = '_'.join(model_name_parts) if len(model_name_parts) > 1 else model_name_parts[0]
-language = path_parts[-2]
-dataset = path_parts[-5] if args.augmented_dataset else path_parts[-4]
-aug = f"{args.augmented_dataset}-{path_parts[-1].split('_')[-1]}-" if args.augmented_dataset else ''
-hf_repo_id = f"{model_name}-{dataset}-{language}-{aug}el"
+if args.task == 'ner':
+    path_parts = args.local_model_dir.split('/')
+    model_name, dataset = path_parts[-2], path_parts[-1]
+    hf_repo_id = f"{model_name}-{dataset}-ner"
+elif args.task == 'el':
+    path_parts = args.local_model_dir.split('/')
+    model_name_parts = path_parts[-1].split('_')
+    model_name_parts = model_name_parts[:-4] if args.augmented_dataset else model_name_parts[:-3]
+    model_name = '_'.join(model_name_parts) if len(model_name_parts) > 1 else model_name_parts[0]
+    language = path_parts[-2]
+    dataset = path_parts[-5] if args.augmented_dataset else path_parts[-4]
+    aug = f"{args.augmented_dataset}-{path_parts[-1].split('_')[-1]}-" if args.augmented_dataset else ''
+    hf_repo_id = f"{model_name}-{dataset}-{language}-{aug}el"
+else:
+    raise ValueError("Invalid --task arg: has to be either 'ner' or 'el'")
 
 # Read hf username and personal token
 config = {}
@@ -56,11 +64,13 @@ for file in repo_files:
 # List all files in the local directory and upload them
 for filename in os.listdir(args.local_model_dir):
     file_path = os.path.join(args.local_model_dir, filename)
-    relative_path = os.path.relpath(str(file_path), args.local_model_dir)
+
+    if os.path.isdir(file_path):
+        continue
 
     api.upload_file(
         path_or_fileobj=file_path,
-        path_in_repo=relative_path,
+        path_in_repo=filename,
         repo_id=f'{hf_username}/{hf_repo_id}',
         token=hf_token
     )
