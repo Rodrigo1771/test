@@ -33,32 +33,29 @@ echo ""
 
 # Train model
 HF_USERNAME=$(grep 'hf_username' ../../config | cut -d'=' -f2)
-# python3 ner_train.py \
-#   --model_name_or_path "$MODEL_ID" \
-#   --dataset_name "$HF_USERNAME/$DATASET-ner" \
-#   --output_dir "out/${MODEL_ID#*/}/${DATASET}/" \
-#   --do_train \
-#   --do_eval \
-#   --do_predict \
-#   --per_device_train_batch_size "$PER_DEVICE_TRAIN_BATCH_SIZE" \
-#   --gradient_accumulation_steps "$GRADIENT_ACCUMULATION_STEPS" \
-#   --learning_rate "$LEARNING_RATE" \
-#   --num_train_epochs "$EPOCHS" \
-#   --evaluation_strategy epoch \
-#   --save_strategy epoch \
-#   --load_best_model_at_end \
-#   --metric_for_best_model f1 \
-#   --disable_tqdm true \
-#   --seed 42 \
-#    2>&1 | tee "out/${MODEL_ID#*/}/${DATASET}/train.log"
+python3 ner_train.py \
+  --model_name_or_path "$MODEL_ID" \
+  --dataset_name "$HF_USERNAME/$DATASET-ner" \
+  --output_dir "out/${MODEL_ID#*/}/${DATASET}/" \
+  --do_train \
+  --do_eval \
+  --do_predict \
+  --per_device_train_batch_size "$PER_DEVICE_TRAIN_BATCH_SIZE" \
+  --gradient_accumulation_steps "$GRADIENT_ACCUMULATION_STEPS" \
+  --learning_rate "$LEARNING_RATE" \
+  --num_train_epochs "$EPOCHS" \
+  --evaluation_strategy epoch \
+  --save_strategy epoch \
+  --load_best_model_at_end \
+  --metric_for_best_model f1 \
+  --disable_tqdm true \
+  --seed 42 \
+   2>&1 | tee "out/${MODEL_ID#*/}/${DATASET}/train.log"
 
-# Upload the model to Hugging Face
-# cd ../../utils/ && python3 upload_model_to_huggingface.py \
-#   --local_model_dir "../ner/pipeline/out/${MODEL_ID#*/}/${DATASET}" \
-#   --task "ner"
-
-
-cd ../../utils/
+Upload the model to Hugging Face
+cd ../../utils/ && python3 upload_model_to_huggingface.py \
+  --local_model_dir "../ner/pipeline/out/${MODEL_ID#*/}/${DATASET}" \
+  --task "ner"
 
 
 echo ""
