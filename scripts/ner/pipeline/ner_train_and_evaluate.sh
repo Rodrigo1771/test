@@ -49,6 +49,8 @@ python3 ner_train.py \
   --seed 42 \
    2>&1 | tee "/out/${MODEL_ID#*/}/${DATASET}/train.log"
 
+tree "/out/${MODEL_ID#*/}/${DATASET}/"
+
 # Upload the model to Hugging Face
 BEST_MODEL_CHECKPOINT_DIR=$(python3 get_best_checkpoint_dir.py --output_dir "/out/${MODEL_ID#*/}/${DATASET}/")
 echo "$BEST_MODEL_CHECKPOINT_DIR"
