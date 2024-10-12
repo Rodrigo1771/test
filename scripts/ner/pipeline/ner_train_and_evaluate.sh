@@ -44,7 +44,7 @@ python3 ner_train.py \
   --save_strategy epoch \
   --load_best_model_at_end \
   --metric_for_best_model f1 \
-  --disable_tqdm \
+  --disable_tqdm true \
   --seed 42 \
    2>&1 | tee "/out/${MODEL_ID#*/}/${DATASET}/train.log"
 
