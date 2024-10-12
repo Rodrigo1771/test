@@ -28,12 +28,12 @@ echo ""
 
 
 # Train model
-mkdir -p "/out/${MODEL_ID#*/}/${DATASET}/"
+mkdir -p "out/${MODEL_ID#*/}/${DATASET}/"
 HF_USERNAME=$(grep 'hf_username' ../../config | cut -d'=' -f2)
 python3 ner_train.py \
   --model_name_or_path "$MODEL_ID" \
   --dataset_name "$HF_USERNAME/$DATASET-ner" \
-  --output_dir "/out/${MODEL_ID#*/}/${DATASET}/" \
+  --output_dir "out/${MODEL_ID#*/}/${DATASET}/" \
   --do_train \
   --do_eval \
   --do_predict \
@@ -47,9 +47,9 @@ python3 ner_train.py \
   --metric_for_best_model f1 \
   --disable_tqdm true \
   --seed 42 \
-   2>&1 | tee "/out/${MODEL_ID#*/}/${DATASET}/train.log"
+   2>&1 | tee "out/${MODEL_ID#*/}/${DATASET}/train.log"
 
 # Upload the model to Hugging Face
 cd ../../../scripts/utils/ && python3 upload_model_to_huggingface.py \
-  --local_model_dir "/out/${MODEL_ID#*/}/${DATASET}/" \
+  --local_model_dir "out/${MODEL_ID#*/}/${DATASET}" \
   --task "ner"
