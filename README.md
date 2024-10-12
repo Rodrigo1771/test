@@ -20,6 +20,10 @@ This project depends on the following python packages (also available in the `re
 - transformers 
 - sentencepiece 
 - protobuf
+- huggingface_hub
+- datasets 
+- evaluate 
+- seqeval
 
 ### Utilities
 
@@ -68,7 +72,7 @@ In order to run the pipelines, the ability to upload the fine-tuned models to yo
 
 ## Project Structure
 
-The project follows the following structure:
+The project follows the following structure (without the aforementioned `datasets` folder that was already explained):
 
 ```
 ─ multilingual-bio-ner-and-el-msc-diss
@@ -139,12 +143,14 @@ To replicate each one of these experiments, follow these steps (in each of the e
 
 1. NER Transfer Learning Experiments
    1. Parse the NER datasets in `scripts/ner/conll-parse/` ([README](scripts/ner/conll-parse/README.md)) and in `scripts/ner/phrase-parse/` ([README](scripts/ner/phrase-parse/README.md)).
-   2. Run the NER pipeline in `scripts/ner/pipeline/` ([README](scripts/ner/pipeline/README.md)).
+   2. Upload them to Hugging Face in `scripts/ner/conll-parse/` ([README](scripts/ner/conll-parse/README.md))
+   3. Run the NER pipeline in `scripts/ner/pipeline/` ([README](scripts/ner/pipeline/README.md)).
 2. NER Data Augmentation Experiments
    1. Train the Word2Vec word embedding models in `scripts/data-aug/train-word2vec/` ([README](scripts/data-aug/train-word2vec/README.md)).
    2. Download the FastText word embedding models [here](https://fasttext.cc/docs/en/crawl-vectors.html#models).
    3. Augment the NER datasets in `scripts/data-aug/augment/ner` ([README](scripts/data-aug/augment/README.md)).
-   4. Run the NER pipeline again in `scripts/ner/pipeline/` ([README](scripts/ner/pipeline/README.md)).
+   4. Upload them to Hugging Face in `scripts/ner/conll-parse/` ([README](scripts/ner/conll-parse/README.md))
+   5. Run the NER pipeline again in `scripts/ner/pipeline/` ([README](scripts/ner/pipeline/README.md)).
 3. EL Transfer Learning Experiments
    1. Parse the SympTEMIST EL dataset in `scripts/el/sapbert/symptemist-parse/` ([README](scripts/el/sapbert/symptemist-parse/README.md)).
    2. Run the EL pipeline in `scripts/el/sapbert/pipeline/` ([README](scripts/el/sapbert/pipeline/README.md)).

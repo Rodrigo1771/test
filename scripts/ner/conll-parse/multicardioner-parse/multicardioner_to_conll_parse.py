@@ -47,7 +47,7 @@ def get_set_name(path):
     track = path_parts[6]
     split = f"{path_parts[7].split('_')[-1]}"
     (dataset, subset) = ('distemist', '') if track == 'track1' else ('drugtemist', '_' + path_parts[8])
-    return f'{dataset}_{split}{subset}'
+    return f'{dataset}{subset}_{split}'
 
 
 # Parse a directory of .ann and .txt files into a list of tuples of the following format:
@@ -562,11 +562,11 @@ def main():
 
     # Parse the training and validation files of the combined dataset, as they are (without the 80/20 split)
     combined_training_file_tuples = build_combined_training_file_tuples(
-        datasets_and_line_tuples_preprocessed["distemist_train"], datasets_and_line_tuples_preprocessed["drugtemist_train_es"],
+        datasets_and_line_tuples_preprocessed["distemist_train"], datasets_and_line_tuples_preprocessed["drugtemist_es_train"],
         datasets_and_line_tuples_preprocessed["symptemist_train"], datasets_and_line_tuples_preprocessed["medprocner_train"]
     )
     combined_validation_file_tuples = build_combined_validation_file_tuples(
-        datasets_and_line_tuples_preprocessed["distemist_dev"], datasets_and_line_tuples_preprocessed["drugtemist_dev_es"],
+        datasets_and_line_tuples_preprocessed["distemist_dev"], datasets_and_line_tuples_preprocessed["drugtemist_es_dev"],
     )
 
     # Parse the training and validation files of the combined dataset, but now with the 80/20 split
@@ -588,13 +588,13 @@ def main():
     # PARSING OF DRUGTEMIST-EN AND DRUGTEMIST-IT
 
     drugtemist_train_en, drugtemist_dev_en = built_80_20_split_of_combined_dataset(
-        datasets_and_line_tuples_preprocessed['drugtemist_train_en'],
-        datasets_and_line_tuples_preprocessed['drugtemist_dev_en'],
+        datasets_and_line_tuples_preprocessed['drugtemist_en_train'],
+        datasets_and_line_tuples_preprocessed['drugtemist_en_dev'],
     )
 
     drugtemist_train_it, drugtemist_dev_it = built_80_20_split_of_combined_dataset(
-        datasets_and_line_tuples_preprocessed['drugtemist_train_it'],
-        datasets_and_line_tuples_preprocessed['drugtemist_dev_it'],
+        datasets_and_line_tuples_preprocessed['drugtemist_it_train'],
+        datasets_and_line_tuples_preprocessed['drugtemist_it_dev'],
     )
 
     # This dictionary holds the final splits
@@ -602,13 +602,13 @@ def main():
     dev_tuples = [ combined_validation_file_tuples, distemist_dev_tuples, drugtemist_dev_tuples ]
     independent_datasets_and_line_tuples_processed = {
         "distemist_test": datasets_and_line_tuples_preprocessed["distemist_test"],
-        "drugtemist_test": datasets_and_line_tuples_preprocessed["drugtemist_test_es"],
-        "drugtemist_train_en": drugtemist_train_en,
-        "drugtemist_dev_en": drugtemist_dev_en,
-        "drugtemist_test_en": datasets_and_line_tuples_preprocessed["drugtemist_test_en"],
-        "drugtemist_train_it": drugtemist_train_it,
-        "drugtemist_dev_it": drugtemist_dev_it,
-        "drugtemist_test_it": datasets_and_line_tuples_preprocessed["drugtemist_test_it"],
+        "drugtemist_test": datasets_and_line_tuples_preprocessed["drugtemist_es_test"],
+        "drugtemist_en_train": drugtemist_train_en,
+        "drugtemist_en_dev": drugtemist_dev_en,
+        "drugtemist_en_test": datasets_and_line_tuples_preprocessed["drugtemist_en_test"],
+        "drugtemist_it_train": drugtemist_train_it,
+        "drugtemist_it_dev": drugtemist_dev_it,
+        "drugtemist_it_test": datasets_and_line_tuples_preprocessed["drugtemist_it_test"],
     }
 
     # Save into CONLL files
