@@ -6,10 +6,11 @@
 
 DATASETS=("symptemist" "cantemist" "distemist" "drugtemist-es" "drugtemist-en" "drugtemist-it")
 MODELS=("PlanTL-GOB-ES/bsc-bio-ehr-es" "PlanTL-GOB-ES/bsc-bio-ehr-es" "PlanTL-GOB-ES/bsc-bio-ehr-es" "PlanTL-GOB-ES/bsc-bio-ehr-es" "michiyasunaga/BioLinkBERT-base" "IVN-RIN/bioBIT")
+MODEL_TYPE=""  # ['', word2vec, fasttext]
 ALLOCATION_TIME="24"  # in hours
 
 for i in "${!DATASETS[@]}"; do
-  oarsub -l {"network_address='alakazam-0$((i+1))'"},walltime="${ALLOCATION_TIME}":00:00 "./container_handler.sh ${DATASETS[$i]} ${MODELS[$i]}"
+  oarsub -l {"network_address='alakazam-0$((i+1))'"},walltime="${ALLOCATION_TIME}":00:00 "./container_handler.sh ${DATASETS[$i]} ${MODELS[$i]} ${MODEL_TYPE}"
 done
 
 exit

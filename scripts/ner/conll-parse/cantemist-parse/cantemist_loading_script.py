@@ -17,7 +17,7 @@ _DESCRIPTION = """\
 https://temu.bsc.es/cantemist/
 """
 
-_URL = "https://huggingface.co/datasets/<HF_USERNAME>/cantemist-ner/resolve/main/"
+_URL = "https://huggingface.co/datasets/<HF_USERNAME>/cantemist-<MODEL_TYPE_AND_DISTANCE_THRESHOLD>ner/resolve/main/"
 _TRAINING_FILE = "train.conll"
 _DEV_FILE = "dev.conll"
 _TEST_FILE = "test.conll"

@@ -617,6 +617,9 @@ def main():
     write_files_correct_imperfect_entities(dev_tuples, 'dev')
     write_files(independent_datasets_and_line_tuples_processed)
 
+    # Only needed to wrote other files, can be deleted to not cause confusion
+    os.remove('out/combined_dev.conll')
+
 
 if __name__ == '__main__':
     main()

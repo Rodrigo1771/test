@@ -21,13 +21,15 @@ RUN pip3 install --no-cache-dir transformers[torch] datasets evaluate seqeval pa
 # Get arguments
 ARG DATASET
 ARG MODEL
+ARG MODEL_TYPE
 
 # Set environment variables
 ENV DATASET=$DATASET
 ENV MODEL=$MODEL
+ENV MODEL_TYPE=$MODEL_TYPE
 
 # Clone GitHub repo
 RUN git clone https://github.com/Rodrigo1771/test
 
 # Run the training script
-CMD ["bash", "-c", "cd test/scripts/ner/pipeline && ./ner_train_and_evaluate.sh ${DATASET} ${MODEL}"]
+CMD ["bash", "-c", "cd test/scripts/ner/pipeline && ./ner_train_and_evaluate.sh ${DATASET} ${MODEL} ${MODEL_TYPE}"]

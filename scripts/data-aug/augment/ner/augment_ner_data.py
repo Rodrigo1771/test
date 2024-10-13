@@ -15,18 +15,18 @@ data_paths = {
             'lang': 'es'
         },
         {
-            'input_file_path': '../../../ner/conll-parse/multicardioner-parse/out/drugtemist_train.conll',
-            'output_file_path': 'out/multicardioner/drugtemist_train_aug.conll',
+            'input_file_path': '../../../ner/conll-parse/multicardioner-parse/out/drugtemist_es_train.conll',
+            'output_file_path': 'out/multicardioner/drugtemist_es_train_aug.conll',
             'lang': 'es'
         },
         {
-            'input_file_path': '../../../ner/conll-parse/multicardioner-parse/out/drugtemist_train_en.conll',
-            'output_file_path': 'out/multicardioner/drugtemist_train_en_aug.conll',
+            'input_file_path': '../../../ner/conll-parse/multicardioner-parse/out/drugtemist_en_train.conll',
+            'output_file_path': 'out/multicardioner/drugtemist_en_train_aug.conll',
             'lang': 'en'
         },
         {
-            'input_file_path': '../../../ner/conll-parse/multicardioner-parse/out/drugtemist_train_it.conll',
-            'output_file_path': 'out/multicardioner/drugtemist_train_it_aug.conll',
+            'input_file_path': '../../../ner/conll-parse/multicardioner-parse/out/drugtemist_it_train.conll',
+            'output_file_path': 'out/multicardioner/drugtemist_it_train_aug.conll',
             'lang': 'it'
         },
     ],
@@ -93,27 +93,6 @@ def get_file_size(file_path):
     file_size = stat_info.st_size
     file_size_human_readable = humanize.naturalsize(file_size)
     return file_size_human_readable
-
-
-def build_combined_distemist_and_drugtemist_aug_file(distemist_augmented_dict, drugtemist_augmented_dict, augment_factor, distance_threshold):
-    combined_dataset_normal_data = load_data('../../../ner/conll-parse/multicardioner-parse/out/combined_train.conll')
-    combined_train_aug_file_path = f"out/multicardioner/combined_train_aug_{augment_factor}_{distance_threshold}.conll"
-
-    def inject_additional_entity_types_and_write_to_file(f, sentences, sentence_idx, entity_type):
-        for sentence in sentences:
-            normal_combined_sentence = combined_dataset_normal_data[sentence_idx]
-            for word_info_idx, word_info in enumerate(normal_combined_sentence):
-                tag = word_info[3]
-                if tag != 'O' and entity_type not in tag:
-                    sentence[word_info_idx][3] = tag
-            for word_info in sentence:
-                f.write('\t'.join(word_info) + '\n')
-            f.write('\n')
-
-    with open(combined_train_aug_file_path, 'w') as f:
-        for (sentence_idx, distemist_sentences), (_, drugtemist_sentences) in zip(distemist_augmented_dict.items(), drugtemist_augmented_dict.items()):
-            inject_additional_entity_types_and_write_to_file(f, distemist_sentences, sentence_idx, 'ENFERMEDAD')
-            inject_additional_entity_types_and_write_to_file(f, drugtemist_sentences[1:], sentence_idx, 'FARMACO')
 
 
 def fix_spans(data):
@@ -248,6 +227,14 @@ def augment_data(model, sentences, lang, dataset, iteration, augment_factor, dis
     return augmented_data
 
 
+def fix_bnfermedad_bug(data):
+    for sentence_info in data:
+        for word_info in sentence_info:
+            if word_info[3] == 'B-NFERMEDAD':
+                word_info[3] = 'I-ENFERMEDAD'
+    return data
+
+
 def main():
     args = parse_args()
     paths_list = data_paths[args.dataset]
@@ -269,15 +256,14 @@ def main():
         augmented_data = augment_data(model, original_data, lang, args.dataset, i, args.augment_factor, args.distance_threshold)
         augmented_dicts.append(augmented_data)
         augmented_data = fix_spans(augmented_data)
+        if args.dataset == 'multicardioner':
+            augmented_data = fix_bnfermedad_bug(augmented_data)
         save_data(augmented_data, output_file_path)
 
         log = f"Language: {lang}\nDistance Threshold: {args.distance_threshold}\nOriginal data size: {get_file_size(input_file_path)}\nAugmented data size: {get_file_size(output_file_path)}\n\n"
         with open(log_file_path, "a+") as f:
             f.write(log)
         print(log)
-
-    if args.dataset == 'multicardioner':
-        build_combined_distemist_and_drugtemist_aug_file(augmented_dicts[0], augmented_dicts[1], args.augment_factor, args.distance_threshold)
 
 
 if __name__ == "__main__":

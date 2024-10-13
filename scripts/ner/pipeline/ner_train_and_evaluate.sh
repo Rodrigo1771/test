@@ -3,12 +3,14 @@
 DATASET=$1
 MODEL_ID=$2
 
+
 # Verify inputs (MODEL_ID is not checked because theoretically you could try any model)
 DATASETS="symptemist cantemist distemist drugtemist-es drugtemist-en drugtemist-it"
-if ! echo "$DATASETS" | grep -qw "$DATASET"; then
-  echo "[ERROR] $(readlink -f "$0"): $DATASET dataset option not supported or wrongly spelled."
+if ! echo "${DATASETS}" | grep -qw "${DATASET}"; then
+  echo "[ERROR] $(readlink -f "$0"): ${DATASET} dataset option not supported or wrongly spelled."
   exit 1
 fi
+
 
 # Define hyperparameters
 # (the actual batch size is 64 because PER_DEVICE_TRAIN_BATCH_SIZE * GRADIENT_ACCUMULATION_STEPS = TRUE_BATCH_SIZE)
@@ -17,9 +19,11 @@ GRADIENT_ACCUMULATION_STEPS=2
 LEARNING_RATE=5e-5
 EPOCHS=10
 
+
 # Create output directories
 mkdir -p "out/${MODEL_ID#*/}/${DATASET}/"
 mkdir -p "out/predictions/"
+
 
 echo ""
 echo ">>> [1] TRAINING USING THE NER PIPELINE"
@@ -30,20 +34,19 @@ echo ">>> [1]   LEARNING RATE: ${LEARNING_RATE}"
 echo ">>> [1]   EPOCHS: ${EPOCHS}"
 echo ""
 
-
 # Train model
 HF_USERNAME=$(grep 'hf_username' ../../config | cut -d'=' -f2)
 python3 ner_train.py \
-  --model_name_or_path "$MODEL_ID" \
-  --dataset_name "$HF_USERNAME/$DATASET-ner" \
+  --model_name_or_path "${MODEL_ID}" \
+  --dataset_name "${HF_USERNAME}/${DATASET}-ner" \
   --output_dir "out/${MODEL_ID#*/}/${DATASET}/" \
   --do_train \
   --do_eval \
   --do_predict \
-  --per_device_train_batch_size "$PER_DEVICE_TRAIN_BATCH_SIZE" \
-  --gradient_accumulation_steps "$GRADIENT_ACCUMULATION_STEPS" \
-  --learning_rate "$LEARNING_RATE" \
-  --num_train_epochs "$EPOCHS" \
+  --per_device_train_batch_size "${PER_DEVICE_TRAIN_BATCH_SIZE}" \
+  --gradient_accumulation_steps "${GRADIENT_ACCUMULATION_STEPS}" \
+  --learning_rate "${LEARNING_RATE}" \
+  --num_train_epochs "${EPOCHS}" \
   --evaluation_strategy epoch \
   --save_strategy epoch \
   --load_best_model_at_end \
