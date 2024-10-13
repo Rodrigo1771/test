@@ -28,18 +28,18 @@ EPOCHS=10
 DISTANCE_THRESHOLDS=(0.75 0.8 0.85 0.9)
 
 
-echo ""
-echo ">>> [1] TRAINING USING THE NER PIPELINE"
-echo ">>> [1]   MODEL: ${MODEL_ID}"
-echo ">>> [1]   DATASET: ${DATASET}"
-echo ">>> [1]   DISTANCE THRESHOLD: ${DISTANCE_THRESHOLD}"
-echo ">>> [1]   TRUE BATCH SIZE: $(( PER_DEVICE_TRAIN_BATCH_SIZE * GRADIENT_ACCUMULATION_STEPS ))"
-echo ">>> [1]   LEARNING RATE: ${LEARNING_RATE}"
-echo ">>> [1]   EPOCHS: ${EPOCHS}"
-echo ""
-
-
+# Train and eval loop
 for DISTANCE_THRESHOLD in "${DISTANCE_THRESHOLDS[@]}"; do
+  echo ""
+  echo ">>> [1] TRAINING USING THE NER PIPELINE"
+  echo ">>> [1]   MODEL: ${MODEL_ID}"
+  echo ">>> [1]   DATASET: ${DATASET}"
+  echo ">>> [1]   DISTANCE THRESHOLD: ${DISTANCE_THRESHOLD}"
+  echo ">>> [1]   TRUE BATCH SIZE: $(( PER_DEVICE_TRAIN_BATCH_SIZE * GRADIENT_ACCUMULATION_STEPS ))"
+  echo ">>> [1]   LEARNING RATE: ${LEARNING_RATE}"
+  echo ">>> [1]   EPOCHS: ${EPOCHS}"
+  echo ""
+
   # Define aux vars
   HF_USERNAME=$(grep 'hf_username' ../../config | cut -d'=' -f2)
   THRESHOLD=$(echo "${DISTANCE_THRESHOLD}" | cut -d'.' -f2)

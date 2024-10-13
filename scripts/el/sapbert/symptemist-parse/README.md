@@ -4,7 +4,7 @@ This directory houses the parsing scripts used to parse the [SympTEMIST](https:/
 
 ## Requirements
 
-The `sapbert_symptemist_parse.py` script expects a folder named `symptemist/` to exist inside the `datasets/` folder in the project's root (so sibling to the `scripts/` folder). Simply [download](https://zenodo.org/records/10635215) the SympTEMIST dataset, rename the main folder to `symptemist/`, and move it to the `datasets/` folder. The final structure should be as follows:
+The `sapbert_symptemist_parse.py` script expects a folder named `symptemist/` to exist inside the `datasets/` folder in the project's root. Simply [download](https://zenodo.org/records/10635215) the SympTEMIST dataset, rename the main folder to `symptemist/`, and move it to the `datasets/` folder. The final structure should be as follows:
 
 ```
 ─ multilingual-bio-ner-and-el-msc-diss
@@ -20,8 +20,6 @@ The `sapbert_symptemist_parse.py` script expects a folder named `symptemist/` to
     │   │   │   └── (...)
     │   │   └── symptemist_train
     │   │       └── (...)
-    │   └── (...)
-    ├── scripts
     │   └── (...)
     └── (...)
 ```
@@ -67,4 +65,4 @@ The structure of the output directory will be the following:
           └── (...)
 ```
 
-NOTE: The script actually produces another file (per language), containing the Gold Standard anotations in a format suited for the evaluation library. These files are saves in `eval-libs/el/test-file-reference-tsvs/`.
+NOTE: The script actually produces another file (per language), containing the Gold Standard anotations in a format suited for the evaluation library. These files are saves in `eval-libs/el/test-file-reference-tsvs/`, in the project's root.

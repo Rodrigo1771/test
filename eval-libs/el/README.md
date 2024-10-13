@@ -5,18 +5,18 @@ This evaluation library is heavily based on the [SympTEMIST Official Evaluation 
 - We removed the score computations for the NER and CODING subtasks, and only left the methods that compute the accuracy obtained in the EL subtask.
 - We rewrote the `utils.write_results` method to simply log that accuracy in a JSON file.
 
-The key point is: **we did not alter any method related to the EL accuracy computation in any way** (and it probably still has some left over legacy code related to the NER and CODING subtasks).
+The key point is: **we did not alter the main logic related to the EL accuracy computation in any way** (and it probably still has some left over legacy code related to the NER and CODING subtasks).
 
 ## Usage Instructions
 
-This program is called automatically when using the EL Pipeline (in `scripts/el/sapbert/pipeline`) to train and evaluate the models, and that's how it should be used. Nevertheless, this program compares two TSV files, with one being the reference file (i.e. Gold Standard) and the other being the predictions or results file. This last TSV file needs to have the following structure:
+This program is called automatically when using the EL Pipeline (in `scripts/el/sapbert/pipeline`) to train and evaluate the models, and that's how it should be used. Nevertheless, this program compares two TSV files, with one being the reference file (i.e. Gold Standard) and the other being the predictions or results file. The TSV files need to have the following structure:
 
 - filename, label, start_span, end_span, text, code
 
 Then, run the library from the terminal using the following command:
 
 ```commandline
-python3 symptemist_evaluation.py -r symptemist_el_ref.tsv -p symptemist_el_pred.tsv -o results.json
+python3 evaluate.py -r symptemist_el_ref.tsv -p symptemist_el_pred.tsv -o results.json
 ```
 
 These are the possible arguments:

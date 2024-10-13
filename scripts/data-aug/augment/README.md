@@ -6,7 +6,7 @@ This directory houses the scripts used to augment the NER and EL data.
 
 ### 1. Train the Word2Vec models 
 
-Follow the instructions in `scripts/data-aug/train-word2vec/README.md`. The trained models should be saved in `scripts/data-aug/train-word2vec/out/{LANG}/` (with LANG being the language of the model).
+Follow the instructions in this [README](../train-word2vec/README.md). The trained models should be saved in `scripts/data-aug/train-word2vec/out/{LANG}/` (with LANG being the language of the model).
 
 ### 2. Download the pre-trained FastText models
 
@@ -14,11 +14,11 @@ Download the pre-trained FastText models [here](https://fasttext.cc/docs/en/craw
 
 ### 3. Parse the NER datasets 
 
-Follow the instructions in `scripts/ner/conll-parse/README.md`.
+Follow the instructions in this [README](../../../scripts/ner/conll-parse/README.md).
 
 ### 4. Parse the EL SympTEMIST datasets
 
-Follow the instructions in `scripts/el/symptemist-parse/README.md`.
+Follow the instructions in this [README](../../../scripts/el/symptemist-parse/README.md).
 
 ## Usage Instructions
 
