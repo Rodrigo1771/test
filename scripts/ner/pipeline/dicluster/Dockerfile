@@ -32,4 +32,10 @@ ENV MODEL_TYPE=$MODEL_TYPE
 RUN git clone https://github.com/Rodrigo1771/test
 
 # Run the training script
-CMD ["bash", "-c", "cd test/scripts/ner/pipeline && ./ner_train_and_evaluate.sh ${DATASET} ${MODEL} ${MODEL_TYPE}"]
+CMD if [ "$MODEL_TYPE" = "" ]; then \
+        cd test/scripts/ner/pipeline && \
+        ./ner_train_and_evaluate.sh "$DATASET" "$MODEL"; \
+    else \
+        cd test/scripts/ner/pipeline && \
+        ./ner_train-aug_and_evaluate.sh "$DATASET" "$MODEL" "$MODEL_TYPE"; \
+    fi
